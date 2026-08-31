@@ -1,0 +1,14 @@
+[project]
+name = "llm-worldcup"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dlt[duckdb]>=1.30.0",
+    "duckdb>=1.5.5",
+    "openai>=3.6.0",
+    "pandas>=3.0.5",
+    "requests>=2.34.2",
+    "streamlit>=1.62.0",
+]
