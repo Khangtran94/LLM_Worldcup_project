@@ -1,0 +1,8683 @@
+{
+  "name": "World Cup 1982",
+  "matches": [
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1982-06-14",
+      "time": "17:15 UTC+2",
+      "team1": "Italy",
+      "team2": "Poland",
+      "score": [
+        0,
+        0
+      ],
+      "ground": "Estadio Municipal de Balaídos, Vigo",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Dino ZOFF",
+              "captain": true
+            },
+            {
+              "name": "Antonio CABRINI"
+            },
+            {
+              "name": "Fulvio COLLOVATI"
+            },
+            {
+              "name": "Claudio GENTILE"
+            },
+            {
+              "name": "Gaetano SCIREA"
+            },
+            {
+              "name": "Giancarlo ANTOGNONI"
+            },
+            {
+              "name": "Giampiero MARINI"
+            },
+            {
+              "name": "Marco TARDELLI"
+            },
+            {
+              "name": "Bruno CONTI"
+            },
+            {
+              "name": "Francesco GRAZIANI"
+            },
+            {
+              "name": "Paolo ROSSI"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Jozef MLYNARCZYK"
+            },
+            {
+              "name": "Pawel JANAS"
+            },
+            {
+              "name": "Jan JALOCHA"
+            },
+            {
+              "name": "Wladyslaw ZMUDA",
+              "captain": true
+            },
+            {
+              "name": "Stefan MAJEWSKI"
+            },
+            {
+              "name": "Waldemar MATYSIK"
+            },
+            {
+              "name": "Andrzej BUNCOL"
+            },
+            {
+              "name": "Wlodimierz SMOLAREK"
+            },
+            {
+              "name": "Grzegorz LATO"
+            },
+            {
+              "name": "Andrzej IWAN"
+            },
+            {
+              "name": "Zbigniew BONIEK"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Marek KUSTO"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Marek KUSTO",
+              "off": "Andrzej IWAN",
+              "minute": "72"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Giampiero MARINI",
+            "minute": "1"
+          },
+          {
+            "type": "Y",
+            "name": "Gaetano SCIREA",
+            "minute": "47"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Zbigniew BONIEK",
+            "minute": "10"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Michel VAUTROT",
+          "country": "FRA"
+        },
+        {
+          "name": "Nicolae RAINEA",
+          "country": "ROU"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1982-06-15",
+      "time": "17:15 UTC+2",
+      "team1": "Peru",
+      "team2": "Cameroon",
+      "score": [
+        0,
+        0
+      ],
+      "ground": "Estadio Municipal de Riazor, A Coruña",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Ramon QUIROGA"
+            },
+            {
+              "name": "Jaime DUARTE"
+            },
+            {
+              "name": "Rafael SALGUERO"
+            },
+            {
+              "name": "Ruben DIAZ",
+              "captain": true
+            },
+            {
+              "name": "Jorge OLAECHEA"
+            },
+            {
+              "name": "Jose VELASQUEZ"
+            },
+            {
+              "name": "Cesar CUETO"
+            },
+            {
+              "name": "Julio Cesar URIBE"
+            },
+            {
+              "name": "Teofilo CUBILLAS"
+            },
+            {
+              "name": "German LEGUIA"
+            },
+            {
+              "name": "Juan Carlos OBLITAS"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Guillermo LA ROSA"
+            },
+            {
+              "name": "Geronimo BARBADILLO"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Geronimo BARBADILLO",
+              "off": "German LEGUIA",
+              "minute": "57"
+            },
+            {
+              "on": "Guillermo LA ROSA",
+              "off": "Teofilo CUBILLAS",
+              "minute": "57"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Thomas NKONO",
+              "captain": true
+            },
+            {
+              "name": "Michel KAHAM"
+            },
+            {
+              "name": "Rene NDJEYA"
+            },
+            {
+              "name": "Jean ONANA"
+            },
+            {
+              "name": "Emmanuel KUNDE"
+            },
+            {
+              "name": "Ephrem MBOM"
+            },
+            {
+              "name": "Ibrahim AOUDOU"
+            },
+            {
+              "name": "Gregoire MBIDA"
+            },
+            {
+              "name": "Theophile ABEGA"
+            },
+            {
+              "name": "Roger MILLA"
+            },
+            {
+              "name": "Jacques NGUEA"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Jean Pierre TOKOTO"
+            },
+            {
+              "name": "Paul BAHOKEN"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Paul BAHOKEN",
+              "off": "Jacques NGUEA",
+              "minute": "73"
+            },
+            {
+              "on": "Jean Pierre TOKOTO",
+              "off": "Roger MILLA",
+              "minute": "89"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [],
+        [
+          {
+            "type": "Y",
+            "name": "Thomas NKONO",
+            "minute": "80"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Franz WOEHRER",
+          "country": "AUT"
+        },
+        {
+          "name": "Nicolae RAINEA",
+          "country": "ROU"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1982-06-18",
+      "time": "17:15 UTC+2",
+      "team1": "Italy",
+      "team2": "Peru",
+      "score": [
+        1,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Bruno CONTI",
+          "minute": "18"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Ruben DIAZ",
+          "minute": "83"
+        }
+      ],
+      "ground": "Estadio Municipal de Balaídos, Vigo",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Dino ZOFF",
+              "captain": true
+            },
+            {
+              "name": "Antonio CABRINI"
+            },
+            {
+              "name": "Fulvio COLLOVATI"
+            },
+            {
+              "name": "Claudio GENTILE"
+            },
+            {
+              "name": "Gaetano SCIREA"
+            },
+            {
+              "name": "Giancarlo ANTOGNONI"
+            },
+            {
+              "name": "Giampiero MARINI"
+            },
+            {
+              "name": "Marco TARDELLI"
+            },
+            {
+              "name": "Bruno CONTI"
+            },
+            {
+              "name": "Francesco GRAZIANI"
+            },
+            {
+              "name": "Paolo ROSSI"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Franco CAUSIO"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Franco CAUSIO",
+              "off": "Paolo ROSSI",
+              "minute": "45+1"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Ramon QUIROGA"
+            },
+            {
+              "name": "Jaime DUARTE"
+            },
+            {
+              "name": "Rafael SALGUERO"
+            },
+            {
+              "name": "Ruben DIAZ",
+              "captain": true
+            },
+            {
+              "name": "Jorge OLAECHEA"
+            },
+            {
+              "name": "Jose VELASQUEZ"
+            },
+            {
+              "name": "Cesar CUETO"
+            },
+            {
+              "name": "Julio Cesar URIBE"
+            },
+            {
+              "name": "Teofilo CUBILLAS"
+            },
+            {
+              "name": "Geronimo BARBADILLO"
+            },
+            {
+              "name": "Juan Carlos OBLITAS"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Guillermo LA ROSA"
+            },
+            {
+              "name": "German LEGUIA"
+            }
+          ],
+          "subs": [
+            {
+              "on": "German LEGUIA",
+              "off": "Geronimo BARBADILLO",
+              "minute": "65"
+            },
+            {
+              "on": "Guillermo LA ROSA",
+              "off": "Julio Cesar URIBE",
+              "minute": "65"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Marco TARDELLI",
+            "minute": "52"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Jaime DUARTE",
+            "minute": "76"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Walter ESCHWEILER",
+          "country": "GER"
+        },
+        {
+          "name": "Mario RUBIO VAZQUEZ",
+          "country": "MEX"
+        },
+        {
+          "name": "Abraham KLEIN",
+          "country": "ISR"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1982-06-19",
+      "time": "19:15 UTC+2",
+      "team1": "Poland",
+      "team2": "Cameroon",
+      "score": [
+        0,
+        0
+      ],
+      "ground": "Estadio Municipal de Riazor, A Coruña",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Jozef MLYNARCZYK"
+            },
+            {
+              "name": "Pawel JANAS"
+            },
+            {
+              "name": "Jan JALOCHA"
+            },
+            {
+              "name": "Wladyslaw ZMUDA",
+              "captain": true
+            },
+            {
+              "name": "Stefan MAJEWSKI"
+            },
+            {
+              "name": "Andrzej BUNCOL"
+            },
+            {
+              "name": "Andrzej PALASZ"
+            },
+            {
+              "name": "Wlodimierz SMOLAREK"
+            },
+            {
+              "name": "Grzegorz LATO"
+            },
+            {
+              "name": "Andrzej IWAN"
+            },
+            {
+              "name": "Zbigniew BONIEK"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Marek KUSTO"
+            },
+            {
+              "name": "Andrzej SZARMACH"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Andrzej SZARMACH",
+              "off": "Andrzej IWAN",
+              "minute": "25"
+            },
+            {
+              "on": "Marek KUSTO",
+              "off": "Andrzej PALASZ",
+              "minute": "66"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Thomas NKONO",
+              "captain": true
+            },
+            {
+              "name": "Michel KAHAM"
+            },
+            {
+              "name": "Rene NDJEYA"
+            },
+            {
+              "name": "Jean ONANA"
+            },
+            {
+              "name": "Emmanuel KUNDE"
+            },
+            {
+              "name": "Ephrem MBOM"
+            },
+            {
+              "name": "Ibrahim AOUDOU"
+            },
+            {
+              "name": "Gregoire MBIDA"
+            },
+            {
+              "name": "Theophile ABEGA"
+            },
+            {
+              "name": "Roger MILLA"
+            },
+            {
+              "name": "Jacques NGUEA"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Jean Pierre TOKOTO"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Jean Pierre TOKOTO",
+              "off": "Jacques NGUEA",
+              "minute": "45+1"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Andrzej PALASZ",
+            "minute": "34"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Ibrahim AOUDOU",
+            "minute": "40"
+          },
+          {
+            "type": "Y",
+            "name": "Roger MILLA",
+            "minute": "80"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Alexis PONNET",
+          "country": "BEL"
+        },
+        {
+          "name": "Walter ESCHWEILER",
+          "country": "GER"
+        },
+        {
+          "name": "Mario RUBIO VAZQUEZ",
+          "country": "MEX"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1982-06-22",
+      "time": "17:15 UTC+2",
+      "team1": "Poland",
+      "team2": "Peru",
+      "score": [
+        5,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Wlodimierz SMOLAREK",
+          "minute": "55"
+        },
+        {
+          "name": "Grzegorz LATO",
+          "minute": "58"
+        },
+        {
+          "name": "Zbigniew BONIEK",
+          "minute": "61"
+        },
+        {
+          "name": "Andrzej BUNCOL",
+          "minute": "68"
+        },
+        {
+          "name": "Wlodzimierz CIOLEK",
+          "minute": "76"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Guillermo LA ROSA",
+          "minute": "83"
+        }
+      ],
+      "ground": "Estadio Municipal de Riazor, A Coruña",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Jozef MLYNARCZYK"
+            },
+            {
+              "name": "Janusz KUPCEWICZ"
+            },
+            {
+              "name": "Pawel JANAS"
+            },
+            {
+              "name": "Jan JALOCHA"
+            },
+            {
+              "name": "Wladyslaw ZMUDA",
+              "captain": true
+            },
+            {
+              "name": "Stefan MAJEWSKI"
+            },
+            {
+              "name": "Waldemar MATYSIK"
+            },
+            {
+              "name": "Andrzej BUNCOL"
+            },
+            {
+              "name": "Wlodimierz SMOLAREK"
+            },
+            {
+              "name": "Grzegorz LATO"
+            },
+            {
+              "name": "Zbigniew BONIEK"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Marek DZIUBA"
+            },
+            {
+              "name": "Wlodzimierz CIOLEK"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Marek DZIUBA",
+              "off": "Jan JALOCHA",
+              "minute": "26"
+            },
+            {
+              "on": "Wlodzimierz CIOLEK",
+              "off": "Wlodimierz SMOLAREK",
+              "minute": "74"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Ramon QUIROGA"
+            },
+            {
+              "name": "Jaime DUARTE"
+            },
+            {
+              "name": "Rafael SALGUERO"
+            },
+            {
+              "name": "Ruben DIAZ",
+              "captain": true
+            },
+            {
+              "name": "Jorge OLAECHEA"
+            },
+            {
+              "name": "Jose VELASQUEZ"
+            },
+            {
+              "name": "Cesar CUETO"
+            },
+            {
+              "name": "Teofilo CUBILLAS"
+            },
+            {
+              "name": "German LEGUIA"
+            },
+            {
+              "name": "Juan Carlos OBLITAS"
+            },
+            {
+              "name": "Guillermo LA ROSA"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Julio Cesar URIBE"
+            },
+            {
+              "name": "Geronimo BARBADILLO"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Geronimo BARBADILLO",
+              "off": "Juan Carlos OBLITAS",
+              "minute": "50"
+            },
+            {
+              "on": "Julio Cesar URIBE",
+              "off": "Teofilo CUBILLAS",
+              "minute": "50"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [],
+        [
+          {
+            "type": "Y",
+            "name": "Jose VELASQUEZ",
+            "minute": "31"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Mario RUBIO VAZQUEZ",
+          "country": "MEX"
+        },
+        {
+          "name": "Emilio SORIANO ALADREN",
+          "country": "ESP"
+        },
+        {
+          "name": "Victoriano SANCHEZ ARMINIO",
+          "country": "ESP"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1982-06-23",
+      "time": "17:15 UTC+2",
+      "team1": "Italy",
+      "team2": "Cameroon",
+      "score": [
+        1,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Francesco GRAZIANI",
+          "minute": "60"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Gregoire MBIDA",
+          "minute": "61"
+        }
+      ],
+      "ground": "Estadio Municipal de Balaídos, Vigo",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Dino ZOFF",
+              "captain": true
+            },
+            {
+              "name": "Antonio CABRINI"
+            },
+            {
+              "name": "Fulvio COLLOVATI"
+            },
+            {
+              "name": "Claudio GENTILE"
+            },
+            {
+              "name": "Gaetano SCIREA"
+            },
+            {
+              "name": "Giancarlo ANTOGNONI"
+            },
+            {
+              "name": "Gabriele ORIALI"
+            },
+            {
+              "name": "Marco TARDELLI"
+            },
+            {
+              "name": "Bruno CONTI"
+            },
+            {
+              "name": "Francesco GRAZIANI"
+            },
+            {
+              "name": "Paolo ROSSI"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Thomas NKONO",
+              "captain": true
+            },
+            {
+              "name": "Michel KAHAM"
+            },
+            {
+              "name": "Rene NDJEYA"
+            },
+            {
+              "name": "Jean ONANA"
+            },
+            {
+              "name": "Emmanuel KUNDE"
+            },
+            {
+              "name": "Ephrem MBOM"
+            },
+            {
+              "name": "Ibrahim AOUDOU"
+            },
+            {
+              "name": "Gregoire MBIDA"
+            },
+            {
+              "name": "Theophile ABEGA"
+            },
+            {
+              "name": "Roger MILLA"
+            },
+            {
+              "name": "Jean Pierre TOKOTO"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Giancarlo ANTOGNONI",
+            "minute": "36"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Rene NDJEYA",
+            "minute": "36"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Bogdan DOTCHEV",
+          "country": "BUL"
+        },
+        {
+          "name": "Emilio SORIANO ALADREN",
+          "country": "ESP"
+        },
+        {
+          "name": "Victoriano SANCHEZ ARMINIO",
+          "country": "ESP"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1982-06-16",
+      "time": "17:15 UTC+2",
+      "team1": "West Germany",
+      "team2": "Algeria",
+      "score": [
+        1,
+        2
+      ],
+      "goals1": [
+        {
+          "name": "Karl-Heinz RUMMENIGGE",
+          "minute": "67"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Rabah MADJER",
+          "minute": "54"
+        },
+        {
+          "name": "Lakhdar BELLOUMI",
+          "minute": "68"
+        }
+      ],
+      "ground": "El Molinon, Gijón",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Harald SCHUMACHER"
+            },
+            {
+              "name": "Hans Peter BRIEGEL"
+            },
+            {
+              "name": "Karlheinz FOERSTER"
+            },
+            {
+              "name": "Uli STIELIKE"
+            },
+            {
+              "name": "Manfred KALTZ"
+            },
+            {
+              "name": "Paul BREITNER"
+            },
+            {
+              "name": "Wolfgang DREMMLER"
+            },
+            {
+              "name": "Pierre LITTBARSKI"
+            },
+            {
+              "name": "Felix MAGATH"
+            },
+            {
+              "name": "Horst HRUBESCH"
+            },
+            {
+              "name": "Karl-Heinz RUMMENIGGE",
+              "captain": true
+            }
+          ],
+          "bench": [
+            {
+              "name": "Klaus FISCHER"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Klaus FISCHER",
+              "off": "Felix MAGATH",
+              "minute": "83"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Mahdi CERBAH"
+            },
+            {
+              "name": "Mahmoud GUENDOUZ"
+            },
+            {
+              "name": "Nordine KOURICHI"
+            },
+            {
+              "name": "Chaabane MERZEKANE"
+            },
+            {
+              "name": "Faouzi MANSOURI"
+            },
+            {
+              "name": "Ali FERGANI",
+              "captain": true
+            },
+            {
+              "name": "Lakhdar BELLOUMI"
+            },
+            {
+              "name": "Djamel ZIDANE"
+            },
+            {
+              "name": "Mustafa DAHLEB"
+            },
+            {
+              "name": "Salah ASSAD"
+            },
+            {
+              "name": "Rabah MADJER"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Tedj BENSAOULA"
+            },
+            {
+              "name": "Salah LARBES"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Tedj BENSAOULA",
+              "off": "Djamel ZIDANE",
+              "minute": "64"
+            },
+            {
+              "on": "Salah LARBES",
+              "off": "Rabah MADJER",
+              "minute": "88"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Horst HRUBESCH",
+            "minute": "57"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Rabah MADJER",
+            "minute": "83"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Enrique LABO REVOREDO",
+          "country": "PER"
+        },
+        {
+          "name": "Gilberto ARISTIZABAL MURCIA",
+          "country": "COL"
+        },
+        {
+          "name": "Paolo CASARIN",
+          "country": "ITA"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1982-06-17",
+      "time": "17:15 UTC+2",
+      "team1": "Chile",
+      "team2": "Austria",
+      "score": [
+        0,
+        1
+      ],
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Walter SCHACHNER",
+          "minute": "22"
+        }
+      ],
+      "ground": "Carlos Tartiere, Oviedo",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Mario OSBEN"
+            },
+            {
+              "name": "Lizardo GARRIDO"
+            },
+            {
+              "name": "Rene VALENZUELA"
+            },
+            {
+              "name": "Vladimir BIGORRA"
+            },
+            {
+              "name": "Elias FIGUEROA",
+              "captain": true
+            },
+            {
+              "name": "Rodolfo DUBO"
+            },
+            {
+              "name": "Eduardo BONVALLET"
+            },
+            {
+              "name": "Miguel NEIRA"
+            },
+            {
+              "name": "Gustavo MOSCOSO"
+            },
+            {
+              "name": "Carlos CASZELY"
+            },
+            {
+              "name": "Patricio YANEZ"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Manuel ROJAS"
+            },
+            {
+              "name": "Miguel GAMBOA"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Miguel GAMBOA",
+              "off": "Gustavo MOSCOSO",
+              "minute": "69"
+            },
+            {
+              "on": "Manuel ROJAS",
+              "off": "Miguel NEIRA",
+              "minute": "71"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Friedl KONCILIA"
+            },
+            {
+              "name": "Bernd KRAUSS"
+            },
+            {
+              "name": "Erich OBERMAYER",
+              "captain": true
+            },
+            {
+              "name": "Josef DEGEORGI"
+            },
+            {
+              "name": "Bruno PEZZEY"
+            },
+            {
+              "name": "Heribert WEBER"
+            },
+            {
+              "name": "Roland HATTENBERGER"
+            },
+            {
+              "name": "Herbert PROHASKA"
+            },
+            {
+              "name": "Reinhold HINTERMAIER"
+            },
+            {
+              "name": "Walter SCHACHNER"
+            },
+            {
+              "name": "Hans KRANKL"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Ernst BAUMEISTER"
+            },
+            {
+              "name": "Gernot JURTIN"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Ernst BAUMEISTER",
+              "off": "Josef DEGEORGI",
+              "minute": "78"
+            },
+            {
+              "on": "Gernot JURTIN",
+              "off": "Heribert WEBER",
+              "minute": "79"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Lizardo GARRIDO",
+            "minute": "29"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Josef DEGEORGI",
+            "minute": "12"
+          },
+          {
+            "type": "Y",
+            "name": "Roland HATTENBERGER",
+            "minute": "66"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Juan CARDELLINO",
+          "country": "URU"
+        },
+        {
+          "name": "Paolo CASARIN",
+          "country": "ITA"
+        },
+        {
+          "name": "Gilberto ARISTIZABAL MURCIA",
+          "country": "COL"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1982-06-20",
+      "time": "17:15 UTC+2",
+      "team1": "West Germany",
+      "team2": "Chile",
+      "score": [
+        4,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Karl-Heinz RUMMENIGGE",
+          "minute": "9"
+        },
+        {
+          "name": "Karl-Heinz RUMMENIGGE",
+          "minute": "57"
+        },
+        {
+          "name": "Karl-Heinz RUMMENIGGE",
+          "minute": "66"
+        },
+        {
+          "name": "Uwe REINDERS",
+          "minute": "83"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Gustavo MOSCOSO",
+          "minute": "90"
+        }
+      ],
+      "ground": "El Molinon, Gijón",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Harald SCHUMACHER"
+            },
+            {
+              "name": "Hans Peter BRIEGEL"
+            },
+            {
+              "name": "Karlheinz FOERSTER"
+            },
+            {
+              "name": "Uli STIELIKE"
+            },
+            {
+              "name": "Manfred KALTZ"
+            },
+            {
+              "name": "Paul BREITNER"
+            },
+            {
+              "name": "Wolfgang DREMMLER"
+            },
+            {
+              "name": "Pierre LITTBARSKI"
+            },
+            {
+              "name": "Felix MAGATH"
+            },
+            {
+              "name": "Horst HRUBESCH"
+            },
+            {
+              "name": "Karl-Heinz RUMMENIGGE",
+              "captain": true
+            }
+          ],
+          "bench": [
+            {
+              "name": "Lothar MATTHAEUS"
+            },
+            {
+              "name": "Uwe REINDERS"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Lothar MATTHAEUS",
+              "off": "Paul BREITNER",
+              "minute": "61"
+            },
+            {
+              "on": "Uwe REINDERS",
+              "off": "Pierre LITTBARSKI",
+              "minute": "79"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Mario OSBEN"
+            },
+            {
+              "name": "Lizardo GARRIDO"
+            },
+            {
+              "name": "Rene VALENZUELA"
+            },
+            {
+              "name": "Vladimir BIGORRA"
+            },
+            {
+              "name": "Elias FIGUEROA",
+              "captain": true
+            },
+            {
+              "name": "Mario SOTO"
+            },
+            {
+              "name": "Rodolfo DUBO"
+            },
+            {
+              "name": "Eduardo BONVALLET"
+            },
+            {
+              "name": "Gustavo MOSCOSO"
+            },
+            {
+              "name": "Patricio YANEZ"
+            },
+            {
+              "name": "Miguel GAMBOA"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Juan LETELIER"
+            },
+            {
+              "name": "Miguel NEIRA"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Juan LETELIER",
+              "off": "Mario SOTO",
+              "minute": "45+1"
+            },
+            {
+              "on": "Miguel NEIRA",
+              "off": "Miguel GAMBOA",
+              "minute": "66"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [],
+        [
+          {
+            "type": "Y",
+            "name": "Rodolfo DUBO",
+            "minute": "11"
+          },
+          {
+            "type": "Y",
+            "name": "Miguel GAMBOA",
+            "minute": "29"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Bruno GALLER",
+          "country": "SUI"
+        },
+        {
+          "name": "Vojtech CHRISTOV",
+          "country": "TCH"
+        },
+        {
+          "name": "Tony BOSKOVIC",
+          "country": "AUS"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1982-06-21",
+      "time": "17:15 UTC+2",
+      "team1": "Algeria",
+      "team2": "Austria",
+      "score": [
+        0,
+        2
+      ],
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Walter SCHACHNER",
+          "minute": "55"
+        },
+        {
+          "name": "Hans KRANKL",
+          "minute": "67"
+        }
+      ],
+      "ground": "Carlos Tartiere, Oviedo",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Mahdi CERBAH"
+            },
+            {
+              "name": "Mahmoud GUENDOUZ"
+            },
+            {
+              "name": "Nordine KOURICHI"
+            },
+            {
+              "name": "Chaabane MERZEKANE"
+            },
+            {
+              "name": "Faouzi MANSOURI"
+            },
+            {
+              "name": "Ali FERGANI",
+              "captain": true
+            },
+            {
+              "name": "Lakhdar BELLOUMI"
+            },
+            {
+              "name": "Djamel ZIDANE"
+            },
+            {
+              "name": "Mustafa DAHLEB"
+            },
+            {
+              "name": "Salah ASSAD"
+            },
+            {
+              "name": "Rabah MADJER"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Tedj BENSAOULA"
+            },
+            {
+              "name": "Djamel TLEMCANI"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Tedj BENSAOULA",
+              "off": "Lakhdar BELLOUMI",
+              "minute": "65"
+            },
+            {
+              "on": "Djamel TLEMCANI",
+              "off": "Mustafa DAHLEB",
+              "minute": "76"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Friedl KONCILIA"
+            },
+            {
+              "name": "Bernd KRAUSS"
+            },
+            {
+              "name": "Erich OBERMAYER",
+              "captain": true
+            },
+            {
+              "name": "Josef DEGEORGI"
+            },
+            {
+              "name": "Bruno PEZZEY"
+            },
+            {
+              "name": "Roland HATTENBERGER"
+            },
+            {
+              "name": "Herbert PROHASKA"
+            },
+            {
+              "name": "Reinhold HINTERMAIER"
+            },
+            {
+              "name": "Ernst BAUMEISTER"
+            },
+            {
+              "name": "Walter SCHACHNER"
+            },
+            {
+              "name": "Hans KRANKL"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Heribert WEBER"
+            },
+            {
+              "name": "Kurt WELZL"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Kurt WELZL",
+              "off": "Ernst BAUMEISTER",
+              "minute": "45+1"
+            },
+            {
+              "on": "Heribert WEBER",
+              "off": "Herbert PROHASKA",
+              "minute": "80"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Faouzi MANSOURI",
+            "minute": "67"
+          }
+        ],
+        []
+      ],
+      "referees": [
+        {
+          "name": "Tony BOSKOVIC",
+          "country": "AUS"
+        },
+        {
+          "name": "Vojtech CHRISTOV",
+          "country": "TCH"
+        },
+        {
+          "name": "Ebrahim AL DOY",
+          "country": "BHR"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1982-06-24",
+      "time": "17:15 UTC+2",
+      "team1": "Algeria",
+      "team2": "Chile",
+      "score": [
+        3,
+        2
+      ],
+      "goals1": [
+        {
+          "name": "Salah ASSAD",
+          "minute": "7"
+        },
+        {
+          "name": "Salah ASSAD",
+          "minute": "31"
+        },
+        {
+          "name": "Tedj BENSAOULA",
+          "minute": "35"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Miguel NEIRA",
+          "minute": "59",
+          "penalty": true
+        },
+        {
+          "name": "Juan LETELIER",
+          "minute": "73"
+        }
+      ],
+      "ground": "Carlos Tartiere, Oviedo",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Mahdi CERBAH"
+            },
+            {
+              "name": "Mahmoud GUENDOUZ"
+            },
+            {
+              "name": "Nordine KOURICHI"
+            },
+            {
+              "name": "Chaabane MERZEKANE"
+            },
+            {
+              "name": "Salah LARBES"
+            },
+            {
+              "name": "Faouzi MANSOURI"
+            },
+            {
+              "name": "Ali FERGANI",
+              "captain": true
+            },
+            {
+              "name": "Salah ASSAD"
+            },
+            {
+              "name": "Tedj BENSAOULA"
+            },
+            {
+              "name": "Rabah MADJER"
+            },
+            {
+              "name": "Abdelmajid BOUREBBOU"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Mustafa DAHLEB"
+            },
+            {
+              "name": "Hocine YAHI"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Hocine YAHI",
+              "off": "Abdelmajid BOUREBBOU",
+              "minute": "31"
+            },
+            {
+              "on": "Mustafa DAHLEB",
+              "off": "Faouzi MANSOURI",
+              "minute": "75"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Mario OSBEN"
+            },
+            {
+              "name": "Rene VALENZUELA"
+            },
+            {
+              "name": "Vladimir BIGORRA"
+            },
+            {
+              "name": "Elias FIGUEROA",
+              "captain": true
+            },
+            {
+              "name": "Mario GALINDO"
+            },
+            {
+              "name": "Rodolfo DUBO"
+            },
+            {
+              "name": "Eduardo BONVALLET"
+            },
+            {
+              "name": "Miguel NEIRA"
+            },
+            {
+              "name": "Gustavo MOSCOSO"
+            },
+            {
+              "name": "Carlos CASZELY"
+            },
+            {
+              "name": "Patricio YANEZ"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Mario SOTO"
+            },
+            {
+              "name": "Juan LETELIER"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Mario SOTO",
+              "off": "Eduardo BONVALLET",
+              "minute": "37"
+            },
+            {
+              "on": "Juan LETELIER",
+              "off": "Carlos CASZELY",
+              "minute": "58"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [],
+        [
+          {
+            "type": "Y",
+            "name": "Juan LETELIER",
+            "minute": "88"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Romulo MENDEZ",
+          "country": "GUA"
+        },
+        {
+          "name": "Erik FREDRIKSSON",
+          "country": "SWE"
+        },
+        {
+          "name": "Arnaldo COELHO",
+          "country": "BRA"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1982-06-25",
+      "time": "17:15 UTC+2",
+      "team1": "West Germany",
+      "team2": "Austria",
+      "score": [
+        1,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Horst HRUBESCH",
+          "minute": "10"
+        }
+      ],
+      "goals2": [],
+      "ground": "El Molinon, Gijón",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Harald SCHUMACHER"
+            },
+            {
+              "name": "Hans Peter BRIEGEL"
+            },
+            {
+              "name": "Karlheinz FOERSTER"
+            },
+            {
+              "name": "Uli STIELIKE"
+            },
+            {
+              "name": "Manfred KALTZ"
+            },
+            {
+              "name": "Paul BREITNER"
+            },
+            {
+              "name": "Wolfgang DREMMLER"
+            },
+            {
+              "name": "Pierre LITTBARSKI"
+            },
+            {
+              "name": "Felix MAGATH"
+            },
+            {
+              "name": "Horst HRUBESCH"
+            },
+            {
+              "name": "Karl-Heinz RUMMENIGGE",
+              "captain": true
+            }
+          ],
+          "bench": [
+            {
+              "name": "Klaus FISCHER"
+            },
+            {
+              "name": "Lothar MATTHAEUS"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Lothar MATTHAEUS",
+              "off": "Karl-Heinz RUMMENIGGE",
+              "minute": "66"
+            },
+            {
+              "on": "Klaus FISCHER",
+              "off": "Horst HRUBESCH",
+              "minute": "69"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Friedl KONCILIA"
+            },
+            {
+              "name": "Bernd KRAUSS"
+            },
+            {
+              "name": "Erich OBERMAYER",
+              "captain": true
+            },
+            {
+              "name": "Josef DEGEORGI"
+            },
+            {
+              "name": "Bruno PEZZEY"
+            },
+            {
+              "name": "Heribert WEBER"
+            },
+            {
+              "name": "Roland HATTENBERGER"
+            },
+            {
+              "name": "Herbert PROHASKA"
+            },
+            {
+              "name": "Reinhold HINTERMAIER"
+            },
+            {
+              "name": "Walter SCHACHNER"
+            },
+            {
+              "name": "Hans KRANKL"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [],
+        [
+          {
+            "type": "Y",
+            "name": "Walter SCHACHNER",
+            "minute": "32"
+          },
+          {
+            "type": "Y",
+            "name": "Reinhold HINTERMAIER",
+            "minute": "32"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Robert VALENTINE",
+          "country": "SCO"
+        },
+        {
+          "name": "Ebrahim AL DOY",
+          "country": "BHR"
+        },
+        {
+          "name": "Arnaldo COELHO",
+          "country": "BRA"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1982-06-13",
+      "time": "20:00 UTC+2",
+      "team1": "Argentina",
+      "team2": "Belgium",
+      "score": [
+        0,
+        1
+      ],
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Erwin VANDENBERGH",
+          "minute": "62"
+        }
+      ],
+      "ground": "Camp Nou, Barcelona",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Ubaldo FILLOL"
+            },
+            {
+              "name": "Luis GALVAN"
+            },
+            {
+              "name": "Jorge OLGUIN"
+            },
+            {
+              "name": "Daniel PASSARELLA",
+              "captain": true
+            },
+            {
+              "name": "Alberto TARANTINI"
+            },
+            {
+              "name": "Osvaldo ARDILES"
+            },
+            {
+              "name": "Americo GALLEGO"
+            },
+            {
+              "name": "Diego MARADONA"
+            },
+            {
+              "name": "Daniel BERTONI"
+            },
+            {
+              "name": "Ramon DIAZ"
+            },
+            {
+              "name": "Mario KEMPES"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Jorge VALDANO"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Jorge VALDANO",
+              "off": "Ramon DIAZ",
+              "minute": "63"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Jean Marie PFAFF"
+            },
+            {
+              "name": "Eric GERETS",
+              "captain": true
+            },
+            {
+              "name": "Luc MILLECAMPS"
+            },
+            {
+              "name": "Marc BAECKE"
+            },
+            {
+              "name": "Maurits DE SCHRIJVER"
+            },
+            {
+              "name": "Frank VERCAUTEREN"
+            },
+            {
+              "name": "Ludo COECK"
+            },
+            {
+              "name": "Erwin VANDENBERGH"
+            },
+            {
+              "name": "Jan CEULEMANS"
+            },
+            {
+              "name": "Guy VANDERSMISSEN"
+            },
+            {
+              "name": "Alex CZERNIATYNSKI"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Daniel BERTONI",
+            "minute": "55"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Luc MILLECAMPS",
+            "minute": "50"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Vojtech CHRISTOV",
+          "country": "TCH"
+        },
+        {
+          "name": "Karoly PALOTAI",
+          "country": "HUN"
+        },
+        {
+          "name": "Alojzy JARGUZ",
+          "country": "POL"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1982-06-15",
+      "time": "21:00 UTC+2",
+      "team1": "Hungary",
+      "team2": "El Salvador",
+      "score": [
+        10,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Tibor NYILASI",
+          "minute": "4"
+        },
+        {
+          "name": "Gabor POLOSKEI",
+          "minute": "11"
+        },
+        {
+          "name": "Laszlo FAZEKAS",
+          "minute": "23"
+        },
+        {
+          "name": "Jozsef TOTH",
+          "minute": "50"
+        },
+        {
+          "name": "Laszlo FAZEKAS",
+          "minute": "54"
+        },
+        {
+          "name": "Laszlo KISS",
+          "minute": "69"
+        },
+        {
+          "name": "Lazar SZENTES",
+          "minute": "70"
+        },
+        {
+          "name": "Laszlo KISS",
+          "minute": "72"
+        },
+        {
+          "name": "Laszlo KISS",
+          "minute": "76"
+        },
+        {
+          "name": "Tibor NYILASI",
+          "minute": "83"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Luis RAMIREZ",
+          "minute": "64"
+        }
+      ],
+      "ground": "Nuevo Estadio, Elche",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Ferenc MESZAROS"
+            },
+            {
+              "name": "Gyozo MARTOS"
+            },
+            {
+              "name": "Laszlo BALINT"
+            },
+            {
+              "name": "Jozsef TOTH"
+            },
+            {
+              "name": "Imre GARABA"
+            },
+            {
+              "name": "Sandor SALLAI"
+            },
+            {
+              "name": "Sandor MULLER"
+            },
+            {
+              "name": "Tibor NYILASI",
+              "captain": true
+            },
+            {
+              "name": "Laszlo FAZEKAS"
+            },
+            {
+              "name": "Andras TOROCSIK"
+            },
+            {
+              "name": "Gabor POLOSKEI"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Lazar SZENTES"
+            },
+            {
+              "name": "Laszlo KISS"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Laszlo KISS",
+              "off": "Andras TOROCSIK",
+              "minute": "56"
+            },
+            {
+              "on": "Lazar SZENTES",
+              "off": "Sandor MULLER",
+              "minute": "68"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Luis GUEVARA MORA"
+            },
+            {
+              "name": "Mario CASTILLO"
+            },
+            {
+              "name": "Jose JOVEL"
+            },
+            {
+              "name": "Carlos RECINOS"
+            },
+            {
+              "name": "Jaime RODRIGUEZ"
+            },
+            {
+              "name": "Joaquin VENTURA"
+            },
+            {
+              "name": "Jose RUGAMAS"
+            },
+            {
+              "name": "Jose HUEZO",
+              "captain": true
+            },
+            {
+              "name": "Francisco HERNANDEZ"
+            },
+            {
+              "name": "Jorge GONZALEZ"
+            },
+            {
+              "name": "Jose RIVAS"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Ramon FAGOAGA"
+            },
+            {
+              "name": "Luis RAMIREZ"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Luis RAMIREZ",
+              "off": "Jose RUGAMAS",
+              "minute": "26"
+            },
+            {
+              "on": "Ramon FAGOAGA",
+              "off": "Joaquin VENTURA",
+              "minute": "79"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Laszlo FAZEKAS",
+            "minute": "32"
+          },
+          {
+            "type": "Y",
+            "name": "Tibor NYILASI",
+            "minute": "74"
+          }
+        ],
+        []
+      ],
+      "referees": [
+        {
+          "name": "Ebrahim AL DOY",
+          "country": "BHR"
+        },
+        {
+          "name": "Charles CORVER",
+          "country": "NED"
+        },
+        {
+          "name": "Henning LUND-SORENSEN",
+          "country": "DEN"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1982-06-18",
+      "time": "21:00 UTC+2",
+      "team1": "Argentina",
+      "team2": "Hungary",
+      "score": [
+        4,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Daniel BERTONI",
+          "minute": "26"
+        },
+        {
+          "name": "Diego MARADONA",
+          "minute": "28"
+        },
+        {
+          "name": "Diego MARADONA",
+          "minute": "57"
+        },
+        {
+          "name": "Osvaldo ARDILES",
+          "minute": "60"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Gabor POLOSKEI",
+          "minute": "76"
+        }
+      ],
+      "ground": "Estadio José Rico Pérez, Alicante",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Ubaldo FILLOL"
+            },
+            {
+              "name": "Luis GALVAN"
+            },
+            {
+              "name": "Jorge OLGUIN"
+            },
+            {
+              "name": "Daniel PASSARELLA",
+              "captain": true
+            },
+            {
+              "name": "Alberto TARANTINI"
+            },
+            {
+              "name": "Osvaldo ARDILES"
+            },
+            {
+              "name": "Americo GALLEGO"
+            },
+            {
+              "name": "Diego MARADONA"
+            },
+            {
+              "name": "Daniel BERTONI"
+            },
+            {
+              "name": "Mario KEMPES"
+            },
+            {
+              "name": "Jorge VALDANO"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Juan BARBAS"
+            },
+            {
+              "name": "Gabriel CALDERON"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Gabriel CALDERON",
+              "off": "Jorge VALDANO",
+              "minute": "24"
+            },
+            {
+              "on": "Juan BARBAS",
+              "off": "Alberto TARANTINI",
+              "minute": "51"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Ferenc MESZAROS"
+            },
+            {
+              "name": "Gyozo MARTOS"
+            },
+            {
+              "name": "Laszlo BALINT"
+            },
+            {
+              "name": "Jozsef TOTH"
+            },
+            {
+              "name": "Imre GARABA"
+            },
+            {
+              "name": "Tibor RAB"
+            },
+            {
+              "name": "Sandor SALLAI"
+            },
+            {
+              "name": "Jozsef VARGA"
+            },
+            {
+              "name": "Tibor NYILASI",
+              "captain": true
+            },
+            {
+              "name": "Laszlo KISS"
+            },
+            {
+              "name": "Gabor POLOSKEI"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Laszlo FAZEKAS"
+            },
+            {
+              "name": "Lazar SZENTES"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Laszlo FAZEKAS",
+              "off": "Gyozo MARTOS",
+              "minute": "46"
+            },
+            {
+              "on": "Lazar SZENTES",
+              "off": "Laszlo KISS",
+              "minute": "61"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Belaïd LACARNE",
+          "country": "ALG"
+        },
+        {
+          "name": "Michel VAUTROT",
+          "country": "FRA"
+        },
+        {
+          "name": "Nicolae RAINEA",
+          "country": "ROU"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1982-06-19",
+      "time": "21:00 UTC+2",
+      "team1": "Belgium",
+      "team2": "El Salvador",
+      "score": [
+        1,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Ludo COECK",
+          "minute": "19"
+        }
+      ],
+      "goals2": [],
+      "ground": "Nuevo Estadio, Elche",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Jean Marie PFAFF"
+            },
+            {
+              "name": "Eric GERETS",
+              "captain": true
+            },
+            {
+              "name": "Luc MILLECAMPS"
+            },
+            {
+              "name": "Walter MEEUWS"
+            },
+            {
+              "name": "Marc BAECKE"
+            },
+            {
+              "name": "Frank VERCAUTEREN"
+            },
+            {
+              "name": "Ludo COECK"
+            },
+            {
+              "name": "Erwin VANDENBERGH"
+            },
+            {
+              "name": "Jan CEULEMANS"
+            },
+            {
+              "name": "Guy VANDERSMISSEN"
+            },
+            {
+              "name": "Alex CZERNIATYNSKI"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Wilfried VAN MOER"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Wilfried VAN MOER",
+              "off": "Jan CEULEMANS",
+              "minute": "80"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Luis GUEVARA MORA"
+            },
+            {
+              "name": "Jose JOVEL"
+            },
+            {
+              "name": "Carlos RECINOS"
+            },
+            {
+              "name": "Ramon FAGOAGA"
+            },
+            {
+              "name": "Francisco OSORTO"
+            },
+            {
+              "name": "Jaime RODRIGUEZ"
+            },
+            {
+              "name": "Joaquin VENTURA"
+            },
+            {
+              "name": "Jose HUEZO",
+              "captain": true
+            },
+            {
+              "name": "Jorge GONZALEZ"
+            },
+            {
+              "name": "Jose RIVAS"
+            },
+            {
+              "name": "Luis RAMIREZ"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Miguel Angel DIAZ"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Miguel Angel DIAZ",
+              "off": "Francisco OSORTO",
+              "minute": "45+1"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [],
+        [
+          {
+            "type": "Y",
+            "name": "Francisco OSORTO",
+            "minute": "17"
+          },
+          {
+            "type": "Y",
+            "name": "Ramon FAGOAGA",
+            "minute": "74"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Malcolm MOFFATT",
+          "country": "NIR"
+        },
+        {
+          "name": "Gaston CASTRO",
+          "country": "CHI"
+        },
+        {
+          "name": "Alojzy JARGUZ",
+          "country": "POL"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1982-06-22",
+      "time": "21:00 UTC+2",
+      "team1": "Belgium",
+      "team2": "Hungary",
+      "score": [
+        1,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Alex CZERNIATYNSKI",
+          "minute": "76"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Jozsef VARGA",
+          "minute": "27"
+        }
+      ],
+      "ground": "Nuevo Estadio, Elche",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Jean Marie PFAFF"
+            },
+            {
+              "name": "Eric GERETS",
+              "captain": true
+            },
+            {
+              "name": "Luc MILLECAMPS"
+            },
+            {
+              "name": "Walter MEEUWS"
+            },
+            {
+              "name": "Marc BAECKE"
+            },
+            {
+              "name": "Frank VERCAUTEREN"
+            },
+            {
+              "name": "Ludo COECK"
+            },
+            {
+              "name": "Erwin VANDENBERGH"
+            },
+            {
+              "name": "Jan CEULEMANS"
+            },
+            {
+              "name": "Guy VANDERSMISSEN"
+            },
+            {
+              "name": "Alex CZERNIATYNSKI"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Gerard PLESSERS"
+            },
+            {
+              "name": "Wilfried VAN MOER"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Wilfried VAN MOER",
+              "off": "Guy VANDERSMISSEN",
+              "minute": "45+1"
+            },
+            {
+              "on": "Gerard PLESSERS",
+              "off": "Eric GERETS",
+              "minute": "62"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Ferenc MESZAROS"
+            },
+            {
+              "name": "Gyozo MARTOS"
+            },
+            {
+              "name": "Imre GARABA"
+            },
+            {
+              "name": "Attila KEREKES"
+            },
+            {
+              "name": "Jozsef VARGA"
+            },
+            {
+              "name": "Sandor MULLER"
+            },
+            {
+              "name": "Tibor NYILASI",
+              "captain": true
+            },
+            {
+              "name": "Laszlo FAZEKAS"
+            },
+            {
+              "name": "Andras TOROCSIK"
+            },
+            {
+              "name": "Laszlo KISS"
+            },
+            {
+              "name": "Gabor POLOSKEI"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Sandor SALLAI"
+            },
+            {
+              "name": "Ferenc CSONGRADI"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Sandor SALLAI",
+              "off": "Sandor MULLER",
+              "minute": "67"
+            },
+            {
+              "on": "Ferenc CSONGRADI",
+              "off": "Laszlo KISS",
+              "minute": "70"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Jean Marie PFAFF",
+            "minute": "65"
+          },
+          {
+            "type": "Y",
+            "name": "Walter MEEUWS",
+            "minute": "79"
+          }
+        ],
+        []
+      ],
+      "referees": [
+        {
+          "name": "Clive WHITE",
+          "country": "ENG"
+        },
+        {
+          "name": "Walter ESCHWEILER",
+          "country": "GER"
+        },
+        {
+          "name": "Belaïd LACARNE",
+          "country": "ALG"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1982-06-23",
+      "time": "21:00 UTC+2",
+      "team1": "Argentina",
+      "team2": "El Salvador",
+      "score": [
+        2,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Daniel PASSARELLA",
+          "minute": "22",
+          "penalty": true
+        },
+        {
+          "name": "Daniel BERTONI",
+          "minute": "54"
+        }
+      ],
+      "goals2": [],
+      "ground": "Estadio José Rico Pérez, Alicante",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Ubaldo FILLOL"
+            },
+            {
+              "name": "Luis GALVAN"
+            },
+            {
+              "name": "Jorge OLGUIN"
+            },
+            {
+              "name": "Daniel PASSARELLA",
+              "captain": true
+            },
+            {
+              "name": "Alberto TARANTINI"
+            },
+            {
+              "name": "Osvaldo ARDILES"
+            },
+            {
+              "name": "Americo GALLEGO"
+            },
+            {
+              "name": "Diego MARADONA"
+            },
+            {
+              "name": "Daniel BERTONI"
+            },
+            {
+              "name": "Gabriel CALDERON"
+            },
+            {
+              "name": "Mario KEMPES"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Ramon DIAZ"
+            },
+            {
+              "name": "Santiago SANTAMARIA"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Ramon DIAZ",
+              "off": "Daniel BERTONI",
+              "minute": "67"
+            },
+            {
+              "on": "Santiago SANTAMARIA",
+              "off": "Gabriel CALDERON",
+              "minute": "78"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Luis GUEVARA MORA"
+            },
+            {
+              "name": "Jose JOVEL"
+            },
+            {
+              "name": "Carlos RECINOS"
+            },
+            {
+              "name": "Francisco OSORTO"
+            },
+            {
+              "name": "Jaime RODRIGUEZ"
+            },
+            {
+              "name": "Joaquin VENTURA"
+            },
+            {
+              "name": "Jose RUGAMAS"
+            },
+            {
+              "name": "Jose HUEZO",
+              "captain": true
+            },
+            {
+              "name": "Jorge GONZALEZ"
+            },
+            {
+              "name": "Jose RIVAS"
+            },
+            {
+              "name": "Luis RAMIREZ"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Miguel Angel DIAZ"
+            },
+            {
+              "name": "Mauricio ALFARO"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Miguel Angel DIAZ",
+              "off": "Francisco OSORTO",
+              "minute": "33"
+            },
+            {
+              "on": "Mauricio ALFARO",
+              "off": "Joaquin VENTURA",
+              "minute": "78"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Jorge OLGUIN",
+            "minute": "31"
+          },
+          {
+            "type": "Y",
+            "name": "Americo GALLEGO",
+            "minute": "44"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Francisco OSORTO",
+            "minute": "20"
+          },
+          {
+            "type": "Y",
+            "name": "Luis RAMIREZ",
+            "minute": "26"
+          },
+          {
+            "type": "Y",
+            "name": "Carlos RECINOS",
+            "minute": "45"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Luis BARRANCOS",
+          "country": "BOL"
+        },
+        {
+          "name": "Augusto LAMO CASTILLO",
+          "country": "ESP"
+        },
+        {
+          "name": "Belaïd LACARNE",
+          "country": "ALG"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1982-06-16",
+      "time": "17:15 UTC+2",
+      "team1": "England",
+      "team2": "France",
+      "score": [
+        3,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Bryan ROBSON",
+          "minute": "1"
+        },
+        {
+          "name": "Bryan ROBSON",
+          "minute": "67"
+        },
+        {
+          "name": "Paul MARINER",
+          "minute": "83"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Gerard SOLER",
+          "minute": "24"
+        }
+      ],
+      "ground": "San Mames, Bilbao",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Peter SHILTON"
+            },
+            {
+              "name": "Terry BUTCHER"
+            },
+            {
+              "name": "Mick MILLS",
+              "captain": true
+            },
+            {
+              "name": "Kenny SANSOM"
+            },
+            {
+              "name": "Phil THOMPSON"
+            },
+            {
+              "name": "Steve COPPELL"
+            },
+            {
+              "name": "Graham RIX"
+            },
+            {
+              "name": "Bryan ROBSON"
+            },
+            {
+              "name": "Ray WILKINS"
+            },
+            {
+              "name": "Trevor FRANCIS"
+            },
+            {
+              "name": "Paul MARINER"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Philip NEAL"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Philip NEAL",
+              "off": "Kenny SANSOM",
+              "minute": "90"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Jean Luc ETTORI"
+            },
+            {
+              "name": "Patrick BATTISTON"
+            },
+            {
+              "name": "Maxime BOSSIS"
+            },
+            {
+              "name": "Christian LOPEZ"
+            },
+            {
+              "name": "Marius TRESOR"
+            },
+            {
+              "name": "Michel PLATINI",
+              "captain": true
+            },
+            {
+              "name": "Rene GIRARD"
+            },
+            {
+              "name": "Alain GIRESSE"
+            },
+            {
+              "name": "Jean Francois LARIOS"
+            },
+            {
+              "name": "Dominique ROCHETEAU"
+            },
+            {
+              "name": "Gerard SOLER"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Jean TIGANA"
+            },
+            {
+              "name": "Didier SIX"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Didier SIX",
+              "off": "Dominique ROCHETEAU",
+              "minute": "71"
+            },
+            {
+              "on": "Jean TIGANA",
+              "off": "Jean Francois LARIOS",
+              "minute": "74"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Terry BUTCHER",
+            "minute": "34"
+          }
+        ],
+        []
+      ],
+      "referees": [
+        {
+          "name": "Antonio GARRIDO",
+          "country": "POR"
+        },
+        {
+          "name": "Gaston CASTRO",
+          "country": "CHI"
+        },
+        {
+          "name": "Arnaldo COELHO",
+          "country": "BRA"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1982-06-17",
+      "time": "17:45 UTC+2",
+      "team1": "Czechoslovakia",
+      "team2": "Kuwait",
+      "score": [
+        1,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Antonin PANENKA",
+          "minute": "21",
+          "penalty": true
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Faisal AL DAKHIL",
+          "minute": "57"
+        }
+      ],
+      "ground": "Jose Zorrilla, Valladolid",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Zdenek HRUSKA"
+            },
+            {
+              "name": "Jan FIALA"
+            },
+            {
+              "name": "Ladislav JURKEMIK"
+            },
+            {
+              "name": "Jozef BARMOS"
+            },
+            {
+              "name": "Jozef KUKUCKA"
+            },
+            {
+              "name": "Antonin PANENKA"
+            },
+            {
+              "name": "Jan BERGER"
+            },
+            {
+              "name": "Ladislav VIZEK"
+            },
+            {
+              "name": "Tomas KRIZ"
+            },
+            {
+              "name": "Zdenek NEHODA",
+              "captain": true
+            },
+            {
+              "name": "Petr JANECKA"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Premysl BICOVSKY"
+            },
+            {
+              "name": "Vlastimil PETRZELA"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Premysl BICOVSKY",
+              "off": "Tomas KRIZ",
+              "minute": "61"
+            },
+            {
+              "on": "Vlastimil PETRZELA",
+              "off": "Petr JANECKA",
+              "minute": "68"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Ahmed AL TARABULSI"
+            },
+            {
+              "name": "Naim FAJAH"
+            },
+            {
+              "name": "MAHBOUB MUBARAK"
+            },
+            {
+              "name": "Walid AL MUBARAK"
+            },
+            {
+              "name": "Abdullah MAYUF"
+            },
+            {
+              "name": "Saad AL HUTTI",
+              "captain": true
+            },
+            {
+              "name": "Abdulaziz AL BALUSHI"
+            },
+            {
+              "name": "Mohamed KARAM"
+            },
+            {
+              "name": "Jasem SULTAN"
+            },
+            {
+              "name": "Abdulaziz AL ANBARI"
+            },
+            {
+              "name": "Faisal AL DAKHIL"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Fathi MATAR"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Fathi MATAR",
+              "off": "Mohamed KARAM",
+              "minute": "57"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Benjamin DWOMOH",
+          "country": "GHA"
+        },
+        {
+          "name": "Romulo MENDEZ",
+          "country": "GUA"
+        },
+        {
+          "name": "Robert VALENTINE",
+          "country": "SCO"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1982-06-20",
+      "time": "17:15 UTC+2",
+      "team1": "England",
+      "team2": "Czechoslovakia",
+      "score": [
+        2,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Trevor FRANCIS",
+          "minute": "62"
+        },
+        {
+          "name": "Jozef BARMOS",
+          "minute": "66",
+          "owngoal": true
+        }
+      ],
+      "goals2": [],
+      "ground": "San Mames, Bilbao",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Peter SHILTON"
+            },
+            {
+              "name": "Terry BUTCHER"
+            },
+            {
+              "name": "Mick MILLS",
+              "captain": true
+            },
+            {
+              "name": "Kenny SANSOM"
+            },
+            {
+              "name": "Phil THOMPSON"
+            },
+            {
+              "name": "Steve COPPELL"
+            },
+            {
+              "name": "Graham RIX"
+            },
+            {
+              "name": "Bryan ROBSON"
+            },
+            {
+              "name": "Ray WILKINS"
+            },
+            {
+              "name": "Trevor FRANCIS"
+            },
+            {
+              "name": "Paul MARINER"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Glenn HODDLE"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Glenn HODDLE",
+              "off": "Bryan ROBSON",
+              "minute": "45+1"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Stanislav SEMAN"
+            },
+            {
+              "name": "Jan FIALA"
+            },
+            {
+              "name": "Ladislav JURKEMIK"
+            },
+            {
+              "name": "Jozef BARMOS"
+            },
+            {
+              "name": "Rostilav VOJACEK"
+            },
+            {
+              "name": "Libor RADIMEC"
+            },
+            {
+              "name": "Jan BERGER"
+            },
+            {
+              "name": "Pavel CHALOUPKA"
+            },
+            {
+              "name": "Ladislav VIZEK"
+            },
+            {
+              "name": "Zdenek NEHODA",
+              "captain": true
+            },
+            {
+              "name": "Petr JANECKA"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Karel STROMSIK"
+            },
+            {
+              "name": "Marian MASNY"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Karel STROMSIK",
+              "off": "Stanislav SEMAN",
+              "minute": "75"
+            },
+            {
+              "on": "Marian MASNY",
+              "off": "Petr JANECKA",
+              "minute": "77"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [],
+        [
+          {
+            "type": "Y",
+            "name": "Pavel CHALOUPKA",
+            "minute": "40"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Charles CORVER",
+          "country": "NED"
+        },
+        {
+          "name": "Bogdan DOTCHEV",
+          "country": "BUL"
+        },
+        {
+          "name": "Gilberto ARISTIZABAL MURCIA",
+          "country": "COL"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1982-06-21",
+      "time": "17:15 UTC+2",
+      "team1": "France",
+      "team2": "Kuwait",
+      "score": [
+        4,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Bernard GENGHINI",
+          "minute": "31"
+        },
+        {
+          "name": "Michel PLATINI",
+          "minute": "43"
+        },
+        {
+          "name": "Didier SIX",
+          "minute": "48"
+        },
+        {
+          "name": "Maxime BOSSIS",
+          "minute": "89"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Abdulaziz AL BALUSHI",
+          "minute": "75"
+        }
+      ],
+      "ground": "Jose Zorrilla, Valladolid",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Jean Luc ETTORI"
+            },
+            {
+              "name": "Manuel AMOROS"
+            },
+            {
+              "name": "Maxime BOSSIS"
+            },
+            {
+              "name": "Gerard JANVION"
+            },
+            {
+              "name": "Marius TRESOR"
+            },
+            {
+              "name": "Bernard GENGHINI"
+            },
+            {
+              "name": "Michel PLATINI",
+              "captain": true
+            },
+            {
+              "name": "Alain GIRESSE"
+            },
+            {
+              "name": "Bernard LACOMBE"
+            },
+            {
+              "name": "Didier SIX"
+            },
+            {
+              "name": "Gerard SOLER"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Christian LOPEZ"
+            },
+            {
+              "name": "Rene GIRARD"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Christian LOPEZ",
+              "off": "Gerard JANVION",
+              "minute": "59"
+            },
+            {
+              "on": "Rene GIRARD",
+              "off": "Michel PLATINI",
+              "minute": "81"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Ahmed AL TARABULSI"
+            },
+            {
+              "name": "Naim FAJAH"
+            },
+            {
+              "name": "MAHBOUB MUBARAK"
+            },
+            {
+              "name": "Walid AL MUBARAK"
+            },
+            {
+              "name": "Abdullah MAYUF"
+            },
+            {
+              "name": "Saad AL HUTTI",
+              "captain": true
+            },
+            {
+              "name": "Abdulaziz AL BALUSHI"
+            },
+            {
+              "name": "Mohamed KARAM"
+            },
+            {
+              "name": "Jasem SULTAN"
+            },
+            {
+              "name": "Abdulaziz AL ANBARI"
+            },
+            {
+              "name": "Faisal AL DAKHIL"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Hamud AL SHEMMARI"
+            },
+            {
+              "name": "Fathi MATAR"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Fathi MATAR",
+              "off": "Mohamed KARAM",
+              "minute": "45+1"
+            },
+            {
+              "on": "Hamud AL SHEMMARI",
+              "off": "Walid AL MUBARAK",
+              "minute": "78"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Manuel AMOROS",
+            "minute": "68"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Abdulaziz AL ANBARI",
+            "minute": "30"
+          },
+          {
+            "type": "Y",
+            "name": "Fathi MATAR",
+            "minute": "85"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Miroslav STUPAR",
+          "country": "URS"
+        },
+        {
+          "name": "Erik FREDRIKSSON",
+          "country": "SWE"
+        },
+        {
+          "name": "Damir MATOVINOVIC",
+          "country": "CRO"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1982-06-24",
+      "time": "17:15 UTC+2",
+      "team1": "France",
+      "team2": "Czechoslovakia",
+      "score": [
+        1,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Didier SIX",
+          "minute": "66"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Antonin PANENKA",
+          "minute": "84",
+          "penalty": true
+        }
+      ],
+      "ground": "Jose Zorrilla, Valladolid",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Jean Luc ETTORI"
+            },
+            {
+              "name": "Manuel AMOROS"
+            },
+            {
+              "name": "Maxime BOSSIS"
+            },
+            {
+              "name": "Gerard JANVION"
+            },
+            {
+              "name": "Marius TRESOR"
+            },
+            {
+              "name": "Bernard GENGHINI"
+            },
+            {
+              "name": "Michel PLATINI",
+              "captain": true
+            },
+            {
+              "name": "Alain GIRESSE"
+            },
+            {
+              "name": "Bernard LACOMBE"
+            },
+            {
+              "name": "Didier SIX"
+            },
+            {
+              "name": "Gerard SOLER"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Alain COURIOL"
+            },
+            {
+              "name": "Rene GIRARD"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Alain COURIOL",
+              "off": "Bernard LACOMBE",
+              "minute": "70"
+            },
+            {
+              "on": "Rene GIRARD",
+              "off": "Gerard SOLER",
+              "minute": "89"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Karel STROMSIK"
+            },
+            {
+              "name": "Jan FIALA"
+            },
+            {
+              "name": "Jozef BARMOS"
+            },
+            {
+              "name": "Rostilav VOJACEK"
+            },
+            {
+              "name": "Libor RADIMEC"
+            },
+            {
+              "name": "Premysl BICOVSKY"
+            },
+            {
+              "name": "Frantisek STAMBACHER"
+            },
+            {
+              "name": "Ladislav VIZEK"
+            },
+            {
+              "name": "Tomas KRIZ"
+            },
+            {
+              "name": "Zdenek NEHODA",
+              "captain": true
+            },
+            {
+              "name": "Petr JANECKA"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Marian MASNY"
+            },
+            {
+              "name": "Antonin PANENKA"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Marian MASNY",
+              "off": "Tomas KRIZ",
+              "minute": "31"
+            },
+            {
+              "on": "Antonin PANENKA",
+              "off": "Petr JANECKA",
+              "minute": "70"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Manuel AMOROS",
+            "minute": "47"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Antonin PANENKA",
+            "minute": "75"
+          },
+          {
+            "type": "R",
+            "name": "Ladislav VIZEK",
+            "minute": "87"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Paolo CASARIN",
+          "country": "ITA"
+        },
+        {
+          "name": "Benjamin DWOMOH",
+          "country": "GHA"
+        },
+        {
+          "name": "Karoly PALOTAI",
+          "country": "HUN"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1982-06-25",
+      "time": "17:15 UTC+2",
+      "team1": "England",
+      "team2": "Kuwait",
+      "score": [
+        1,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Trevor FRANCIS",
+          "minute": "27"
+        }
+      ],
+      "goals2": [],
+      "ground": "San Mames, Bilbao",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Peter SHILTON"
+            },
+            {
+              "name": "Steve FOSTER"
+            },
+            {
+              "name": "Mick MILLS",
+              "captain": true
+            },
+            {
+              "name": "Philip NEAL"
+            },
+            {
+              "name": "Phil THOMPSON"
+            },
+            {
+              "name": "Steve COPPELL"
+            },
+            {
+              "name": "Glenn HODDLE"
+            },
+            {
+              "name": "Graham RIX"
+            },
+            {
+              "name": "Ray WILKINS"
+            },
+            {
+              "name": "Trevor FRANCIS"
+            },
+            {
+              "name": "Paul MARINER"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Ahmed AL TARABULSI"
+            },
+            {
+              "name": "Naim FAJAH"
+            },
+            {
+              "name": "MAHBOUB MUBARAK"
+            },
+            {
+              "name": "Walid AL MUBARAK"
+            },
+            {
+              "name": "Abdullah MAYUF"
+            },
+            {
+              "name": "Saad AL HUTTI",
+              "captain": true
+            },
+            {
+              "name": "Fathi MATAR"
+            },
+            {
+              "name": "Abdulaziz AL BALUSHI"
+            },
+            {
+              "name": "Yusuf FARAJ"
+            },
+            {
+              "name": "Abdulaziz AL ANBARI"
+            },
+            {
+              "name": "Faisal AL DAKHIL"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Hamud AL SHEMMARI"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Hamud AL SHEMMARI",
+              "off": "Walid AL MUBARAK",
+              "minute": "76"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Paul MARINER",
+            "minute": "43"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Naim FAJAH",
+            "minute": "44"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Gilberto ARISTIZABAL MURCIA",
+          "country": "COL"
+        },
+        {
+          "name": "Henning LUND-SORENSEN",
+          "country": "DEN"
+        },
+        {
+          "name": "Jose L. GARCIA CARRION",
+          "country": "ESP"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 5",
+      "date": "1982-06-16",
+      "time": "21:00 UTC+2",
+      "team1": "Spain",
+      "team2": "Honduras",
+      "score": [
+        1,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "LOPEZ UFARTE",
+          "minute": "65",
+          "penalty": true
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Hector ZELAYA",
+          "minute": "7"
+        }
+      ],
+      "ground": "Luis Casanova, Valencia",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Luis ARCONADA",
+              "captain": true
+            },
+            {
+              "name": "Jose Antonio CAMACHO"
+            },
+            {
+              "name": "Rafael GORDILLO"
+            },
+            {
+              "name": "Miguel TENDILLO"
+            },
+            {
+              "name": "Jose ALEXANKO"
+            },
+            {
+              "name": "Miguel ALONSO"
+            },
+            {
+              "name": "Joaquin ALONSO"
+            },
+            {
+              "name": "Jesus ZAMORA"
+            },
+            {
+              "name": "JUANITO"
+            },
+            {
+              "name": "Jesus SATRUSTEGUI"
+            },
+            {
+              "name": "LOPEZ UFARTE"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Jose SANCHEZ"
+            },
+            {
+              "name": "Enrique SAURA"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Enrique SAURA",
+              "off": "JUANITO",
+              "minute": "45+1"
+            },
+            {
+              "on": "Jose SANCHEZ",
+              "off": "Joaquin ALONSO",
+              "minute": "45+1"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Julio Cesar ARZU"
+            },
+            {
+              "name": "Cesar GUTIERREZ"
+            },
+            {
+              "name": "Jaime VILLEGAS"
+            },
+            {
+              "name": "Jose BULNES"
+            },
+            {
+              "name": "Allan COSTLY"
+            },
+            {
+              "name": "Ramon MARADIAGA",
+              "captain": true
+            },
+            {
+              "name": "Hector ZELAYA"
+            },
+            {
+              "name": "Gilberto YEARWOOD"
+            },
+            {
+              "name": "Porfirio BETANCOURT"
+            },
+            {
+              "name": "Jose FIGUEROA"
+            },
+            {
+              "name": "Prudencio NORALES"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Carlos CABELLERO"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Carlos CABELLERO",
+              "off": "Prudencio NORALES",
+              "minute": "69"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Arturo Andres ITHURRALDE",
+          "country": "ARG"
+        },
+        {
+          "name": "Bogdan DOTCHEV",
+          "country": "BUL"
+        },
+        {
+          "name": "Luis BARRANCOS",
+          "country": "BOL"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 5",
+      "date": "1982-06-17",
+      "time": "21:00 UTC+2",
+      "team1": "Yugoslavia",
+      "team2": "Northern Ireland",
+      "score": [
+        0,
+        0
+      ],
+      "ground": "La Romareda, Zaragoza",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Dragan PANTELIC"
+            },
+            {
+              "name": "Velimir ZAJEC"
+            },
+            {
+              "name": "Nenad STOJKOVIC"
+            },
+            {
+              "name": "Nikola JOVANOVIC"
+            },
+            {
+              "name": "Milos HRSTIC"
+            },
+            {
+              "name": "Ivan GUDELJ"
+            },
+            {
+              "name": "Vladimir PETROVIC"
+            },
+            {
+              "name": "Edhem SLJIVO"
+            },
+            {
+              "name": "Zlatko VUJOVIC"
+            },
+            {
+              "name": "Safet SUSIC"
+            },
+            {
+              "name": "Ivica SURJAK",
+              "captain": true
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Pat JENNINGS"
+            },
+            {
+              "name": "Jimmy NICHOLL"
+            },
+            {
+              "name": "Mal DONAGHY"
+            },
+            {
+              "name": "Chris NICHOLL"
+            },
+            {
+              "name": "John McCLELLAND"
+            },
+            {
+              "name": "David McCREERY"
+            },
+            {
+              "name": "Martin O NEILL",
+              "captain": true
+            },
+            {
+              "name": "Sam McILROY"
+            },
+            {
+              "name": "Gerry ARMSTRONG"
+            },
+            {
+              "name": "Billy HAMILTON"
+            },
+            {
+              "name": "Norman WHITESIDE"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [],
+        [
+          {
+            "type": "Y",
+            "name": "Norman WHITESIDE",
+            "minute": "62"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Erik FREDRIKSSON",
+          "country": "SWE"
+        },
+        {
+          "name": "Bruno GALLER",
+          "country": "SUI"
+        },
+        {
+          "name": "Karoly PALOTAI",
+          "country": "HUN"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 5",
+      "date": "1982-06-20",
+      "time": "21:00 UTC+2",
+      "team1": "Spain",
+      "team2": "Yugoslavia",
+      "score": [
+        2,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "JUANITO",
+          "minute": "14",
+          "penalty": true
+        },
+        {
+          "name": "Enrique SAURA",
+          "minute": "66"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Ivan GUDELJ",
+          "minute": "10"
+        }
+      ],
+      "ground": "Luis Casanova, Valencia",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Luis ARCONADA",
+              "captain": true
+            },
+            {
+              "name": "Jose Antonio CAMACHO"
+            },
+            {
+              "name": "Rafael GORDILLO"
+            },
+            {
+              "name": "Miguel TENDILLO"
+            },
+            {
+              "name": "Jose ALEXANKO"
+            },
+            {
+              "name": "Miguel ALONSO"
+            },
+            {
+              "name": "Jesus ZAMORA"
+            },
+            {
+              "name": "Jose SANCHEZ"
+            },
+            {
+              "name": "JUANITO"
+            },
+            {
+              "name": "Jesus SATRUSTEGUI"
+            },
+            {
+              "name": "LOPEZ UFARTE"
+            }
+          ],
+          "bench": [
+            {
+              "name": "QUINI"
+            },
+            {
+              "name": "Enrique SAURA"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Enrique SAURA",
+              "off": "Jesus SATRUSTEGUI",
+              "minute": "63"
+            },
+            {
+              "on": "QUINI",
+              "off": "Jose SANCHEZ",
+              "minute": "63"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Dragan PANTELIC"
+            },
+            {
+              "name": "Velimir ZAJEC"
+            },
+            {
+              "name": "Nenad STOJKOVIC"
+            },
+            {
+              "name": "Zlatko KRMPOTIC"
+            },
+            {
+              "name": "Nikola JOVANOVIC"
+            },
+            {
+              "name": "Ivan GUDELJ"
+            },
+            {
+              "name": "Vladimir PETROVIC"
+            },
+            {
+              "name": "Edhem SLJIVO"
+            },
+            {
+              "name": "Zlatko VUJOVIC"
+            },
+            {
+              "name": "Safet SUSIC"
+            },
+            {
+              "name": "Ivica SURJAK",
+              "captain": true
+            }
+          ],
+          "bench": [
+            {
+              "name": "Vahid HALILHODZIC"
+            },
+            {
+              "name": "Milos SESTIC"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Vahid HALILHODZIC",
+              "off": "Nikola JOVANOVIC",
+              "minute": "74"
+            },
+            {
+              "on": "Milos SESTIC",
+              "off": "Zlatko VUJOVIC",
+              "minute": "83"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Jesus ZAMORA",
+            "minute": "80"
+          },
+          {
+            "type": "Y",
+            "name": "Rafael GORDILLO",
+            "minute": "87"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Nenad STOJKOVIC",
+            "minute": "35"
+          },
+          {
+            "type": "Y",
+            "name": "Edhem SLJIVO",
+            "minute": "78"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Henning LUND-SORENSEN",
+          "country": "DEN"
+        },
+        {
+          "name": "Antonio GARRIDO",
+          "country": "POR"
+        },
+        {
+          "name": "Arturo Andres ITHURRALDE",
+          "country": "ARG"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 5",
+      "date": "1982-06-21",
+      "time": "21:00 UTC+2",
+      "team1": "Honduras",
+      "team2": "Northern Ireland",
+      "score": [
+        1,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Eduardo LAING",
+          "minute": "60"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Gerry ARMSTRONG",
+          "minute": "9"
+        }
+      ],
+      "ground": "La Romareda, Zaragoza",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Julio Cesar ARZU"
+            },
+            {
+              "name": "Cesar GUTIERREZ"
+            },
+            {
+              "name": "Jaime VILLEGAS"
+            },
+            {
+              "name": "Allan COSTLY"
+            },
+            {
+              "name": "Jose CRUZ"
+            },
+            {
+              "name": "Ramon MARADIAGA",
+              "captain": true
+            },
+            {
+              "name": "Hector ZELAYA"
+            },
+            {
+              "name": "Gilberto YEARWOOD"
+            },
+            {
+              "name": "Porfirio BETANCOURT"
+            },
+            {
+              "name": "Jose FIGUEROA"
+            },
+            {
+              "name": "Prudencio NORALES"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Eduardo LAING"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Eduardo LAING",
+              "off": "Prudencio NORALES",
+              "minute": "58"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Pat JENNINGS"
+            },
+            {
+              "name": "Jimmy NICHOLL"
+            },
+            {
+              "name": "Mal DONAGHY"
+            },
+            {
+              "name": "Chris NICHOLL"
+            },
+            {
+              "name": "John McCLELLAND"
+            },
+            {
+              "name": "David McCREERY"
+            },
+            {
+              "name": "Martin O NEILL",
+              "captain": true
+            },
+            {
+              "name": "Sam McILROY"
+            },
+            {
+              "name": "Gerry ARMSTRONG"
+            },
+            {
+              "name": "Billy HAMILTON"
+            },
+            {
+              "name": "Norman WHITESIDE"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Felix HEALEY"
+            },
+            {
+              "name": "Noel BROTHERSTON"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Noel BROTHERSTON",
+              "off": "Norman WHITESIDE",
+              "minute": "66"
+            },
+            {
+              "on": "Felix HEALEY",
+              "off": "Martin O NEILL",
+              "minute": "78"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "CHAN Thomson Tam Sun",
+          "country": "HKG"
+        },
+        {
+          "name": "Enrique LABO REVOREDO",
+          "country": "PER"
+        },
+        {
+          "name": "Paolo CASARIN",
+          "country": "ITA"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 5",
+      "date": "1982-06-24",
+      "time": "21:00 UTC+2",
+      "team1": "Honduras",
+      "team2": "Yugoslavia",
+      "score": [
+        0,
+        1
+      ],
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Vladimir PETROVIC",
+          "minute": "88",
+          "penalty": true
+        }
+      ],
+      "ground": "La Romareda, Zaragoza",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Julio Cesar ARZU"
+            },
+            {
+              "name": "Jaime VILLEGAS"
+            },
+            {
+              "name": "Jose BULNES"
+            },
+            {
+              "name": "Allan COSTLY"
+            },
+            {
+              "name": "Domingo DRUMMOND"
+            },
+            {
+              "name": "Ramon MARADIAGA",
+              "captain": true
+            },
+            {
+              "name": "Juan CRUZ"
+            },
+            {
+              "name": "Hector ZELAYA"
+            },
+            {
+              "name": "Gilberto YEARWOOD"
+            },
+            {
+              "name": "Porfirio BETANCOURT"
+            },
+            {
+              "name": "Jose FIGUEROA"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Eduardo LAING"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Eduardo LAING",
+              "off": "Juan CRUZ",
+              "minute": "65"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Dragan PANTELIC"
+            },
+            {
+              "name": "Velimir ZAJEC"
+            },
+            {
+              "name": "Nenad STOJKOVIC"
+            },
+            {
+              "name": "Zlatko KRMPOTIC"
+            },
+            {
+              "name": "Nikola JOVANOVIC"
+            },
+            {
+              "name": "Ivan GUDELJ"
+            },
+            {
+              "name": "Vladimir PETROVIC"
+            },
+            {
+              "name": "Edhem SLJIVO"
+            },
+            {
+              "name": "Zlatko VUJOVIC"
+            },
+            {
+              "name": "Safet SUSIC"
+            },
+            {
+              "name": "Ivica SURJAK",
+              "captain": true
+            }
+          ],
+          "bench": [
+            {
+              "name": "Vahid HALILHODZIC"
+            },
+            {
+              "name": "Milos SESTIC"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Vahid HALILHODZIC",
+              "off": "Nikola JOVANOVIC",
+              "minute": "45+1"
+            },
+            {
+              "on": "Milos SESTIC",
+              "off": "Zlatko VUJOVIC",
+              "minute": "62"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Ramon MARADIAGA",
+            "minute": "85"
+          },
+          {
+            "type": "R",
+            "name": "Gilberto YEARWOOD",
+            "minute": "89"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Zlatko KRMPOTIC",
+            "minute": "81"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Gaston CASTRO",
+          "country": "CHI"
+        },
+        {
+          "name": "Jesus Paulino SILES",
+          "country": "CRC"
+        },
+        {
+          "name": "Arturo Andres ITHURRALDE",
+          "country": "ARG"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 5",
+      "date": "1982-06-25",
+      "time": "21:00 UTC+2",
+      "team1": "Northern Ireland",
+      "team2": "Spain",
+      "score": [
+        1,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Gerry ARMSTRONG",
+          "minute": "47"
+        }
+      ],
+      "goals2": [],
+      "ground": "Luis Casanova, Valencia",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Pat JENNINGS"
+            },
+            {
+              "name": "Jimmy NICHOLL"
+            },
+            {
+              "name": "Mal DONAGHY"
+            },
+            {
+              "name": "Chris NICHOLL"
+            },
+            {
+              "name": "John McCLELLAND"
+            },
+            {
+              "name": "David McCREERY"
+            },
+            {
+              "name": "Martin O NEILL",
+              "captain": true
+            },
+            {
+              "name": "Sam McILROY"
+            },
+            {
+              "name": "Gerry ARMSTRONG"
+            },
+            {
+              "name": "Billy HAMILTON"
+            },
+            {
+              "name": "Norman WHITESIDE"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Tommy CASSIDY"
+            },
+            {
+              "name": "Sammy NELSON"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Tommy CASSIDY",
+              "off": "Sam McILROY",
+              "minute": "50"
+            },
+            {
+              "on": "Sammy NELSON",
+              "off": "Norman WHITESIDE",
+              "minute": "73"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Luis ARCONADA",
+              "captain": true
+            },
+            {
+              "name": "Jose Antonio CAMACHO"
+            },
+            {
+              "name": "Rafael GORDILLO"
+            },
+            {
+              "name": "Miguel TENDILLO"
+            },
+            {
+              "name": "Jose ALEXANKO"
+            },
+            {
+              "name": "Miguel ALONSO"
+            },
+            {
+              "name": "Enrique SAURA"
+            },
+            {
+              "name": "Jose SANCHEZ"
+            },
+            {
+              "name": "JUANITO"
+            },
+            {
+              "name": "Jesus SATRUSTEGUI"
+            },
+            {
+              "name": "LOPEZ UFARTE"
+            }
+          ],
+          "bench": [
+            {
+              "name": "QUINI"
+            },
+            {
+              "name": "Ricardo GALLEGO"
+            }
+          ],
+          "subs": [
+            {
+              "on": "QUINI",
+              "off": "Jesus SATRUSTEGUI",
+              "minute": "45+1"
+            },
+            {
+              "on": "Ricardo GALLEGO",
+              "off": "LOPEZ UFARTE",
+              "minute": "78"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Billy HAMILTON",
+            "minute": "41"
+          },
+          {
+            "type": "Y",
+            "name": "Sam McILROY",
+            "minute": "42"
+          },
+          {
+            "type": "R",
+            "name": "Mal DONAGHY",
+            "minute": "62"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "JUANITO",
+            "minute": "20"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Hector ORTIZ",
+          "country": "PAR"
+        },
+        {
+          "name": "Enrique LABO REVOREDO",
+          "country": "PER"
+        },
+        {
+          "name": "Alexis PONNET",
+          "country": "BEL"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 6",
+      "date": "1982-06-14",
+      "time": "21:00 UTC+2",
+      "team1": "Brazil",
+      "team2": "Soviet Union",
+      "score": [
+        2,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "SOCRATES",
+          "minute": "75"
+        },
+        {
+          "name": "EDER",
+          "minute": "88"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Andrei BAL",
+          "minute": "34"
+        }
+      ],
+      "ground": "Ramon Sanchez Pizjuan, Seville",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "WALDIR PERES"
+            },
+            {
+              "name": "LEANDRO"
+            },
+            {
+              "name": "OSCAR"
+            },
+            {
+              "name": "LUIZINHO"
+            },
+            {
+              "name": "JUNIOR"
+            },
+            {
+              "name": "SOCRATES",
+              "captain": true
+            },
+            {
+              "name": "ZICO"
+            },
+            {
+              "name": "EDER"
+            },
+            {
+              "name": "FALCAO"
+            },
+            {
+              "name": "SERGINHO"
+            },
+            {
+              "name": "DIRCEU"
+            }
+          ],
+          "bench": [
+            {
+              "name": "PAULO ISIDORO"
+            }
+          ],
+          "subs": [
+            {
+              "on": "PAULO ISIDORO",
+              "off": "DIRCEU",
+              "minute": "45+1"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Rinat DASAEV"
+            },
+            {
+              "name": "Tengiz SULAKVELIDZE"
+            },
+            {
+              "name": "Aleksandre CHIVADZE",
+              "captain": true
+            },
+            {
+              "name": "Sergei BALTACHA"
+            },
+            {
+              "name": "Anatoli DEMYANENKO"
+            },
+            {
+              "name": "Vladimir BESSONOV"
+            },
+            {
+              "name": "Yuri GAVRILOV"
+            },
+            {
+              "name": "Andrei BAL"
+            },
+            {
+              "name": "Vitali DARASELIA"
+            },
+            {
+              "name": "Ramaz SHENGELIA"
+            },
+            {
+              "name": "Oleg BLOKHIN"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Yuri SUSLOPAROV"
+            },
+            {
+              "name": "Sergei ANDREYEV"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Yuri SUSLOPAROV",
+              "off": "Yuri GAVRILOV",
+              "minute": "74"
+            },
+            {
+              "on": "Sergei ANDREYEV",
+              "off": "Ramaz SHENGELIA",
+              "minute": "88"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Augusto LAMO CASTILLO",
+          "country": "ESP"
+        },
+        {
+          "name": "Victoriano SANCHEZ ARMINIO",
+          "country": "ESP"
+        },
+        {
+          "name": "Jose L. GARCIA CARRION",
+          "country": "ESP"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 6",
+      "date": "1982-06-15",
+      "time": "21:00 UTC+2",
+      "team1": "Scotland",
+      "team2": "New Zealand",
+      "score": [
+        5,
+        2
+      ],
+      "goals1": [
+        {
+          "name": "Kenny DALGLISH",
+          "minute": "18"
+        },
+        {
+          "name": "John WARK",
+          "minute": "29"
+        },
+        {
+          "name": "John WARK",
+          "minute": "32"
+        },
+        {
+          "name": "John ROBERTSON",
+          "minute": "73"
+        },
+        {
+          "name": "Steve ARCHIBALD",
+          "minute": "79"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Steve SUMNER",
+          "minute": "54"
+        },
+        {
+          "name": "Steve WOODDIN",
+          "minute": "64"
+        }
+      ],
+      "ground": "Estadio La Rosaleda, Málaga",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Alan ROUGH"
+            },
+            {
+              "name": "Danny McGRAIN",
+              "captain": true
+            },
+            {
+              "name": "Frank GRAY"
+            },
+            {
+              "name": "Alan HANSEN"
+            },
+            {
+              "name": "Allan EVANS"
+            },
+            {
+              "name": "Graeme SOUNESS"
+            },
+            {
+              "name": "Gordon STRACHAN"
+            },
+            {
+              "name": "John WARK"
+            },
+            {
+              "name": "Kenny DALGLISH"
+            },
+            {
+              "name": "Alan BRAZIL"
+            },
+            {
+              "name": "John ROBERTSON"
+            }
+          ],
+          "bench": [
+            {
+              "name": "David NAREY"
+            },
+            {
+              "name": "Steve ARCHIBALD"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Steve ARCHIBALD",
+              "off": "Alan BRAZIL",
+              "minute": "53"
+            },
+            {
+              "on": "David NAREY",
+              "off": "Gordon STRACHAN",
+              "minute": "83"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Frank VAN HATTUM"
+            },
+            {
+              "name": "Robert ALMOND"
+            },
+            {
+              "name": "Sam MALCOLMSON"
+            },
+            {
+              "name": "Adrian ELRICK"
+            },
+            {
+              "name": "John HILL"
+            },
+            {
+              "name": "Steve SUMNER",
+              "captain": true
+            },
+            {
+              "name": "Keith McKAY"
+            },
+            {
+              "name": "Kenny CRESSWELL"
+            },
+            {
+              "name": "Allan BOATH"
+            },
+            {
+              "name": "Wynton RUFER"
+            },
+            {
+              "name": "Steve WOODDIN"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Ricki HERBERT"
+            },
+            {
+              "name": "Duncan COLE"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Ricki HERBERT",
+              "off": "Robert ALMOND",
+              "minute": "66"
+            },
+            {
+              "on": "Duncan COLE",
+              "off": "Sam MALCOLMSON",
+              "minute": "77"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "David SOCHA",
+          "country": "USA"
+        },
+        {
+          "name": "CHAN Thomson Tam Sun",
+          "country": "HKG"
+        },
+        {
+          "name": "Yusef Mohamed EL GHOUL",
+          "country": "LBY"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 6",
+      "date": "1982-06-18",
+      "time": "21:00 UTC+2",
+      "team1": "Brazil",
+      "team2": "Scotland",
+      "score": [
+        4,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "ZICO",
+          "minute": "33"
+        },
+        {
+          "name": "OSCAR",
+          "minute": "48"
+        },
+        {
+          "name": "EDER",
+          "minute": "63"
+        },
+        {
+          "name": "FALCAO",
+          "minute": "87"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "David NAREY",
+          "minute": "18"
+        }
+      ],
+      "ground": "Estadio Benito Villamarin, Seville",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "WALDIR PERES"
+            },
+            {
+              "name": "LEANDRO"
+            },
+            {
+              "name": "OSCAR"
+            },
+            {
+              "name": "LUIZINHO"
+            },
+            {
+              "name": "JUNIOR"
+            },
+            {
+              "name": "TONINHO CEREZO"
+            },
+            {
+              "name": "SOCRATES",
+              "captain": true
+            },
+            {
+              "name": "ZICO"
+            },
+            {
+              "name": "EDER"
+            },
+            {
+              "name": "FALCAO"
+            },
+            {
+              "name": "SERGINHO"
+            }
+          ],
+          "bench": [
+            {
+              "name": "PAULO ISIDORO"
+            }
+          ],
+          "subs": [
+            {
+              "on": "PAULO ISIDORO",
+              "off": "SERGINHO",
+              "minute": "80"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Alan ROUGH"
+            },
+            {
+              "name": "Frank GRAY"
+            },
+            {
+              "name": "Alan HANSEN"
+            },
+            {
+              "name": "Willie MILLER"
+            },
+            {
+              "name": "David NAREY"
+            },
+            {
+              "name": "Graeme SOUNESS",
+              "captain": true
+            },
+            {
+              "name": "Gordon STRACHAN"
+            },
+            {
+              "name": "John WARK"
+            },
+            {
+              "name": "Asa HARTFORD"
+            },
+            {
+              "name": "John ROBERTSON"
+            },
+            {
+              "name": "Steve ARCHIBALD"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Kenny DALGLISH"
+            },
+            {
+              "name": "Alex McLEISH"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Kenny DALGLISH",
+              "off": "Gordon STRACHAN",
+              "minute": "65"
+            },
+            {
+              "on": "Alex McLEISH",
+              "off": "Asa HARTFORD",
+              "minute": "68"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Jesus Paulino SILES",
+          "country": "CRC"
+        },
+        {
+          "name": "CHAN Thomson Tam Sun",
+          "country": "HKG"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 6",
+      "date": "1982-06-19",
+      "time": "21:00 UTC+2",
+      "team1": "Soviet Union",
+      "team2": "New Zealand",
+      "score": [
+        3,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Yuri GAVRILOV",
+          "minute": "24"
+        },
+        {
+          "name": "Oleg BLOKHIN",
+          "minute": "48"
+        },
+        {
+          "name": "Sergei BALTACHA",
+          "minute": "68"
+        }
+      ],
+      "goals2": [],
+      "ground": "Estadio La Rosaleda, Málaga",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Rinat DASAEV"
+            },
+            {
+              "name": "Tengiz SULAKVELIDZE"
+            },
+            {
+              "name": "Aleksandre CHIVADZE",
+              "captain": true
+            },
+            {
+              "name": "Sergei BALTACHA"
+            },
+            {
+              "name": "Anatoli DEMYANENKO"
+            },
+            {
+              "name": "Vladimir BESSONOV"
+            },
+            {
+              "name": "Yuri GAVRILOV"
+            },
+            {
+              "name": "Andrei BAL"
+            },
+            {
+              "name": "Vitali DARASELIA"
+            },
+            {
+              "name": "Ramaz SHENGELIA"
+            },
+            {
+              "name": "Oleg BLOKHIN"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Sergei RODIONOV"
+            },
+            {
+              "name": "Khoren OGANESIAN"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Khoren OGANESIAN",
+              "off": "Vitali DARASELIA",
+              "minute": "45+1"
+            },
+            {
+              "on": "Sergei RODIONOV",
+              "off": "Yuri GAVRILOV",
+              "minute": "79"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Frank VAN HATTUM"
+            },
+            {
+              "name": "Glen DODS"
+            },
+            {
+              "name": "Ricki HERBERT"
+            },
+            {
+              "name": "Adrian ELRICK"
+            },
+            {
+              "name": "Duncan COLE"
+            },
+            {
+              "name": "Steve SUMNER",
+              "captain": true
+            },
+            {
+              "name": "Keith McKAY"
+            },
+            {
+              "name": "Kenny CRESSWELL"
+            },
+            {
+              "name": "Allan BOATH"
+            },
+            {
+              "name": "Wynton RUFER"
+            },
+            {
+              "name": "Steve WOODDIN"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Yusef Mohamed EL GHOUL",
+          "country": "LBY"
+        },
+        {
+          "name": "Emilio SORIANO ALADREN",
+          "country": "ESP"
+        },
+        {
+          "name": "Clive WHITE",
+          "country": "ENG"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 6",
+      "date": "1982-06-22",
+      "time": "21:00 UTC+2",
+      "team1": "Soviet Union",
+      "team2": "Scotland",
+      "score": [
+        2,
+        2
+      ],
+      "goals1": [
+        {
+          "name": "Aleksandre CHIVADZE",
+          "minute": "59"
+        },
+        {
+          "name": "Ramaz SHENGELIA",
+          "minute": "84"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Joe JORDAN",
+          "minute": "15"
+        },
+        {
+          "name": "Graeme SOUNESS",
+          "minute": "86"
+        }
+      ],
+      "ground": "Estadio La Rosaleda, Málaga",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Rinat DASAEV"
+            },
+            {
+              "name": "Tengiz SULAKVELIDZE"
+            },
+            {
+              "name": "Aleksandre CHIVADZE",
+              "captain": true
+            },
+            {
+              "name": "Sergei BALTACHA"
+            },
+            {
+              "name": "Anatoli DEMYANENKO"
+            },
+            {
+              "name": "Sergei BOROVSKI"
+            },
+            {
+              "name": "Vladimir BESSONOV"
+            },
+            {
+              "name": "Yuri GAVRILOV"
+            },
+            {
+              "name": "Andrei BAL"
+            },
+            {
+              "name": "Ramaz SHENGELIA"
+            },
+            {
+              "name": "Oleg BLOKHIN"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Sergei ANDREYEV"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Sergei ANDREYEV",
+              "off": "Ramaz SHENGELIA",
+              "minute": "88"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Alan ROUGH"
+            },
+            {
+              "name": "Frank GRAY"
+            },
+            {
+              "name": "Alan HANSEN"
+            },
+            {
+              "name": "Willie MILLER"
+            },
+            {
+              "name": "David NAREY"
+            },
+            {
+              "name": "Graeme SOUNESS",
+              "captain": true
+            },
+            {
+              "name": "Gordon STRACHAN"
+            },
+            {
+              "name": "John WARK"
+            },
+            {
+              "name": "John ROBERTSON"
+            },
+            {
+              "name": "Joe JORDAN"
+            },
+            {
+              "name": "Steve ARCHIBALD"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Alan BRAZIL"
+            },
+            {
+              "name": "Danny McGRAIN"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Danny McGRAIN",
+              "off": "Joe JORDAN",
+              "minute": "71"
+            },
+            {
+              "on": "Alan BRAZIL",
+              "off": "Gordon STRACHAN",
+              "minute": "71"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [],
+        [
+          {
+            "type": "Y",
+            "name": "Graeme SOUNESS",
+            "minute": "5"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Nicolae RAINEA",
+          "country": "ROU"
+        },
+        {
+          "name": "Alojzy JARGUZ",
+          "country": "POL"
+        },
+        {
+          "name": "Alexis PONNET",
+          "country": "BEL"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 6",
+      "date": "1982-06-23",
+      "time": "21:00 UTC+2",
+      "team1": "Brazil",
+      "team2": "New Zealand",
+      "score": [
+        4,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "ZICO",
+          "minute": "28"
+        },
+        {
+          "name": "ZICO",
+          "minute": "31"
+        },
+        {
+          "name": "FALCAO",
+          "minute": "64"
+        },
+        {
+          "name": "SERGINHO",
+          "minute": "70"
+        }
+      ],
+      "goals2": [],
+      "ground": "Estadio Benito Villamarin, Seville",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "WALDIR PERES"
+            },
+            {
+              "name": "LEANDRO"
+            },
+            {
+              "name": "OSCAR"
+            },
+            {
+              "name": "LUIZINHO"
+            },
+            {
+              "name": "JUNIOR"
+            },
+            {
+              "name": "TONINHO CEREZO"
+            },
+            {
+              "name": "SOCRATES",
+              "captain": true
+            },
+            {
+              "name": "ZICO"
+            },
+            {
+              "name": "EDER"
+            },
+            {
+              "name": "FALCAO"
+            },
+            {
+              "name": "SERGINHO"
+            }
+          ],
+          "bench": [
+            {
+              "name": "PAULO ISIDORO"
+            },
+            {
+              "name": "EDINHO"
+            }
+          ],
+          "subs": [
+            {
+              "on": "EDINHO",
+              "off": "SERGINHO",
+              "minute": "75"
+            },
+            {
+              "on": "PAULO ISIDORO",
+              "off": "OSCAR",
+              "minute": "75"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Frank VAN HATTUM"
+            },
+            {
+              "name": "Glen DODS"
+            },
+            {
+              "name": "Ricki HERBERT"
+            },
+            {
+              "name": "Robert ALMOND"
+            },
+            {
+              "name": "Adrian ELRICK"
+            },
+            {
+              "name": "Steve SUMNER",
+              "captain": true
+            },
+            {
+              "name": "Keith McKAY"
+            },
+            {
+              "name": "Kenny CRESSWELL"
+            },
+            {
+              "name": "Allan BOATH"
+            },
+            {
+              "name": "Wynton RUFER"
+            },
+            {
+              "name": "Steve WOODDIN"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Duncan COLE"
+            },
+            {
+              "name": "Brian TURNER"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Brian TURNER",
+              "off": "Wynton RUFER",
+              "minute": "78"
+            },
+            {
+              "on": "Duncan COLE",
+              "off": "Kenny CRESSWELL",
+              "minute": "78"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Damir MATOVINOVIC",
+          "country": "CRO"
+        },
+        {
+          "name": "Abraham KLEIN",
+          "country": "ISR"
+        },
+        {
+          "name": "Charles CORVER",
+          "country": "NED"
+        }
+      ]
+    },
+    {
+      "round": "Second Round, Group A",
+      "date": "1982-06-28",
+      "time": "21:00 UTC+2",
+      "team1": "Poland",
+      "team2": "Belgium",
+      "score": [
+        3,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Zbigniew BONIEK",
+          "minute": "4"
+        },
+        {
+          "name": "Zbigniew BONIEK",
+          "minute": "26"
+        },
+        {
+          "name": "Zbigniew BONIEK",
+          "minute": "53"
+        }
+      ],
+      "goals2": [],
+      "ground": "Camp Nou, Barcelona",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Jozef MLYNARCZYK"
+            },
+            {
+              "name": "Marek DZIUBA"
+            },
+            {
+              "name": "Janusz KUPCEWICZ"
+            },
+            {
+              "name": "Pawel JANAS"
+            },
+            {
+              "name": "Wladyslaw ZMUDA",
+              "captain": true
+            },
+            {
+              "name": "Stefan MAJEWSKI"
+            },
+            {
+              "name": "Waldemar MATYSIK"
+            },
+            {
+              "name": "Andrzej BUNCOL"
+            },
+            {
+              "name": "Wlodimierz SMOLAREK"
+            },
+            {
+              "name": "Grzegorz LATO"
+            },
+            {
+              "name": "Zbigniew BONIEK"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Wlodzimierz CIOLEK"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Wlodzimierz CIOLEK",
+              "off": "Janusz KUPCEWICZ",
+              "minute": "82"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Theo CUSTERS"
+            },
+            {
+              "name": "Luc MILLECAMPS"
+            },
+            {
+              "name": "Walter MEEUWS",
+              "captain": true
+            },
+            {
+              "name": "Michel RENQUIN"
+            },
+            {
+              "name": "Gerard PLESSERS"
+            },
+            {
+              "name": "Frank VERCAUTEREN"
+            },
+            {
+              "name": "Wilfried VAN MOER"
+            },
+            {
+              "name": "Ludo COECK"
+            },
+            {
+              "name": "Erwin VANDENBERGH"
+            },
+            {
+              "name": "Jan CEULEMANS"
+            },
+            {
+              "name": "Alex CZERNIATYNSKI"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Marc BAECKE"
+            },
+            {
+              "name": "Francois VAN DER ELST"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Francois VAN DER ELST",
+              "off": "Wilfried VAN MOER",
+              "minute": "45+1"
+            },
+            {
+              "on": "Marc BAECKE",
+              "off": "Gerard PLESSERS",
+              "minute": "88"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Wlodimierz SMOLAREK",
+            "minute": "48"
+          }
+        ],
+        []
+      ],
+      "referees": [
+        {
+          "name": "Jesus Paulino SILES",
+          "country": "CRC"
+        },
+        {
+          "name": "Enrique LABO REVOREDO",
+          "country": "PER"
+        },
+        {
+          "name": "Gaston CASTRO",
+          "country": "CHI"
+        }
+      ]
+    },
+    {
+      "round": "Second Round, Group A",
+      "date": "1982-07-01",
+      "time": "21:00 UTC+2",
+      "team1": "Belgium",
+      "team2": "Soviet Union",
+      "score": [
+        0,
+        1
+      ],
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Khoren OGANESIAN",
+          "minute": "48"
+        }
+      ],
+      "ground": "Camp Nou, Barcelona",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Jacques MUNARON"
+            },
+            {
+              "name": "Luc MILLECAMPS"
+            },
+            {
+              "name": "Walter MEEUWS",
+              "captain": true
+            },
+            {
+              "name": "Michel RENQUIN"
+            },
+            {
+              "name": "Maurits DE SCHRIJVER"
+            },
+            {
+              "name": "Frank VERCAUTEREN"
+            },
+            {
+              "name": "Ludo COECK"
+            },
+            {
+              "name": "Rene VERHEYEN"
+            },
+            {
+              "name": "Erwin VANDENBERGH"
+            },
+            {
+              "name": "Jan CEULEMANS"
+            },
+            {
+              "name": "Guy VANDERSMISSEN"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Marc MILLECAMPS"
+            },
+            {
+              "name": "Alex CZERNIATYNSKI"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Marc MILLECAMPS",
+              "off": "Maurits DE SCHRIJVER",
+              "minute": "65"
+            },
+            {
+              "on": "Alex CZERNIATYNSKI",
+              "off": "Guy VANDERSMISSEN",
+              "minute": "67"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Rinat DASAEV"
+            },
+            {
+              "name": "Aleksandre CHIVADZE",
+              "captain": true
+            },
+            {
+              "name": "Sergei BALTACHA"
+            },
+            {
+              "name": "Anatoli DEMYANENKO"
+            },
+            {
+              "name": "Sergei BOROVSKI"
+            },
+            {
+              "name": "Vladimir BESSONOV"
+            },
+            {
+              "name": "Yuri GAVRILOV"
+            },
+            {
+              "name": "Khoren OGANESIAN"
+            },
+            {
+              "name": "Andrei BAL"
+            },
+            {
+              "name": "Ramaz SHENGELIA"
+            },
+            {
+              "name": "Oleg BLOKHIN"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Vitali DARASELIA"
+            },
+            {
+              "name": "Sergei RODIONOV"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Vitali DARASELIA",
+              "off": "Andrei BAL",
+              "minute": "87"
+            },
+            {
+              "on": "Sergei RODIONOV",
+              "off": "Ramaz SHENGELIA",
+              "minute": "89"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [],
+        [
+          {
+            "type": "Y",
+            "name": "Vladimir BESSONOV",
+            "minute": "75"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Michel VAUTROT",
+          "country": "FRA"
+        },
+        {
+          "name": "Charles CORVER",
+          "country": "NED"
+        },
+        {
+          "name": "Antonio GARRIDO",
+          "country": "POR"
+        }
+      ]
+    },
+    {
+      "round": "Second Round, Group A",
+      "date": "1982-07-04",
+      "time": "21:00 UTC+2",
+      "team1": "Poland",
+      "team2": "Soviet Union",
+      "score": [
+        0,
+        0
+      ],
+      "ground": "Camp Nou, Barcelona",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Jozef MLYNARCZYK"
+            },
+            {
+              "name": "Marek DZIUBA"
+            },
+            {
+              "name": "Janusz KUPCEWICZ"
+            },
+            {
+              "name": "Pawel JANAS"
+            },
+            {
+              "name": "Wladyslaw ZMUDA",
+              "captain": true
+            },
+            {
+              "name": "Stefan MAJEWSKI"
+            },
+            {
+              "name": "Waldemar MATYSIK"
+            },
+            {
+              "name": "Andrzej BUNCOL"
+            },
+            {
+              "name": "Wlodimierz SMOLAREK"
+            },
+            {
+              "name": "Grzegorz LATO"
+            },
+            {
+              "name": "Zbigniew BONIEK"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Wlodzimierz CIOLEK"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Wlodzimierz CIOLEK",
+              "off": "Janusz KUPCEWICZ",
+              "minute": "52"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Rinat DASAEV"
+            },
+            {
+              "name": "Tengiz SULAKVELIDZE"
+            },
+            {
+              "name": "Aleksandre CHIVADZE",
+              "captain": true
+            },
+            {
+              "name": "Sergei BALTACHA"
+            },
+            {
+              "name": "Anatoli DEMYANENKO"
+            },
+            {
+              "name": "Sergei BOROVSKI"
+            },
+            {
+              "name": "Vladimir BESSONOV"
+            },
+            {
+              "name": "Yuri GAVRILOV"
+            },
+            {
+              "name": "Khoren OGANESIAN"
+            },
+            {
+              "name": "Ramaz SHENGELIA"
+            },
+            {
+              "name": "Oleg BLOKHIN"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Vitali DARASELIA"
+            },
+            {
+              "name": "Sergei ANDREYEV"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Sergei ANDREYEV",
+              "off": "Ramaz SHENGELIA",
+              "minute": "57"
+            },
+            {
+              "on": "Vitali DARASELIA",
+              "off": "Yuri GAVRILOV",
+              "minute": "78"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Andrzej BUNCOL",
+            "minute": "65"
+          },
+          {
+            "type": "Y",
+            "name": "Zbigniew BONIEK",
+            "minute": "88"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Aleksandre CHIVADZE",
+            "minute": "39"
+          },
+          {
+            "type": "Y",
+            "name": "Sergei BOROVSKI",
+            "minute": "87"
+          },
+          {
+            "type": "Y",
+            "name": "Sergei BALTACHA",
+            "minute": "90"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Robert VALENTINE",
+          "country": "SCO"
+        },
+        {
+          "name": "Henning LUND-SORENSEN",
+          "country": "DEN"
+        },
+        {
+          "name": "Clive WHITE",
+          "country": "ENG"
+        }
+      ]
+    },
+    {
+      "round": "Second Round, Group B",
+      "date": "1982-06-29",
+      "time": "21:00 UTC+2",
+      "team1": "West Germany",
+      "team2": "England",
+      "score": [
+        0,
+        0
+      ],
+      "ground": "Santiago Bernabeu, Madrid",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Harald SCHUMACHER"
+            },
+            {
+              "name": "Hans Peter BRIEGEL"
+            },
+            {
+              "name": "Karlheinz FOERSTER"
+            },
+            {
+              "name": "Bernd FOERSTER"
+            },
+            {
+              "name": "Uli STIELIKE"
+            },
+            {
+              "name": "Manfred KALTZ"
+            },
+            {
+              "name": "Paul BREITNER"
+            },
+            {
+              "name": "Wolfgang DREMMLER"
+            },
+            {
+              "name": "Hansi MUELLER"
+            },
+            {
+              "name": "Karl-Heinz RUMMENIGGE",
+              "captain": true
+            },
+            {
+              "name": "Uwe REINDERS"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Klaus FISCHER"
+            },
+            {
+              "name": "Pierre LITTBARSKI"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Pierre LITTBARSKI",
+              "off": "Uwe REINDERS",
+              "minute": "63"
+            },
+            {
+              "on": "Klaus FISCHER",
+              "off": "Hansi MUELLER",
+              "minute": "74"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Peter SHILTON"
+            },
+            {
+              "name": "Terry BUTCHER"
+            },
+            {
+              "name": "Mick MILLS",
+              "captain": true
+            },
+            {
+              "name": "Kenny SANSOM"
+            },
+            {
+              "name": "Phil THOMPSON"
+            },
+            {
+              "name": "Steve COPPELL"
+            },
+            {
+              "name": "Graham RIX"
+            },
+            {
+              "name": "Bryan ROBSON"
+            },
+            {
+              "name": "Ray WILKINS"
+            },
+            {
+              "name": "Trevor FRANCIS"
+            },
+            {
+              "name": "Paul MARINER"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Tony WOODCOCK"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Tony WOODCOCK",
+              "off": "Trevor FRANCIS",
+              "minute": "77"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Uli STIELIKE",
+            "minute": "68"
+          }
+        ],
+        []
+      ],
+      "referees": [
+        {
+          "name": "Arnaldo COELHO",
+          "country": "BRA"
+        },
+        {
+          "name": "Hector ORTIZ",
+          "country": "PAR"
+        },
+        {
+          "name": "Romulo MENDEZ",
+          "country": "GUA"
+        }
+      ]
+    },
+    {
+      "round": "Second Round, Group B",
+      "date": "1982-07-02",
+      "time": "21:00 UTC+2",
+      "team1": "West Germany",
+      "team2": "Spain",
+      "score": [
+        2,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Pierre LITTBARSKI",
+          "minute": "50"
+        },
+        {
+          "name": "Klaus FISCHER",
+          "minute": "75"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Jesus ZAMORA",
+          "minute": "82"
+        }
+      ],
+      "ground": "Santiago Bernabeu, Madrid",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Harald SCHUMACHER"
+            },
+            {
+              "name": "Hans Peter BRIEGEL"
+            },
+            {
+              "name": "Karlheinz FOERSTER"
+            },
+            {
+              "name": "Bernd FOERSTER"
+            },
+            {
+              "name": "Uli STIELIKE"
+            },
+            {
+              "name": "Manfred KALTZ"
+            },
+            {
+              "name": "Paul BREITNER"
+            },
+            {
+              "name": "Wolfgang DREMMLER"
+            },
+            {
+              "name": "Pierre LITTBARSKI"
+            },
+            {
+              "name": "Klaus FISCHER"
+            },
+            {
+              "name": "Karl-Heinz RUMMENIGGE",
+              "captain": true
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Luis ARCONADA",
+              "captain": true
+            },
+            {
+              "name": "Jose Antonio CAMACHO"
+            },
+            {
+              "name": "Rafael GORDILLO"
+            },
+            {
+              "name": "Miguel TENDILLO"
+            },
+            {
+              "name": "Jose ALEXANKO"
+            },
+            {
+              "name": "Santiago URQUIAGA"
+            },
+            {
+              "name": "Miguel ALONSO"
+            },
+            {
+              "name": "Jesus ZAMORA"
+            },
+            {
+              "name": "JUANITO"
+            },
+            {
+              "name": "SANTILLANA"
+            },
+            {
+              "name": "QUINI"
+            }
+          ],
+          "bench": [
+            {
+              "name": "LOPEZ UFARTE"
+            },
+            {
+              "name": "Jose SANCHEZ"
+            }
+          ],
+          "subs": [
+            {
+              "on": "LOPEZ UFARTE",
+              "off": "JUANITO",
+              "minute": "45+1"
+            },
+            {
+              "on": "Jose SANCHEZ",
+              "off": "QUINI",
+              "minute": "65"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Klaus FISCHER",
+            "minute": "10"
+          },
+          {
+            "type": "Y",
+            "name": "Hans Peter BRIEGEL",
+            "minute": "84"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Jose ALEXANKO",
+            "minute": "9"
+          },
+          {
+            "type": "Y",
+            "name": "Jose Antonio CAMACHO",
+            "minute": "83"
+          },
+          {
+            "type": "Y",
+            "name": "Jose SANCHEZ",
+            "minute": "84"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Paolo CASARIN",
+          "country": "ITA"
+        },
+        {
+          "name": "Franz WOEHRER",
+          "country": "AUT"
+        },
+        {
+          "name": "Karoly PALOTAI",
+          "country": "HUN"
+        }
+      ]
+    },
+    {
+      "round": "Second Round, Group B",
+      "date": "1982-07-05",
+      "time": "21:00 UTC+2",
+      "team1": "Spain",
+      "team2": "England",
+      "score": [
+        0,
+        0
+      ],
+      "ground": "Santiago Bernabeu, Madrid",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Luis ARCONADA",
+              "captain": true
+            },
+            {
+              "name": "Jose Antonio CAMACHO"
+            },
+            {
+              "name": "Rafael GORDILLO"
+            },
+            {
+              "name": "Miguel TENDILLO"
+            },
+            {
+              "name": "Jose ALEXANKO"
+            },
+            {
+              "name": "Santiago URQUIAGA"
+            },
+            {
+              "name": "Miguel ALONSO"
+            },
+            {
+              "name": "Jesus ZAMORA"
+            },
+            {
+              "name": "Enrique SAURA"
+            },
+            {
+              "name": "Jesus SATRUSTEGUI"
+            },
+            {
+              "name": "SANTILLANA"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Antonio MACEDA"
+            },
+            {
+              "name": "Pedro URALDE"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Pedro URALDE",
+              "off": "Enrique SAURA",
+              "minute": "67"
+            },
+            {
+              "on": "Antonio MACEDA",
+              "off": "Miguel TENDILLO",
+              "minute": "73"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Peter SHILTON"
+            },
+            {
+              "name": "Terry BUTCHER"
+            },
+            {
+              "name": "Mick MILLS",
+              "captain": true
+            },
+            {
+              "name": "Kenny SANSOM"
+            },
+            {
+              "name": "Phil THOMPSON"
+            },
+            {
+              "name": "Graham RIX"
+            },
+            {
+              "name": "Bryan ROBSON"
+            },
+            {
+              "name": "Ray WILKINS"
+            },
+            {
+              "name": "Trevor FRANCIS"
+            },
+            {
+              "name": "Paul MARINER"
+            },
+            {
+              "name": "Tony WOODCOCK"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Trevor BROOKING"
+            },
+            {
+              "name": "Kevin KEEGAN"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Trevor BROOKING",
+              "off": "Graham RIX",
+              "minute": "63"
+            },
+            {
+              "on": "Kevin KEEGAN",
+              "off": "Tony WOODCOCK",
+              "minute": "64"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [],
+        [
+          {
+            "type": "Y",
+            "name": "Ray WILKINS",
+            "minute": "15"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Alexis PONNET",
+          "country": "BEL"
+        },
+        {
+          "name": "Michel VAUTROT",
+          "country": "FRA"
+        },
+        {
+          "name": "Belaïd LACARNE",
+          "country": "ALG"
+        }
+      ]
+    },
+    {
+      "round": "Second Round, Group C",
+      "date": "1982-06-29",
+      "time": "17:15 UTC+2",
+      "team1": "Italy",
+      "team2": "Argentina",
+      "score": [
+        2,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Marco TARDELLI",
+          "minute": "57"
+        },
+        {
+          "name": "Antonio CABRINI",
+          "minute": "67"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Daniel PASSARELLA",
+          "minute": "83"
+        }
+      ],
+      "ground": "Sarria, Barcelona",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Dino ZOFF",
+              "captain": true
+            },
+            {
+              "name": "Antonio CABRINI"
+            },
+            {
+              "name": "Fulvio COLLOVATI"
+            },
+            {
+              "name": "Claudio GENTILE"
+            },
+            {
+              "name": "Gaetano SCIREA"
+            },
+            {
+              "name": "Giancarlo ANTOGNONI"
+            },
+            {
+              "name": "Gabriele ORIALI"
+            },
+            {
+              "name": "Marco TARDELLI"
+            },
+            {
+              "name": "Bruno CONTI"
+            },
+            {
+              "name": "Francesco GRAZIANI"
+            },
+            {
+              "name": "Paolo ROSSI"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Giampiero MARINI"
+            },
+            {
+              "name": "Alessandro ALTOBELLI"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Giampiero MARINI",
+              "off": "Gabriele ORIALI",
+              "minute": "75"
+            },
+            {
+              "on": "Alessandro ALTOBELLI",
+              "off": "Paolo ROSSI",
+              "minute": "80"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Ubaldo FILLOL"
+            },
+            {
+              "name": "Luis GALVAN"
+            },
+            {
+              "name": "Jorge OLGUIN"
+            },
+            {
+              "name": "Daniel PASSARELLA",
+              "captain": true
+            },
+            {
+              "name": "Alberto TARANTINI"
+            },
+            {
+              "name": "Osvaldo ARDILES"
+            },
+            {
+              "name": "Americo GALLEGO"
+            },
+            {
+              "name": "Diego MARADONA"
+            },
+            {
+              "name": "Daniel BERTONI"
+            },
+            {
+              "name": "Ramon DIAZ"
+            },
+            {
+              "name": "Mario KEMPES"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Jose VALENCIA"
+            },
+            {
+              "name": "Gabriel CALDERON"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Gabriel CALDERON",
+              "off": "Mario KEMPES",
+              "minute": "58"
+            },
+            {
+              "on": "Jose VALENCIA",
+              "off": "Ramon DIAZ",
+              "minute": "58"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Paolo ROSSI",
+            "minute": "15"
+          },
+          {
+            "type": "Y",
+            "name": "Claudio GENTILE",
+            "minute": "42"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Mario KEMPES",
+            "minute": "32"
+          },
+          {
+            "type": "Y",
+            "name": "Diego MARADONA",
+            "minute": "35"
+          },
+          {
+            "type": "Y",
+            "name": "Osvaldo ARDILES",
+            "minute": "39"
+          },
+          {
+            "type": "R",
+            "name": "Americo GALLEGO",
+            "minute": "84"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Nicolae RAINEA",
+          "country": "ROU"
+        },
+        {
+          "name": "Bruno GALLER",
+          "country": "SUI"
+        },
+        {
+          "name": "Belaïd LACARNE",
+          "country": "ALG"
+        }
+      ]
+    },
+    {
+      "round": "Second Round, Group C",
+      "date": "1982-07-02",
+      "time": "17:15 UTC+2",
+      "team1": "Argentina",
+      "team2": "Brazil",
+      "score": [
+        1,
+        3
+      ],
+      "goals1": [
+        {
+          "name": "Ramon DIAZ",
+          "minute": "89"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "ZICO",
+          "minute": "11"
+        },
+        {
+          "name": "SERGINHO",
+          "minute": "66"
+        },
+        {
+          "name": "JUNIOR",
+          "minute": "75"
+        }
+      ],
+      "ground": "Sarria, Barcelona",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Ubaldo FILLOL"
+            },
+            {
+              "name": "Luis GALVAN"
+            },
+            {
+              "name": "Jorge OLGUIN"
+            },
+            {
+              "name": "Daniel PASSARELLA",
+              "captain": true
+            },
+            {
+              "name": "Alberto TARANTINI"
+            },
+            {
+              "name": "Osvaldo ARDILES"
+            },
+            {
+              "name": "Juan BARBAS"
+            },
+            {
+              "name": "Diego MARADONA"
+            },
+            {
+              "name": "Daniel BERTONI"
+            },
+            {
+              "name": "Gabriel CALDERON"
+            },
+            {
+              "name": "Mario KEMPES"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Santiago SANTAMARIA"
+            },
+            {
+              "name": "Ramon DIAZ"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Ramon DIAZ",
+              "off": "Mario KEMPES",
+              "minute": "45+1"
+            },
+            {
+              "on": "Santiago SANTAMARIA",
+              "off": "Daniel BERTONI",
+              "minute": "64"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "WALDIR PERES"
+            },
+            {
+              "name": "LEANDRO"
+            },
+            {
+              "name": "OSCAR"
+            },
+            {
+              "name": "LUIZINHO"
+            },
+            {
+              "name": "JUNIOR"
+            },
+            {
+              "name": "TONINHO CEREZO"
+            },
+            {
+              "name": "SOCRATES",
+              "captain": true
+            },
+            {
+              "name": "ZICO"
+            },
+            {
+              "name": "EDER"
+            },
+            {
+              "name": "FALCAO"
+            },
+            {
+              "name": "SERGINHO"
+            }
+          ],
+          "bench": [
+            {
+              "name": "EDEVALDO"
+            },
+            {
+              "name": "BATISTA"
+            }
+          ],
+          "subs": [
+            {
+              "on": "EDEVALDO",
+              "off": "LEANDRO",
+              "minute": "82"
+            },
+            {
+              "on": "BATISTA",
+              "off": "ZICO",
+              "minute": "83"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Daniel PASSARELLA",
+            "minute": "33"
+          },
+          {
+            "type": "R",
+            "name": "Diego MARADONA",
+            "minute": "85"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "WALDIR PERES",
+            "minute": "77"
+          },
+          {
+            "type": "Y",
+            "name": "FALCAO",
+            "minute": "85"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Mario RUBIO VAZQUEZ",
+          "country": "MEX"
+        },
+        {
+          "name": "Gilberto ARISTIZABAL MURCIA",
+          "country": "COL"
+        },
+        {
+          "name": "Gaston CASTRO",
+          "country": "CHI"
+        }
+      ]
+    },
+    {
+      "round": "Second Round, Group C",
+      "date": "1982-07-05",
+      "time": "17:15 UTC+2",
+      "team1": "Italy",
+      "team2": "Brazil",
+      "score": [
+        3,
+        2
+      ],
+      "goals1": [
+        {
+          "name": "Paolo ROSSI",
+          "minute": "5"
+        },
+        {
+          "name": "Paolo ROSSI",
+          "minute": "25"
+        },
+        {
+          "name": "Paolo ROSSI",
+          "minute": "74"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "SOCRATES",
+          "minute": "12"
+        },
+        {
+          "name": "FALCAO",
+          "minute": "68"
+        }
+      ],
+      "ground": "Sarria, Barcelona",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Dino ZOFF",
+              "captain": true
+            },
+            {
+              "name": "Antonio CABRINI"
+            },
+            {
+              "name": "Fulvio COLLOVATI"
+            },
+            {
+              "name": "Claudio GENTILE"
+            },
+            {
+              "name": "Gaetano SCIREA"
+            },
+            {
+              "name": "Giancarlo ANTOGNONI"
+            },
+            {
+              "name": "Gabriele ORIALI"
+            },
+            {
+              "name": "Marco TARDELLI"
+            },
+            {
+              "name": "Bruno CONTI"
+            },
+            {
+              "name": "Francesco GRAZIANI"
+            },
+            {
+              "name": "Paolo ROSSI"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Giuseppe BERGOMI"
+            },
+            {
+              "name": "Giampiero MARINI"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Giuseppe BERGOMI",
+              "off": "Fulvio COLLOVATI",
+              "minute": "34"
+            },
+            {
+              "on": "Giampiero MARINI",
+              "off": "Marco TARDELLI",
+              "minute": "75"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "WALDIR PERES"
+            },
+            {
+              "name": "LEANDRO"
+            },
+            {
+              "name": "OSCAR"
+            },
+            {
+              "name": "LUIZINHO"
+            },
+            {
+              "name": "JUNIOR"
+            },
+            {
+              "name": "TONINHO CEREZO"
+            },
+            {
+              "name": "SOCRATES",
+              "captain": true
+            },
+            {
+              "name": "ZICO"
+            },
+            {
+              "name": "EDER"
+            },
+            {
+              "name": "FALCAO"
+            },
+            {
+              "name": "SERGINHO"
+            }
+          ],
+          "bench": [
+            {
+              "name": "PAULO ISIDORO"
+            }
+          ],
+          "subs": [
+            {
+              "on": "PAULO ISIDORO",
+              "off": "SERGINHO",
+              "minute": "69"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Claudio GENTILE",
+            "minute": "13"
+          },
+          {
+            "type": "Y",
+            "name": "Gabriele ORIALI",
+            "minute": "78"
+          }
+        ],
+        []
+      ],
+      "referees": [
+        {
+          "name": "Abraham KLEIN",
+          "country": "ISR"
+        },
+        {
+          "name": "CHAN Thomson Tam Sun",
+          "country": "HKG"
+        },
+        {
+          "name": "Bogdan DOTCHEV",
+          "country": "BUL"
+        }
+      ]
+    },
+    {
+      "round": "Second Round, Group D",
+      "date": "1982-06-28",
+      "time": "17:15 UTC+2",
+      "team1": "Austria",
+      "team2": "France",
+      "score": [
+        0,
+        1
+      ],
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Bernard GENGHINI",
+          "minute": "39"
+        }
+      ],
+      "ground": "Vicente Calderon, Madrid",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Friedl KONCILIA"
+            },
+            {
+              "name": "Bernd KRAUSS"
+            },
+            {
+              "name": "Erich OBERMAYER",
+              "captain": true
+            },
+            {
+              "name": "Josef DEGEORGI"
+            },
+            {
+              "name": "Bruno PEZZEY"
+            },
+            {
+              "name": "Roland HATTENBERGER"
+            },
+            {
+              "name": "Herbert PROHASKA"
+            },
+            {
+              "name": "Reinhold HINTERMAIER"
+            },
+            {
+              "name": "Kurt JARA"
+            },
+            {
+              "name": "Walter SCHACHNER"
+            },
+            {
+              "name": "Hans KRANKL"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Kurt WELZL"
+            },
+            {
+              "name": "Ernst BAUMEISTER"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Ernst BAUMEISTER",
+              "off": "Kurt JARA",
+              "minute": "45+1"
+            },
+            {
+              "on": "Kurt WELZL",
+              "off": "Josef DEGEORGI",
+              "minute": "45+1"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Jean Luc ETTORI"
+            },
+            {
+              "name": "Patrick BATTISTON"
+            },
+            {
+              "name": "Maxime BOSSIS"
+            },
+            {
+              "name": "Gerard JANVION"
+            },
+            {
+              "name": "Marius TRESOR",
+              "captain": true
+            },
+            {
+              "name": "Bernard GENGHINI"
+            },
+            {
+              "name": "Alain GIRESSE"
+            },
+            {
+              "name": "Jean TIGANA"
+            },
+            {
+              "name": "Bernard LACOMBE"
+            },
+            {
+              "name": "Didier SIX"
+            },
+            {
+              "name": "Gerard SOLER"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Rene GIRARD"
+            },
+            {
+              "name": "Dominique ROCHETEAU"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Dominique ROCHETEAU",
+              "off": "Bernard LACOMBE",
+              "minute": "15"
+            },
+            {
+              "on": "Rene GIRARD",
+              "off": "Bernard GENGHINI",
+              "minute": "85"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Erich OBERMAYER",
+            "minute": "60"
+          }
+        ],
+        []
+      ],
+      "referees": [
+        {
+          "name": "Karoly PALOTAI",
+          "country": "HUN"
+        },
+        {
+          "name": "Vojtech CHRISTOV",
+          "country": "TCH"
+        },
+        {
+          "name": "Damir MATOVINOVIC",
+          "country": "CRO"
+        }
+      ]
+    },
+    {
+      "round": "Second Round, Group D",
+      "date": "1982-07-01",
+      "time": "17:15 UTC+2",
+      "team1": "Austria",
+      "team2": "Northern Ireland",
+      "score": [
+        2,
+        2
+      ],
+      "goals1": [
+        {
+          "name": "Bruno PEZZEY",
+          "minute": "50"
+        },
+        {
+          "name": "Reinhold HINTERMAIER",
+          "minute": "68"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Billy HAMILTON",
+          "minute": "27"
+        },
+        {
+          "name": "Billy HAMILTON",
+          "minute": "75"
+        }
+      ],
+      "ground": "Vicente Calderon, Madrid",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Friedl KONCILIA"
+            },
+            {
+              "name": "Bernd KRAUSS"
+            },
+            {
+              "name": "Erich OBERMAYER",
+              "captain": true
+            },
+            {
+              "name": "Bruno PEZZEY"
+            },
+            {
+              "name": "Johann PREGESBAUER"
+            },
+            {
+              "name": "Herbert PROHASKA"
+            },
+            {
+              "name": "Andy PICHLER"
+            },
+            {
+              "name": "Ernst BAUMEISTER"
+            },
+            {
+              "name": "Walter SCHACHNER"
+            },
+            {
+              "name": "Max HAGMAYR"
+            },
+            {
+              "name": "Gernot JURTIN"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Kurt WELZL"
+            },
+            {
+              "name": "Reinhold HINTERMAIER"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Reinhold HINTERMAIER",
+              "off": "Max HAGMAYR",
+              "minute": "45+1"
+            },
+            {
+              "on": "Kurt WELZL",
+              "off": "Johann PREGESBAUER",
+              "minute": "45+1"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Jim PLATT"
+            },
+            {
+              "name": "Jimmy NICHOLL"
+            },
+            {
+              "name": "Chris NICHOLL"
+            },
+            {
+              "name": "John McCLELLAND"
+            },
+            {
+              "name": "Sammy NELSON"
+            },
+            {
+              "name": "David McCREERY"
+            },
+            {
+              "name": "Martin O NEILL",
+              "captain": true
+            },
+            {
+              "name": "Sam McILROY"
+            },
+            {
+              "name": "Gerry ARMSTRONG"
+            },
+            {
+              "name": "Billy HAMILTON"
+            },
+            {
+              "name": "Norman WHITESIDE"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Noel BROTHERSTON"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Noel BROTHERSTON",
+              "off": "Norman WHITESIDE",
+              "minute": "68"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Andy PICHLER",
+            "minute": "86"
+          }
+        ],
+        []
+      ],
+      "referees": [
+        {
+          "name": "Erik FREDRIKSSON",
+          "country": "SWE"
+        },
+        {
+          "name": "Walter ESCHWEILER",
+          "country": "GER"
+        }
+      ]
+    },
+    {
+      "round": "Second Round, Group D",
+      "date": "1982-07-04",
+      "time": "17:15 UTC+2",
+      "team1": "France",
+      "team2": "Northern Ireland",
+      "score": [
+        4,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Alain GIRESSE",
+          "minute": "33"
+        },
+        {
+          "name": "Dominique ROCHETEAU",
+          "minute": "46"
+        },
+        {
+          "name": "Dominique ROCHETEAU",
+          "minute": "68"
+        },
+        {
+          "name": "Alain GIRESSE",
+          "minute": "80"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Gerry ARMSTRONG",
+          "minute": "75"
+        }
+      ],
+      "ground": "Vicente Calderon, Madrid",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Jean Luc ETTORI"
+            },
+            {
+              "name": "Manuel AMOROS"
+            },
+            {
+              "name": "Maxime BOSSIS"
+            },
+            {
+              "name": "Gerard JANVION"
+            },
+            {
+              "name": "Marius TRESOR"
+            },
+            {
+              "name": "Bernard GENGHINI"
+            },
+            {
+              "name": "Michel PLATINI",
+              "captain": true
+            },
+            {
+              "name": "Alain GIRESSE"
+            },
+            {
+              "name": "Jean TIGANA"
+            },
+            {
+              "name": "Dominique ROCHETEAU"
+            },
+            {
+              "name": "Gerard SOLER"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Alain COURIOL"
+            },
+            {
+              "name": "Didier SIX"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Didier SIX",
+              "off": "Gerard SOLER",
+              "minute": "63"
+            },
+            {
+              "on": "Alain COURIOL",
+              "off": "Dominique ROCHETEAU",
+              "minute": "83"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Pat JENNINGS"
+            },
+            {
+              "name": "Jimmy NICHOLL"
+            },
+            {
+              "name": "Mal DONAGHY"
+            },
+            {
+              "name": "Chris NICHOLL"
+            },
+            {
+              "name": "John McCLELLAND"
+            },
+            {
+              "name": "David McCREERY"
+            },
+            {
+              "name": "Martin O NEILL",
+              "captain": true
+            },
+            {
+              "name": "Sam McILROY"
+            },
+            {
+              "name": "Gerry ARMSTRONG"
+            },
+            {
+              "name": "Billy HAMILTON"
+            },
+            {
+              "name": "Norman WHITESIDE"
+            }
+          ],
+          "bench": [
+            {
+              "name": "John O NEILL"
+            }
+          ],
+          "subs": [
+            {
+              "on": "John O NEILL",
+              "off": "David McCREERY",
+              "minute": "86"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Jean TIGANA",
+            "minute": "57"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Billy HAMILTON",
+            "minute": "59"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Alojzy JARGUZ",
+          "country": "POL"
+        },
+        {
+          "name": "Nicolae RAINEA",
+          "country": "ROU"
+        },
+        {
+          "name": "Yusef Mohamed EL GHOUL",
+          "country": "LBY"
+        }
+      ]
+    },
+    {
+      "round": "Semi-final",
+      "date": "1982-07-08",
+      "time": "17:15 UTC+2",
+      "team1": "Poland",
+      "team2": "Italy",
+      "score": [
+        0,
+        2
+      ],
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Paolo ROSSI",
+          "minute": "22"
+        },
+        {
+          "name": "Paolo ROSSI",
+          "minute": "73"
+        }
+      ],
+      "ground": "Camp Nou, Barcelona",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Jozef MLYNARCZYK"
+            },
+            {
+              "name": "Marek DZIUBA"
+            },
+            {
+              "name": "Janusz KUPCEWICZ"
+            },
+            {
+              "name": "Pawel JANAS"
+            },
+            {
+              "name": "Wladyslaw ZMUDA",
+              "captain": true
+            },
+            {
+              "name": "Stefan MAJEWSKI"
+            },
+            {
+              "name": "Waldemar MATYSIK"
+            },
+            {
+              "name": "Andrzej BUNCOL"
+            },
+            {
+              "name": "Wlodzimierz CIOLEK"
+            },
+            {
+              "name": "Wlodimierz SMOLAREK"
+            },
+            {
+              "name": "Grzegorz LATO"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Andrzej PALASZ"
+            },
+            {
+              "name": "Marek KUSTO"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Andrzej PALASZ",
+              "off": "Wlodzimierz CIOLEK",
+              "minute": "45+1"
+            },
+            {
+              "on": "Marek KUSTO",
+              "off": "Wlodimierz SMOLAREK",
+              "minute": "77"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Dino ZOFF",
+              "captain": true
+            },
+            {
+              "name": "Giuseppe BERGOMI"
+            },
+            {
+              "name": "Antonio CABRINI"
+            },
+            {
+              "name": "Fulvio COLLOVATI"
+            },
+            {
+              "name": "Gaetano SCIREA"
+            },
+            {
+              "name": "Giancarlo ANTOGNONI"
+            },
+            {
+              "name": "Gabriele ORIALI"
+            },
+            {
+              "name": "Marco TARDELLI"
+            },
+            {
+              "name": "Bruno CONTI"
+            },
+            {
+              "name": "Francesco GRAZIANI"
+            },
+            {
+              "name": "Paolo ROSSI"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Giampiero MARINI"
+            },
+            {
+              "name": "Alessandro ALTOBELLI"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Giampiero MARINI",
+              "off": "Giancarlo ANTOGNONI",
+              "minute": "28"
+            },
+            {
+              "on": "Alessandro ALTOBELLI",
+              "off": "Francesco GRAZIANI",
+              "minute": "70"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Stefan MAJEWSKI",
+            "minute": "43"
+          },
+          {
+            "type": "Y",
+            "name": "Wladyslaw ZMUDA",
+            "minute": "51"
+          },
+          {
+            "type": "Y",
+            "name": "Wlodimierz SMOLAREK",
+            "minute": "57"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Fulvio COLLOVATI",
+            "minute": "57"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Juan CARDELLINO",
+          "country": "URU"
+        },
+        {
+          "name": "David SOCHA",
+          "country": "USA"
+        },
+        {
+          "name": "Gilberto ARISTIZABAL MURCIA",
+          "country": "COL"
+        }
+      ]
+    },
+    {
+      "round": "Semi-final",
+      "date": "1982-07-08",
+      "time": "21:00 UTC+2",
+      "team1": "West Germany",
+      "team2": "France",
+      "score": {
+        "p": [
+          5,
+          4
+        ],
+        "et": [
+          3,
+          3
+        ]
+      },
+      "goals1": [
+        {
+          "name": "Pierre LITTBARSKI",
+          "minute": "17"
+        },
+        {
+          "name": "Karl-Heinz RUMMENIGGE",
+          "minute": "102"
+        },
+        {
+          "name": "Klaus FISCHER",
+          "minute": "108"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Michel PLATINI",
+          "minute": "26",
+          "penalty": true
+        },
+        {
+          "name": "Marius TRESOR",
+          "minute": "92"
+        },
+        {
+          "name": "Alain GIRESSE",
+          "minute": "98"
+        }
+      ],
+      "penalties": [
+        {
+          "name": "Alain GIRESSE",
+          "score": [
+            0,
+            1
+          ]
+        },
+        {
+          "name": "Manfred KALTZ",
+          "score": [
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Manuel AMOROS",
+          "score": [
+            1,
+            2
+          ]
+        },
+        {
+          "name": "Paul BREITNER",
+          "score": [
+            2,
+            2
+          ]
+        },
+        {
+          "name": "Dominique ROCHETEAU",
+          "score": [
+            2,
+            3
+          ]
+        },
+        {
+          "name": "Uli STIELIKE",
+          "note": "missed"
+        },
+        {
+          "name": "Didier SIX",
+          "note": "missed"
+        },
+        {
+          "name": "Pierre LITTBARSKI",
+          "score": [
+            3,
+            3
+          ]
+        },
+        {
+          "name": "Michel PLATINI",
+          "score": [
+            3,
+            4
+          ]
+        },
+        {
+          "name": "Karl-Heinz RUMMENIGGE",
+          "score": [
+            4,
+            4
+          ]
+        },
+        {
+          "name": "Maxime BOSSIS",
+          "note": "missed"
+        },
+        {
+          "name": "Horst HRUBESCH",
+          "score": [
+            5,
+            4
+          ]
+        }
+      ],
+      "ground": "Ramon Sanchez Pizjuan, Seville",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Harald SCHUMACHER"
+            },
+            {
+              "name": "Hans Peter BRIEGEL"
+            },
+            {
+              "name": "Karlheinz FOERSTER"
+            },
+            {
+              "name": "Bernd FOERSTER"
+            },
+            {
+              "name": "Uli STIELIKE"
+            },
+            {
+              "name": "Manfred KALTZ",
+              "captain": true
+            },
+            {
+              "name": "Paul BREITNER"
+            },
+            {
+              "name": "Wolfgang DREMMLER"
+            },
+            {
+              "name": "Pierre LITTBARSKI"
+            },
+            {
+              "name": "Felix MAGATH"
+            },
+            {
+              "name": "Klaus FISCHER"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Karl-Heinz RUMMENIGGE"
+            },
+            {
+              "name": "Horst HRUBESCH"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Horst HRUBESCH",
+              "off": "Felix MAGATH",
+              "minute": "73"
+            },
+            {
+              "on": "Karl-Heinz RUMMENIGGE",
+              "off": "Hans Peter BRIEGEL",
+              "minute": "97"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Jean Luc ETTORI"
+            },
+            {
+              "name": "Manuel AMOROS"
+            },
+            {
+              "name": "Maxime BOSSIS"
+            },
+            {
+              "name": "Gerard JANVION"
+            },
+            {
+              "name": "Marius TRESOR"
+            },
+            {
+              "name": "Bernard GENGHINI"
+            },
+            {
+              "name": "Michel PLATINI",
+              "captain": true
+            },
+            {
+              "name": "Alain GIRESSE"
+            },
+            {
+              "name": "Jean TIGANA"
+            },
+            {
+              "name": "Dominique ROCHETEAU"
+            },
+            {
+              "name": "Didier SIX"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Patrick BATTISTON"
+            },
+            {
+              "name": "Christian LOPEZ"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Patrick BATTISTON",
+              "off": "Bernard GENGHINI",
+              "minute": "50"
+            },
+            {
+              "on": "Christian LOPEZ",
+              "off": "Patrick BATTISTON",
+              "minute": "60"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Bernd FOERSTER",
+            "minute": "46"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Alain GIRESSE",
+            "minute": "35"
+          },
+          {
+            "type": "Y",
+            "name": "Bernard GENGHINI",
+            "minute": "40"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Charles CORVER",
+          "country": "NED"
+        },
+        {
+          "name": "Bruno GALLER",
+          "country": "SUI"
+        },
+        {
+          "name": "Robert VALENTINE",
+          "country": "SCO"
+        }
+      ]
+    },
+    {
+      "round": "Match for third place",
+      "date": "1982-07-10",
+      "time": "20:00 UTC+2",
+      "team1": "Poland",
+      "team2": "France",
+      "score": [
+        3,
+        2
+      ],
+      "goals1": [
+        {
+          "name": "Andrzej SZARMACH",
+          "minute": "40"
+        },
+        {
+          "name": "Stefan MAJEWSKI",
+          "minute": "44"
+        },
+        {
+          "name": "Janusz KUPCEWICZ",
+          "minute": "46"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Rene GIRARD",
+          "minute": "13"
+        },
+        {
+          "name": "Alain COURIOL",
+          "minute": "72"
+        }
+      ],
+      "ground": "Estadio José Rico Pérez, Alicante",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Jozef MLYNARCZYK"
+            },
+            {
+              "name": "Marek DZIUBA"
+            },
+            {
+              "name": "Janusz KUPCEWICZ"
+            },
+            {
+              "name": "Pawel JANAS"
+            },
+            {
+              "name": "Wladyslaw ZMUDA",
+              "captain": true
+            },
+            {
+              "name": "Stefan MAJEWSKI"
+            },
+            {
+              "name": "Waldemar MATYSIK"
+            },
+            {
+              "name": "Andrzej BUNCOL"
+            },
+            {
+              "name": "Grzegorz LATO"
+            },
+            {
+              "name": "Andrzej SZARMACH"
+            },
+            {
+              "name": "Zbigniew BONIEK"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Roman WOJCICKI"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Roman WOJCICKI",
+              "off": "Waldemar MATYSIK",
+              "minute": "45+1"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Jean CASTANEDA"
+            },
+            {
+              "name": "Manuel AMOROS"
+            },
+            {
+              "name": "Gerard JANVION"
+            },
+            {
+              "name": "Philippe MAHUT"
+            },
+            {
+              "name": "Marius TRESOR",
+              "captain": true
+            },
+            {
+              "name": "Rene GIRARD"
+            },
+            {
+              "name": "Jean Francois LARIOS"
+            },
+            {
+              "name": "Jean TIGANA"
+            },
+            {
+              "name": "Bruno BELLONE"
+            },
+            {
+              "name": "Alain COURIOL"
+            },
+            {
+              "name": "Gerard SOLER"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Christian LOPEZ"
+            },
+            {
+              "name": "Didier SIX"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Christian LOPEZ",
+              "off": "Gerard JANVION",
+              "minute": "66"
+            },
+            {
+              "on": "Didier SIX",
+              "off": "Jean TIGANA",
+              "minute": "83"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Andrzej BUNCOL",
+            "minute": "62"
+          },
+          {
+            "type": "Y",
+            "name": "Roman WOJCICKI",
+            "minute": "71"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Gerard SOLER",
+            "minute": "79"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Antonio GARRIDO",
+          "country": "POR"
+        },
+        {
+          "name": "Mario RUBIO VAZQUEZ",
+          "country": "MEX"
+        },
+        {
+          "name": "Belaïd LACARNE",
+          "country": "ALG"
+        }
+      ]
+    },
+    {
+      "round": "Final",
+      "date": "1982-07-11",
+      "time": "20:00 UTC+2",
+      "team1": "Italy",
+      "team2": "West Germany",
+      "score": [
+        3,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Paolo ROSSI",
+          "minute": "57"
+        },
+        {
+          "name": "Marco TARDELLI",
+          "minute": "69"
+        },
+        {
+          "name": "Alessandro ALTOBELLI",
+          "minute": "81"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Paul BREITNER",
+          "minute": "83"
+        }
+      ],
+      "ground": "Santiago Bernabeu, Madrid",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Dino ZOFF",
+              "captain": true
+            },
+            {
+              "name": "Giuseppe BERGOMI"
+            },
+            {
+              "name": "Antonio CABRINI"
+            },
+            {
+              "name": "Fulvio COLLOVATI"
+            },
+            {
+              "name": "Claudio GENTILE"
+            },
+            {
+              "name": "Gaetano SCIREA"
+            },
+            {
+              "name": "Gabriele ORIALI"
+            },
+            {
+              "name": "Marco TARDELLI"
+            },
+            {
+              "name": "Bruno CONTI"
+            },
+            {
+              "name": "Francesco GRAZIANI"
+            },
+            {
+              "name": "Paolo ROSSI"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Alessandro ALTOBELLI"
+            },
+            {
+              "name": "Franco CAUSIO"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Alessandro ALTOBELLI",
+              "off": "Francesco GRAZIANI",
+              "minute": "7"
+            },
+            {
+              "on": "Franco CAUSIO",
+              "off": "Alessandro ALTOBELLI",
+              "minute": "89"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Harald SCHUMACHER"
+            },
+            {
+              "name": "Hans Peter BRIEGEL"
+            },
+            {
+              "name": "Karlheinz FOERSTER"
+            },
+            {
+              "name": "Bernd FOERSTER"
+            },
+            {
+              "name": "Uli STIELIKE"
+            },
+            {
+              "name": "Manfred KALTZ"
+            },
+            {
+              "name": "Paul BREITNER"
+            },
+            {
+              "name": "Wolfgang DREMMLER"
+            },
+            {
+              "name": "Pierre LITTBARSKI"
+            },
+            {
+              "name": "Klaus FISCHER"
+            },
+            {
+              "name": "Karl-Heinz RUMMENIGGE",
+              "captain": true
+            }
+          ],
+          "bench": [
+            {
+              "name": "Horst HRUBESCH"
+            },
+            {
+              "name": "Hansi MUELLER"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Horst HRUBESCH",
+              "off": "Wolfgang DREMMLER",
+              "minute": "62"
+            },
+            {
+              "on": "Hansi MUELLER",
+              "off": "Karl-Heinz RUMMENIGGE",
+              "minute": "70"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Bruno CONTI",
+            "minute": "31"
+          },
+          {
+            "type": "Y",
+            "name": "Gabriele ORIALI",
+            "minute": "73"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Wolfgang DREMMLER",
+            "minute": "61"
+          },
+          {
+            "type": "Y",
+            "name": "Uli STIELIKE",
+            "minute": "73"
+          },
+          {
+            "type": "Y",
+            "name": "Pierre LITTBARSKI",
+            "minute": "88"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Arnaldo COELHO",
+          "country": "BRA"
+        },
+        {
+          "name": "Abraham KLEIN",
+          "country": "ISR"
+        },
+        {
+          "name": "Vojtech CHRISTOV",
+          "country": "TCH"
+        }
+      ]
+    }
+  ]
+}

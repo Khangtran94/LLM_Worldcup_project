@@ -1,0 +1,6141 @@
+{
+  "name": "World Cup 1978",
+  "matches": [
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1978-06-02",
+      "time": "13:45 UTC-3",
+      "team1": "Italy",
+      "team2": "France",
+      "score": [
+        2,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Paolo ROSSI",
+          "minute": "29"
+        },
+        {
+          "name": "Renato ZACCARELLI",
+          "minute": "54"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Bernard LACOMBE",
+          "minute": "1"
+        }
+      ],
+      "ground": "Estadio José María Minella, Mar del Plata",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Dino ZOFF",
+              "captain": true
+            },
+            {
+              "name": "Mauro BELLUGI"
+            },
+            {
+              "name": "Antonio CABRINI"
+            },
+            {
+              "name": "Claudio GENTILE"
+            },
+            {
+              "name": "Gaetano SCIREA"
+            },
+            {
+              "name": "Giancarlo ANTOGNONI"
+            },
+            {
+              "name": "Romeo BENETTI"
+            },
+            {
+              "name": "Marco TARDELLI"
+            },
+            {
+              "name": "Franco CAUSIO"
+            },
+            {
+              "name": "Roberto BETTEGA"
+            },
+            {
+              "name": "Paolo ROSSI"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Renato ZACCARELLI"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Renato ZACCARELLI",
+              "off": "Giancarlo ANTOGNONI",
+              "minute": "45+1"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Jean Paul BERTRAND DEMANES"
+            },
+            {
+              "name": "Maxime BOSSIS"
+            },
+            {
+              "name": "Gerard JANVION"
+            },
+            {
+              "name": "Patrice RIO"
+            },
+            {
+              "name": "Marius TRESOR",
+              "captain": true
+            },
+            {
+              "name": "Jean Marc GUILLOU"
+            },
+            {
+              "name": "Henri MICHEL"
+            },
+            {
+              "name": "Michel PLATINI"
+            },
+            {
+              "name": "Christian DALGER"
+            },
+            {
+              "name": "Bernard LACOMBE"
+            },
+            {
+              "name": "Didier SIX"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Marc BERDOLL"
+            },
+            {
+              "name": "Olivier ROUYER"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Marc BERDOLL",
+              "off": "Bernard LACOMBE",
+              "minute": "74"
+            },
+            {
+              "on": "Olivier ROUYER",
+              "off": "Didier SIX",
+              "minute": "76"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Marco TARDELLI",
+            "minute": "35"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Michel PLATINI",
+            "minute": "60"
+          },
+          {
+            "type": "Y",
+            "name": "Henri MICHEL",
+            "minute": "80"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Nicolae RAINEA",
+          "country": "ROU"
+        },
+        {
+          "name": "Erich LINEMAYR",
+          "country": "AUT"
+        },
+        {
+          "name": "Juan SILVAGNO CAVANNA",
+          "country": "CHI"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1978-06-02",
+      "time": "19:15 UTC-3",
+      "team1": "Argentina",
+      "team2": "Hungary",
+      "score": [
+        2,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Leopoldo LUQUE",
+          "minute": "15"
+        },
+        {
+          "name": "Daniel BERTONI",
+          "minute": "83"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Karoly CSAPO",
+          "minute": "10"
+        }
+      ],
+      "ground": "El Monumental, Buenos Aires",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Ubaldo FILLOL"
+            },
+            {
+              "name": "Luis GALVAN"
+            },
+            {
+              "name": "Jorge OLGUIN"
+            },
+            {
+              "name": "Daniel PASSARELLA",
+              "captain": true
+            },
+            {
+              "name": "Alberto TARANTINI"
+            },
+            {
+              "name": "Osvaldo ARDILES"
+            },
+            {
+              "name": "Americo GALLEGO"
+            },
+            {
+              "name": "Rene HOUSEMAN"
+            },
+            {
+              "name": "Jose VALENCIA"
+            },
+            {
+              "name": "Mario KEMPES"
+            },
+            {
+              "name": "Leopoldo LUQUE"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Daniel BERTONI"
+            },
+            {
+              "name": "Norberto ALONSO"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Daniel BERTONI",
+              "off": "Rene HOUSEMAN",
+              "minute": "67"
+            },
+            {
+              "on": "Norberto ALONSO",
+              "off": "Jose VALENCIA",
+              "minute": "75"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Sandor GUJDAR"
+            },
+            {
+              "name": "Peter TOROK"
+            },
+            {
+              "name": "Istvan KOCSIS"
+            },
+            {
+              "name": "Jozsef TOTH"
+            },
+            {
+              "name": "Zoltan KEREKI",
+              "captain": true
+            },
+            {
+              "name": "Sandor ZOMBORI"
+            },
+            {
+              "name": "Tibor NYILASI"
+            },
+            {
+              "name": "Sandor PINTER"
+            },
+            {
+              "name": "Karoly CSAPO"
+            },
+            {
+              "name": "Laszlo NAGY"
+            },
+            {
+              "name": "Andras TOROCSIK"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Gyozo MARTOS"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Gyozo MARTOS",
+              "off": "Peter TOROK",
+              "minute": "45+1"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Daniel PASSARELLA",
+            "minute": "77"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Tibor NYILASI",
+            "minute": "21"
+          },
+          {
+            "type": "Y",
+            "name": "Andras TOROCSIK",
+            "minute": "48"
+          },
+          {
+            "type": "R",
+            "name": "Andras TOROCSIK",
+            "minute": "88"
+          },
+          {
+            "type": "R",
+            "name": "Tibor NYILASI",
+            "minute": "89"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Antonio GARRIDO",
+          "country": "POR"
+        },
+        {
+          "name": "Youssou NDIAYE",
+          "country": "SEN"
+        },
+        {
+          "name": "Pat PARTRIDGE",
+          "country": "ENG"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1978-06-06",
+      "time": "13:45 UTC-3",
+      "team1": "Italy",
+      "team2": "Hungary",
+      "score": [
+        3,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Paolo ROSSI",
+          "minute": "34"
+        },
+        {
+          "name": "Roberto BETTEGA",
+          "minute": "36"
+        },
+        {
+          "name": "Romeo BENETTI",
+          "minute": "60"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Andras TOTH",
+          "minute": "81",
+          "penalty": true
+        }
+      ],
+      "ground": "Estadio José María Minella, Mar del Plata",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Dino ZOFF",
+              "captain": true
+            },
+            {
+              "name": "Mauro BELLUGI"
+            },
+            {
+              "name": "Antonio CABRINI"
+            },
+            {
+              "name": "Claudio GENTILE"
+            },
+            {
+              "name": "Gaetano SCIREA"
+            },
+            {
+              "name": "Giancarlo ANTOGNONI"
+            },
+            {
+              "name": "Romeo BENETTI"
+            },
+            {
+              "name": "Marco TARDELLI"
+            },
+            {
+              "name": "Franco CAUSIO"
+            },
+            {
+              "name": "Roberto BETTEGA"
+            },
+            {
+              "name": "Paolo ROSSI"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Antonello CUCCUREDDU"
+            },
+            {
+              "name": "Francesco GRAZIANI"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Antonello CUCCUREDDU",
+              "off": "Antonio CABRINI",
+              "minute": "79"
+            },
+            {
+              "on": "Francesco GRAZIANI",
+              "off": "Roberto BETTEGA",
+              "minute": "83"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Ferenc MESZAROS"
+            },
+            {
+              "name": "Istvan KOCSIS"
+            },
+            {
+              "name": "Jozsef TOTH"
+            },
+            {
+              "name": "Zoltan KEREKI",
+              "captain": true
+            },
+            {
+              "name": "Gyozo MARTOS"
+            },
+            {
+              "name": "Sandor ZOMBORI"
+            },
+            {
+              "name": "Sandor PINTER"
+            },
+            {
+              "name": "Karoly CSAPO"
+            },
+            {
+              "name": "Laszlo NAGY"
+            },
+            {
+              "name": "Laszlo FAZEKAS"
+            },
+            {
+              "name": "Laszlo PUSZTAI"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Istvan HALASZ"
+            },
+            {
+              "name": "Andras TOTH"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Andras TOTH",
+              "off": "Laszlo FAZEKAS",
+              "minute": "45+1"
+            },
+            {
+              "on": "Istvan HALASZ",
+              "off": "Laszlo NAGY",
+              "minute": "45+1"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [],
+        [
+          {
+            "type": "Y",
+            "name": "Sandor ZOMBORI",
+            "minute": "26"
+          },
+          {
+            "type": "Y",
+            "name": "Gyozo MARTOS",
+            "minute": "64"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Ramon BARRETO RUIZ",
+          "country": "URU"
+        },
+        {
+          "name": "Ferdinand BIWERSI",
+          "country": "GER"
+        },
+        {
+          "name": "John GORDON",
+          "country": "SCO"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1978-06-06",
+      "time": "19:15 UTC-3",
+      "team1": "Argentina",
+      "team2": "France",
+      "score": [
+        2,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Daniel PASSARELLA",
+          "minute": "45",
+          "penalty": true
+        },
+        {
+          "name": "Leopoldo LUQUE",
+          "minute": "73"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Michel PLATINI",
+          "minute": "60"
+        }
+      ],
+      "ground": "El Monumental, Buenos Aires",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Ubaldo FILLOL"
+            },
+            {
+              "name": "Luis GALVAN"
+            },
+            {
+              "name": "Jorge OLGUIN"
+            },
+            {
+              "name": "Daniel PASSARELLA",
+              "captain": true
+            },
+            {
+              "name": "Alberto TARANTINI"
+            },
+            {
+              "name": "Osvaldo ARDILES"
+            },
+            {
+              "name": "Americo GALLEGO"
+            },
+            {
+              "name": "Rene HOUSEMAN"
+            },
+            {
+              "name": "Jose VALENCIA"
+            },
+            {
+              "name": "Mario KEMPES"
+            },
+            {
+              "name": "Leopoldo LUQUE"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Norberto ALONSO"
+            },
+            {
+              "name": "Oscar ORTIZ"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Norberto ALONSO",
+              "off": "Jose VALENCIA",
+              "minute": "64"
+            },
+            {
+              "on": "Oscar ORTIZ",
+              "off": "Norberto ALONSO",
+              "minute": "71"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Jean Paul BERTRAND DEMANES"
+            },
+            {
+              "name": "Patrick BATTISTON"
+            },
+            {
+              "name": "Maxime BOSSIS"
+            },
+            {
+              "name": "Christian LOPEZ"
+            },
+            {
+              "name": "Marius TRESOR",
+              "captain": true
+            },
+            {
+              "name": "Dominique BATHENAY"
+            },
+            {
+              "name": "Henri MICHEL"
+            },
+            {
+              "name": "Michel PLATINI"
+            },
+            {
+              "name": "Bernard LACOMBE"
+            },
+            {
+              "name": "Dominique ROCHETEAU"
+            },
+            {
+              "name": "Didier SIX"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Dominique BARATELLI"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Dominique BARATELLI",
+              "off": "Jean Paul BERTRAND DEMANES",
+              "minute": "55"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [],
+        [
+          {
+            "type": "Y",
+            "name": "Didier SIX",
+            "minute": "53"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Jean DUBACH",
+          "country": "SUI"
+        },
+        {
+          "name": "Cesar OROZCO GUERRERO",
+          "country": "PER"
+        },
+        {
+          "name": "Werner WINSEMANN",
+          "country": "CAN"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1978-06-10",
+      "time": "15:10 UTC-3",
+      "team1": "France",
+      "team2": "Hungary",
+      "score": [
+        3,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Christian LOPEZ",
+          "minute": "22"
+        },
+        {
+          "name": "Marc BERDOLL",
+          "minute": "37"
+        },
+        {
+          "name": "Dominique ROCHETEAU",
+          "minute": "42"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Sandor ZOMBORI",
+          "minute": "41"
+        }
+      ],
+      "ground": "Estadio José María Minella, Mar del Plata",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Dominique DROPSY"
+            },
+            {
+              "name": "Gerard JANVION"
+            },
+            {
+              "name": "Francois BRACCI"
+            },
+            {
+              "name": "Christian LOPEZ"
+            },
+            {
+              "name": "Marius TRESOR",
+              "captain": true
+            },
+            {
+              "name": "Dominique BATHENAY"
+            },
+            {
+              "name": "Claude PAPI"
+            },
+            {
+              "name": "Jean PETIT"
+            },
+            {
+              "name": "Marc BERDOLL"
+            },
+            {
+              "name": "Dominique ROCHETEAU"
+            },
+            {
+              "name": "Olivier ROUYER"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Michel PLATINI"
+            },
+            {
+              "name": "Didier SIX"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Michel PLATINI",
+              "off": "Claude PAPI",
+              "minute": "45+1"
+            },
+            {
+              "on": "Didier SIX",
+              "off": "Dominique ROCHETEAU",
+              "minute": "75"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Sandor GUJDAR"
+            },
+            {
+              "name": "Jozsef TOTH"
+            },
+            {
+              "name": "Zoltan KEREKI",
+              "captain": true
+            },
+            {
+              "name": "Gyozo MARTOS"
+            },
+            {
+              "name": "Laszlo BALINT"
+            },
+            {
+              "name": "Sandor ZOMBORI"
+            },
+            {
+              "name": "Tibor NYILASI"
+            },
+            {
+              "name": "Sandor PINTER"
+            },
+            {
+              "name": "Laszlo NAGY"
+            },
+            {
+              "name": "Andras TOROCSIK"
+            },
+            {
+              "name": "Laszlo PUSZTAI"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Karoly CSAPO"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Karoly CSAPO",
+              "off": "Laszlo NAGY",
+              "minute": "73"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Arnaldo COELHO",
+          "country": "BRA"
+        },
+        {
+          "name": "Pat PARTRIDGE",
+          "country": "ENG"
+        },
+        {
+          "name": "Juan SILVAGNO CAVANNA",
+          "country": "CHI"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1978-06-10",
+      "time": "19:15 UTC-3",
+      "team1": "Italy",
+      "team2": "Argentina",
+      "score": [
+        1,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Roberto BETTEGA",
+          "minute": "67"
+        }
+      ],
+      "goals2": [],
+      "ground": "El Monumental, Buenos Aires",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Dino ZOFF",
+              "captain": true
+            },
+            {
+              "name": "Mauro BELLUGI"
+            },
+            {
+              "name": "Antonio CABRINI"
+            },
+            {
+              "name": "Claudio GENTILE"
+            },
+            {
+              "name": "Gaetano SCIREA"
+            },
+            {
+              "name": "Giancarlo ANTOGNONI"
+            },
+            {
+              "name": "Romeo BENETTI"
+            },
+            {
+              "name": "Marco TARDELLI"
+            },
+            {
+              "name": "Franco CAUSIO"
+            },
+            {
+              "name": "Roberto BETTEGA"
+            },
+            {
+              "name": "Paolo ROSSI"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Antonello CUCCUREDDU"
+            },
+            {
+              "name": "Renato ZACCARELLI"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Antonello CUCCUREDDU",
+              "off": "Mauro BELLUGI",
+              "minute": "6"
+            },
+            {
+              "on": "Renato ZACCARELLI",
+              "off": "Giancarlo ANTOGNONI",
+              "minute": "73"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Ubaldo FILLOL"
+            },
+            {
+              "name": "Luis GALVAN"
+            },
+            {
+              "name": "Jorge OLGUIN"
+            },
+            {
+              "name": "Daniel PASSARELLA",
+              "captain": true
+            },
+            {
+              "name": "Alberto TARANTINI"
+            },
+            {
+              "name": "Osvaldo ARDILES"
+            },
+            {
+              "name": "Americo GALLEGO"
+            },
+            {
+              "name": "Jose VALENCIA"
+            },
+            {
+              "name": "Daniel BERTONI"
+            },
+            {
+              "name": "Mario KEMPES"
+            },
+            {
+              "name": "Oscar ORTIZ"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Rene HOUSEMAN"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Rene HOUSEMAN",
+              "off": "Oscar ORTIZ",
+              "minute": "72"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Romeo BENETTI",
+            "minute": "60"
+          }
+        ],
+        []
+      ],
+      "referees": [
+        {
+          "name": "Abraham KLEIN",
+          "country": "ISR"
+        },
+        {
+          "name": "Alfonso GONZALEZ ARCHUNDIA",
+          "country": "MEX"
+        },
+        {
+          "name": "Francis RION",
+          "country": "BEL"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1978-06-01",
+      "time": "15:00 UTC-3",
+      "team1": "West Germany",
+      "team2": "Poland",
+      "score": [
+        0,
+        0
+      ],
+      "ground": "El Monumental, Buenos Aires",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Sepp MAIER"
+            },
+            {
+              "name": "Berti VOGTS",
+              "captain": true
+            },
+            {
+              "name": "Rolf RUESSMANN"
+            },
+            {
+              "name": "Manfred KALTZ"
+            },
+            {
+              "name": "Herbert ZIMMERMANN"
+            },
+            {
+              "name": "Rainer BONHOF"
+            },
+            {
+              "name": "Heinz FLOHE"
+            },
+            {
+              "name": "Erich BEER"
+            },
+            {
+              "name": "Hansi MUELLER"
+            },
+            {
+              "name": "Ruediger ABRAMCZIK"
+            },
+            {
+              "name": "Klaus FISCHER"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Jan TOMASZEWSKI"
+            },
+            {
+              "name": "Henryk MACULEWICZ"
+            },
+            {
+              "name": "Antoni SZYMANOWSKI"
+            },
+            {
+              "name": "Jerzy GORGON"
+            },
+            {
+              "name": "Wladyslaw ZMUDA"
+            },
+            {
+              "name": "Adam NAWALKA"
+            },
+            {
+              "name": "Bohdan MASZTALER"
+            },
+            {
+              "name": "Kazimierz DEYNA",
+              "captain": true
+            },
+            {
+              "name": "Grzegorz LATO"
+            },
+            {
+              "name": "Andrzej SZARMACH"
+            },
+            {
+              "name": "Wlodzimierz LUBANSKI"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Henryk KASPERCZAK"
+            },
+            {
+              "name": "Zbigniew BONIEK"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Zbigniew BONIEK",
+              "off": "Wlodzimierz LUBANSKI",
+              "minute": "79"
+            },
+            {
+              "on": "Henryk KASPERCZAK",
+              "off": "Bohdan MASZTALER",
+              "minute": "84"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Norberto Angel COEREZZA",
+          "country": "ARG"
+        },
+        {
+          "name": "Arturo Andres ITHURRALDE",
+          "country": "ARG"
+        },
+        {
+          "name": "Miguel COMESANA",
+          "country": "ARG"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1978-06-02",
+      "time": "16:45 UTC-3",
+      "team1": "Tunisia",
+      "team2": "Mexico",
+      "score": [
+        3,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Ali KAABI",
+          "minute": "55"
+        },
+        {
+          "name": "Nejib GHOMMIDH",
+          "minute": "79"
+        },
+        {
+          "name": "Mokhtar DOUIEB",
+          "minute": "87"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Arturo VAZQUEZ",
+          "minute": "45",
+          "penalty": true
+        }
+      ],
+      "ground": "Arroyito, Rosario",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Mokhtar NAILI"
+            },
+            {
+              "name": "Mokhtar DOUIEB"
+            },
+            {
+              "name": "Ali KAABI"
+            },
+            {
+              "name": "Mohsen LABIDI"
+            },
+            {
+              "name": "Omar JEBALI"
+            },
+            {
+              "name": "Nejib GHOMMIDH"
+            },
+            {
+              "name": "Hamadi AGREBI"
+            },
+            {
+              "name": "Tarek DHIAB"
+            },
+            {
+              "name": "Temime LAKHZAMI",
+              "captain": true
+            },
+            {
+              "name": "Mohamed AKID"
+            },
+            {
+              "name": "Raouf BEN AZIZA"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Khemais LABIDI"
+            },
+            {
+              "name": "Salah KAROUI"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Salah KAROUI",
+              "off": "Raouf BEN AZIZA",
+              "minute": "81"
+            },
+            {
+              "on": "Khemais LABIDI",
+              "off": "Temime LAKHZAMI",
+              "minute": "88"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Jose REYES"
+            },
+            {
+              "name": "Alfredo TENA"
+            },
+            {
+              "name": "Eduardo RAMOS"
+            },
+            {
+              "name": "Arturo VAZQUEZ",
+              "captain": true
+            },
+            {
+              "name": "Jesus MARTINEZ"
+            },
+            {
+              "name": "Guillermo MENDIZABAL"
+            },
+            {
+              "name": "Antonio DE LA TORRE"
+            },
+            {
+              "name": "Leonardo CUELLAR"
+            },
+            {
+              "name": "Victor RANGEL"
+            },
+            {
+              "name": "Hugo SANCHEZ"
+            },
+            {
+              "name": "Raul ISIORDIA"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Gerardo LUGO"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Gerardo LUGO",
+              "off": "Guillermo MENDIZABAL",
+              "minute": "67"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "John GORDON",
+          "country": "SCO"
+        },
+        {
+          "name": "Jean DUBACH",
+          "country": "SUI"
+        },
+        {
+          "name": "Sergio GONELLA",
+          "country": "ITA"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1978-06-06",
+      "time": "16:45 UTC-3",
+      "team1": "Poland",
+      "team2": "Tunisia",
+      "score": [
+        1,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Grzegorz LATO",
+          "minute": "43"
+        }
+      ],
+      "goals2": [],
+      "ground": "Arroyito, Rosario",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Jan TOMASZEWSKI"
+            },
+            {
+              "name": "Henryk MACULEWICZ"
+            },
+            {
+              "name": "Antoni SZYMANOWSKI"
+            },
+            {
+              "name": "Jerzy GORGON"
+            },
+            {
+              "name": "Wladyslaw ZMUDA"
+            },
+            {
+              "name": "Adam NAWALKA"
+            },
+            {
+              "name": "Henryk KASPERCZAK"
+            },
+            {
+              "name": "Kazimierz DEYNA",
+              "captain": true
+            },
+            {
+              "name": "Grzegorz LATO"
+            },
+            {
+              "name": "Andrzej SZARMACH"
+            },
+            {
+              "name": "Wlodzimierz LUBANSKI"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Andrzej IWAN"
+            },
+            {
+              "name": "Zbigniew BONIEK"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Andrzej IWAN",
+              "off": "Andrzej SZARMACH",
+              "minute": "60"
+            },
+            {
+              "on": "Zbigniew BONIEK",
+              "off": "Wlodzimierz LUBANSKI",
+              "minute": "76"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Mokhtar NAILI"
+            },
+            {
+              "name": "Mokhtar DOUIEB"
+            },
+            {
+              "name": "Ali KAABI"
+            },
+            {
+              "name": "Omar JEBALI"
+            },
+            {
+              "name": "Khaled GASMI"
+            },
+            {
+              "name": "Nejib GHOMMIDH"
+            },
+            {
+              "name": "Hamadi AGREBI"
+            },
+            {
+              "name": "Tarek DHIAB"
+            },
+            {
+              "name": "Khemais LABIDI"
+            },
+            {
+              "name": "Temime LAKHZAMI",
+              "captain": true
+            },
+            {
+              "name": "Mohamed AKID"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Angel MARTINEZ",
+          "country": "ESP"
+        },
+        {
+          "name": "Luis PESTARINO",
+          "country": "ARG"
+        },
+        {
+          "name": "Clive THOMAS",
+          "country": "WAL"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1978-06-06",
+      "time": "16:45 UTC-3",
+      "team1": "West Germany",
+      "team2": "Mexico",
+      "score": [
+        6,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Dieter MUELLER",
+          "minute": "15"
+        },
+        {
+          "name": "Hansi MUELLER",
+          "minute": "30"
+        },
+        {
+          "name": "Karl-Heinz RUMMENIGGE",
+          "minute": "38"
+        },
+        {
+          "name": "Heinz FLOHE",
+          "minute": "44"
+        },
+        {
+          "name": "Karl-Heinz RUMMENIGGE",
+          "minute": "73"
+        },
+        {
+          "name": "Heinz FLOHE",
+          "minute": "89"
+        }
+      ],
+      "goals2": [],
+      "ground": "Estadio Mario Alberto Kempes, Córdoba",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Sepp MAIER"
+            },
+            {
+              "name": "Berti VOGTS",
+              "captain": true
+            },
+            {
+              "name": "Bernd DIETZ"
+            },
+            {
+              "name": "Rolf RUESSMANN"
+            },
+            {
+              "name": "Manfred KALTZ"
+            },
+            {
+              "name": "Rainer BONHOF"
+            },
+            {
+              "name": "Heinz FLOHE"
+            },
+            {
+              "name": "Hansi MUELLER"
+            },
+            {
+              "name": "Klaus FISCHER"
+            },
+            {
+              "name": "Karl-Heinz RUMMENIGGE"
+            },
+            {
+              "name": "Dieter MUELLER"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Jose REYES"
+            },
+            {
+              "name": "Alfredo TENA"
+            },
+            {
+              "name": "Eduardo RAMOS"
+            },
+            {
+              "name": "Arturo VAZQUEZ",
+              "captain": true
+            },
+            {
+              "name": "Jesus MARTINEZ"
+            },
+            {
+              "name": "Guillermo MENDIZABAL"
+            },
+            {
+              "name": "Antonio DE LA TORRE"
+            },
+            {
+              "name": "Leonardo CUELLAR"
+            },
+            {
+              "name": "Enrique LOPEZ ZARZA"
+            },
+            {
+              "name": "Victor RANGEL"
+            },
+            {
+              "name": "Hugo SANCHEZ"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Pedro SOTO"
+            },
+            {
+              "name": "Gerardo LUGO"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Pedro SOTO",
+              "off": "Jose REYES",
+              "minute": "39"
+            },
+            {
+              "on": "Gerardo LUGO",
+              "off": "Enrique LOPEZ ZARZA",
+              "minute": "45+1"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Rainer BONHOF",
+            "minute": "43"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Arturo VAZQUEZ",
+            "minute": "44"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Farouk BOUZO",
+          "country": "SYR"
+        },
+        {
+          "name": "Antonio GARRIDO",
+          "country": "POR"
+        },
+        {
+          "name": "Francis RION",
+          "country": "BEL"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1978-06-10",
+      "time": "16:45 UTC-3",
+      "team1": "West Germany",
+      "team2": "Tunisia",
+      "score": [
+        0,
+        0
+      ],
+      "ground": "Estadio Mario Alberto Kempes, Córdoba",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Sepp MAIER"
+            },
+            {
+              "name": "Berti VOGTS",
+              "captain": true
+            },
+            {
+              "name": "Bernd DIETZ"
+            },
+            {
+              "name": "Rolf RUESSMANN"
+            },
+            {
+              "name": "Manfred KALTZ"
+            },
+            {
+              "name": "Rainer BONHOF"
+            },
+            {
+              "name": "Heinz FLOHE"
+            },
+            {
+              "name": "Hansi MUELLER"
+            },
+            {
+              "name": "Klaus FISCHER"
+            },
+            {
+              "name": "Karl-Heinz RUMMENIGGE"
+            },
+            {
+              "name": "Dieter MUELLER"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Mokhtar NAILI"
+            },
+            {
+              "name": "Mokhtar DOUIEB"
+            },
+            {
+              "name": "Ali KAABI"
+            },
+            {
+              "name": "Omar JEBALI"
+            },
+            {
+              "name": "Khaled GASMI"
+            },
+            {
+              "name": "Nejib GHOMMIDH"
+            },
+            {
+              "name": "Hamadi AGREBI"
+            },
+            {
+              "name": "Tarek DHIAB"
+            },
+            {
+              "name": "Khemais LABIDI"
+            },
+            {
+              "name": "Temime LAKHZAMI",
+              "captain": true
+            },
+            {
+              "name": "Mohamed AKID"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Raouf BEN AZIZA"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Raouf BEN AZIZA",
+              "off": "Mohamed AKID",
+              "minute": "82"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Hansi MUELLER",
+            "minute": "24"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Tarek DHIAB",
+            "minute": "68"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Cesar OROZCO GUERRERO",
+          "country": "PER"
+        },
+        {
+          "name": "Miguel COMESANA",
+          "country": "ARG"
+        },
+        {
+          "name": "Luis PESTARINO",
+          "country": "ARG"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1978-06-10",
+      "time": "16:45 UTC-3",
+      "team1": "Poland",
+      "team2": "Mexico",
+      "score": [
+        3,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Zbigniew BONIEK",
+          "minute": "43"
+        },
+        {
+          "name": "Kazimierz DEYNA",
+          "minute": "56"
+        },
+        {
+          "name": "Zbigniew BONIEK",
+          "minute": "84"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Victor RANGEL",
+          "minute": "52"
+        }
+      ],
+      "ground": "Arroyito, Rosario",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Jan TOMASZEWSKI"
+            },
+            {
+              "name": "Antoni SZYMANOWSKI"
+            },
+            {
+              "name": "Jerzy GORGON"
+            },
+            {
+              "name": "Wladyslaw ZMUDA"
+            },
+            {
+              "name": "Wojciech RUDY"
+            },
+            {
+              "name": "Henryk KASPERCZAK"
+            },
+            {
+              "name": "Bohdan MASZTALER"
+            },
+            {
+              "name": "Kazimierz DEYNA",
+              "captain": true
+            },
+            {
+              "name": "Andrzej IWAN"
+            },
+            {
+              "name": "Grzegorz LATO"
+            },
+            {
+              "name": "Zbigniew BONIEK"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Henryk MACULEWICZ"
+            },
+            {
+              "name": "Wlodzimierz LUBANSKI"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Wlodzimierz LUBANSKI",
+              "off": "Andrzej IWAN",
+              "minute": "76"
+            },
+            {
+              "on": "Henryk MACULEWICZ",
+              "off": "Wojciech RUDY",
+              "minute": "84"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Pedro SOTO"
+            },
+            {
+              "name": "Arturo VAZQUEZ",
+              "captain": true
+            },
+            {
+              "name": "Rigoberto CISNEROS"
+            },
+            {
+              "name": "Carlos GOMEZ"
+            },
+            {
+              "name": "Ignacio FLORES"
+            },
+            {
+              "name": "Antonio DE LA TORRE"
+            },
+            {
+              "name": "Javier CARDENAS"
+            },
+            {
+              "name": "Leonardo CUELLAR"
+            },
+            {
+              "name": "Victor RANGEL"
+            },
+            {
+              "name": "Cristobal ORTEGA"
+            },
+            {
+              "name": "Hugo SANCHEZ"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Guillermo MENDIZABAL"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Guillermo MENDIZABAL",
+              "off": "Javier CARDENAS",
+              "minute": "45+1"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Jafar NAMDAR",
+          "country": "IRN"
+        },
+        {
+          "name": "Ulf ERIKSSON",
+          "country": "SWE"
+        },
+        {
+          "name": "Charles CORVER",
+          "country": "NED"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1978-06-03",
+      "time": "13:45 UTC-3",
+      "team1": "Sweden",
+      "team2": "Brazil",
+      "score": [
+        1,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Thomas SJOBERG",
+          "minute": "37"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "REINALDO",
+          "minute": "45"
+        }
+      ],
+      "ground": "Estadio José María Minella, Mar del Plata",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Ronnie HELLSTROM"
+            },
+            {
+              "name": "Hasse BORG"
+            },
+            {
+              "name": "Roy ANDERSSON"
+            },
+            {
+              "name": "Bjorn NORDQVIST",
+              "captain": true
+            },
+            {
+              "name": "Ingemar ERLANDSSON"
+            },
+            {
+              "name": "Staffan TAPPER"
+            },
+            {
+              "name": "Anders LINDEROTH"
+            },
+            {
+              "name": "Bo LARSSON"
+            },
+            {
+              "name": "Lennart LARSSON"
+            },
+            {
+              "name": "Thomas SJOBERG"
+            },
+            {
+              "name": "Benny WENDT"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Ralf EDSTROM"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Ralf EDSTROM",
+              "off": "Lennart LARSSON",
+              "minute": "81"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "LEAO"
+            },
+            {
+              "name": "TONINHO"
+            },
+            {
+              "name": "OSCAR"
+            },
+            {
+              "name": "AMARAL"
+            },
+            {
+              "name": "EDINHO"
+            },
+            {
+              "name": "TONINHO CEREZO"
+            },
+            {
+              "name": "ZICO"
+            },
+            {
+              "name": "RIVELLINO",
+              "captain": true
+            },
+            {
+              "name": "BATISTA"
+            },
+            {
+              "name": "REINALDO"
+            },
+            {
+              "name": "GIL"
+            }
+          ],
+          "bench": [
+            {
+              "name": "DIRCEU"
+            },
+            {
+              "name": "NELINHO"
+            }
+          ],
+          "subs": [
+            {
+              "on": "NELINHO",
+              "off": "GIL",
+              "minute": "66"
+            },
+            {
+              "on": "DIRCEU",
+              "off": "TONINHO CEREZO",
+              "minute": "86"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [],
+        [
+          {
+            "type": "Y",
+            "name": "OSCAR",
+            "minute": "87"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Clive THOMAS",
+          "country": "WAL"
+        },
+        {
+          "name": "Alojzy JARGUZ",
+          "country": "POL"
+        },
+        {
+          "name": "Jafar NAMDAR",
+          "country": "IRN"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1978-06-03",
+      "time": "13:45 UTC-3",
+      "team1": "Austria",
+      "team2": "Spain",
+      "score": [
+        2,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Walter SCHACHNER",
+          "minute": "9"
+        },
+        {
+          "name": "Hans KRANKL",
+          "minute": "76"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "DANI",
+          "minute": "21"
+        }
+      ],
+      "ground": "Estadio Jose Amalfitani, Buenos Aires",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Friedl KONCILIA"
+            },
+            {
+              "name": "Robert SARA",
+              "captain": true
+            },
+            {
+              "name": "Erich OBERMAYER"
+            },
+            {
+              "name": "Gerhard BREITENBERGER"
+            },
+            {
+              "name": "Bruno PEZZEY"
+            },
+            {
+              "name": "Josef HICKERSBERGER"
+            },
+            {
+              "name": "Herbert PROHASKA"
+            },
+            {
+              "name": "Wilhelm KREUZ"
+            },
+            {
+              "name": "Kurt JARA"
+            },
+            {
+              "name": "Hans KRANKL"
+            },
+            {
+              "name": "Walter SCHACHNER"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Heribert WEBER"
+            },
+            {
+              "name": "Hans PIRKNER"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Heribert WEBER",
+              "off": "Josef HICKERSBERGER",
+              "minute": "67"
+            },
+            {
+              "on": "Hans PIRKNER",
+              "off": "Walter SCHACHNER",
+              "minute": "80"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "MIGUEL ANGEL"
+            },
+            {
+              "name": "Antonio DE LA CRUZ"
+            },
+            {
+              "name": "MIGUELI"
+            },
+            {
+              "name": "MARCELINO"
+            },
+            {
+              "name": "PIRRI",
+              "captain": true
+            },
+            {
+              "name": "Juan Manuel ASENSI"
+            },
+            {
+              "name": "Julio CARDENOSA"
+            },
+            {
+              "name": "Isidoro SAN JOSE"
+            },
+            {
+              "name": "DANI"
+            },
+            {
+              "name": "Carles REXACH"
+            },
+            {
+              "name": "RUBEN CANO"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Eugenio LEAL"
+            },
+            {
+              "name": "QUINI"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Eugenio LEAL",
+              "off": "Julio CARDENOSA",
+              "minute": "45+1"
+            },
+            {
+              "on": "QUINI",
+              "off": "Carles REXACH",
+              "minute": "60"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Karoly PALOTAI",
+          "country": "HUN"
+        },
+        {
+          "name": "Ramon BARRETO RUIZ",
+          "country": "URU"
+        },
+        {
+          "name": "Anatoly IVANOV",
+          "country": "URS"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1978-06-07",
+      "time": "13:45 UTC-3",
+      "team1": "Brazil",
+      "team2": "Spain",
+      "score": [
+        0,
+        0
+      ],
+      "ground": "Estadio José María Minella, Mar del Plata",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "LEAO",
+              "captain": true
+            },
+            {
+              "name": "TONINHO"
+            },
+            {
+              "name": "OSCAR"
+            },
+            {
+              "name": "AMARAL"
+            },
+            {
+              "name": "EDINHO"
+            },
+            {
+              "name": "NELINHO"
+            },
+            {
+              "name": "TONINHO CEREZO"
+            },
+            {
+              "name": "ZICO"
+            },
+            {
+              "name": "DIRCEU"
+            },
+            {
+              "name": "BATISTA"
+            },
+            {
+              "name": "REINALDO"
+            }
+          ],
+          "bench": [
+            {
+              "name": "GIL"
+            },
+            {
+              "name": "JORGE MENDONCA"
+            }
+          ],
+          "subs": [
+            {
+              "on": "GIL",
+              "off": "NELINHO",
+              "minute": "70"
+            },
+            {
+              "on": "JORGE MENDONCA",
+              "off": "ZICO",
+              "minute": "83"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "MIGUEL ANGEL"
+            },
+            {
+              "name": "Francisco URIA"
+            },
+            {
+              "name": "MIGUELI"
+            },
+            {
+              "name": "Antonio OLMO"
+            },
+            {
+              "name": "MARCELINO"
+            },
+            {
+              "name": "Juan Manuel ASENSI",
+              "captain": true
+            },
+            {
+              "name": "Julio CARDENOSA"
+            },
+            {
+              "name": "Eugenio LEAL"
+            },
+            {
+              "name": "Isidoro SAN JOSE"
+            },
+            {
+              "name": "JUANITO"
+            },
+            {
+              "name": "SANTILLANA"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Antonio GUZMAN"
+            },
+            {
+              "name": "Antonio BIOSCA"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Antonio BIOSCA",
+              "off": "MIGUELI",
+              "minute": "51"
+            },
+            {
+              "on": "Antonio GUZMAN",
+              "off": "Francisco URIA",
+              "minute": "80"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [],
+        [
+          {
+            "type": "Y",
+            "name": "Eugenio LEAL",
+            "minute": "60"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Sergio GONELLA",
+          "country": "ITA"
+        },
+        {
+          "name": "Abraham KLEIN",
+          "country": "ISR"
+        },
+        {
+          "name": "Arturo Andres ITHURRALDE",
+          "country": "ARG"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1978-06-07",
+      "time": "13:45 UTC-3",
+      "team1": "Austria",
+      "team2": "Sweden",
+      "score": [
+        1,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Hans KRANKL",
+          "minute": "42",
+          "penalty": true
+        }
+      ],
+      "goals2": [],
+      "ground": "Estadio Jose Amalfitani, Buenos Aires",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Friedl KONCILIA"
+            },
+            {
+              "name": "Robert SARA",
+              "captain": true
+            },
+            {
+              "name": "Erich OBERMAYER"
+            },
+            {
+              "name": "Gerhard BREITENBERGER"
+            },
+            {
+              "name": "Bruno PEZZEY"
+            },
+            {
+              "name": "Josef HICKERSBERGER"
+            },
+            {
+              "name": "Herbert PROHASKA"
+            },
+            {
+              "name": "Wilhelm KREUZ"
+            },
+            {
+              "name": "Kurt JARA"
+            },
+            {
+              "name": "Eduard KRIEGER"
+            },
+            {
+              "name": "Hans KRANKL"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Heribert WEBER"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Heribert WEBER",
+              "off": "Eduard KRIEGER",
+              "minute": "71"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Ronnie HELLSTROM"
+            },
+            {
+              "name": "Hasse BORG"
+            },
+            {
+              "name": "Roy ANDERSSON"
+            },
+            {
+              "name": "Bjorn NORDQVIST",
+              "captain": true
+            },
+            {
+              "name": "Ingemar ERLANDSSON"
+            },
+            {
+              "name": "Staffan TAPPER"
+            },
+            {
+              "name": "Anders LINDEROTH"
+            },
+            {
+              "name": "Bo LARSSON"
+            },
+            {
+              "name": "Lennart LARSSON"
+            },
+            {
+              "name": "Thomas SJOBERG"
+            },
+            {
+              "name": "Benny WENDT"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Conny TORSTENSSON"
+            },
+            {
+              "name": "Ralf EDSTROM"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Conny TORSTENSSON",
+              "off": "Staffan TAPPER",
+              "minute": "36"
+            },
+            {
+              "on": "Ralf EDSTROM",
+              "off": "Anders LINDEROTH",
+              "minute": "60"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Charles CORVER",
+          "country": "NED"
+        },
+        {
+          "name": "Dusan MAKSIMOVIC",
+          "country": "SCG"
+        },
+        {
+          "name": "Hedi SEOUDI",
+          "country": "TUN"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1978-06-11",
+      "time": "13:45 UTC-3",
+      "team1": "Brazil",
+      "team2": "Austria",
+      "score": [
+        1,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "ROBERTO DINAMITE",
+          "minute": "40"
+        }
+      ],
+      "goals2": [],
+      "ground": "Estadio José María Minella, Mar del Plata",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "LEAO",
+              "captain": true
+            },
+            {
+              "name": "TONINHO"
+            },
+            {
+              "name": "OSCAR"
+            },
+            {
+              "name": "AMARAL"
+            },
+            {
+              "name": "RODRIGUES NETO"
+            },
+            {
+              "name": "TONINHO CEREZO"
+            },
+            {
+              "name": "DIRCEU"
+            },
+            {
+              "name": "BATISTA"
+            },
+            {
+              "name": "GIL"
+            },
+            {
+              "name": "JORGE MENDONCA"
+            },
+            {
+              "name": "ROBERTO DINAMITE"
+            }
+          ],
+          "bench": [
+            {
+              "name": "CHICAO"
+            },
+            {
+              "name": "ZICO"
+            }
+          ],
+          "subs": [
+            {
+              "on": "CHICAO",
+              "off": "TONINHO CEREZO",
+              "minute": "71"
+            },
+            {
+              "on": "ZICO",
+              "off": "JORGE MENDONCA",
+              "minute": "84"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Friedl KONCILIA"
+            },
+            {
+              "name": "Robert SARA",
+              "captain": true
+            },
+            {
+              "name": "Erich OBERMAYER"
+            },
+            {
+              "name": "Gerhard BREITENBERGER"
+            },
+            {
+              "name": "Bruno PEZZEY"
+            },
+            {
+              "name": "Josef HICKERSBERGER"
+            },
+            {
+              "name": "Herbert PROHASKA"
+            },
+            {
+              "name": "Wilhelm KREUZ"
+            },
+            {
+              "name": "Kurt JARA"
+            },
+            {
+              "name": "Eduard KRIEGER"
+            },
+            {
+              "name": "Hans KRANKL"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Heribert WEBER"
+            },
+            {
+              "name": "Gunter HAPPICH"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Heribert WEBER",
+              "off": "Josef HICKERSBERGER",
+              "minute": "61"
+            },
+            {
+              "on": "Gunter HAPPICH",
+              "off": "Eduard KRIEGER",
+              "minute": "84"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Robert WURTZ",
+          "country": "FRA"
+        },
+        {
+          "name": "Farouk BOUZO",
+          "country": "SYR"
+        },
+        {
+          "name": "Tesfaye GEBREYESUS",
+          "country": "ERI"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1978-06-11",
+      "time": "13:45 UTC-3",
+      "team1": "Spain",
+      "team2": "Sweden",
+      "score": [
+        1,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Juan Manuel ASENSI",
+          "minute": "75"
+        }
+      ],
+      "goals2": [],
+      "ground": "Estadio Jose Amalfitani, Buenos Aires",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "MIGUEL ANGEL"
+            },
+            {
+              "name": "Francisco URIA"
+            },
+            {
+              "name": "Antonio BIOSCA"
+            },
+            {
+              "name": "Antonio OLMO"
+            },
+            {
+              "name": "MARCELINO"
+            },
+            {
+              "name": "Juan Manuel ASENSI",
+              "captain": true
+            },
+            {
+              "name": "Julio CARDENOSA"
+            },
+            {
+              "name": "Eugenio LEAL"
+            },
+            {
+              "name": "Isidoro SAN JOSE"
+            },
+            {
+              "name": "JUANITO"
+            },
+            {
+              "name": "SANTILLANA"
+            }
+          ],
+          "bench": [
+            {
+              "name": "PIRRI"
+            }
+          ],
+          "subs": [
+            {
+              "on": "PIRRI",
+              "off": "Antonio OLMO",
+              "minute": "45+1"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Ronnie HELLSTROM"
+            },
+            {
+              "name": "Hasse BORG"
+            },
+            {
+              "name": "Roy ANDERSSON"
+            },
+            {
+              "name": "Bjorn NORDQVIST",
+              "captain": true
+            },
+            {
+              "name": "Ingemar ERLANDSSON"
+            },
+            {
+              "name": "Bo LARSSON"
+            },
+            {
+              "name": "Lennart LARSSON"
+            },
+            {
+              "name": "Olle NORDIN"
+            },
+            {
+              "name": "Thomas SJOBERG"
+            },
+            {
+              "name": "Torbjorn NILSSON"
+            },
+            {
+              "name": "Ralf EDSTROM"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Anders LINDEROTH"
+            },
+            {
+              "name": "Benny WENDT"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Benny WENDT",
+              "off": "Ralf EDSTROM",
+              "minute": "59"
+            },
+            {
+              "on": "Anders LINDEROTH",
+              "off": "Thomas SJOBERG",
+              "minute": "66"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [],
+        [
+          {
+            "type": "Y",
+            "name": "Hasse BORG",
+            "minute": "37"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Ferdinand BIWERSI",
+          "country": "GER"
+        },
+        {
+          "name": "Arturo Andres ITHURRALDE",
+          "country": "ARG"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1978-06-03",
+      "time": "16:45 UTC-3",
+      "team1": "Netherlands",
+      "team2": "Iran",
+      "score": [
+        3,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Rob RENSENBRINK",
+          "minute": "40",
+          "penalty": true
+        },
+        {
+          "name": "Rob RENSENBRINK",
+          "minute": "62"
+        },
+        {
+          "name": "Rob RENSENBRINK",
+          "minute": "79",
+          "penalty": true
+        }
+      ],
+      "goals2": [],
+      "ground": "Estadio Libertador General San Martín, Mendoza",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Jan JONGBLOED"
+            },
+            {
+              "name": "Ruud KROL",
+              "captain": true
+            },
+            {
+              "name": "Wim RIJSBERGEN"
+            },
+            {
+              "name": "Wim SUURBIER"
+            },
+            {
+              "name": "Wim JANSEN"
+            },
+            {
+              "name": "Arie HAAN"
+            },
+            {
+              "name": "Willy VAN DE KERKHOF"
+            },
+            {
+              "name": "Johan NEESKENS"
+            },
+            {
+              "name": "Rene VAN DE KERKHOF"
+            },
+            {
+              "name": "Rob RENSENBRINK"
+            },
+            {
+              "name": "Johnny REP"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Dick NANNINGA"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Dick NANNINGA",
+              "off": "Rene VAN DE KERKHOF",
+              "minute": "70"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Nasser HEJAZI"
+            },
+            {
+              "name": "Hassan NAZARI"
+            },
+            {
+              "name": "Andranik ESKANDARIAN"
+            },
+            {
+              "name": "Hussein KAZERANI"
+            },
+            {
+              "name": "Hassan NAIBAGHA"
+            },
+            {
+              "name": "Ali PARWIN",
+              "captain": true
+            },
+            {
+              "name": "Ebrahim KASSEMPOOR"
+            },
+            {
+              "name": "Mohammad SADEQI"
+            },
+            {
+              "name": "Ghafoor JAHANI"
+            },
+            {
+              "name": "Hussein FARAKI"
+            },
+            {
+              "name": "Nasrollah ABDOLLAHI"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Hassan ROWSHAN"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Hassan ROWSHAN",
+              "off": "Hussein FARAKI",
+              "minute": "50"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [],
+        [
+          {
+            "type": "Y",
+            "name": "Andranik ESKANDARIAN",
+            "minute": "78"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Alfonso GONZALEZ ARCHUNDIA",
+          "country": "MEX"
+        },
+        {
+          "name": "Robert WURTZ",
+          "country": "FRA"
+        },
+        {
+          "name": "Miguel COMESANA",
+          "country": "ARG"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1978-06-03",
+      "time": "16:45 UTC-3",
+      "team1": "Peru",
+      "team2": "Scotland",
+      "score": [
+        3,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Cesar CUETO",
+          "minute": "43"
+        },
+        {
+          "name": "Teofilo CUBILLAS",
+          "minute": "71"
+        },
+        {
+          "name": "Teofilo CUBILLAS",
+          "minute": "77"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Joe JORDAN",
+          "minute": "14"
+        }
+      ],
+      "ground": "Estadio Mario Alberto Kempes, Córdoba",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Ramon QUIROGA"
+            },
+            {
+              "name": "Jaime DUARTE"
+            },
+            {
+              "name": "Rodolfo MANZO"
+            },
+            {
+              "name": "Hector CHUMPITAZ",
+              "captain": true
+            },
+            {
+              "name": "Ruben DIAZ"
+            },
+            {
+              "name": "Jose VELASQUEZ"
+            },
+            {
+              "name": "Cesar CUETO"
+            },
+            {
+              "name": "Juan MUNANTE"
+            },
+            {
+              "name": "Teofilo CUBILLAS"
+            },
+            {
+              "name": "Juan Carlos OBLITAS"
+            },
+            {
+              "name": "Guillermo LA ROSA"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Percy ROJAS"
+            },
+            {
+              "name": "Hugo SOTIL"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Hugo SOTIL",
+              "off": "Guillermo LA ROSA",
+              "minute": "62"
+            },
+            {
+              "on": "Percy ROJAS",
+              "off": "Cesar CUETO",
+              "minute": "82"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Alan ROUGH"
+            },
+            {
+              "name": "Martin BUCHAN"
+            },
+            {
+              "name": "Stuart KENNEDY"
+            },
+            {
+              "name": "Tom FORSYTH"
+            },
+            {
+              "name": "Kenny BURNS"
+            },
+            {
+              "name": "Bruce RIOCH",
+              "captain": true
+            },
+            {
+              "name": "Don MASSON"
+            },
+            {
+              "name": "Asa HARTFORD"
+            },
+            {
+              "name": "Kenny DALGLISH"
+            },
+            {
+              "name": "Joe JORDAN"
+            },
+            {
+              "name": "Willie JOHNSTON"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Archie GEMMILL"
+            },
+            {
+              "name": "Lou MACARI"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Lou MACARI",
+              "off": "Don MASSON",
+              "minute": "75"
+            },
+            {
+              "on": "Archie GEMMILL",
+              "off": "Bruce RIOCH",
+              "minute": "75"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Jose VELASQUEZ",
+            "minute": "19"
+          }
+        ],
+        []
+      ],
+      "referees": [
+        {
+          "name": "Ulf ERIKSSON",
+          "country": "SWE"
+        },
+        {
+          "name": "Tesfaye GEBREYESUS",
+          "country": "ERI"
+        },
+        {
+          "name": "Angel MARTINEZ",
+          "country": "ESP"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1978-06-07",
+      "time": "16:45 UTC-3",
+      "team1": "Scotland",
+      "team2": "Iran",
+      "score": [
+        1,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Andranik ESKANDARIAN",
+          "minute": "43",
+          "owngoal": true
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Iraj DANAEIFARD",
+          "minute": "60"
+        }
+      ],
+      "ground": "Estadio Mario Alberto Kempes, Córdoba",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Alan ROUGH"
+            },
+            {
+              "name": "Sandy JARDINE"
+            },
+            {
+              "name": "Willie DONACHIE"
+            },
+            {
+              "name": "Martin BUCHAN"
+            },
+            {
+              "name": "Kenny BURNS"
+            },
+            {
+              "name": "Asa HARTFORD"
+            },
+            {
+              "name": "Archie GEMMILL",
+              "captain": true
+            },
+            {
+              "name": "Lou MACARI"
+            },
+            {
+              "name": "Kenny DALGLISH"
+            },
+            {
+              "name": "Joe JORDAN"
+            },
+            {
+              "name": "John ROBERTSON"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Tom FORSYTH"
+            },
+            {
+              "name": "Joe HARPER"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Tom FORSYTH",
+              "off": "Martin BUCHAN",
+              "minute": "56"
+            },
+            {
+              "on": "Joe HARPER",
+              "off": "Kenny DALGLISH",
+              "minute": "74"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Nasser HEJAZI"
+            },
+            {
+              "name": "Hassan NAZARI"
+            },
+            {
+              "name": "Andranik ESKANDARIAN"
+            },
+            {
+              "name": "Hussein KAZERANI"
+            },
+            {
+              "name": "Iraj DANAEIFARD"
+            },
+            {
+              "name": "Ali PARWIN",
+              "captain": true
+            },
+            {
+              "name": "Ebrahim KASSEMPOOR"
+            },
+            {
+              "name": "Mohammad SADEQI"
+            },
+            {
+              "name": "Ghafoor JAHANI"
+            },
+            {
+              "name": "Hussein FARAKI"
+            },
+            {
+              "name": "Nasrollah ABDOLLAHI"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Hassan NAIBAGHA"
+            },
+            {
+              "name": "Hassan ROWSHAN"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Hassan ROWSHAN",
+              "off": "Hussein FARAKI",
+              "minute": "84"
+            },
+            {
+              "on": "Hassan NAIBAGHA",
+              "off": "Iraj DANAEIFARD",
+              "minute": "89"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [],
+        [
+          {
+            "type": "Y",
+            "name": "Andranik ESKANDARIAN",
+            "minute": "49"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Youssou NDIAYE",
+          "country": "SEN"
+        },
+        {
+          "name": "Nicolae RAINEA",
+          "country": "ROU"
+        },
+        {
+          "name": "Arnaldo COELHO",
+          "country": "BRA"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1978-06-07",
+      "time": "16:45 UTC-3",
+      "team1": "Netherlands",
+      "team2": "Peru",
+      "score": [
+        0,
+        0
+      ],
+      "ground": "Estadio Libertador General San Martín, Mendoza",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Jan JONGBLOED"
+            },
+            {
+              "name": "Jan POORTVLIET"
+            },
+            {
+              "name": "Ruud KROL",
+              "captain": true
+            },
+            {
+              "name": "Wim RIJSBERGEN"
+            },
+            {
+              "name": "Wim SUURBIER"
+            },
+            {
+              "name": "Wim JANSEN"
+            },
+            {
+              "name": "Arie HAAN"
+            },
+            {
+              "name": "Willy VAN DE KERKHOF"
+            },
+            {
+              "name": "Johan NEESKENS"
+            },
+            {
+              "name": "Rene VAN DE KERKHOF"
+            },
+            {
+              "name": "Rob RENSENBRINK"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Dick NANNINGA"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Dick NANNINGA",
+              "off": "Johan NEESKENS",
+              "minute": "68"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Ramon QUIROGA"
+            },
+            {
+              "name": "Jaime DUARTE"
+            },
+            {
+              "name": "Rodolfo MANZO"
+            },
+            {
+              "name": "Hector CHUMPITAZ",
+              "captain": true
+            },
+            {
+              "name": "Ruben DIAZ"
+            },
+            {
+              "name": "Jose VELASQUEZ"
+            },
+            {
+              "name": "Cesar CUETO"
+            },
+            {
+              "name": "Juan MUNANTE"
+            },
+            {
+              "name": "Teofilo CUBILLAS"
+            },
+            {
+              "name": "Juan Carlos OBLITAS"
+            },
+            {
+              "name": "Guillermo LA ROSA"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Hugo SOTIL"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Hugo SOTIL",
+              "off": "Guillermo LA ROSA",
+              "minute": "62"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Rene VAN DE KERKHOF",
+            "minute": "25"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Juan MUNANTE",
+            "minute": "65"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Norberto Angel COEREZZA",
+          "country": "ARG"
+        },
+        {
+          "name": "Anatoly IVANOV",
+          "country": "URS"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1978-06-11",
+      "time": "16:45 UTC-3",
+      "team1": "Scotland",
+      "team2": "Netherlands",
+      "score": [
+        3,
+        2
+      ],
+      "goals1": [
+        {
+          "name": "Kenny DALGLISH",
+          "minute": "44"
+        },
+        {
+          "name": "Archie GEMMILL",
+          "minute": "47",
+          "penalty": true
+        },
+        {
+          "name": "Archie GEMMILL",
+          "minute": "68"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Rob RENSENBRINK",
+          "minute": "34",
+          "penalty": true
+        },
+        {
+          "name": "Johnny REP",
+          "minute": "71"
+        }
+      ],
+      "ground": "Estadio Libertador General San Martín, Mendoza",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Alan ROUGH"
+            },
+            {
+              "name": "Willie DONACHIE"
+            },
+            {
+              "name": "Martin BUCHAN"
+            },
+            {
+              "name": "Stuart KENNEDY"
+            },
+            {
+              "name": "Tom FORSYTH"
+            },
+            {
+              "name": "Bruce RIOCH",
+              "captain": true
+            },
+            {
+              "name": "Asa HARTFORD"
+            },
+            {
+              "name": "Archie GEMMILL"
+            },
+            {
+              "name": "Graeme SOUNESS"
+            },
+            {
+              "name": "Kenny DALGLISH"
+            },
+            {
+              "name": "Joe JORDAN"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Jan JONGBLOED"
+            },
+            {
+              "name": "Jan POORTVLIET"
+            },
+            {
+              "name": "Ruud KROL",
+              "captain": true
+            },
+            {
+              "name": "Wim RIJSBERGEN"
+            },
+            {
+              "name": "Wim SUURBIER"
+            },
+            {
+              "name": "Wim JANSEN"
+            },
+            {
+              "name": "Willy VAN DE KERKHOF"
+            },
+            {
+              "name": "Johan NEESKENS"
+            },
+            {
+              "name": "Rene VAN DE KERKHOF"
+            },
+            {
+              "name": "Rob RENSENBRINK"
+            },
+            {
+              "name": "Johnny REP"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Pieter WILDSCHUT"
+            },
+            {
+              "name": "Johan BOSKAMP"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Johan BOSKAMP",
+              "off": "Johan NEESKENS",
+              "minute": "10"
+            },
+            {
+              "on": "Pieter WILDSCHUT",
+              "off": "Wim RIJSBERGEN",
+              "minute": "44"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Archie GEMMILL",
+            "minute": "35"
+          }
+        ],
+        []
+      ],
+      "referees": [
+        {
+          "name": "Erich LINEMAYR",
+          "country": "AUT"
+        },
+        {
+          "name": "Karoly PALOTAI",
+          "country": "HUN"
+        },
+        {
+          "name": "Hedi SEOUDI",
+          "country": "TUN"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1978-06-11",
+      "time": "16:45 UTC-3",
+      "team1": "Peru",
+      "team2": "Iran",
+      "score": [
+        4,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Jose VELASQUEZ",
+          "minute": "2"
+        },
+        {
+          "name": "Teofilo CUBILLAS",
+          "minute": "36",
+          "penalty": true
+        },
+        {
+          "name": "Teofilo CUBILLAS",
+          "minute": "39",
+          "penalty": true
+        },
+        {
+          "name": "Teofilo CUBILLAS",
+          "minute": "79"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Hassan ROWSHAN",
+          "minute": "41"
+        }
+      ],
+      "ground": "Estadio Mario Alberto Kempes, Córdoba",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Ramon QUIROGA"
+            },
+            {
+              "name": "Jaime DUARTE"
+            },
+            {
+              "name": "Rodolfo MANZO"
+            },
+            {
+              "name": "Hector CHUMPITAZ",
+              "captain": true
+            },
+            {
+              "name": "Ruben DIAZ"
+            },
+            {
+              "name": "Jose VELASQUEZ"
+            },
+            {
+              "name": "Cesar CUETO"
+            },
+            {
+              "name": "Juan MUNANTE"
+            },
+            {
+              "name": "Teofilo CUBILLAS"
+            },
+            {
+              "name": "Juan Carlos OBLITAS"
+            },
+            {
+              "name": "Guillermo LA ROSA"
+            }
+          ],
+          "bench": [
+            {
+              "name": "German LEGUIA"
+            },
+            {
+              "name": "Hugo SOTIL"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Hugo SOTIL",
+              "off": "Guillermo LA ROSA",
+              "minute": "60"
+            },
+            {
+              "on": "German LEGUIA",
+              "off": "Rodolfo MANZO",
+              "minute": "67"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Nasser HEJAZI"
+            },
+            {
+              "name": "Jawad ALLAHWARDI"
+            },
+            {
+              "name": "Hassan NAZARI"
+            },
+            {
+              "name": "Hussein KAZERANI"
+            },
+            {
+              "name": "Iraj DANAEIFARD"
+            },
+            {
+              "name": "Ali PARWIN",
+              "captain": true
+            },
+            {
+              "name": "Ebrahim KASSEMPOOR"
+            },
+            {
+              "name": "Mohammad SADEQI"
+            },
+            {
+              "name": "Hassan ROWSHAN"
+            },
+            {
+              "name": "Hussein FARAKI"
+            },
+            {
+              "name": "Nasrollah ABDOLLAHI"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Behtash FARIBA"
+            },
+            {
+              "name": "Ghafoor JAHANI"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Ghafoor JAHANI",
+              "off": "Hussein FARAKI",
+              "minute": "51"
+            },
+            {
+              "on": "Behtash FARIBA",
+              "off": "Hassan ROWSHAN",
+              "minute": "66"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [],
+        [
+          {
+            "type": "Y",
+            "name": "Hassan NAZARI",
+            "minute": "60"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Alojzy JARGUZ",
+          "country": "POL"
+        },
+        {
+          "name": "Dusan MAKSIMOVIC",
+          "country": "SCG"
+        },
+        {
+          "name": "Werner WINSEMANN",
+          "country": "CAN"
+        }
+      ]
+    },
+    {
+      "round": "Second Round, Group A",
+      "date": "1978-06-14",
+      "time": "13:45 UTC-3",
+      "team1": "Netherlands",
+      "team2": "Austria",
+      "score": [
+        5,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Ernie BRANDTS",
+          "minute": "6"
+        },
+        {
+          "name": "Rob RENSENBRINK",
+          "minute": "35",
+          "penalty": true
+        },
+        {
+          "name": "Johnny REP",
+          "minute": "36"
+        },
+        {
+          "name": "Johnny REP",
+          "minute": "53"
+        },
+        {
+          "name": "Willy VAN DE KERKHOF",
+          "minute": "82"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Erich OBERMAYER",
+          "minute": "79"
+        }
+      ],
+      "ground": "Estadio Mario Alberto Kempes, Córdoba",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Piet SCHRIJVERS"
+            },
+            {
+              "name": "Jan POORTVLIET"
+            },
+            {
+              "name": "Ruud KROL",
+              "captain": true
+            },
+            {
+              "name": "Pieter WILDSCHUT"
+            },
+            {
+              "name": "Ernie BRANDTS"
+            },
+            {
+              "name": "Wim JANSEN"
+            },
+            {
+              "name": "Arie HAAN"
+            },
+            {
+              "name": "Willy VAN DE KERKHOF"
+            },
+            {
+              "name": "Rene VAN DE KERKHOF"
+            },
+            {
+              "name": "Rob RENSENBRINK"
+            },
+            {
+              "name": "Johnny REP"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Adri VAN KRAAY"
+            },
+            {
+              "name": "Dirk SCHOENAKER"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Dirk SCHOENAKER",
+              "off": "Rene VAN DE KERKHOF",
+              "minute": "60"
+            },
+            {
+              "on": "Adri VAN KRAAY",
+              "off": "Ernie BRANDTS",
+              "minute": "66"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Friedl KONCILIA"
+            },
+            {
+              "name": "Robert SARA",
+              "captain": true
+            },
+            {
+              "name": "Erich OBERMAYER"
+            },
+            {
+              "name": "Gerhard BREITENBERGER"
+            },
+            {
+              "name": "Bruno PEZZEY"
+            },
+            {
+              "name": "Josef HICKERSBERGER"
+            },
+            {
+              "name": "Herbert PROHASKA"
+            },
+            {
+              "name": "Wilhelm KREUZ"
+            },
+            {
+              "name": "Kurt JARA"
+            },
+            {
+              "name": "Eduard KRIEGER"
+            },
+            {
+              "name": "Hans KRANKL"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "John GORDON",
+          "country": "SCO"
+        },
+        {
+          "name": "Arturo Andres ITHURRALDE",
+          "country": "ARG"
+        },
+        {
+          "name": "Farouk BOUZO",
+          "country": "SYR"
+        }
+      ]
+    },
+    {
+      "round": "Second Round, Group A",
+      "date": "1978-06-14",
+      "time": "13:45 UTC-3",
+      "team1": "West Germany",
+      "team2": "Italy",
+      "score": [
+        0,
+        0
+      ],
+      "ground": "El Monumental, Buenos Aires",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Sepp MAIER"
+            },
+            {
+              "name": "Berti VOGTS",
+              "captain": true
+            },
+            {
+              "name": "Bernd DIETZ"
+            },
+            {
+              "name": "Rolf RUESSMANN"
+            },
+            {
+              "name": "Manfred KALTZ"
+            },
+            {
+              "name": "Herbert ZIMMERMANN"
+            },
+            {
+              "name": "Rainer BONHOF"
+            },
+            {
+              "name": "Heinz FLOHE"
+            },
+            {
+              "name": "Klaus FISCHER"
+            },
+            {
+              "name": "Karl-Heinz RUMMENIGGE"
+            },
+            {
+              "name": "Bernd HOELZENBEIN"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Harald KONOPKA"
+            },
+            {
+              "name": "Erich BEER"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Harald KONOPKA",
+              "off": "Herbert ZIMMERMANN",
+              "minute": "53"
+            },
+            {
+              "on": "Erich BEER",
+              "off": "Heinz FLOHE",
+              "minute": "68"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Dino ZOFF",
+              "captain": true
+            },
+            {
+              "name": "Mauro BELLUGI"
+            },
+            {
+              "name": "Antonio CABRINI"
+            },
+            {
+              "name": "Claudio GENTILE"
+            },
+            {
+              "name": "Gaetano SCIREA"
+            },
+            {
+              "name": "Giancarlo ANTOGNONI"
+            },
+            {
+              "name": "Romeo BENETTI"
+            },
+            {
+              "name": "Marco TARDELLI"
+            },
+            {
+              "name": "Franco CAUSIO"
+            },
+            {
+              "name": "Roberto BETTEGA"
+            },
+            {
+              "name": "Paolo ROSSI"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Renato ZACCARELLI"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Renato ZACCARELLI",
+              "off": "Giancarlo ANTOGNONI",
+              "minute": "45+1"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Dusan MAKSIMOVIC",
+          "country": "SCG"
+        },
+        {
+          "name": "Alfonso GONZALEZ ARCHUNDIA",
+          "country": "MEX"
+        },
+        {
+          "name": "Miguel COMESANA",
+          "country": "ARG"
+        }
+      ]
+    },
+    {
+      "round": "Second Round, Group A",
+      "date": "1978-06-18",
+      "time": "16:45 UTC-3",
+      "team1": "West Germany",
+      "team2": "Netherlands",
+      "score": [
+        2,
+        2
+      ],
+      "goals1": [
+        {
+          "name": "Ruediger ABRAMCZIK",
+          "minute": "3"
+        },
+        {
+          "name": "Dieter MUELLER",
+          "minute": "70"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Arie HAAN",
+          "minute": "27"
+        },
+        {
+          "name": "Rene VAN DE KERKHOF",
+          "minute": "84"
+        }
+      ],
+      "ground": "Estadio Mario Alberto Kempes, Córdoba",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Sepp MAIER"
+            },
+            {
+              "name": "Berti VOGTS",
+              "captain": true
+            },
+            {
+              "name": "Bernd DIETZ"
+            },
+            {
+              "name": "Rolf RUESSMANN"
+            },
+            {
+              "name": "Manfred KALTZ"
+            },
+            {
+              "name": "Rainer BONHOF"
+            },
+            {
+              "name": "Erich BEER"
+            },
+            {
+              "name": "Ruediger ABRAMCZIK"
+            },
+            {
+              "name": "Karl-Heinz RUMMENIGGE"
+            },
+            {
+              "name": "Dieter MUELLER"
+            },
+            {
+              "name": "Bernd HOELZENBEIN"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Piet SCHRIJVERS"
+            },
+            {
+              "name": "Jan POORTVLIET"
+            },
+            {
+              "name": "Ruud KROL",
+              "captain": true
+            },
+            {
+              "name": "Pieter WILDSCHUT"
+            },
+            {
+              "name": "Ernie BRANDTS"
+            },
+            {
+              "name": "Wim JANSEN"
+            },
+            {
+              "name": "Arie HAAN"
+            },
+            {
+              "name": "Willy VAN DE KERKHOF"
+            },
+            {
+              "name": "Rene VAN DE KERKHOF"
+            },
+            {
+              "name": "Rob RENSENBRINK"
+            },
+            {
+              "name": "Johnny REP"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Dick NANNINGA"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Dick NANNINGA",
+              "off": "Pieter WILDSCHUT",
+              "minute": "79"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Sepp MAIER",
+            "minute": "45"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Willy VAN DE KERKHOF",
+            "minute": "6"
+          },
+          {
+            "type": "R",
+            "name": "Dick NANNINGA",
+            "minute": "88"
+          },
+          {
+            "type": "Y",
+            "name": "Dick NANNINGA",
+            "minute": "88"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Ramon BARRETO RUIZ",
+          "country": "URU"
+        },
+        {
+          "name": "Miguel COMESANA",
+          "country": "ARG"
+        },
+        {
+          "name": "Arnaldo COELHO",
+          "country": "BRA"
+        }
+      ]
+    },
+    {
+      "round": "Second Round, Group A",
+      "date": "1978-06-18",
+      "time": "16:45 UTC-3",
+      "team1": "Italy",
+      "team2": "Austria",
+      "score": [
+        1,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Paolo ROSSI",
+          "minute": "14"
+        }
+      ],
+      "goals2": [],
+      "ground": "El Monumental, Buenos Aires",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Dino ZOFF",
+              "captain": true
+            },
+            {
+              "name": "Mauro BELLUGI"
+            },
+            {
+              "name": "Antonio CABRINI"
+            },
+            {
+              "name": "Claudio GENTILE"
+            },
+            {
+              "name": "Gaetano SCIREA"
+            },
+            {
+              "name": "Romeo BENETTI"
+            },
+            {
+              "name": "Marco TARDELLI"
+            },
+            {
+              "name": "Renato ZACCARELLI"
+            },
+            {
+              "name": "Franco CAUSIO"
+            },
+            {
+              "name": "Roberto BETTEGA"
+            },
+            {
+              "name": "Paolo ROSSI"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Antonello CUCCUREDDU"
+            },
+            {
+              "name": "Francesco GRAZIANI"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Antonello CUCCUREDDU",
+              "off": "Mauro BELLUGI",
+              "minute": "45+1"
+            },
+            {
+              "on": "Francesco GRAZIANI",
+              "off": "Roberto BETTEGA",
+              "minute": "72"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Friedl KONCILIA"
+            },
+            {
+              "name": "Robert SARA",
+              "captain": true
+            },
+            {
+              "name": "Erich OBERMAYER"
+            },
+            {
+              "name": "Bruno PEZZEY"
+            },
+            {
+              "name": "Heinrich STRASSER"
+            },
+            {
+              "name": "Josef HICKERSBERGER"
+            },
+            {
+              "name": "Herbert PROHASKA"
+            },
+            {
+              "name": "Wilhelm KREUZ"
+            },
+            {
+              "name": "Eduard KRIEGER"
+            },
+            {
+              "name": "Hans KRANKL"
+            },
+            {
+              "name": "Walter SCHACHNER"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Hans PIRKNER"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Hans PIRKNER",
+              "off": "Walter SCHACHNER",
+              "minute": "63"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Francis RION",
+          "country": "BEL"
+        },
+        {
+          "name": "Norberto Angel COEREZZA",
+          "country": "ARG"
+        },
+        {
+          "name": "Youssou NDIAYE",
+          "country": "SEN"
+        }
+      ]
+    },
+    {
+      "round": "Second Round, Group A",
+      "date": "1978-06-21",
+      "time": "13:45 UTC-3",
+      "team1": "Netherlands",
+      "team2": "Italy",
+      "score": [
+        2,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Ernie BRANDTS",
+          "minute": "50"
+        },
+        {
+          "name": "Arie HAAN",
+          "minute": "75"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Ernie BRANDTS",
+          "minute": "18",
+          "owngoal": true
+        }
+      ],
+      "ground": "El Monumental, Buenos Aires",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Piet SCHRIJVERS"
+            },
+            {
+              "name": "Jan POORTVLIET"
+            },
+            {
+              "name": "Ruud KROL",
+              "captain": true
+            },
+            {
+              "name": "Ernie BRANDTS"
+            },
+            {
+              "name": "Wim JANSEN"
+            },
+            {
+              "name": "Arie HAAN"
+            },
+            {
+              "name": "Willy VAN DE KERKHOF"
+            },
+            {
+              "name": "Johan NEESKENS"
+            },
+            {
+              "name": "Rene VAN DE KERKHOF"
+            },
+            {
+              "name": "Rob RENSENBRINK"
+            },
+            {
+              "name": "Johnny REP"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Jan JONGBLOED"
+            },
+            {
+              "name": "Adri VAN KRAAY"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Jan JONGBLOED",
+              "off": "Piet SCHRIJVERS",
+              "minute": "21"
+            },
+            {
+              "on": "Adri VAN KRAAY",
+              "off": "Johnny REP",
+              "minute": "65"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Dino ZOFF",
+              "captain": true
+            },
+            {
+              "name": "Antonio CABRINI"
+            },
+            {
+              "name": "Antonello CUCCUREDDU"
+            },
+            {
+              "name": "Claudio GENTILE"
+            },
+            {
+              "name": "Gaetano SCIREA"
+            },
+            {
+              "name": "Romeo BENETTI"
+            },
+            {
+              "name": "Marco TARDELLI"
+            },
+            {
+              "name": "Renato ZACCARELLI"
+            },
+            {
+              "name": "Franco CAUSIO"
+            },
+            {
+              "name": "Roberto BETTEGA"
+            },
+            {
+              "name": "Paolo ROSSI"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Francesco GRAZIANI"
+            },
+            {
+              "name": "Claudio SALA"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Claudio SALA",
+              "off": "Franco CAUSIO",
+              "minute": "45+1"
+            },
+            {
+              "on": "Francesco GRAZIANI",
+              "off": "Romeo BENETTI",
+              "minute": "77"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Johnny REP",
+            "minute": "35"
+          },
+          {
+            "type": "Y",
+            "name": "Arie HAAN",
+            "minute": "50"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Romeo BENETTI",
+            "minute": "40"
+          },
+          {
+            "type": "Y",
+            "name": "Antonio CABRINI",
+            "minute": "65"
+          },
+          {
+            "type": "Y",
+            "name": "Marco TARDELLI",
+            "minute": "70"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Angel MARTINEZ",
+          "country": "ESP"
+        },
+        {
+          "name": "Luis PESTARINO",
+          "country": "ARG"
+        },
+        {
+          "name": "Cesar OROZCO GUERRERO",
+          "country": "PER"
+        }
+      ]
+    },
+    {
+      "round": "Second Round, Group A",
+      "date": "1978-06-21",
+      "time": "13:45 UTC-3",
+      "team1": "Austria",
+      "team2": "West Germany",
+      "score": [
+        3,
+        2
+      ],
+      "goals1": [
+        {
+          "name": "Berti VOGTS",
+          "minute": "59",
+          "owngoal": true
+        },
+        {
+          "name": "Hans KRANKL",
+          "minute": "66"
+        },
+        {
+          "name": "Hans KRANKL",
+          "minute": "87"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Karl-Heinz RUMMENIGGE",
+          "minute": "19"
+        },
+        {
+          "name": "Bernd HOELZENBEIN",
+          "minute": "68"
+        }
+      ],
+      "ground": "Estadio Mario Alberto Kempes, Córdoba",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Friedl KONCILIA"
+            },
+            {
+              "name": "Robert SARA",
+              "captain": true
+            },
+            {
+              "name": "Erich OBERMAYER"
+            },
+            {
+              "name": "Bruno PEZZEY"
+            },
+            {
+              "name": "Heinrich STRASSER"
+            },
+            {
+              "name": "Josef HICKERSBERGER"
+            },
+            {
+              "name": "Herbert PROHASKA"
+            },
+            {
+              "name": "Wilhelm KREUZ"
+            },
+            {
+              "name": "Eduard KRIEGER"
+            },
+            {
+              "name": "Hans KRANKL"
+            },
+            {
+              "name": "Walter SCHACHNER"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Franz OBERACHER"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Franz OBERACHER",
+              "off": "Walter SCHACHNER",
+              "minute": "71"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Sepp MAIER"
+            },
+            {
+              "name": "Berti VOGTS",
+              "captain": true
+            },
+            {
+              "name": "Bernd DIETZ"
+            },
+            {
+              "name": "Rolf RUESSMANN"
+            },
+            {
+              "name": "Manfred KALTZ"
+            },
+            {
+              "name": "Rainer BONHOF"
+            },
+            {
+              "name": "Erich BEER"
+            },
+            {
+              "name": "Ruediger ABRAMCZIK"
+            },
+            {
+              "name": "Karl-Heinz RUMMENIGGE"
+            },
+            {
+              "name": "Dieter MUELLER"
+            },
+            {
+              "name": "Bernd HOELZENBEIN"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Hansi MUELLER"
+            },
+            {
+              "name": "Klaus FISCHER"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Hansi MUELLER",
+              "off": "Erich BEER",
+              "minute": "45+1"
+            },
+            {
+              "on": "Klaus FISCHER",
+              "off": "Dieter MUELLER",
+              "minute": "60"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Herbert PROHASKA",
+            "minute": "3"
+          },
+          {
+            "type": "Y",
+            "name": "Robert SARA",
+            "minute": "70"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Ruediger ABRAMCZIK",
+            "minute": "69"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Abraham KLEIN",
+          "country": "ISR"
+        },
+        {
+          "name": "Alojzy JARGUZ",
+          "country": "POL"
+        },
+        {
+          "name": "Antonio GARRIDO",
+          "country": "POR"
+        }
+      ]
+    },
+    {
+      "round": "Second Round, Group B",
+      "date": "1978-06-14",
+      "time": "16:45 UTC-3",
+      "team1": "Brazil",
+      "team2": "Peru",
+      "score": [
+        3,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "DIRCEU",
+          "minute": "15"
+        },
+        {
+          "name": "DIRCEU",
+          "minute": "28"
+        },
+        {
+          "name": "ZICO",
+          "minute": "73",
+          "penalty": true
+        }
+      ],
+      "goals2": [],
+      "ground": "Estadio Libertador General San Martín, Mendoza",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "LEAO",
+              "captain": true
+            },
+            {
+              "name": "TONINHO"
+            },
+            {
+              "name": "OSCAR"
+            },
+            {
+              "name": "AMARAL"
+            },
+            {
+              "name": "RODRIGUES NETO"
+            },
+            {
+              "name": "TONINHO CEREZO"
+            },
+            {
+              "name": "DIRCEU"
+            },
+            {
+              "name": "BATISTA"
+            },
+            {
+              "name": "GIL"
+            },
+            {
+              "name": "JORGE MENDONCA"
+            },
+            {
+              "name": "ROBERTO DINAMITE"
+            }
+          ],
+          "bench": [
+            {
+              "name": "CHICAO"
+            },
+            {
+              "name": "ZICO"
+            }
+          ],
+          "subs": [
+            {
+              "on": "ZICO",
+              "off": "GIL",
+              "minute": "70"
+            },
+            {
+              "on": "CHICAO",
+              "off": "TONINHO",
+              "minute": "76"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Ramon QUIROGA"
+            },
+            {
+              "name": "Jaime DUARTE"
+            },
+            {
+              "name": "Rodolfo MANZO"
+            },
+            {
+              "name": "Hector CHUMPITAZ",
+              "captain": true
+            },
+            {
+              "name": "Ruben DIAZ"
+            },
+            {
+              "name": "Jose VELASQUEZ"
+            },
+            {
+              "name": "Cesar CUETO"
+            },
+            {
+              "name": "Juan MUNANTE"
+            },
+            {
+              "name": "Teofilo CUBILLAS"
+            },
+            {
+              "name": "Juan Carlos OBLITAS"
+            },
+            {
+              "name": "Guillermo LA ROSA"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Jose NAVARRO"
+            },
+            {
+              "name": "Percy ROJAS"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Jose NAVARRO",
+              "off": "Ruben DIAZ",
+              "minute": "11"
+            },
+            {
+              "on": "Percy ROJAS",
+              "off": "Juan Carlos OBLITAS",
+              "minute": "45+1"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "ROBERTO DINAMITE",
+            "minute": "80"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Jose VELASQUEZ",
+            "minute": "75"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Nicolae RAINEA",
+          "country": "ROU"
+        },
+        {
+          "name": "Jean DUBACH",
+          "country": "SUI"
+        },
+        {
+          "name": "Werner WINSEMANN",
+          "country": "CAN"
+        }
+      ]
+    },
+    {
+      "round": "Second Round, Group B",
+      "date": "1978-06-14",
+      "time": "19:15 UTC-3",
+      "team1": "Argentina",
+      "team2": "Poland",
+      "score": [
+        2,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Mario KEMPES",
+          "minute": "16"
+        },
+        {
+          "name": "Mario KEMPES",
+          "minute": "71"
+        }
+      ],
+      "goals2": [],
+      "ground": "Arroyito, Rosario",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Ubaldo FILLOL"
+            },
+            {
+              "name": "Luis GALVAN"
+            },
+            {
+              "name": "Jorge OLGUIN"
+            },
+            {
+              "name": "Daniel PASSARELLA",
+              "captain": true
+            },
+            {
+              "name": "Alberto TARANTINI"
+            },
+            {
+              "name": "Osvaldo ARDILES"
+            },
+            {
+              "name": "Americo GALLEGO"
+            },
+            {
+              "name": "Rene HOUSEMAN"
+            },
+            {
+              "name": "Jose VALENCIA"
+            },
+            {
+              "name": "Daniel BERTONI"
+            },
+            {
+              "name": "Mario KEMPES"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Oscar ORTIZ"
+            },
+            {
+              "name": "Ricardo VILLA"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Ricardo VILLA",
+              "off": "Jose VALENCIA",
+              "minute": "45+1"
+            },
+            {
+              "on": "Oscar ORTIZ",
+              "off": "Rene HOUSEMAN",
+              "minute": "83"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Jan TOMASZEWSKI"
+            },
+            {
+              "name": "Henryk MACULEWICZ"
+            },
+            {
+              "name": "Antoni SZYMANOWSKI"
+            },
+            {
+              "name": "Wladyslaw ZMUDA"
+            },
+            {
+              "name": "Adam NAWALKA"
+            },
+            {
+              "name": "Henryk KASPERCZAK"
+            },
+            {
+              "name": "Bohdan MASZTALER"
+            },
+            {
+              "name": "Kazimierz DEYNA",
+              "captain": true
+            },
+            {
+              "name": "Grzegorz LATO"
+            },
+            {
+              "name": "Andrzej SZARMACH"
+            },
+            {
+              "name": "Zbigniew BONIEK"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Wlodzimierz MAZUR"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Wlodzimierz MAZUR",
+              "off": "Bohdan MASZTALER",
+              "minute": "64"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Americo GALLEGO",
+            "minute": "80"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Henryk MACULEWICZ",
+            "minute": "75"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Ulf ERIKSSON",
+          "country": "SWE"
+        },
+        {
+          "name": "Jafar NAMDAR",
+          "country": "IRN"
+        },
+        {
+          "name": "Tesfaye GEBREYESUS",
+          "country": "ERI"
+        }
+      ]
+    },
+    {
+      "round": "Second Round, Group B",
+      "date": "1978-06-18",
+      "time": "13:45 UTC-3",
+      "team1": "Poland",
+      "team2": "Peru",
+      "score": [
+        1,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Andrzej SZARMACH",
+          "minute": "65"
+        }
+      ],
+      "goals2": [],
+      "ground": "Estadio Libertador General San Martín, Mendoza",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Zygmunt KUKLA"
+            },
+            {
+              "name": "Henryk MACULEWICZ"
+            },
+            {
+              "name": "Antoni SZYMANOWSKI"
+            },
+            {
+              "name": "Jerzy GORGON"
+            },
+            {
+              "name": "Wladyslaw ZMUDA"
+            },
+            {
+              "name": "Adam NAWALKA"
+            },
+            {
+              "name": "Bohdan MASZTALER"
+            },
+            {
+              "name": "Kazimierz DEYNA",
+              "captain": true
+            },
+            {
+              "name": "Grzegorz LATO"
+            },
+            {
+              "name": "Andrzej SZARMACH"
+            },
+            {
+              "name": "Zbigniew BONIEK"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Henryk KASPERCZAK"
+            },
+            {
+              "name": "Wlodzimierz LUBANSKI"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Henryk KASPERCZAK",
+              "off": "Bohdan MASZTALER",
+              "minute": "45+1"
+            },
+            {
+              "on": "Wlodzimierz LUBANSKI",
+              "off": "Zbigniew BONIEK",
+              "minute": "86"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Ramon QUIROGA"
+            },
+            {
+              "name": "Jaime DUARTE"
+            },
+            {
+              "name": "Rodolfo MANZO"
+            },
+            {
+              "name": "Hector CHUMPITAZ",
+              "captain": true
+            },
+            {
+              "name": "Jose NAVARRO"
+            },
+            {
+              "name": "Cesar CUETO"
+            },
+            {
+              "name": "Alfredo QUESADA"
+            },
+            {
+              "name": "Juan MUNANTE"
+            },
+            {
+              "name": "Teofilo CUBILLAS"
+            },
+            {
+              "name": "Juan Carlos OBLITAS"
+            },
+            {
+              "name": "Guillermo LA ROSA"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Percy ROJAS"
+            },
+            {
+              "name": "Hugo SOTIL"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Percy ROJAS",
+              "off": "Juan MUNANTE",
+              "minute": "45+1"
+            },
+            {
+              "on": "Hugo SOTIL",
+              "off": "Guillermo LA ROSA",
+              "minute": "74"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Jerzy GORGON",
+            "minute": "59"
+          },
+          {
+            "type": "Y",
+            "name": "Zbigniew BONIEK",
+            "minute": "75"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Rodolfo MANZO",
+            "minute": "7"
+          },
+          {
+            "type": "Y",
+            "name": "Ramon QUIROGA",
+            "minute": "89"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Pat PARTRIDGE",
+          "country": "ENG"
+        },
+        {
+          "name": "Thomas CLIVE",
+          "country": "WAL"
+        },
+        {
+          "name": "Charles CORVER",
+          "country": "NED"
+        }
+      ]
+    },
+    {
+      "round": "Second Round, Group B",
+      "date": "1978-06-18",
+      "time": "19:15 UTC-3",
+      "team1": "Argentina",
+      "team2": "Brazil",
+      "score": [
+        0,
+        0
+      ],
+      "ground": "Arroyito, Rosario",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Ubaldo FILLOL"
+            },
+            {
+              "name": "Luis GALVAN"
+            },
+            {
+              "name": "Jorge OLGUIN"
+            },
+            {
+              "name": "Daniel PASSARELLA",
+              "captain": true
+            },
+            {
+              "name": "Alberto TARANTINI"
+            },
+            {
+              "name": "Osvaldo ARDILES"
+            },
+            {
+              "name": "Americo GALLEGO"
+            },
+            {
+              "name": "Daniel BERTONI"
+            },
+            {
+              "name": "Mario KEMPES"
+            },
+            {
+              "name": "Leopoldo LUQUE"
+            },
+            {
+              "name": "Oscar ORTIZ"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Ricardo VILLA"
+            },
+            {
+              "name": "Norberto ALONSO"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Ricardo VILLA",
+              "off": "Osvaldo ARDILES",
+              "minute": "45+1"
+            },
+            {
+              "on": "Norberto ALONSO",
+              "off": "Oscar ORTIZ",
+              "minute": "60"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "LEAO",
+              "captain": true
+            },
+            {
+              "name": "TONINHO"
+            },
+            {
+              "name": "OSCAR"
+            },
+            {
+              "name": "AMARAL"
+            },
+            {
+              "name": "RODRIGUES NETO"
+            },
+            {
+              "name": "DIRCEU"
+            },
+            {
+              "name": "BATISTA"
+            },
+            {
+              "name": "CHICAO"
+            },
+            {
+              "name": "GIL"
+            },
+            {
+              "name": "JORGE MENDONCA"
+            },
+            {
+              "name": "ROBERTO DINAMITE"
+            }
+          ],
+          "bench": [
+            {
+              "name": "EDINHO"
+            },
+            {
+              "name": "ZICO"
+            }
+          ],
+          "subs": [
+            {
+              "on": "EDINHO",
+              "off": "RODRIGUES NETO",
+              "minute": "34"
+            },
+            {
+              "on": "ZICO",
+              "off": "JORGE MENDONCA",
+              "minute": "67"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Ricardo VILLA",
+            "minute": "48"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "CHICAO",
+            "minute": "45"
+          },
+          {
+            "type": "Y",
+            "name": "EDINHO",
+            "minute": "66"
+          },
+          {
+            "type": "Y",
+            "name": "ZICO",
+            "minute": "74"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Karoly PALOTAI",
+          "country": "HUN"
+        },
+        {
+          "name": "Erich LINEMAYR",
+          "country": "AUT"
+        }
+      ]
+    },
+    {
+      "round": "Second Round, Group B",
+      "date": "1978-06-21",
+      "time": "16:45 UTC-3",
+      "team1": "Brazil",
+      "team2": "Poland",
+      "score": [
+        3,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "NELINHO",
+          "minute": "12"
+        },
+        {
+          "name": "ROBERTO DINAMITE",
+          "minute": "57"
+        },
+        {
+          "name": "ROBERTO DINAMITE",
+          "minute": "63"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Grzegorz LATO",
+          "minute": "45"
+        }
+      ],
+      "ground": "Estadio Libertador General San Martín, Mendoza",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "LEAO",
+              "captain": true
+            },
+            {
+              "name": "TONINHO"
+            },
+            {
+              "name": "OSCAR"
+            },
+            {
+              "name": "AMARAL"
+            },
+            {
+              "name": "NELINHO"
+            },
+            {
+              "name": "TONINHO CEREZO"
+            },
+            {
+              "name": "ZICO"
+            },
+            {
+              "name": "DIRCEU"
+            },
+            {
+              "name": "BATISTA"
+            },
+            {
+              "name": "GIL"
+            },
+            {
+              "name": "ROBERTO DINAMITE"
+            }
+          ],
+          "bench": [
+            {
+              "name": "RIVELLINO"
+            },
+            {
+              "name": "JORGE MENDONCA"
+            }
+          ],
+          "subs": [
+            {
+              "on": "JORGE MENDONCA",
+              "off": "ZICO",
+              "minute": "7"
+            },
+            {
+              "on": "RIVELLINO",
+              "off": "TONINHO CEREZO",
+              "minute": "77"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Zygmunt KUKLA"
+            },
+            {
+              "name": "Henryk MACULEWICZ"
+            },
+            {
+              "name": "Antoni SZYMANOWSKI"
+            },
+            {
+              "name": "Jerzy GORGON"
+            },
+            {
+              "name": "Wladyslaw ZMUDA"
+            },
+            {
+              "name": "Adam NAWALKA"
+            },
+            {
+              "name": "Henryk KASPERCZAK"
+            },
+            {
+              "name": "Kazimierz DEYNA",
+              "captain": true
+            },
+            {
+              "name": "Grzegorz LATO"
+            },
+            {
+              "name": "Andrzej SZARMACH"
+            },
+            {
+              "name": "Zbigniew BONIEK"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Wlodzimierz LUBANSKI"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Wlodzimierz LUBANSKI",
+              "off": "Henryk KASPERCZAK",
+              "minute": "64"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "JORGE MENDONCA",
+            "minute": "50"
+          },
+          {
+            "type": "Y",
+            "name": "TONINHO CEREZO",
+            "minute": "53"
+          }
+        ],
+        []
+      ],
+      "referees": [
+        {
+          "name": "Juan SILVAGNO CAVANNA",
+          "country": "CHI"
+        },
+        {
+          "name": "Anatoly IVANOV",
+          "country": "URS"
+        },
+        {
+          "name": "Alfonso GONZALEZ ARCHUNDIA",
+          "country": "MEX"
+        }
+      ]
+    },
+    {
+      "round": "Second Round, Group B",
+      "date": "1978-06-21",
+      "time": "19:15 UTC-3",
+      "team1": "Argentina",
+      "team2": "Peru",
+      "score": [
+        6,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Mario KEMPES",
+          "minute": "21"
+        },
+        {
+          "name": "Alberto TARANTINI",
+          "minute": "43"
+        },
+        {
+          "name": "Mario KEMPES",
+          "minute": "48"
+        },
+        {
+          "name": "Leopoldo LUQUE",
+          "minute": "50"
+        },
+        {
+          "name": "Rene HOUSEMAN",
+          "minute": "67"
+        },
+        {
+          "name": "Leopoldo LUQUE",
+          "minute": "72"
+        }
+      ],
+      "goals2": [],
+      "ground": "Arroyito, Rosario",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Ubaldo FILLOL"
+            },
+            {
+              "name": "Luis GALVAN"
+            },
+            {
+              "name": "Jorge OLGUIN"
+            },
+            {
+              "name": "Daniel PASSARELLA",
+              "captain": true
+            },
+            {
+              "name": "Alberto TARANTINI"
+            },
+            {
+              "name": "Americo GALLEGO"
+            },
+            {
+              "name": "Omar LARROSA"
+            },
+            {
+              "name": "Daniel BERTONI"
+            },
+            {
+              "name": "Mario KEMPES"
+            },
+            {
+              "name": "Leopoldo LUQUE"
+            },
+            {
+              "name": "Oscar ORTIZ"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Miguel OVIEDO"
+            },
+            {
+              "name": "Rene HOUSEMAN"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Rene HOUSEMAN",
+              "off": "Daniel BERTONI",
+              "minute": "64"
+            },
+            {
+              "on": "Miguel OVIEDO",
+              "off": "Americo GALLEGO",
+              "minute": "85"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Ramon QUIROGA"
+            },
+            {
+              "name": "Jaime DUARTE"
+            },
+            {
+              "name": "Rodolfo MANZO"
+            },
+            {
+              "name": "Hector CHUMPITAZ",
+              "captain": true
+            },
+            {
+              "name": "Roberto ROJAS"
+            },
+            {
+              "name": "Jose VELASQUEZ"
+            },
+            {
+              "name": "Cesar CUETO"
+            },
+            {
+              "name": "Alfredo QUESADA"
+            },
+            {
+              "name": "Juan MUNANTE"
+            },
+            {
+              "name": "Teofilo CUBILLAS"
+            },
+            {
+              "name": "Juan Carlos OBLITAS"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Raul GORRITI"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Raul GORRITI",
+              "off": "Jose VELASQUEZ",
+              "minute": "51"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [],
+        [
+          {
+            "type": "Y",
+            "name": "Alfredo QUESADA",
+            "minute": "36"
+          },
+          {
+            "type": "Y",
+            "name": "Jose VELASQUEZ",
+            "minute": "48"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Robert WURTZ",
+          "country": "FRA"
+        },
+        {
+          "name": "Ferdinand BIWERSI",
+          "country": "GER"
+        },
+        {
+          "name": "Sergio GONELLA",
+          "country": "ITA"
+        }
+      ]
+    },
+    {
+      "round": "Match for third place",
+      "date": "1978-06-24",
+      "time": "15:00 UTC-3",
+      "team1": "Brazil",
+      "team2": "Italy",
+      "score": [
+        2,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "NELINHO",
+          "minute": "64"
+        },
+        {
+          "name": "DIRCEU",
+          "minute": "72"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Franco CAUSIO",
+          "minute": "38"
+        }
+      ],
+      "ground": "El Monumental, Buenos Aires",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "LEAO",
+              "captain": true
+            },
+            {
+              "name": "OSCAR"
+            },
+            {
+              "name": "AMARAL"
+            },
+            {
+              "name": "NELINHO"
+            },
+            {
+              "name": "RODRIGUES NETO"
+            },
+            {
+              "name": "TONINHO CEREZO"
+            },
+            {
+              "name": "DIRCEU"
+            },
+            {
+              "name": "BATISTA"
+            },
+            {
+              "name": "GIL"
+            },
+            {
+              "name": "JORGE MENDONCA"
+            },
+            {
+              "name": "ROBERTO DINAMITE"
+            }
+          ],
+          "bench": [
+            {
+              "name": "RIVELLINO"
+            },
+            {
+              "name": "REINALDO"
+            }
+          ],
+          "subs": [
+            {
+              "on": "REINALDO",
+              "off": "GIL",
+              "minute": "45+1"
+            },
+            {
+              "on": "RIVELLINO",
+              "off": "TONINHO CEREZO",
+              "minute": "64"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Dino ZOFF",
+              "captain": true
+            },
+            {
+              "name": "Antonio CABRINI"
+            },
+            {
+              "name": "Antonello CUCCUREDDU"
+            },
+            {
+              "name": "Claudio GENTILE"
+            },
+            {
+              "name": "Aldo MALDERA"
+            },
+            {
+              "name": "Gaetano SCIREA"
+            },
+            {
+              "name": "Giancarlo ANTOGNONI"
+            },
+            {
+              "name": "Patrizio SALA"
+            },
+            {
+              "name": "Franco CAUSIO"
+            },
+            {
+              "name": "Roberto BETTEGA"
+            },
+            {
+              "name": "Paolo ROSSI"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Claudio SALA"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Claudio SALA",
+              "off": "Giancarlo ANTOGNONI",
+              "minute": "78"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "NELINHO",
+            "minute": "35"
+          },
+          {
+            "type": "Y",
+            "name": "BATISTA",
+            "minute": "44"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Claudio GENTILE",
+            "minute": "72"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Abraham KLEIN",
+          "country": "ISR"
+        },
+        {
+          "name": "Alfonso GONZALEZ ARCHUNDIA",
+          "country": "MEX"
+        },
+        {
+          "name": "Karoly PALOTAI",
+          "country": "HUN"
+        }
+      ]
+    },
+    {
+      "round": "Final",
+      "date": "1978-06-25",
+      "time": "15:00 UTC-3",
+      "team1": "Argentina",
+      "team2": "Netherlands",
+      "score": {
+        "et": [
+          3,
+          1
+        ]
+      },
+      "goals1": [
+        {
+          "name": "Mario KEMPES",
+          "minute": "38"
+        },
+        {
+          "name": "Mario KEMPES",
+          "minute": "105"
+        },
+        {
+          "name": "Daniel BERTONI",
+          "minute": "115"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Dick NANNINGA",
+          "minute": "82"
+        }
+      ],
+      "ground": "El Monumental, Buenos Aires",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Ubaldo FILLOL"
+            },
+            {
+              "name": "Luis GALVAN"
+            },
+            {
+              "name": "Jorge OLGUIN"
+            },
+            {
+              "name": "Daniel PASSARELLA",
+              "captain": true
+            },
+            {
+              "name": "Alberto TARANTINI"
+            },
+            {
+              "name": "Osvaldo ARDILES"
+            },
+            {
+              "name": "Americo GALLEGO"
+            },
+            {
+              "name": "Daniel BERTONI"
+            },
+            {
+              "name": "Mario KEMPES"
+            },
+            {
+              "name": "Leopoldo LUQUE"
+            },
+            {
+              "name": "Oscar ORTIZ"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Omar LARROSA"
+            },
+            {
+              "name": "Rene HOUSEMAN"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Omar LARROSA",
+              "off": "Osvaldo ARDILES",
+              "minute": "65"
+            },
+            {
+              "on": "Rene HOUSEMAN",
+              "off": "Oscar ORTIZ",
+              "minute": "74"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Jan JONGBLOED"
+            },
+            {
+              "name": "Jan POORTVLIET"
+            },
+            {
+              "name": "Ruud KROL",
+              "captain": true
+            },
+            {
+              "name": "Ernie BRANDTS"
+            },
+            {
+              "name": "Wim JANSEN"
+            },
+            {
+              "name": "Arie HAAN"
+            },
+            {
+              "name": "Willy VAN DE KERKHOF"
+            },
+            {
+              "name": "Johan NEESKENS"
+            },
+            {
+              "name": "Rene VAN DE KERKHOF"
+            },
+            {
+              "name": "Rob RENSENBRINK"
+            },
+            {
+              "name": "Johnny REP"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Wim SUURBIER"
+            },
+            {
+              "name": "Dick NANNINGA"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Dick NANNINGA",
+              "off": "Johnny REP",
+              "minute": "59"
+            },
+            {
+              "on": "Wim SUURBIER",
+              "off": "Wim JANSEN",
+              "minute": "72"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Osvaldo ARDILES",
+            "minute": "40"
+          },
+          {
+            "type": "Y",
+            "name": "Omar LARROSA",
+            "minute": "93"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Ruud KROL",
+            "minute": "15"
+          },
+          {
+            "type": "Y",
+            "name": "Wim SUURBIER",
+            "minute": "94"
+          },
+          {
+            "type": "Y",
+            "name": "Johan NEESKENS",
+            "minute": "96"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Sergio GONELLA",
+          "country": "ITA"
+        },
+        {
+          "name": "Ramon BARRETO RUIZ",
+          "country": "URU"
+        },
+        {
+          "name": "Erich LINEMAYR",
+          "country": "AUT"
+        }
+      ]
+    }
+  ]
+}

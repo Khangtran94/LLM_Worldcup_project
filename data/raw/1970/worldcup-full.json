@@ -1,0 +1,5270 @@
+{
+  "name": "World Cup 1970",
+  "matches": [
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1970-05-31",
+      "time": "12:00 UTC-5",
+      "team1": "Mexico",
+      "team2": "Soviet Union",
+      "score": [
+        0,
+        0
+      ],
+      "ground": "Estadio Azteca, Mexico City",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Ignacio CALDERON"
+            },
+            {
+              "name": "Gustavo PENA",
+              "captain": true
+            },
+            {
+              "name": "Mario PEREZ"
+            },
+            {
+              "name": "Guillermo HERNANDEZ"
+            },
+            {
+              "name": "Jose VANTOLRA"
+            },
+            {
+              "name": "Javier GUZMAN"
+            },
+            {
+              "name": "Hector PULIDO"
+            },
+            {
+              "name": "Mario VELARDE"
+            },
+            {
+              "name": "Horacio LOPEZ SALGADO"
+            },
+            {
+              "name": "Javier VALDIVIA"
+            },
+            {
+              "name": "Javier FRAGOSO"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Antonio MUNGUIA"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Antonio MUNGUIA",
+              "off": "Mario VELARDE",
+              "minute": "67"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Anzor KAVAZASHVILI"
+            },
+            {
+              "name": "Vladimir KAPLICHNI"
+            },
+            {
+              "name": "Evgeni LOVCHEV"
+            },
+            {
+              "name": "Gennadi LOGOFET"
+            },
+            {
+              "name": "Albert SHESTERNYOV",
+              "captain": true
+            },
+            {
+              "name": "Kakhi ASATIANI"
+            },
+            {
+              "name": "Vladimir MUNTYAN"
+            },
+            {
+              "name": "Viktor SEREBRYANIKOV"
+            },
+            {
+              "name": "Anatoly BISHOVETS"
+            },
+            {
+              "name": "Gennadi YEVRYUZHIKHIN"
+            },
+            {
+              "name": "Givili NODIYA"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Anatoli PUZACH"
+            },
+            {
+              "name": "Vitali KHMELNITSKI"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Anatoli PUZACH",
+              "off": "Viktor SEREBRYANIKOV",
+              "minute": "45+1"
+            },
+            {
+              "on": "Vitali KHMELNITSKI",
+              "off": "Givili NODIYA",
+              "minute": "66"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Gustavo PENA",
+            "minute": "60"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Kakhi ASATIANI",
+            "minute": "30"
+          },
+          {
+            "type": "Y",
+            "name": "Givili NODIYA",
+            "minute": "31"
+          },
+          {
+            "type": "Y",
+            "name": "Evgeni LOVCHEV",
+            "minute": "34"
+          },
+          {
+            "type": "Y",
+            "name": "Gennadi LOGOFET",
+            "minute": "72"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Kurt TSCHENSCHER",
+          "country": "GER"
+        },
+        {
+          "name": "Keith DUNSTAN",
+          "country": "BER"
+        },
+        {
+          "name": "John TAYLOR",
+          "country": "ENG"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1970-06-03",
+      "time": "16:00 UTC-5",
+      "team1": "Belgium",
+      "team2": "El Salvador",
+      "score": [
+        3,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Wilfried VAN MOER",
+          "minute": "12"
+        },
+        {
+          "name": "Wilfried VAN MOER",
+          "minute": "54"
+        },
+        {
+          "name": "Raoul LAMBERT",
+          "minute": "79",
+          "penalty": true
+        }
+      ],
+      "goals2": [],
+      "ground": "Estadio Azteca, Mexico City",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Christian PIOT"
+            },
+            {
+              "name": "Georges HEYLENS"
+            },
+            {
+              "name": "Jean THISSEN"
+            },
+            {
+              "name": "Nicolas DEWALQUE"
+            },
+            {
+              "name": "Jan DOCKX"
+            },
+            {
+              "name": "Leon SEMMELING"
+            },
+            {
+              "name": "Wilfried VAN MOER"
+            },
+            {
+              "name": "Johannes DEVRINDT"
+            },
+            {
+              "name": "Paul VAN HIMST",
+              "captain": true
+            },
+            {
+              "name": "Wilfried PUIS"
+            },
+            {
+              "name": "Raoul LAMBERT"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Odilon POLLEUNIS"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Odilon POLLEUNIS",
+              "off": "Leon SEMMELING",
+              "minute": "79"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Raul MAGANA"
+            },
+            {
+              "name": "Roberto RIVAS"
+            },
+            {
+              "name": "Salvador MARIONA",
+              "captain": true
+            },
+            {
+              "name": "Saturnino OSORIO"
+            },
+            {
+              "name": "Mauricio MANZANO"
+            },
+            {
+              "name": "Jose QUINTANILLA"
+            },
+            {
+              "name": "Mauricio RODRIGUEZ"
+            },
+            {
+              "name": "Alfredo VASQUEZ"
+            },
+            {
+              "name": "Juan MARTINEZ"
+            },
+            {
+              "name": "Salvador CABEZAS"
+            },
+            {
+              "name": "Ernesto APARICIO"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Santiago CORTES"
+            },
+            {
+              "name": "Genaro SERMENO"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Santiago CORTES",
+              "off": "Mauricio MANZANO",
+              "minute": "67"
+            },
+            {
+              "on": "Genaro SERMENO",
+              "off": "Mauricio RODRIGUEZ",
+              "minute": "80"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Andrei RADULESCU",
+          "country": "ROU"
+        },
+        {
+          "name": "Kurt TSCHENSCHER",
+          "country": "GER"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1970-06-06",
+      "time": "16:00 UTC-5",
+      "team1": "Soviet Union",
+      "team2": "Belgium",
+      "score": [
+        4,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Anatoly BISHOVETS",
+          "minute": "14"
+        },
+        {
+          "name": "Kakhi ASATIANI",
+          "minute": "57"
+        },
+        {
+          "name": "Anatoly BISHOVETS",
+          "minute": "63"
+        },
+        {
+          "name": "Vitali KHMELNITSKI",
+          "minute": "76"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Raoul LAMBERT",
+          "minute": "86"
+        }
+      ],
+      "ground": "Estadio Azteca, Mexico City",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Anzor KAVAZASHVILI"
+            },
+            {
+              "name": "Valentin AFONIN"
+            },
+            {
+              "name": "Revaz DZODZVASHVILI"
+            },
+            {
+              "name": "Vladimir KAPLICHNI"
+            },
+            {
+              "name": "Murtaz KHURTSILAVA"
+            },
+            {
+              "name": "Albert SHESTERNYOV",
+              "captain": true
+            },
+            {
+              "name": "Kakhi ASATIANI"
+            },
+            {
+              "name": "Vladimir MUNTYAN"
+            },
+            {
+              "name": "Anatoly BISHOVETS"
+            },
+            {
+              "name": "Gennadi YEVRYUZHIKHIN"
+            },
+            {
+              "name": "Vitali KHMELNITSKI"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Nicolai KISELYOV"
+            },
+            {
+              "name": "Evgeni LOVCHEV"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Evgeni LOVCHEV",
+              "off": "Vladimir KAPLICHNI",
+              "minute": "34"
+            },
+            {
+              "on": "Nicolai KISELYOV",
+              "off": "Revaz DZODZVASHVILI",
+              "minute": "73"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Christian PIOT"
+            },
+            {
+              "name": "Georges HEYLENS"
+            },
+            {
+              "name": "Jean THISSEN"
+            },
+            {
+              "name": "Nicolas DEWALQUE"
+            },
+            {
+              "name": "Leon JECK"
+            },
+            {
+              "name": "Jan DOCKX"
+            },
+            {
+              "name": "Leon SEMMELING"
+            },
+            {
+              "name": "Wilfried VAN MOER"
+            },
+            {
+              "name": "Paul VAN HIMST",
+              "captain": true
+            },
+            {
+              "name": "Wilfried PUIS"
+            },
+            {
+              "name": "Raoul LAMBERT"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Ruedi SCHEURER",
+          "country": "SUI"
+        },
+        {
+          "name": "Henry LANDAUER",
+          "country": "USA"
+        },
+        {
+          "name": "Bob DAVIDSON",
+          "country": "SCO"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1970-06-07",
+      "time": "12:00 UTC-5",
+      "team1": "Mexico",
+      "team2": "El Salvador",
+      "score": [
+        4,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Javier VALDIVIA",
+          "minute": "45"
+        },
+        {
+          "name": "Javier VALDIVIA",
+          "minute": "46"
+        },
+        {
+          "name": "Javier FRAGOSO",
+          "minute": "58"
+        },
+        {
+          "name": "Juan Ignacio BASAGUREN",
+          "minute": "83"
+        }
+      ],
+      "goals2": [],
+      "ground": "Estadio Azteca, Mexico City",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Ignacio CALDERON"
+            },
+            {
+              "name": "Gustavo PENA",
+              "captain": true
+            },
+            {
+              "name": "Mario PEREZ"
+            },
+            {
+              "name": "Jose VANTOLRA"
+            },
+            {
+              "name": "Javier GUZMAN"
+            },
+            {
+              "name": "Antonio MUNGUIA"
+            },
+            {
+              "name": "Jose Luis GONZALEZ"
+            },
+            {
+              "name": "Enrique BORJA"
+            },
+            {
+              "name": "Aaron PADILLA"
+            },
+            {
+              "name": "Javier VALDIVIA"
+            },
+            {
+              "name": "Javier FRAGOSO"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Horacio LOPEZ SALGADO"
+            },
+            {
+              "name": "Juan Ignacio BASAGUREN"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Horacio LOPEZ SALGADO",
+              "off": "Enrique BORJA",
+              "minute": "45+1"
+            },
+            {
+              "on": "Juan Ignacio BASAGUREN",
+              "off": "Horacio LOPEZ SALGADO",
+              "minute": "76"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Raul MAGANA"
+            },
+            {
+              "name": "Roberto RIVAS"
+            },
+            {
+              "name": "Salvador MARIONA",
+              "captain": true
+            },
+            {
+              "name": "Santiago CORTES"
+            },
+            {
+              "name": "Saturnino OSORIO"
+            },
+            {
+              "name": "Jose QUINTANILLA"
+            },
+            {
+              "name": "Mauricio RODRIGUEZ"
+            },
+            {
+              "name": "Alfredo VASQUEZ"
+            },
+            {
+              "name": "Juan MARTINEZ"
+            },
+            {
+              "name": "Salvador CABEZAS"
+            },
+            {
+              "name": "Ernesto APARICIO"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Mario MONGE"
+            },
+            {
+              "name": "Sergio MENDEZ"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Sergio MENDEZ",
+              "off": "Ernesto APARICIO",
+              "minute": "58"
+            },
+            {
+              "on": "Mario MONGE",
+              "off": "Santiago CORTES",
+              "minute": "68"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [],
+        [
+          {
+            "type": "Y",
+            "name": "Santiago CORTES",
+            "minute": "13"
+          },
+          {
+            "type": "Y",
+            "name": "Salvador MARIONA",
+            "minute": "33"
+          },
+          {
+            "type": "Y",
+            "name": "Raul MAGANA",
+            "minute": "45"
+          },
+          {
+            "type": "Y",
+            "name": "Salvador CABEZAS",
+            "minute": "57"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Aly Hussein KANDIL",
+          "country": "EGY"
+        },
+        {
+          "name": "Keith DUNSTAN",
+          "country": "BER"
+        },
+        {
+          "name": "John TAYLOR",
+          "country": "ENG"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1970-06-10",
+      "time": "16:00 UTC-5",
+      "team1": "Soviet Union",
+      "team2": "El Salvador",
+      "score": [
+        2,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Anatoly BISHOVETS",
+          "minute": "51"
+        },
+        {
+          "name": "Anatoly BISHOVETS",
+          "minute": "74"
+        }
+      ],
+      "goals2": [],
+      "ground": "Estadio Azteca, Mexico City",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Anzor KAVAZASHVILI"
+            },
+            {
+              "name": "Valentin AFONIN"
+            },
+            {
+              "name": "Revaz DZODZVASHVILI"
+            },
+            {
+              "name": "Murtaz KHURTSILAVA"
+            },
+            {
+              "name": "Albert SHESTERNYOV",
+              "captain": true
+            },
+            {
+              "name": "Nicolai KISELYOV"
+            },
+            {
+              "name": "Vladimir MUNTYAN"
+            },
+            {
+              "name": "Viktor SEREBRYANIKOV"
+            },
+            {
+              "name": "Anatoly BISHOVETS"
+            },
+            {
+              "name": "Anatoli PUZACH"
+            },
+            {
+              "name": "Vitali KHMELNITSKI"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Kakhi ASATIANI"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Kakhi ASATIANI",
+              "off": "Nicolai KISELYOV",
+              "minute": "81"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Raul MAGANA"
+            },
+            {
+              "name": "Roberto RIVAS"
+            },
+            {
+              "name": "Salvador MARIONA",
+              "captain": true
+            },
+            {
+              "name": "Saturnino OSORIO"
+            },
+            {
+              "name": "Guillermo CASTRO"
+            },
+            {
+              "name": "Mauricio RODRIGUEZ"
+            },
+            {
+              "name": "Alfredo VASQUEZ"
+            },
+            {
+              "name": "Mario MONGE"
+            },
+            {
+              "name": "Sergio MENDEZ"
+            },
+            {
+              "name": "Salvador CABEZAS"
+            },
+            {
+              "name": "Jaime PORTILLO"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Genaro SERMENO"
+            },
+            {
+              "name": "Ernesto APARICIO"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Ernesto APARICIO",
+              "off": "Salvador CABEZAS",
+              "minute": "82"
+            },
+            {
+              "on": "Genaro SERMENO",
+              "off": "Mauricio RODRIGUEZ",
+              "minute": "86"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Vitali KHMELNITSKI",
+            "minute": "90"
+          }
+        ],
+        []
+      ],
+      "referees": [
+        {
+          "name": "Rafael HORMAZABAL DIAZ",
+          "country": "CHI"
+        },
+        {
+          "name": "Norberto Angel COEREZZA",
+          "country": "ARG"
+        },
+        {
+          "name": "Ayrton Vieira DE MORAES",
+          "country": "BRA"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1970-06-11",
+      "time": "16:00 UTC-5",
+      "team1": "Mexico",
+      "team2": "Belgium",
+      "score": [
+        1,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Gustavo PENA",
+          "minute": "14",
+          "penalty": true
+        }
+      ],
+      "goals2": [],
+      "ground": "Estadio Azteca, Mexico City",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Ignacio CALDERON"
+            },
+            {
+              "name": "Gustavo PENA",
+              "captain": true
+            },
+            {
+              "name": "Mario PEREZ"
+            },
+            {
+              "name": "Jose VANTOLRA"
+            },
+            {
+              "name": "Javier GUZMAN"
+            },
+            {
+              "name": "Antonio MUNGUIA"
+            },
+            {
+              "name": "Hector PULIDO"
+            },
+            {
+              "name": "Jose Luis GONZALEZ"
+            },
+            {
+              "name": "Aaron PADILLA"
+            },
+            {
+              "name": "Javier VALDIVIA"
+            },
+            {
+              "name": "Javier FRAGOSO"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Juan Ignacio BASAGUREN"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Juan Ignacio BASAGUREN",
+              "off": "Javier VALDIVIA",
+              "minute": "45+1"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Christian PIOT"
+            },
+            {
+              "name": "Georges HEYLENS"
+            },
+            {
+              "name": "Jean THISSEN"
+            },
+            {
+              "name": "Nicolas DEWALQUE"
+            },
+            {
+              "name": "Leon JECK"
+            },
+            {
+              "name": "Jan DOCKX"
+            },
+            {
+              "name": "Leon SEMMELING"
+            },
+            {
+              "name": "Wilfried VAN MOER"
+            },
+            {
+              "name": "Paul VAN HIMST",
+              "captain": true
+            },
+            {
+              "name": "Wilfried PUIS"
+            },
+            {
+              "name": "Odilon POLLEUNIS"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Johannes DEVRINDT"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Johannes DEVRINDT",
+              "off": "Odilon POLLEUNIS",
+              "minute": "65"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Javier VALDIVIA",
+            "minute": "19"
+          },
+          {
+            "type": "Y",
+            "name": "Gustavo PENA",
+            "minute": "29"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Paul VAN HIMST",
+            "minute": "15"
+          },
+          {
+            "type": "Y",
+            "name": "Jean THISSEN",
+            "minute": "29"
+          },
+          {
+            "type": "Y",
+            "name": "Odilon POLLEUNIS",
+            "minute": "62"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Norberto Angel COEREZZA",
+          "country": "ARG"
+        },
+        {
+          "name": "Henry LANDAUER",
+          "country": "USA"
+        },
+        {
+          "name": "Rafael HORMAZABAL DIAZ",
+          "country": "CHI"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1970-06-02",
+      "time": "16:00 UTC-5",
+      "team1": "Uruguay",
+      "team2": "Israel",
+      "score": [
+        2,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Ildo MANEIRO",
+          "minute": "23"
+        },
+        {
+          "name": "Juan MUJICA",
+          "minute": "50"
+        }
+      ],
+      "goals2": [],
+      "ground": "Estadio Cuauhtemoc, Puebla",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Ladislao MAZURKIEWICZ"
+            },
+            {
+              "name": "Atilio ANCHETA"
+            },
+            {
+              "name": "Roberto MATOSAS"
+            },
+            {
+              "name": "Luis UBINA"
+            },
+            {
+              "name": "Juan MUJICA"
+            },
+            {
+              "name": "Julio MONTERO"
+            },
+            {
+              "name": "Luis CUBILLA"
+            },
+            {
+              "name": "Pedro ROCHA",
+              "captain": true
+            },
+            {
+              "name": "Victor ESPARRAGO"
+            },
+            {
+              "name": "Ildo MANEIRO"
+            },
+            {
+              "name": "Julio LOSADA"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Julio CORTES"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Julio CORTES",
+              "off": "Pedro ROCHA",
+              "minute": "12"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Itzhak VISSOKER"
+            },
+            {
+              "name": "David PRIMO"
+            },
+            {
+              "name": "Zvi ROSEN"
+            },
+            {
+              "name": "Shmuel ROSENTHAL"
+            },
+            {
+              "name": "Yeshaiyahu SCHWAGER"
+            },
+            {
+              "name": "Itzhak SCHUM"
+            },
+            {
+              "name": "Giora SPIEGEL"
+            },
+            {
+              "name": "Jehoshua FAIGENBAUM"
+            },
+            {
+              "name": "Mordechai SPIEGLER",
+              "captain": true
+            },
+            {
+              "name": "Dani SHMULEVICH-ROM"
+            },
+            {
+              "name": "Rahamim TALBI"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Johanan VALLACH"
+            },
+            {
+              "name": "Shraga BAR"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Shraga BAR",
+              "off": "Rahamim TALBI",
+              "minute": "45+1"
+            },
+            {
+              "on": "Johanan VALLACH",
+              "off": "Dani SHMULEVICH-ROM",
+              "minute": "57"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Bob DAVIDSON",
+          "country": "SCO"
+        },
+        {
+          "name": "Ruedi SCHEURER",
+          "country": "SUI"
+        },
+        {
+          "name": "Seyoum TAREKEGN",
+          "country": "ETH"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1970-06-03",
+      "time": "16:00 UTC-5",
+      "team1": "Italy",
+      "team2": "Sweden",
+      "score": [
+        1,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Angelo DOMENGHINI",
+          "minute": "10"
+        }
+      ],
+      "goals2": [],
+      "ground": "Bombonera, Toluca",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Enrico ALBERTOSI"
+            },
+            {
+              "name": "Tarcisio BURGNICH"
+            },
+            {
+              "name": "Giacinto FACCHETTI",
+              "captain": true
+            },
+            {
+              "name": "Pierluigi CERA"
+            },
+            {
+              "name": "Comunardo NICCOLAI"
+            },
+            {
+              "name": "Mario BERTINI"
+            },
+            {
+              "name": "Sandro MAZZOLA"
+            },
+            {
+              "name": "Giancarlo DE SISTI"
+            },
+            {
+              "name": "Gigi RIVA"
+            },
+            {
+              "name": "Angelo DOMENGHINI"
+            },
+            {
+              "name": "Roberto BONINSEGNA"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Roberto ROSATO"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Roberto ROSATO",
+              "off": "Comunardo NICCOLAI",
+              "minute": "37"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Ronnie HELLSTROM"
+            },
+            {
+              "name": "Kurt AXELSSON"
+            },
+            {
+              "name": "Bjorn NORDQVIST",
+              "captain": true
+            },
+            {
+              "name": "Roland GRIP"
+            },
+            {
+              "name": "Jan OLSSON"
+            },
+            {
+              "name": "Tommy SVENSSON"
+            },
+            {
+              "name": "Bo LARSSON"
+            },
+            {
+              "name": "Leif ERIKSSON"
+            },
+            {
+              "name": "Ove KINDVALL"
+            },
+            {
+              "name": "Ove GRAHN"
+            },
+            {
+              "name": "Claes CRONQVIST"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Goran NICKLASSON"
+            },
+            {
+              "name": "Inge EJDERSTEDT"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Inge EJDERSTEDT",
+              "off": "Leif ERIKSSON",
+              "minute": "56"
+            },
+            {
+              "on": "Goran NICKLASSON",
+              "off": "Bo LARSSON",
+              "minute": "80"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [],
+        [
+          {
+            "type": "Y",
+            "name": "Claes CRONQVIST",
+            "minute": "56"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "John TAYLOR",
+          "country": "ENG"
+        },
+        {
+          "name": "Ruedi SCHEURER",
+          "country": "SUI"
+        },
+        {
+          "name": "Aly Hussein KANDIL",
+          "country": "EGY"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1970-06-06",
+      "time": "16:00 UTC-5",
+      "team1": "Uruguay",
+      "team2": "Italy",
+      "score": [
+        0,
+        0
+      ],
+      "ground": "Estadio Cuauhtemoc, Puebla",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Ladislao MAZURKIEWICZ"
+            },
+            {
+              "name": "Atilio ANCHETA"
+            },
+            {
+              "name": "Roberto MATOSAS"
+            },
+            {
+              "name": "Luis UBINA",
+              "captain": true
+            },
+            {
+              "name": "Juan MUJICA"
+            },
+            {
+              "name": "Julio MONTERO"
+            },
+            {
+              "name": "Luis CUBILLA"
+            },
+            {
+              "name": "Victor ESPARRAGO"
+            },
+            {
+              "name": "Ildo MANEIRO"
+            },
+            {
+              "name": "Julio CORTES"
+            },
+            {
+              "name": "Ruben BARENO"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Oscar ZUBIA"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Oscar ZUBIA",
+              "off": "Ruben BARENO",
+              "minute": "70"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Enrico ALBERTOSI"
+            },
+            {
+              "name": "Tarcisio BURGNICH"
+            },
+            {
+              "name": "Giacinto FACCHETTI",
+              "captain": true
+            },
+            {
+              "name": "Pierluigi CERA"
+            },
+            {
+              "name": "Roberto ROSATO"
+            },
+            {
+              "name": "Mario BERTINI"
+            },
+            {
+              "name": "Sandro MAZZOLA"
+            },
+            {
+              "name": "Giancarlo DE SISTI"
+            },
+            {
+              "name": "Gigi RIVA"
+            },
+            {
+              "name": "Angelo DOMENGHINI"
+            },
+            {
+              "name": "Roberto BONINSEGNA"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Giuseppe FURINO"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Giuseppe FURINO",
+              "off": "Angelo DOMENGHINI",
+              "minute": "45+1"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Julio CORTES",
+            "minute": "1"
+          }
+        ],
+        []
+      ],
+      "referees": [
+        {
+          "name": "Kurt TSCHENSCHER",
+          "country": "GER"
+        },
+        {
+          "name": "Drago HORVAT",
+          "country": "YUG"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1970-06-07",
+      "time": "12:00 UTC-5",
+      "team1": "Sweden",
+      "team2": "Israel",
+      "score": [
+        1,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Tom TURESSON",
+          "minute": "53"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Mordechai SPIEGLER",
+          "minute": "56"
+        }
+      ],
+      "ground": "Bombonera, Toluca",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Sven-Gunnar LARSSON"
+            },
+            {
+              "name": "Hans SELANDER"
+            },
+            {
+              "name": "Kurt AXELSSON"
+            },
+            {
+              "name": "Roland GRIP"
+            },
+            {
+              "name": "Jan OLSSON"
+            },
+            {
+              "name": "Tommy SVENSSON",
+              "captain": true
+            },
+            {
+              "name": "Bo LARSSON"
+            },
+            {
+              "name": "Orjan PERSSON"
+            },
+            {
+              "name": "Thomas NORDAHL"
+            },
+            {
+              "name": "Ove KINDVALL"
+            },
+            {
+              "name": "Tom TURESSON"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Sten PALSSON"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Sten PALSSON",
+              "off": "Orjan PERSSON",
+              "minute": "76"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Itzhak VISSOKER"
+            },
+            {
+              "name": "Shraga BAR"
+            },
+            {
+              "name": "David PRIMO"
+            },
+            {
+              "name": "Zvi ROSEN"
+            },
+            {
+              "name": "Shmuel ROSENTHAL"
+            },
+            {
+              "name": "Yeshaiyahu SCHWAGER"
+            },
+            {
+              "name": "Johanan VALLACH"
+            },
+            {
+              "name": "Itzhak SCHUM"
+            },
+            {
+              "name": "Giora SPIEGEL"
+            },
+            {
+              "name": "Jehoshua FAIGENBAUM"
+            },
+            {
+              "name": "Mordechai SPIEGLER",
+              "captain": true
+            }
+          ],
+          "bench": [
+            {
+              "name": "Aharon SHURUK"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Aharon SHURUK",
+              "off": "Johanan VALLACH",
+              "minute": "51"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Orjan PERSSON",
+            "minute": "72"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Shraga BAR",
+            "minute": "38"
+          },
+          {
+            "type": "Y",
+            "name": "David PRIMO",
+            "minute": "89"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Seyoum TAREKEGN",
+          "country": "ETH"
+        },
+        {
+          "name": "Andrei RADULESCU",
+          "country": "ROU"
+        },
+        {
+          "name": "Drago HORVAT",
+          "country": "YUG"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1970-06-10",
+      "time": "16:00 UTC-5",
+      "team1": "Sweden",
+      "team2": "Uruguay",
+      "score": [
+        1,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Ove GRAHN",
+          "minute": "90"
+        }
+      ],
+      "goals2": [],
+      "ground": "Estadio Cuauhtemoc, Puebla",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Sven-Gunnar LARSSON"
+            },
+            {
+              "name": "Hans SELANDER"
+            },
+            {
+              "name": "Kurt AXELSSON"
+            },
+            {
+              "name": "Bjorn NORDQVIST",
+              "captain": true
+            },
+            {
+              "name": "Roland GRIP"
+            },
+            {
+              "name": "Tommy SVENSSON"
+            },
+            {
+              "name": "Bo LARSSON"
+            },
+            {
+              "name": "Leif ERIKSSON"
+            },
+            {
+              "name": "Orjan PERSSON"
+            },
+            {
+              "name": "Goran NICKLASSON"
+            },
+            {
+              "name": "Ove KINDVALL"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Ove GRAHN"
+            },
+            {
+              "name": "Tom TURESSON"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Tom TURESSON",
+              "off": "Ove KINDVALL",
+              "minute": "58"
+            },
+            {
+              "on": "Ove GRAHN",
+              "off": "Goran NICKLASSON",
+              "minute": "84"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Ladislao MAZURKIEWICZ"
+            },
+            {
+              "name": "Atilio ANCHETA"
+            },
+            {
+              "name": "Roberto MATOSAS"
+            },
+            {
+              "name": "Luis UBINA",
+              "captain": true
+            },
+            {
+              "name": "Juan MUJICA"
+            },
+            {
+              "name": "Julio MONTERO"
+            },
+            {
+              "name": "Victor ESPARRAGO"
+            },
+            {
+              "name": "Ildo MANEIRO"
+            },
+            {
+              "name": "Julio CORTES"
+            },
+            {
+              "name": "Oscar ZUBIA"
+            },
+            {
+              "name": "Julio LOSADA"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Dagoberto FONTES"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Dagoberto FONTES",
+              "off": "Victor ESPARRAGO",
+              "minute": "61"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Henry LANDAUER",
+          "country": "USA"
+        },
+        {
+          "name": "John TAYLOR",
+          "country": "ENG"
+        },
+        {
+          "name": "Andrei RADULESCU",
+          "country": "ROU"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1970-06-11",
+      "time": "16:00 UTC-5",
+      "team1": "Italy",
+      "team2": "Israel",
+      "score": [
+        0,
+        0
+      ],
+      "ground": "Bombonera, Toluca",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Enrico ALBERTOSI"
+            },
+            {
+              "name": "Tarcisio BURGNICH"
+            },
+            {
+              "name": "Giacinto FACCHETTI",
+              "captain": true
+            },
+            {
+              "name": "Pierluigi CERA"
+            },
+            {
+              "name": "Roberto ROSATO"
+            },
+            {
+              "name": "Mario BERTINI"
+            },
+            {
+              "name": "Sandro MAZZOLA"
+            },
+            {
+              "name": "Giancarlo DE SISTI"
+            },
+            {
+              "name": "Gigi RIVA"
+            },
+            {
+              "name": "Angelo DOMENGHINI"
+            },
+            {
+              "name": "Roberto BONINSEGNA"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Itzhak VISSOKER"
+            },
+            {
+              "name": "Shraga BAR"
+            },
+            {
+              "name": "Menachem BELLO"
+            },
+            {
+              "name": "David PRIMO"
+            },
+            {
+              "name": "Zvi ROSEN"
+            },
+            {
+              "name": "Shmuel ROSENTHAL"
+            },
+            {
+              "name": "Yeshaiyahu SCHWAGER"
+            },
+            {
+              "name": "Itzhak SCHUM"
+            },
+            {
+              "name": "Giora SPIEGEL"
+            },
+            {
+              "name": "Jehoshua FAIGENBAUM"
+            },
+            {
+              "name": "Mordechai SPIEGLER",
+              "captain": true
+            }
+          ],
+          "bench": [
+            {
+              "name": "Dani SHMULEVICH-ROM"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Dani SHMULEVICH-ROM",
+              "off": "Jehoshua FAIGENBAUM",
+              "minute": "45+1"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Roberto BONINSEGNA",
+            "minute": "90"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "David PRIMO",
+            "minute": "62"
+          },
+          {
+            "type": "Y",
+            "name": "Menachem BELLO",
+            "minute": "67"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Ayrton Vieira DE MORAES",
+          "country": "BRA"
+        },
+        {
+          "name": "Seyoum TAREKEGN",
+          "country": "ETH"
+        },
+        {
+          "name": "Kurt TSCHENSCHER",
+          "country": "GER"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1970-06-02",
+      "time": "16:00 UTC-5",
+      "team1": "England",
+      "team2": "Romania",
+      "score": [
+        1,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Geoff HURST",
+          "minute": "65"
+        }
+      ],
+      "goals2": [],
+      "ground": "Estadio Jalisco, Guadalajara",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Gordon BANKS"
+            },
+            {
+              "name": "Keith NEWTON"
+            },
+            {
+              "name": "Terry COOPER"
+            },
+            {
+              "name": "Brian LABONE"
+            },
+            {
+              "name": "Bobby MOORE",
+              "captain": true
+            },
+            {
+              "name": "Alan MULLERY"
+            },
+            {
+              "name": "Alan BALL"
+            },
+            {
+              "name": "Bobby CHARLTON"
+            },
+            {
+              "name": "Francis LEE"
+            },
+            {
+              "name": "Geoff HURST"
+            },
+            {
+              "name": "Martin PETERS"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Tommy WRIGHT"
+            },
+            {
+              "name": "Peter OSGOOD"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Tommy WRIGHT",
+              "off": "Keith NEWTON",
+              "minute": "51"
+            },
+            {
+              "on": "Peter OSGOOD",
+              "off": "Francis LEE",
+              "minute": "75"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Stere ADAMACHE"
+            },
+            {
+              "name": "Ludovic SATMAREANU"
+            },
+            {
+              "name": "Nicolae LUPESCU"
+            },
+            {
+              "name": "Mihai MOCANU"
+            },
+            {
+              "name": "Cornel DINU"
+            },
+            {
+              "name": "Emerich DEMBROVSCHI"
+            },
+            {
+              "name": "Radu NUNWEILLER"
+            },
+            {
+              "name": "Ion DUMITRU"
+            },
+            {
+              "name": "Florea DUMITRACHE"
+            },
+            {
+              "name": "Mircea LUCESCU",
+              "captain": true
+            },
+            {
+              "name": "Gheorghe TATARU"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Alexandru NEAGU"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Alexandru NEAGU",
+              "off": "Gheorghe TATARU",
+              "minute": "73"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Vital LORAUX",
+          "country": "BEL"
+        },
+        {
+          "name": "Roger MACHIN",
+          "country": "FRA"
+        },
+        {
+          "name": "Diego DE LEO",
+          "country": "MEX"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1970-06-03",
+      "time": "16:00 UTC-5",
+      "team1": "Brazil",
+      "team2": "Czechoslovakia",
+      "score": [
+        4,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "RIVELLINO",
+          "minute": "24"
+        },
+        {
+          "name": "PELE",
+          "minute": "59"
+        },
+        {
+          "name": "JAIRZINHO",
+          "minute": "61"
+        },
+        {
+          "name": "JAIRZINHO",
+          "minute": "83"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Ladislav PETRAS",
+          "minute": "11"
+        }
+      ],
+      "ground": "Estadio Jalisco, Guadalajara",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "FELIX"
+            },
+            {
+              "name": "BRITO"
+            },
+            {
+              "name": "WILSON PIAZZA"
+            },
+            {
+              "name": "CARLOS ALBERTO",
+              "captain": true
+            },
+            {
+              "name": "EVERALDO"
+            },
+            {
+              "name": "CLODOALDO"
+            },
+            {
+              "name": "GERSON"
+            },
+            {
+              "name": "TOSTAO"
+            },
+            {
+              "name": "RIVELLINO"
+            },
+            {
+              "name": "JAIRZINHO"
+            },
+            {
+              "name": "PELE"
+            }
+          ],
+          "bench": [
+            {
+              "name": "PAULO CESAR"
+            }
+          ],
+          "subs": [
+            {
+              "on": "PAULO CESAR",
+              "off": "GERSON",
+              "minute": "62"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Ivo VIKTOR"
+            },
+            {
+              "name": "Karol DOBIAS"
+            },
+            {
+              "name": "Vaclav MIGAS"
+            },
+            {
+              "name": "Vladimir HAGARA"
+            },
+            {
+              "name": "Alexander HORVATH",
+              "captain": true
+            },
+            {
+              "name": "Ladislav KUNA"
+            },
+            {
+              "name": "Ivan HRDLICKA"
+            },
+            {
+              "name": "Frantisek VESELY"
+            },
+            {
+              "name": "Ladislav PETRAS"
+            },
+            {
+              "name": "Jozef ADAMEC"
+            },
+            {
+              "name": "Karol JOKL"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Andrej KVASNAK"
+            },
+            {
+              "name": "Bohumil VESELY"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Andrej KVASNAK",
+              "off": "Ivan HRDLICKA",
+              "minute": "46"
+            },
+            {
+              "on": "Bohumil VESELY",
+              "off": "Frantisek VESELY",
+              "minute": "75"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "TOSTAO",
+            "minute": "1"
+          },
+          {
+            "type": "Y",
+            "name": "GERSON",
+            "minute": "31"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Alexander HORVATH",
+            "minute": "1"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Ramon BARRETO RUIZ",
+          "country": "URU"
+        },
+        {
+          "name": "Abraham KLEIN",
+          "country": "ISR"
+        },
+        {
+          "name": "Arturo YAMASAKI MALDONADO",
+          "country": "MEX"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1970-06-06",
+      "time": "16:00 UTC-5",
+      "team1": "Romania",
+      "team2": "Czechoslovakia",
+      "score": [
+        2,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Alexandru NEAGU",
+          "minute": "52"
+        },
+        {
+          "name": "Florea DUMITRACHE",
+          "minute": "75",
+          "penalty": true
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Ladislav PETRAS",
+          "minute": "5"
+        }
+      ],
+      "ground": "Estadio Jalisco, Guadalajara",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Stere ADAMACHE"
+            },
+            {
+              "name": "Ludovic SATMAREANU"
+            },
+            {
+              "name": "Nicolae LUPESCU"
+            },
+            {
+              "name": "Mihai MOCANU"
+            },
+            {
+              "name": "Cornel DINU"
+            },
+            {
+              "name": "Emerich DEMBROVSCHI"
+            },
+            {
+              "name": "Radu NUNWEILLER"
+            },
+            {
+              "name": "Ion DUMITRU"
+            },
+            {
+              "name": "Alexandru NEAGU"
+            },
+            {
+              "name": "Florea DUMITRACHE"
+            },
+            {
+              "name": "Mircea LUCESCU",
+              "captain": true
+            }
+          ],
+          "bench": [
+            {
+              "name": "Laszlo GERGELY"
+            },
+            {
+              "name": "Gheorghe TATARU"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Gheorghe TATARU",
+              "off": "Mircea LUCESCU",
+              "minute": "69"
+            },
+            {
+              "on": "Laszlo GERGELY",
+              "off": "Ion DUMITRU",
+              "minute": "81"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Alexander VENCEL"
+            },
+            {
+              "name": "Karol DOBIAS"
+            },
+            {
+              "name": "Vaclav MIGAS"
+            },
+            {
+              "name": "Alexander HORVATH",
+              "captain": true
+            },
+            {
+              "name": "Jan ZLOCHA"
+            },
+            {
+              "name": "Andrej KVASNAK"
+            },
+            {
+              "name": "Bohumil VESELY"
+            },
+            {
+              "name": "Ladislav KUNA"
+            },
+            {
+              "name": "Ladislav PETRAS"
+            },
+            {
+              "name": "Karol JOKL"
+            },
+            {
+              "name": "Jozef JURKANIN"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Frantisek VESELY"
+            },
+            {
+              "name": "Jozef ADAMEC"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Jozef ADAMEC",
+              "off": "Jozef JURKANIN",
+              "minute": "45+1"
+            },
+            {
+              "on": "Frantisek VESELY",
+              "off": "Karol JOKL",
+              "minute": "69"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Radu NUNWEILLER",
+            "minute": "83"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Andrej KVASNAK",
+            "minute": "83"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Diego DE LEO",
+          "country": "MEX"
+        },
+        {
+          "name": "Gyula EMSBERGER",
+          "country": "HUN"
+        },
+        {
+          "name": "Vital LORAUX",
+          "country": "BEL"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1970-06-07",
+      "time": "12:00 UTC-5",
+      "team1": "Brazil",
+      "team2": "England",
+      "score": [
+        1,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "JAIRZINHO",
+          "minute": "59"
+        }
+      ],
+      "goals2": [],
+      "ground": "Estadio Jalisco, Guadalajara",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "FELIX"
+            },
+            {
+              "name": "BRITO"
+            },
+            {
+              "name": "WILSON PIAZZA"
+            },
+            {
+              "name": "CARLOS ALBERTO",
+              "captain": true
+            },
+            {
+              "name": "EVERALDO"
+            },
+            {
+              "name": "CLODOALDO"
+            },
+            {
+              "name": "TOSTAO"
+            },
+            {
+              "name": "RIVELLINO"
+            },
+            {
+              "name": "PAULO CESAR"
+            },
+            {
+              "name": "JAIRZINHO"
+            },
+            {
+              "name": "PELE"
+            }
+          ],
+          "bench": [
+            {
+              "name": "ROBERTO"
+            }
+          ],
+          "subs": [
+            {
+              "on": "ROBERTO",
+              "off": "TOSTAO",
+              "minute": "68"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Gordon BANKS"
+            },
+            {
+              "name": "Terry COOPER"
+            },
+            {
+              "name": "Brian LABONE"
+            },
+            {
+              "name": "Bobby MOORE",
+              "captain": true
+            },
+            {
+              "name": "Tommy WRIGHT"
+            },
+            {
+              "name": "Alan MULLERY"
+            },
+            {
+              "name": "Alan BALL"
+            },
+            {
+              "name": "Bobby CHARLTON"
+            },
+            {
+              "name": "Francis LEE"
+            },
+            {
+              "name": "Geoff HURST"
+            },
+            {
+              "name": "Martin PETERS"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Colin BELL"
+            },
+            {
+              "name": "Jeff ASTLE"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Jeff ASTLE",
+              "off": "Francis LEE",
+              "minute": "63"
+            },
+            {
+              "on": "Colin BELL",
+              "off": "Bobby CHARLTON",
+              "minute": "63"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [],
+        [
+          {
+            "type": "Y",
+            "name": "Francis LEE",
+            "minute": "32"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Abraham KLEIN",
+          "country": "ISR"
+        },
+        {
+          "name": "Arturo YAMASAKI MALDONADO",
+          "country": "MEX"
+        },
+        {
+          "name": "Roger MACHIN",
+          "country": "FRA"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1970-06-10",
+      "time": "16:00 UTC-5",
+      "team1": "Brazil",
+      "team2": "Romania",
+      "score": [
+        3,
+        2
+      ],
+      "goals1": [
+        {
+          "name": "PELE",
+          "minute": "19"
+        },
+        {
+          "name": "JAIRZINHO",
+          "minute": "22"
+        },
+        {
+          "name": "PELE",
+          "minute": "67"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Florea DUMITRACHE",
+          "minute": "34"
+        },
+        {
+          "name": "Emerich DEMBROVSCHI",
+          "minute": "84"
+        }
+      ],
+      "ground": "Estadio Jalisco, Guadalajara",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "FELIX"
+            },
+            {
+              "name": "BRITO"
+            },
+            {
+              "name": "WILSON PIAZZA"
+            },
+            {
+              "name": "CARLOS ALBERTO",
+              "captain": true
+            },
+            {
+              "name": "FONTANA"
+            },
+            {
+              "name": "EVERALDO"
+            },
+            {
+              "name": "CLODOALDO"
+            },
+            {
+              "name": "TOSTAO"
+            },
+            {
+              "name": "PAULO CESAR"
+            },
+            {
+              "name": "JAIRZINHO"
+            },
+            {
+              "name": "PELE"
+            }
+          ],
+          "bench": [
+            {
+              "name": "MARCO ANTONIO"
+            },
+            {
+              "name": "EDU"
+            }
+          ],
+          "subs": [
+            {
+              "on": "MARCO ANTONIO",
+              "off": "EVERALDO",
+              "minute": "60"
+            },
+            {
+              "on": "EDU",
+              "off": "CLODOALDO",
+              "minute": "74"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Stere ADAMACHE"
+            },
+            {
+              "name": "Ludovic SATMAREANU"
+            },
+            {
+              "name": "Nicolae LUPESCU"
+            },
+            {
+              "name": "Mihai MOCANU"
+            },
+            {
+              "name": "Cornel DINU"
+            },
+            {
+              "name": "Emerich DEMBROVSCHI"
+            },
+            {
+              "name": "Radu NUNWEILLER"
+            },
+            {
+              "name": "Ion DUMITRU"
+            },
+            {
+              "name": "Alexandru NEAGU"
+            },
+            {
+              "name": "Florea DUMITRACHE"
+            },
+            {
+              "name": "Mircea LUCESCU",
+              "captain": true
+            }
+          ],
+          "bench": [
+            {
+              "name": "Necula RADUCANU"
+            },
+            {
+              "name": "Gheorghe TATARU"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Necula RADUCANU",
+              "off": "Stere ADAMACHE",
+              "minute": "27"
+            },
+            {
+              "on": "Gheorghe TATARU",
+              "off": "Florea DUMITRACHE",
+              "minute": "72"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [],
+        [
+          {
+            "type": "Y",
+            "name": "Ion DUMITRU",
+            "minute": "44"
+          },
+          {
+            "type": "Y",
+            "name": "Mihai MOCANU",
+            "minute": "78"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Ferdinand MARSCHALL",
+          "country": "AUT"
+        },
+        {
+          "name": "Ramon BARRETO RUIZ",
+          "country": "URU"
+        },
+        {
+          "name": "Vital LORAUX",
+          "country": "BEL"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1970-06-11",
+      "time": "16:00 UTC-5",
+      "team1": "England",
+      "team2": "Czechoslovakia",
+      "score": [
+        1,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Allan CLARKE",
+          "minute": "50",
+          "penalty": true
+        }
+      ],
+      "goals2": [],
+      "ground": "Estadio Jalisco, Guadalajara",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Gordon BANKS"
+            },
+            {
+              "name": "Keith NEWTON"
+            },
+            {
+              "name": "Terry COOPER"
+            },
+            {
+              "name": "Bobby MOORE",
+              "captain": true
+            },
+            {
+              "name": "Jack CHARLTON"
+            },
+            {
+              "name": "Alan MULLERY"
+            },
+            {
+              "name": "Bobby CHARLTON"
+            },
+            {
+              "name": "Colin BELL"
+            },
+            {
+              "name": "Martin PETERS"
+            },
+            {
+              "name": "Allan CLARKE"
+            },
+            {
+              "name": "Jeff ASTLE"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Alan BALL"
+            },
+            {
+              "name": "Peter OSGOOD"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Peter OSGOOD",
+              "off": "Jeff ASTLE",
+              "minute": "65"
+            },
+            {
+              "on": "Alan BALL",
+              "off": "Bobby CHARLTON",
+              "minute": "65"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Ivo VIKTOR",
+              "captain": true
+            },
+            {
+              "name": "Karol DOBIAS"
+            },
+            {
+              "name": "Vaclav MIGAS"
+            },
+            {
+              "name": "Vladimir HAGARA"
+            },
+            {
+              "name": "Vladimir HRIVNAK"
+            },
+            {
+              "name": "Ladislav KUNA"
+            },
+            {
+              "name": "Jaroslav POLLAK"
+            },
+            {
+              "name": "Frantisek VESELY"
+            },
+            {
+              "name": "Ladislav PETRAS"
+            },
+            {
+              "name": "Jozef ADAMEC"
+            },
+            {
+              "name": "Jozef CAPKOVIC"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Karol JOKL"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Karol JOKL",
+              "off": "Jozef CAPKOVIC",
+              "minute": "72"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [],
+        [
+          {
+            "type": "Y",
+            "name": "Karol DOBIAS",
+            "minute": "78"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Roger MACHIN",
+          "country": "FRA"
+        },
+        {
+          "name": "Gyula EMSBERGER",
+          "country": "HUN"
+        },
+        {
+          "name": "Ferdinand MARSCHALL",
+          "country": "AUT"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1970-06-02",
+      "time": "16:00 UTC-5",
+      "team1": "Peru",
+      "team2": "Bulgaria",
+      "score": [
+        3,
+        2
+      ],
+      "goals1": [
+        {
+          "name": "Alberto GALLARDO",
+          "minute": "50"
+        },
+        {
+          "name": "Hector CHUMPITAZ",
+          "minute": "55"
+        },
+        {
+          "name": "Teofilo CUBILLAS",
+          "minute": "73"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Dinko DERMENDZHIEV",
+          "minute": "13"
+        },
+        {
+          "name": "Hristo BONEV",
+          "minute": "49"
+        }
+      ],
+      "ground": "Nou Camp, León",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Luis RUBINOS"
+            },
+            {
+              "name": "Eloy CAMPOS"
+            },
+            {
+              "name": "Orlando DE LA TORRE"
+            },
+            {
+              "name": "Hector CHUMPITAZ",
+              "captain": true
+            },
+            {
+              "name": "Nicolas FUENTES"
+            },
+            {
+              "name": "Ramon MIFFLIN"
+            },
+            {
+              "name": "Roberto CHALLE"
+            },
+            {
+              "name": "Julio BAYLON"
+            },
+            {
+              "name": "Pedro LEON"
+            },
+            {
+              "name": "Teofilo CUBILLAS"
+            },
+            {
+              "name": "Alberto GALLARDO"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Javier GONZALES"
+            },
+            {
+              "name": "Hugo SOTIL"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Javier GONZALES",
+              "off": "Eloy CAMPOS",
+              "minute": "29"
+            },
+            {
+              "on": "Hugo SOTIL",
+              "off": "Julio BAYLON",
+              "minute": "51"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Simeon SIMEONOV"
+            },
+            {
+              "name": "Aleksandar SHALAMANOV"
+            },
+            {
+              "name": "Ivan DIMITROV",
+              "captain": true
+            },
+            {
+              "name": "Stefan ALADZHOV"
+            },
+            {
+              "name": "Dimitar PENEV"
+            },
+            {
+              "name": "Ivan DAVIDOV"
+            },
+            {
+              "name": "Hristo BONEV"
+            },
+            {
+              "name": "Dinko DERMENDZHIEV"
+            },
+            {
+              "name": "Georgi POPOV"
+            },
+            {
+              "name": "Petar ZHEKOV"
+            },
+            {
+              "name": "Dimitar YAKIMOV"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Georgi ASPARUKHOV"
+            },
+            {
+              "name": "Dimitar MARASHLIEV"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Dimitar MARASHLIEV",
+              "off": "Georgi POPOV",
+              "minute": "59"
+            },
+            {
+              "on": "Georgi ASPARUKHOV",
+              "off": "Hristo BONEV",
+              "minute": "73"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Antonio SBARDELLA",
+          "country": "ITA"
+        },
+        {
+          "name": "Abel AGUILAR ELIZALDE",
+          "country": "MEX"
+        },
+        {
+          "name": "Yoshiyuki MARUYAMA",
+          "country": "JPN"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1970-06-03",
+      "time": "16:00 UTC-5",
+      "team1": "West Germany",
+      "team2": "Morocco",
+      "score": [
+        2,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Uwe SEELER",
+          "minute": "56"
+        },
+        {
+          "name": "Gerd MUELLER",
+          "minute": "80"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Houmane JARIR",
+          "minute": "21"
+        }
+      ],
+      "ground": "Nou Camp, León",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Sepp MAIER"
+            },
+            {
+              "name": "Horst-Dieter HOETTGES"
+            },
+            {
+              "name": "Franz BECKENBAUER"
+            },
+            {
+              "name": "Willi SCHULZ"
+            },
+            {
+              "name": "Berti VOGTS"
+            },
+            {
+              "name": "Klaus FICHTEL"
+            },
+            {
+              "name": "Helmut HALLER"
+            },
+            {
+              "name": "Wolfgang OVERATH"
+            },
+            {
+              "name": "Uwe SEELER",
+              "captain": true
+            },
+            {
+              "name": "Sigi HELD"
+            },
+            {
+              "name": "Gerd MUELLER"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Hennes LOEHR"
+            },
+            {
+              "name": "Juergen GRABOWSKI"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Juergen GRABOWSKI",
+              "off": "Helmut HALLER",
+              "minute": "45"
+            },
+            {
+              "on": "Hennes LOEHR",
+              "off": "Horst-Dieter HOETTGES",
+              "minute": "77"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Allal BEN KASSOU"
+            },
+            {
+              "name": "Abdallah LAMRANI"
+            },
+            {
+              "name": "Boujamaa BENKHRIF"
+            },
+            {
+              "name": "Driss KANOUSSI"
+            },
+            {
+              "name": "Kassem SLIMANI"
+            },
+            {
+              "name": "Mohamed MAAROUFI"
+            },
+            {
+              "name": "Ghandi SAID"
+            },
+            {
+              "name": "Driss BAMOUS",
+              "captain": true
+            },
+            {
+              "name": "Mohamed EL FILALI"
+            },
+            {
+              "name": "Mahjoub GHAZOUANI"
+            },
+            {
+              "name": "Houmane JARIR"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Ahmed FARAS"
+            },
+            {
+              "name": "Abdelkader EL KHYATI"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Abdelkader EL KHYATI",
+              "off": "Mahjoub GHAZOUANI",
+              "minute": "56"
+            },
+            {
+              "on": "Ahmed FARAS",
+              "off": "Driss BAMOUS",
+              "minute": "72"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Laurens VAN RAVENS",
+          "country": "NED"
+        },
+        {
+          "name": "Jose Maria ORTIZ DE MENDIBIL",
+          "country": "ESP"
+        },
+        {
+          "name": "Guillermo VELASQUEZ",
+          "country": "COL"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1970-06-06",
+      "time": "16:00 UTC-5",
+      "team1": "Peru",
+      "team2": "Morocco",
+      "score": [
+        3,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Teofilo CUBILLAS",
+          "minute": "65"
+        },
+        {
+          "name": "Roberto CHALLE",
+          "minute": "67"
+        },
+        {
+          "name": "Teofilo CUBILLAS",
+          "minute": "75"
+        }
+      ],
+      "goals2": [],
+      "ground": "Nou Camp, León",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Luis RUBINOS"
+            },
+            {
+              "name": "Orlando DE LA TORRE"
+            },
+            {
+              "name": "Hector CHUMPITAZ",
+              "captain": true
+            },
+            {
+              "name": "Nicolas FUENTES"
+            },
+            {
+              "name": "Pedro GONZALES"
+            },
+            {
+              "name": "Ramon MIFFLIN"
+            },
+            {
+              "name": "Roberto CHALLE"
+            },
+            {
+              "name": "Pedro LEON"
+            },
+            {
+              "name": "Teofilo CUBILLAS"
+            },
+            {
+              "name": "Alberto GALLARDO"
+            },
+            {
+              "name": "Hugo SOTIL"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Luis CRUZADO"
+            },
+            {
+              "name": "Osvaldo RAMIREZ"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Luis CRUZADO",
+              "off": "Ramon MIFFLIN",
+              "minute": "56"
+            },
+            {
+              "on": "Osvaldo RAMIREZ",
+              "off": "Alberto GALLARDO",
+              "minute": "76"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Allal BEN KASSOU"
+            },
+            {
+              "name": "Abdallah LAMRANI"
+            },
+            {
+              "name": "Boujamaa BENKHRIF"
+            },
+            {
+              "name": "Driss KANOUSSI"
+            },
+            {
+              "name": "Kassem SLIMANI"
+            },
+            {
+              "name": "Mohamed MAAROUFI"
+            },
+            {
+              "name": "Ghandi SAID"
+            },
+            {
+              "name": "Driss BAMOUS",
+              "captain": true
+            },
+            {
+              "name": "Mohamed EL FILALI"
+            },
+            {
+              "name": "Mahjoub GHAZOUANI"
+            },
+            {
+              "name": "Houmane JARIR"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Jilali FADILI"
+            },
+            {
+              "name": "Ahmed ALAOUI"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Jilali FADILI",
+              "off": "Boujamaa BENKHRIF",
+              "minute": "66"
+            },
+            {
+              "on": "Ahmed ALAOUI",
+              "off": "Ghandi SAID",
+              "minute": "81"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Tofik BAKHRAMOV",
+          "country": "URS"
+        },
+        {
+          "name": "Yoshiyuki MARUYAMA",
+          "country": "JPN"
+        },
+        {
+          "name": "Antonio SBARDELLA",
+          "country": "ITA"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1970-06-07",
+      "time": "12:00 UTC-5",
+      "team1": "West Germany",
+      "team2": "Bulgaria",
+      "score": [
+        5,
+        2
+      ],
+      "goals1": [
+        {
+          "name": "Stan LIBUDA",
+          "minute": "20"
+        },
+        {
+          "name": "Gerd MUELLER",
+          "minute": "27"
+        },
+        {
+          "name": "Gerd MUELLER",
+          "minute": "52",
+          "penalty": true
+        },
+        {
+          "name": "Uwe SEELER",
+          "minute": "70"
+        },
+        {
+          "name": "Gerd MUELLER",
+          "minute": "88"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Asparukh NIKODIMOV",
+          "minute": "12"
+        },
+        {
+          "name": "Todor KOLEV",
+          "minute": "89"
+        }
+      ],
+      "ground": "Nou Camp, León",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Sepp MAIER"
+            },
+            {
+              "name": "Horst-Dieter HOETTGES"
+            },
+            {
+              "name": "Karl-Heinz SCHNELLINGER"
+            },
+            {
+              "name": "Franz BECKENBAUER"
+            },
+            {
+              "name": "Berti VOGTS"
+            },
+            {
+              "name": "Klaus FICHTEL"
+            },
+            {
+              "name": "Wolfgang OVERATH"
+            },
+            {
+              "name": "Uwe SEELER",
+              "captain": true
+            },
+            {
+              "name": "Gerd MUELLER"
+            },
+            {
+              "name": "Stan LIBUDA"
+            },
+            {
+              "name": "Hennes LOEHR"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Wolfgang WEBER"
+            },
+            {
+              "name": "Juergen GRABOWSKI"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Juergen GRABOWSKI",
+              "off": "Hennes LOEHR",
+              "minute": "58"
+            },
+            {
+              "on": "Wolfgang WEBER",
+              "off": "Franz BECKENBAUER",
+              "minute": "72"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Simeon SIMEONOV"
+            },
+            {
+              "name": "Dimitar PENEV"
+            },
+            {
+              "name": "Milko GAIDARSKI"
+            },
+            {
+              "name": "Dobromir JECHEV"
+            },
+            {
+              "name": "Boris GAGANELOV",
+              "captain": true
+            },
+            {
+              "name": "Hristo BONEV"
+            },
+            {
+              "name": "Dinko DERMENDZHIEV"
+            },
+            {
+              "name": "Asparukh NIKODIMOV"
+            },
+            {
+              "name": "Todor KOLEV"
+            },
+            {
+              "name": "Dimitar MARASHLIEV"
+            },
+            {
+              "name": "Georgi ASPARUKHOV"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Aleksandar SHALAMANOV"
+            },
+            {
+              "name": "Vasil MITKOV"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Vasil MITKOV",
+              "off": "Dinko DERMENDZHIEV",
+              "minute": "45+1"
+            },
+            {
+              "on": "Aleksandar SHALAMANOV",
+              "off": "Boris GAGANELOV",
+              "minute": "58"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Jose Maria ORTIZ DE MENDIBIL",
+          "country": "ESP"
+        },
+        {
+          "name": "Guillermo VELASQUEZ",
+          "country": "COL"
+        },
+        {
+          "name": "Antonio SALDANHA RIBEIRO",
+          "country": "POR"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1970-06-10",
+      "time": "16:00 UTC-5",
+      "team1": "West Germany",
+      "team2": "Peru",
+      "score": [
+        3,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Gerd MUELLER",
+          "minute": "19"
+        },
+        {
+          "name": "Gerd MUELLER",
+          "minute": "26"
+        },
+        {
+          "name": "Gerd MUELLER",
+          "minute": "39"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Teofilo CUBILLAS",
+          "minute": "44"
+        }
+      ],
+      "ground": "Nou Camp, León",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Sepp MAIER"
+            },
+            {
+              "name": "Horst-Dieter HOETTGES"
+            },
+            {
+              "name": "Karl-Heinz SCHNELLINGER"
+            },
+            {
+              "name": "Franz BECKENBAUER"
+            },
+            {
+              "name": "Berti VOGTS"
+            },
+            {
+              "name": "Klaus FICHTEL"
+            },
+            {
+              "name": "Wolfgang OVERATH"
+            },
+            {
+              "name": "Uwe SEELER",
+              "captain": true
+            },
+            {
+              "name": "Gerd MUELLER"
+            },
+            {
+              "name": "Stan LIBUDA"
+            },
+            {
+              "name": "Hennes LOEHR"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Bernd PATZKE"
+            },
+            {
+              "name": "Juergen GRABOWSKI"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Bernd PATZKE",
+              "off": "Horst-Dieter HOETTGES",
+              "minute": "45+1"
+            },
+            {
+              "on": "Juergen GRABOWSKI",
+              "off": "Stan LIBUDA",
+              "minute": "75"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Luis RUBINOS"
+            },
+            {
+              "name": "Orlando DE LA TORRE"
+            },
+            {
+              "name": "Hector CHUMPITAZ",
+              "captain": true
+            },
+            {
+              "name": "Nicolas FUENTES"
+            },
+            {
+              "name": "Pedro GONZALES"
+            },
+            {
+              "name": "Ramon MIFFLIN"
+            },
+            {
+              "name": "Roberto CHALLE"
+            },
+            {
+              "name": "Pedro LEON"
+            },
+            {
+              "name": "Teofilo CUBILLAS"
+            },
+            {
+              "name": "Alberto GALLARDO"
+            },
+            {
+              "name": "Hugo SOTIL"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Luis CRUZADO"
+            },
+            {
+              "name": "Osvaldo RAMIREZ"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Osvaldo RAMIREZ",
+              "off": "Pedro LEON",
+              "minute": "56"
+            },
+            {
+              "on": "Luis CRUZADO",
+              "off": "Roberto CHALLE",
+              "minute": "72"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Abel AGUILAR ELIZALDE",
+          "country": "MEX"
+        },
+        {
+          "name": "Jose Maria ORTIZ DE MENDIBIL",
+          "country": "ESP"
+        },
+        {
+          "name": "Antonio SBARDELLA",
+          "country": "ITA"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1970-06-11",
+      "time": "16:00 UTC-5",
+      "team1": "Bulgaria",
+      "team2": "Morocco",
+      "score": [
+        1,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Dobromir JECHEV",
+          "minute": "40"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Mahjoub GHAZOUANI",
+          "minute": "61"
+        }
+      ],
+      "ground": "Nou Camp, León",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Stoyan YORDANOV"
+            },
+            {
+              "name": "Aleksandar SHALAMANOV",
+              "captain": true
+            },
+            {
+              "name": "Dimitar PENEV"
+            },
+            {
+              "name": "Milko GAIDARSKI"
+            },
+            {
+              "name": "Dobromir JECHEV"
+            },
+            {
+              "name": "Asparukh NIKODIMOV"
+            },
+            {
+              "name": "Todor KOLEV"
+            },
+            {
+              "name": "Georgi POPOV"
+            },
+            {
+              "name": "Dimitar YAKIMOV"
+            },
+            {
+              "name": "Georgi ASPARUKHOV"
+            },
+            {
+              "name": "Vasil MITKOV"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Ivan DIMITROV"
+            },
+            {
+              "name": "Hristo BONEV"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Ivan DIMITROV",
+              "off": "Dimitar PENEV",
+              "minute": "42"
+            },
+            {
+              "on": "Hristo BONEV",
+              "off": "Dimitar YAKIMOV",
+              "minute": "50"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Mohamed HAZZAZ"
+            },
+            {
+              "name": "Boujamaa BENKHRIF"
+            },
+            {
+              "name": "Driss KANOUSSI"
+            },
+            {
+              "name": "Kassem SLIMANI"
+            },
+            {
+              "name": "Jilali FADILI"
+            },
+            {
+              "name": "Mohamed MAAROUFI"
+            },
+            {
+              "name": "Ghandi SAID"
+            },
+            {
+              "name": "Driss BAMOUS",
+              "captain": true
+            },
+            {
+              "name": "Mohamed EL FILALI"
+            },
+            {
+              "name": "Mahjoub GHAZOUANI"
+            },
+            {
+              "name": "Ahmed ALAOUI"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Mustafa CHOUKRI"
+            },
+            {
+              "name": "Ahmed FARAS"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Mustafa CHOUKRI",
+              "off": "Driss BAMOUS",
+              "minute": "45+1"
+            },
+            {
+              "on": "Ahmed FARAS",
+              "off": "Ahmed ALAOUI",
+              "minute": "74"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Antonio SALDANHA RIBEIRO",
+          "country": "POR"
+        },
+        {
+          "name": "Tofik BAKHRAMOV",
+          "country": "URS"
+        },
+        {
+          "name": "Laurens VAN RAVENS",
+          "country": "NED"
+        }
+      ]
+    },
+    {
+      "round": "Quarter-final",
+      "date": "1970-06-14",
+      "time": "12:00 UTC-5",
+      "team1": "Uruguay",
+      "team2": "Soviet Union",
+      "score": {
+        "et": [
+          1,
+          0
+        ]
+      },
+      "goals1": [
+        {
+          "name": "Victor ESPARRAGO",
+          "minute": "117"
+        }
+      ],
+      "goals2": [],
+      "ground": "Estadio Azteca, Mexico City",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Ladislao MAZURKIEWICZ"
+            },
+            {
+              "name": "Atilio ANCHETA"
+            },
+            {
+              "name": "Roberto MATOSAS"
+            },
+            {
+              "name": "Luis UBINA",
+              "captain": true
+            },
+            {
+              "name": "Juan MUJICA"
+            },
+            {
+              "name": "Julio MONTERO"
+            },
+            {
+              "name": "Luis CUBILLA"
+            },
+            {
+              "name": "Ildo MANEIRO"
+            },
+            {
+              "name": "Julio CORTES"
+            },
+            {
+              "name": "Julio MORALES"
+            },
+            {
+              "name": "Dagoberto FONTES"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Alberto GOMEZ"
+            },
+            {
+              "name": "Victor ESPARRAGO"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Alberto GOMEZ",
+              "off": "Julio MORALES",
+              "minute": "96"
+            },
+            {
+              "on": "Victor ESPARRAGO",
+              "off": "Dagoberto FONTES",
+              "minute": "103"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Anzor KAVAZASHVILI"
+            },
+            {
+              "name": "Valentin AFONIN"
+            },
+            {
+              "name": "Revaz DZODZVASHVILI"
+            },
+            {
+              "name": "Vladimir KAPLICHNI"
+            },
+            {
+              "name": "Murtaz KHURTSILAVA"
+            },
+            {
+              "name": "Albert SHESTERNYOV",
+              "captain": true
+            },
+            {
+              "name": "Kakhi ASATIANI"
+            },
+            {
+              "name": "Vladimir MUNTYAN"
+            },
+            {
+              "name": "Anatoly BISHOVETS"
+            },
+            {
+              "name": "Gennadi YEVRYUZHIKHIN"
+            },
+            {
+              "name": "Vitali KHMELNITSKI"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Gennadi LOGOFET"
+            },
+            {
+              "name": "Nicolai KISELYOV"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Nicolai KISELYOV",
+              "off": "Kakhi ASATIANI",
+              "minute": "71"
+            },
+            {
+              "on": "Gennadi LOGOFET",
+              "off": "Murtaz KHURTSILAVA",
+              "minute": "86"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Roberto MATOSAS",
+            "minute": "9"
+          },
+          {
+            "type": "Y",
+            "name": "Julio MONTERO",
+            "minute": "17"
+          },
+          {
+            "type": "Y",
+            "name": "Luis UBINA",
+            "minute": "59"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Kakhi ASATIANI",
+            "minute": "32"
+          },
+          {
+            "type": "Y",
+            "name": "Vladimir KAPLICHNI",
+            "minute": "76"
+          },
+          {
+            "type": "Y",
+            "name": "Anatoly BISHOVETS",
+            "minute": "118"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Laurens VAN RAVENS",
+          "country": "NED"
+        },
+        {
+          "name": "Bob DAVIDSON",
+          "country": "SCO"
+        }
+      ]
+    },
+    {
+      "round": "Quarter-final",
+      "date": "1970-06-14",
+      "time": "12:00 UTC-5",
+      "team1": "Brazil",
+      "team2": "Peru",
+      "score": [
+        4,
+        2
+      ],
+      "goals1": [
+        {
+          "name": "RIVELLINO",
+          "minute": "11"
+        },
+        {
+          "name": "TOSTAO",
+          "minute": "15"
+        },
+        {
+          "name": "TOSTAO",
+          "minute": "52"
+        },
+        {
+          "name": "JAIRZINHO",
+          "minute": "75"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Alberto GALLARDO",
+          "minute": "28"
+        },
+        {
+          "name": "Teofilo CUBILLAS",
+          "minute": "70"
+        }
+      ],
+      "ground": "Estadio Jalisco, Guadalajara",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "FELIX"
+            },
+            {
+              "name": "BRITO"
+            },
+            {
+              "name": "WILSON PIAZZA"
+            },
+            {
+              "name": "CARLOS ALBERTO",
+              "captain": true
+            },
+            {
+              "name": "MARCO ANTONIO"
+            },
+            {
+              "name": "CLODOALDO"
+            },
+            {
+              "name": "GERSON"
+            },
+            {
+              "name": "TOSTAO"
+            },
+            {
+              "name": "RIVELLINO"
+            },
+            {
+              "name": "JAIRZINHO"
+            },
+            {
+              "name": "PELE"
+            }
+          ],
+          "bench": [
+            {
+              "name": "PAULO CESAR"
+            },
+            {
+              "name": "ROBERTO"
+            }
+          ],
+          "subs": [
+            {
+              "on": "PAULO CESAR",
+              "off": "GERSON",
+              "minute": "67"
+            },
+            {
+              "on": "ROBERTO",
+              "off": "JAIRZINHO",
+              "minute": "80"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Luis RUBINOS"
+            },
+            {
+              "name": "Eloy CAMPOS"
+            },
+            {
+              "name": "Hector CHUMPITAZ",
+              "captain": true
+            },
+            {
+              "name": "Nicolas FUENTES"
+            },
+            {
+              "name": "Jose FERNANDEZ"
+            },
+            {
+              "name": "Ramon MIFFLIN"
+            },
+            {
+              "name": "Roberto CHALLE"
+            },
+            {
+              "name": "Julio BAYLON"
+            },
+            {
+              "name": "Pedro LEON"
+            },
+            {
+              "name": "Teofilo CUBILLAS"
+            },
+            {
+              "name": "Alberto GALLARDO"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Hugo SOTIL"
+            },
+            {
+              "name": "Eladio REYES"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Hugo SOTIL",
+              "off": "Julio BAYLON",
+              "minute": "54"
+            },
+            {
+              "on": "Eladio REYES",
+              "off": "Pedro LEON",
+              "minute": "61"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Vital LORAUX",
+          "country": "BEL"
+        },
+        {
+          "name": "Ferdinand MARSCHALL",
+          "country": "AUT"
+        },
+        {
+          "name": "Gyula EMSBERGER",
+          "country": "HUN"
+        }
+      ]
+    },
+    {
+      "round": "Quarter-final",
+      "date": "1970-06-14",
+      "time": "12:00 UTC-5",
+      "team1": "West Germany",
+      "team2": "England",
+      "score": {
+        "et": [
+          3,
+          2
+        ]
+      },
+      "goals1": [
+        {
+          "name": "Franz BECKENBAUER",
+          "minute": "68"
+        },
+        {
+          "name": "Uwe SEELER",
+          "minute": "82"
+        },
+        {
+          "name": "Gerd MUELLER",
+          "minute": "108"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Alan MULLERY",
+          "minute": "31"
+        },
+        {
+          "name": "Martin PETERS",
+          "minute": "49"
+        }
+      ],
+      "ground": "Nou Camp, León",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Sepp MAIER"
+            },
+            {
+              "name": "Horst-Dieter HOETTGES"
+            },
+            {
+              "name": "Karl-Heinz SCHNELLINGER"
+            },
+            {
+              "name": "Franz BECKENBAUER"
+            },
+            {
+              "name": "Berti VOGTS"
+            },
+            {
+              "name": "Klaus FICHTEL"
+            },
+            {
+              "name": "Wolfgang OVERATH"
+            },
+            {
+              "name": "Uwe SEELER",
+              "captain": true
+            },
+            {
+              "name": "Gerd MUELLER"
+            },
+            {
+              "name": "Stan LIBUDA"
+            },
+            {
+              "name": "Hennes LOEHR"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Willi SCHULZ"
+            },
+            {
+              "name": "Juergen GRABOWSKI"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Willi SCHULZ",
+              "off": "Horst-Dieter HOETTGES",
+              "minute": "45"
+            },
+            {
+              "on": "Juergen GRABOWSKI",
+              "off": "Stan LIBUDA",
+              "minute": "55"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Peter BONETTI"
+            },
+            {
+              "name": "Keith NEWTON"
+            },
+            {
+              "name": "Terry COOPER"
+            },
+            {
+              "name": "Brian LABONE"
+            },
+            {
+              "name": "Bobby MOORE",
+              "captain": true
+            },
+            {
+              "name": "Alan MULLERY"
+            },
+            {
+              "name": "Alan BALL"
+            },
+            {
+              "name": "Bobby CHARLTON"
+            },
+            {
+              "name": "Francis LEE"
+            },
+            {
+              "name": "Geoff HURST"
+            },
+            {
+              "name": "Martin PETERS"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Colin BELL"
+            },
+            {
+              "name": "Norman HUNTER"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Colin BELL",
+              "off": "Bobby CHARLTON",
+              "minute": "70"
+            },
+            {
+              "on": "Norman HUNTER",
+              "off": "Martin PETERS",
+              "minute": "81"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Gerd MUELLER",
+            "minute": "18"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Francis LEE",
+            "minute": "10"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Norberto Angel COEREZZA",
+          "country": "ARG"
+        },
+        {
+          "name": "Guillermo VELASQUEZ",
+          "country": "COL"
+        },
+        {
+          "name": "Jose Maria ORTIZ DE MENDIBIL",
+          "country": "ESP"
+        }
+      ]
+    },
+    {
+      "round": "Quarter-final",
+      "date": "1970-06-14",
+      "time": "12:00 UTC-5",
+      "team1": "Italy",
+      "team2": "Mexico",
+      "score": [
+        4,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Javier GUZMAN",
+          "minute": "25",
+          "owngoal": true
+        },
+        {
+          "name": "Gigi RIVA",
+          "minute": "63"
+        },
+        {
+          "name": "Gianni RIVERA",
+          "minute": "70"
+        },
+        {
+          "name": "Gigi RIVA",
+          "minute": "76"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Jose Luis GONZALEZ",
+          "minute": "13"
+        }
+      ],
+      "ground": "Bombonera, Toluca",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Enrico ALBERTOSI"
+            },
+            {
+              "name": "Tarcisio BURGNICH"
+            },
+            {
+              "name": "Giacinto FACCHETTI",
+              "captain": true
+            },
+            {
+              "name": "Pierluigi CERA"
+            },
+            {
+              "name": "Roberto ROSATO"
+            },
+            {
+              "name": "Mario BERTINI"
+            },
+            {
+              "name": "Sandro MAZZOLA"
+            },
+            {
+              "name": "Giancarlo DE SISTI"
+            },
+            {
+              "name": "Gigi RIVA"
+            },
+            {
+              "name": "Angelo DOMENGHINI"
+            },
+            {
+              "name": "Roberto BONINSEGNA"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Gianni RIVERA"
+            },
+            {
+              "name": "Sergio GORI"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Gianni RIVERA",
+              "off": "Sandro MAZZOLA",
+              "minute": "45+1"
+            },
+            {
+              "on": "Sergio GORI",
+              "off": "Angelo DOMENGHINI",
+              "minute": "84"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Ignacio CALDERON"
+            },
+            {
+              "name": "Gustavo PENA",
+              "captain": true
+            },
+            {
+              "name": "Mario PEREZ"
+            },
+            {
+              "name": "Jose VANTOLRA"
+            },
+            {
+              "name": "Javier GUZMAN"
+            },
+            {
+              "name": "Antonio MUNGUIA"
+            },
+            {
+              "name": "Hector PULIDO"
+            },
+            {
+              "name": "Jose Luis GONZALEZ"
+            },
+            {
+              "name": "Aaron PADILLA"
+            },
+            {
+              "name": "Javier VALDIVIA"
+            },
+            {
+              "name": "Javier FRAGOSO"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Isidoro DIAZ"
+            },
+            {
+              "name": "Enrique BORJA"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Isidoro DIAZ",
+              "off": "Antonio MUNGUIA",
+              "minute": "60"
+            },
+            {
+              "on": "Enrique BORJA",
+              "off": "Jose Luis GONZALEZ",
+              "minute": "68"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Gianni RIVERA",
+            "minute": "67"
+          }
+        ],
+        []
+      ],
+      "referees": [
+        {
+          "name": "Ruedi SCHEURER",
+          "country": "SUI"
+        },
+        {
+          "name": "Keith DUNSTAN",
+          "country": "BER"
+        },
+        {
+          "name": "Henry LANDAUER",
+          "country": "USA"
+        }
+      ]
+    },
+    {
+      "round": "Semi-final",
+      "date": "1970-06-17",
+      "time": "16:00 UTC-5",
+      "team1": "Brazil",
+      "team2": "Uruguay",
+      "score": [
+        3,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "CLODOALDO",
+          "minute": "44"
+        },
+        {
+          "name": "JAIRZINHO",
+          "minute": "76"
+        },
+        {
+          "name": "RIVELLINO",
+          "minute": "89"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Luis CUBILLA",
+          "minute": "19"
+        }
+      ],
+      "ground": "Estadio Jalisco, Guadalajara",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "FELIX"
+            },
+            {
+              "name": "BRITO"
+            },
+            {
+              "name": "WILSON PIAZZA"
+            },
+            {
+              "name": "CARLOS ALBERTO",
+              "captain": true
+            },
+            {
+              "name": "EVERALDO"
+            },
+            {
+              "name": "CLODOALDO"
+            },
+            {
+              "name": "GERSON"
+            },
+            {
+              "name": "TOSTAO"
+            },
+            {
+              "name": "RIVELLINO"
+            },
+            {
+              "name": "JAIRZINHO"
+            },
+            {
+              "name": "PELE"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Ladislao MAZURKIEWICZ"
+            },
+            {
+              "name": "Atilio ANCHETA"
+            },
+            {
+              "name": "Roberto MATOSAS"
+            },
+            {
+              "name": "Luis UBINA",
+              "captain": true
+            },
+            {
+              "name": "Juan MUJICA"
+            },
+            {
+              "name": "Julio MONTERO"
+            },
+            {
+              "name": "Luis CUBILLA"
+            },
+            {
+              "name": "Ildo MANEIRO"
+            },
+            {
+              "name": "Julio CORTES"
+            },
+            {
+              "name": "Julio MORALES"
+            },
+            {
+              "name": "Dagoberto FONTES"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Victor ESPARRAGO"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Victor ESPARRAGO",
+              "off": "Ildo MANEIRO",
+              "minute": "77"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "CARLOS ALBERTO",
+            "minute": "33"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Juan MUJICA",
+            "minute": "5"
+          },
+          {
+            "type": "Y",
+            "name": "Dagoberto FONTES",
+            "minute": "18"
+          },
+          {
+            "type": "Y",
+            "name": "Ildo MANEIRO",
+            "minute": "37"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Jose Maria ORTIZ DE MENDIBIL",
+          "country": "ESP"
+        },
+        {
+          "name": "Tofik BAKHRAMOV",
+          "country": "URS"
+        },
+        {
+          "name": "Ferdinand MARSCHALL",
+          "country": "AUT"
+        }
+      ]
+    },
+    {
+      "round": "Semi-final",
+      "date": "1970-06-17",
+      "time": "16:00 UTC-5",
+      "team1": "Italy",
+      "team2": "West Germany",
+      "score": {
+        "et": [
+          4,
+          3
+        ]
+      },
+      "goals1": [
+        {
+          "name": "Roberto BONINSEGNA",
+          "minute": "8"
+        },
+        {
+          "name": "Tarcisio BURGNICH",
+          "minute": "98"
+        },
+        {
+          "name": "Gigi RIVA",
+          "minute": "104"
+        },
+        {
+          "name": "Gianni RIVERA",
+          "minute": "111"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Karl-Heinz SCHNELLINGER",
+          "minute": "90"
+        },
+        {
+          "name": "Gerd MUELLER",
+          "minute": "94"
+        },
+        {
+          "name": "Gerd MUELLER",
+          "minute": "110"
+        }
+      ],
+      "ground": "Estadio Azteca, Mexico City",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Enrico ALBERTOSI"
+            },
+            {
+              "name": "Tarcisio BURGNICH"
+            },
+            {
+              "name": "Giacinto FACCHETTI",
+              "captain": true
+            },
+            {
+              "name": "Pierluigi CERA"
+            },
+            {
+              "name": "Roberto ROSATO"
+            },
+            {
+              "name": "Mario BERTINI"
+            },
+            {
+              "name": "Sandro MAZZOLA"
+            },
+            {
+              "name": "Giancarlo DE SISTI"
+            },
+            {
+              "name": "Gigi RIVA"
+            },
+            {
+              "name": "Angelo DOMENGHINI"
+            },
+            {
+              "name": "Roberto BONINSEGNA"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Fabrizio POLETTI"
+            },
+            {
+              "name": "Gianni RIVERA"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Gianni RIVERA",
+              "off": "Sandro MAZZOLA",
+              "minute": "45+1"
+            },
+            {
+              "on": "Fabrizio POLETTI",
+              "off": "Roberto ROSATO",
+              "minute": "90+1"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Sepp MAIER"
+            },
+            {
+              "name": "Karl-Heinz SCHNELLINGER"
+            },
+            {
+              "name": "Franz BECKENBAUER"
+            },
+            {
+              "name": "Willi SCHULZ"
+            },
+            {
+              "name": "Berti VOGTS"
+            },
+            {
+              "name": "Bernd PATZKE"
+            },
+            {
+              "name": "Wolfgang OVERATH"
+            },
+            {
+              "name": "Uwe SEELER",
+              "captain": true
+            },
+            {
+              "name": "Gerd MUELLER"
+            },
+            {
+              "name": "Hennes LOEHR"
+            },
+            {
+              "name": "Juergen GRABOWSKI"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Sigi HELD"
+            },
+            {
+              "name": "Stan LIBUDA"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Stan LIBUDA",
+              "off": "Hennes LOEHR",
+              "minute": "53"
+            },
+            {
+              "on": "Sigi HELD",
+              "off": "Bernd PATZKE",
+              "minute": "66"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Roberto ROSATO",
+            "minute": "38"
+          },
+          {
+            "type": "Y",
+            "name": "Enrico ALBERTOSI",
+            "minute": "73"
+          },
+          {
+            "type": "Y",
+            "name": "Giancarlo DE SISTI",
+            "minute": "103"
+          },
+          {
+            "type": "Y",
+            "name": "Angelo DOMENGHINI",
+            "minute": "113"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Wolfgang OVERATH",
+            "minute": "53"
+          },
+          {
+            "type": "Y",
+            "name": "Gerd MUELLER",
+            "minute": "66"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Arturo YAMASAKI MALDONADO",
+          "country": "MEX"
+        },
+        {
+          "name": "Rafael HORMAZABAL DIAZ",
+          "country": "CHI"
+        },
+        {
+          "name": "Guillermo VELASQUEZ",
+          "country": "COL"
+        }
+      ]
+    },
+    {
+      "round": "Match for third place",
+      "date": "1970-06-20",
+      "time": "16:00 UTC-5",
+      "team1": "West Germany",
+      "team2": "Uruguay",
+      "score": [
+        1,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Wolfgang OVERATH",
+          "minute": "26"
+        }
+      ],
+      "goals2": [],
+      "ground": "Estadio Azteca, Mexico City",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Horst WOLTER"
+            },
+            {
+              "name": "Karl-Heinz SCHNELLINGER"
+            },
+            {
+              "name": "Wolfgang WEBER"
+            },
+            {
+              "name": "Berti VOGTS"
+            },
+            {
+              "name": "Klaus FICHTEL"
+            },
+            {
+              "name": "Bernd PATZKE"
+            },
+            {
+              "name": "Wolfgang OVERATH"
+            },
+            {
+              "name": "Uwe SEELER",
+              "captain": true
+            },
+            {
+              "name": "Sigi HELD"
+            },
+            {
+              "name": "Gerd MUELLER"
+            },
+            {
+              "name": "Stan LIBUDA"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Max LORENZ"
+            },
+            {
+              "name": "Hennes LOEHR"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Max LORENZ",
+              "off": "Karl-Heinz SCHNELLINGER",
+              "minute": "45+1"
+            },
+            {
+              "on": "Hennes LOEHR",
+              "off": "Stan LIBUDA",
+              "minute": "73"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Ladislao MAZURKIEWICZ"
+            },
+            {
+              "name": "Atilio ANCHETA"
+            },
+            {
+              "name": "Roberto MATOSAS"
+            },
+            {
+              "name": "Luis UBINA",
+              "captain": true
+            },
+            {
+              "name": "Juan MUJICA"
+            },
+            {
+              "name": "Julio MONTERO"
+            },
+            {
+              "name": "Luis CUBILLA"
+            },
+            {
+              "name": "Ildo MANEIRO"
+            },
+            {
+              "name": "Julio CORTES"
+            },
+            {
+              "name": "Julio MORALES"
+            },
+            {
+              "name": "Dagoberto FONTES"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Rodolfo SANDOVAL"
+            },
+            {
+              "name": "Victor ESPARRAGO"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Victor ESPARRAGO",
+              "off": "Dagoberto FONTES",
+              "minute": "45+1"
+            },
+            {
+              "on": "Rodolfo SANDOVAL",
+              "off": "Ildo MANEIRO",
+              "minute": "67"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Max LORENZ",
+            "minute": "64"
+          },
+          {
+            "type": "Y",
+            "name": "Hennes LOEHR",
+            "minute": "90"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Luis UBINA",
+            "minute": "89"
+          },
+          {
+            "type": "Y",
+            "name": "Dagoberto FONTES",
+            "minute": "90"
+          },
+          {
+            "type": "Y",
+            "name": "Julio MONTERO",
+            "minute": "90"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Antonio SBARDELLA",
+          "country": "ITA"
+        },
+        {
+          "name": "Ferdinand MARSCHALL",
+          "country": "AUT"
+        },
+        {
+          "name": "Abel AGUILAR ELIZALDE",
+          "country": "MEX"
+        }
+      ]
+    },
+    {
+      "round": "Final",
+      "date": "1970-06-21",
+      "time": "12:00 UTC-5",
+      "team1": "Brazil",
+      "team2": "Italy",
+      "score": [
+        4,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "PELE",
+          "minute": "18"
+        },
+        {
+          "name": "GERSON",
+          "minute": "66"
+        },
+        {
+          "name": "JAIRZINHO",
+          "minute": "71"
+        },
+        {
+          "name": "CARLOS ALBERTO",
+          "minute": "86"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Roberto BONINSEGNA",
+          "minute": "37"
+        }
+      ],
+      "ground": "Estadio Azteca, Mexico City",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "FELIX"
+            },
+            {
+              "name": "BRITO"
+            },
+            {
+              "name": "WILSON PIAZZA"
+            },
+            {
+              "name": "CARLOS ALBERTO",
+              "captain": true
+            },
+            {
+              "name": "EVERALDO"
+            },
+            {
+              "name": "CLODOALDO"
+            },
+            {
+              "name": "GERSON"
+            },
+            {
+              "name": "TOSTAO"
+            },
+            {
+              "name": "RIVELLINO"
+            },
+            {
+              "name": "JAIRZINHO"
+            },
+            {
+              "name": "PELE"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Enrico ALBERTOSI"
+            },
+            {
+              "name": "Tarcisio BURGNICH"
+            },
+            {
+              "name": "Giacinto FACCHETTI",
+              "captain": true
+            },
+            {
+              "name": "Pierluigi CERA"
+            },
+            {
+              "name": "Roberto ROSATO"
+            },
+            {
+              "name": "Mario BERTINI"
+            },
+            {
+              "name": "Sandro MAZZOLA"
+            },
+            {
+              "name": "Giancarlo DE SISTI"
+            },
+            {
+              "name": "Gigi RIVA"
+            },
+            {
+              "name": "Angelo DOMENGHINI"
+            },
+            {
+              "name": "Roberto BONINSEGNA"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Antonio JULIANO"
+            },
+            {
+              "name": "Gianni RIVERA"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Antonio JULIANO",
+              "off": "Mario BERTINI",
+              "minute": "74"
+            },
+            {
+              "on": "Gianni RIVERA",
+              "off": "Roberto BONINSEGNA",
+              "minute": "84"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "RIVELLINO",
+            "minute": "45"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Tarcisio BURGNICH",
+            "minute": "27"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Ruedi SCHEURER",
+          "country": "SUI"
+        },
+        {
+          "name": "Norberto Angel COEREZZA",
+          "country": "ARG"
+        }
+      ]
+    }
+  ]
+}

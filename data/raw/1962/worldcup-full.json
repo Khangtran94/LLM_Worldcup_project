@@ -1,0 +1,3838 @@
+{
+  "name": "World Cup 1962",
+  "matches": [
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1962-05-30",
+      "time": "15:00 UTC-4",
+      "team1": "Uruguay",
+      "team2": "Colombia",
+      "score": [
+        2,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Luis CUBILLA",
+          "minute": "56"
+        },
+        {
+          "name": "Jose SASIA",
+          "minute": "75"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Francisco ZULUAGA",
+          "minute": "19",
+          "penalty": true
+        }
+      ],
+      "ground": "Carlos Dittborn, Arica",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Roberto Eduardo SOSA"
+            },
+            {
+              "name": "Horacio TROCHE",
+              "captain": true
+            },
+            {
+              "name": "Emilio ALVAREZ"
+            },
+            {
+              "name": "Mario MENDEZ"
+            },
+            {
+              "name": "Nestor GONCALVES"
+            },
+            {
+              "name": "Eliseo ALVAREZ"
+            },
+            {
+              "name": "Pedro ROCHA"
+            },
+            {
+              "name": "Domingo PEREZ"
+            },
+            {
+              "name": "Jose SASIA"
+            },
+            {
+              "name": "Luis CUBILLA"
+            },
+            {
+              "name": "Ronald LANGON"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Efrain SANCHEZ"
+            },
+            {
+              "name": "Francisco ZULUAGA",
+              "captain": true
+            },
+            {
+              "name": "Jaime GONZALEZ"
+            },
+            {
+              "name": "Hector ECHEVERRI"
+            },
+            {
+              "name": "Oscar LOPEZ"
+            },
+            {
+              "name": "Jaime SILVA"
+            },
+            {
+              "name": "Marcos COLL"
+            },
+            {
+              "name": "German ACEROS"
+            },
+            {
+              "name": "Marino KLINGER"
+            },
+            {
+              "name": "Delio GAMBOA"
+            },
+            {
+              "name": "Jairo ARIAS"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Andor DOROGI",
+          "country": "HUN"
+        },
+        {
+          "name": "Joao ETZEL FILHO",
+          "country": "BRA"
+        },
+        {
+          "name": "Karol GALBA",
+          "country": "TCH"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1962-05-31",
+      "time": "15:00 UTC-4",
+      "team1": "Soviet Union",
+      "team2": "Yugoslavia",
+      "score": [
+        2,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Valentin IVANOV",
+          "minute": "51"
+        },
+        {
+          "name": "Viktor PONEDELNIK",
+          "minute": "83"
+        }
+      ],
+      "goals2": [],
+      "ground": "Carlos Dittborn, Arica",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Lev YASHIN"
+            },
+            {
+              "name": "Eduard DUBINSKI"
+            },
+            {
+              "name": "Leonid OSTROVSKI"
+            },
+            {
+              "name": "Anatoli MASLYONKIN"
+            },
+            {
+              "name": "Igor NETTO",
+              "captain": true
+            },
+            {
+              "name": "Valeri VORONIN"
+            },
+            {
+              "name": "Valentin IVANOV"
+            },
+            {
+              "name": "Viktor KANEVSKI"
+            },
+            {
+              "name": "Mikhail MESKHI"
+            },
+            {
+              "name": "Slava METREVELI"
+            },
+            {
+              "name": "Viktor PONEDELNIK"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Milutin SOSKIC"
+            },
+            {
+              "name": "Vladimir DURKOVIC"
+            },
+            {
+              "name": "Fahrudin JUSUFI"
+            },
+            {
+              "name": "Vlatko MARKOVIC"
+            },
+            {
+              "name": "Vladica POPOVIC"
+            },
+            {
+              "name": "Dragoslav SEKULARAC"
+            },
+            {
+              "name": "Zeljko MATUS"
+            },
+            {
+              "name": "Muhamed MUJIC"
+            },
+            {
+              "name": "Drazen JERKOVIC"
+            },
+            {
+              "name": "Milan GALIC",
+              "captain": true
+            },
+            {
+              "name": "Josip SKOBLAR"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Albert DUSCH",
+          "country": "GER"
+        },
+        {
+          "name": "Joao ETZEL FILHO",
+          "country": "BRA"
+        },
+        {
+          "name": "Carlos ROBLES",
+          "country": "CHI"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1962-06-02",
+      "time": "15:00 UTC-4",
+      "team1": "Yugoslavia",
+      "team2": "Uruguay",
+      "score": [
+        3,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Josip SKOBLAR",
+          "minute": "25",
+          "penalty": true
+        },
+        {
+          "name": "Milan GALIC",
+          "minute": "29"
+        },
+        {
+          "name": "Drazen JERKOVIC",
+          "minute": "49"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Angel Ruben CABRERA",
+          "minute": "19"
+        }
+      ],
+      "ground": "Carlos Dittborn, Arica",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Milutin SOSKIC"
+            },
+            {
+              "name": "Vladimir DURKOVIC"
+            },
+            {
+              "name": "Fahrudin JUSUFI"
+            },
+            {
+              "name": "Vlatko MARKOVIC"
+            },
+            {
+              "name": "Petar RADAKOVIC"
+            },
+            {
+              "name": "Vladica POPOVIC"
+            },
+            {
+              "name": "Dragoslav SEKULARAC"
+            },
+            {
+              "name": "Drazen JERKOVIC"
+            },
+            {
+              "name": "Milan GALIC",
+              "captain": true
+            },
+            {
+              "name": "Josip SKOBLAR"
+            },
+            {
+              "name": "Vojislav MELIC"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Roberto Eduardo SOSA"
+            },
+            {
+              "name": "Horacio TROCHE",
+              "captain": true
+            },
+            {
+              "name": "Emilio ALVAREZ"
+            },
+            {
+              "name": "Mario MENDEZ"
+            },
+            {
+              "name": "Nestor GONCALVES"
+            },
+            {
+              "name": "Eliseo ALVAREZ"
+            },
+            {
+              "name": "Pedro ROCHA"
+            },
+            {
+              "name": "Angel Ruben CABRERA"
+            },
+            {
+              "name": "Domingo PEREZ"
+            },
+            {
+              "name": "Jose SASIA"
+            },
+            {
+              "name": "Mario BERGARA"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "R",
+            "name": "Vladica POPOVIC",
+            "minute": "71"
+          }
+        ],
+        [
+          {
+            "type": "R",
+            "name": "Angel Ruben CABRERA",
+            "minute": "71"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Karol GALBA",
+          "country": "TCH"
+        },
+        {
+          "name": "Albert DUSCH",
+          "country": "GER"
+        },
+        {
+          "name": "Cesare JONNI",
+          "country": "ITA"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1962-06-03",
+      "time": "15:00 UTC-4",
+      "team1": "Soviet Union",
+      "team2": "Colombia",
+      "score": [
+        4,
+        4
+      ],
+      "goals1": [
+        {
+          "name": "Valentin IVANOV",
+          "minute": "8"
+        },
+        {
+          "name": "Igor CHISLENKO",
+          "minute": "10"
+        },
+        {
+          "name": "Valentin IVANOV",
+          "minute": "11"
+        },
+        {
+          "name": "Viktor PONEDELNIK",
+          "minute": "56"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "German ACEROS",
+          "minute": "21"
+        },
+        {
+          "name": "Marcos COLL",
+          "minute": "68"
+        },
+        {
+          "name": "Antonio RADA",
+          "minute": "72"
+        },
+        {
+          "name": "Marino KLINGER",
+          "minute": "76"
+        }
+      ],
+      "ground": "Carlos Dittborn, Arica",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Lev YASHIN"
+            },
+            {
+              "name": "Georgi CHOKHELI"
+            },
+            {
+              "name": "Leonid OSTROVSKI"
+            },
+            {
+              "name": "Anatoli MASLYONKIN"
+            },
+            {
+              "name": "Igor NETTO",
+              "captain": true
+            },
+            {
+              "name": "Valeri VORONIN"
+            },
+            {
+              "name": "Valentin IVANOV"
+            },
+            {
+              "name": "Viktor KANEVSKI"
+            },
+            {
+              "name": "Mikhail MESKHI"
+            },
+            {
+              "name": "Viktor PONEDELNIK"
+            },
+            {
+              "name": "Igor CHISLENKO"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Efrain SANCHEZ",
+              "captain": true
+            },
+            {
+              "name": "Anibal ALZATE"
+            },
+            {
+              "name": "Jaime GONZALEZ"
+            },
+            {
+              "name": "Hector ECHEVERRI"
+            },
+            {
+              "name": "Oscar LOPEZ"
+            },
+            {
+              "name": "Rolando SERRANO"
+            },
+            {
+              "name": "Marcos COLL"
+            },
+            {
+              "name": "German ACEROS"
+            },
+            {
+              "name": "Marino KLINGER"
+            },
+            {
+              "name": "Antonio RADA"
+            },
+            {
+              "name": "Hector GONZALEZ"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Joao ETZEL FILHO",
+          "country": "BRA"
+        },
+        {
+          "name": "Andor DOROGI",
+          "country": "HUN"
+        },
+        {
+          "name": "Carlos ROBLES",
+          "country": "CHI"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1962-06-06",
+      "time": "15:00 UTC-4",
+      "team1": "Soviet Union",
+      "team2": "Uruguay",
+      "score": [
+        2,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Aleksei MAMYKIN",
+          "minute": "38"
+        },
+        {
+          "name": "Valentin IVANOV",
+          "minute": "89"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Jose SASIA",
+          "minute": "54"
+        }
+      ],
+      "ground": "Carlos Dittborn, Arica",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Lev YASHIN"
+            },
+            {
+              "name": "Georgi CHOKHELI"
+            },
+            {
+              "name": "Leonid OSTROVSKI"
+            },
+            {
+              "name": "Anatoli MASLYONKIN"
+            },
+            {
+              "name": "Igor NETTO",
+              "captain": true
+            },
+            {
+              "name": "Valeri VORONIN"
+            },
+            {
+              "name": "Valentin IVANOV"
+            },
+            {
+              "name": "Aleksei MAMYKIN"
+            },
+            {
+              "name": "Viktor PONEDELNIK"
+            },
+            {
+              "name": "Galimzyan KHUSAINOV"
+            },
+            {
+              "name": "Igor CHISLENKO"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Roberto Eduardo SOSA"
+            },
+            {
+              "name": "Horacio TROCHE",
+              "captain": true
+            },
+            {
+              "name": "Emilio ALVAREZ"
+            },
+            {
+              "name": "Mario MENDEZ"
+            },
+            {
+              "name": "Nestor GONCALVES"
+            },
+            {
+              "name": "Eliseo ALVAREZ"
+            },
+            {
+              "name": "Julio CORTES"
+            },
+            {
+              "name": "Angel Ruben CABRERA"
+            },
+            {
+              "name": "Domingo PEREZ"
+            },
+            {
+              "name": "Jose SASIA"
+            },
+            {
+              "name": "Luis CUBILLA"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Cesare JONNI",
+          "country": "ITA"
+        },
+        {
+          "name": "Andor DOROGI",
+          "country": "HUN"
+        },
+        {
+          "name": "Albert DUSCH",
+          "country": "GER"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1962-06-07",
+      "time": "15:00 UTC-4",
+      "team1": "Yugoslavia",
+      "team2": "Colombia",
+      "score": [
+        5,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Milan GALIC",
+          "minute": "20"
+        },
+        {
+          "name": "Drazen JERKOVIC",
+          "minute": "25"
+        },
+        {
+          "name": "Milan GALIC",
+          "minute": "61"
+        },
+        {
+          "name": "Vojislav MELIC",
+          "minute": "82"
+        },
+        {
+          "name": "Drazen JERKOVIC",
+          "minute": "87"
+        }
+      ],
+      "goals2": [],
+      "ground": "Carlos Dittborn, Arica",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Milutin SOSKIC"
+            },
+            {
+              "name": "Vladimir DURKOVIC"
+            },
+            {
+              "name": "Fahrudin JUSUFI"
+            },
+            {
+              "name": "Vlatko MARKOVIC"
+            },
+            {
+              "name": "Petar RADAKOVIC"
+            },
+            {
+              "name": "Vladica POPOVIC"
+            },
+            {
+              "name": "Andrija ANKOVIC"
+            },
+            {
+              "name": "Dragoslav SEKULARAC"
+            },
+            {
+              "name": "Drazen JERKOVIC"
+            },
+            {
+              "name": "Milan GALIC",
+              "captain": true
+            },
+            {
+              "name": "Vojislav MELIC"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Efrain SANCHEZ",
+              "captain": true
+            },
+            {
+              "name": "Anibal ALZATE"
+            },
+            {
+              "name": "Jaime GONZALEZ"
+            },
+            {
+              "name": "Hector ECHEVERRI"
+            },
+            {
+              "name": "Oscar LOPEZ"
+            },
+            {
+              "name": "Rolando SERRANO"
+            },
+            {
+              "name": "Marcos COLL"
+            },
+            {
+              "name": "German ACEROS"
+            },
+            {
+              "name": "Marino KLINGER"
+            },
+            {
+              "name": "Antonio RADA"
+            },
+            {
+              "name": "Hector GONZALEZ"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Carlos ROBLES",
+          "country": "CHI"
+        },
+        {
+          "name": "Cesare JONNI",
+          "country": "ITA"
+        },
+        {
+          "name": "Karol GALBA",
+          "country": "TCH"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1962-05-30",
+      "time": "15:00 UTC-4",
+      "team1": "Chile",
+      "team2": "Switzerland",
+      "score": [
+        3,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Leonel SANCHEZ",
+          "minute": "44"
+        },
+        {
+          "name": "Jaime RAMIREZ",
+          "minute": "51"
+        },
+        {
+          "name": "Leonel SANCHEZ",
+          "minute": "55"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Rolf WUETHRICH",
+          "minute": "6"
+        }
+      ],
+      "ground": "Estadio Nacional Julio Martínez Prádanos, Santiago",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Misael ESCUTI"
+            },
+            {
+              "name": "Luis EYZAGUIRRE"
+            },
+            {
+              "name": "Raul SANCHEZ"
+            },
+            {
+              "name": "Sergio NAVARRO",
+              "captain": true
+            },
+            {
+              "name": "Carlos CONTRERAS"
+            },
+            {
+              "name": "Eladio ROJAS"
+            },
+            {
+              "name": "Jorge TORO"
+            },
+            {
+              "name": "Alberto FOUILLOUX"
+            },
+            {
+              "name": "Jaime RAMIREZ"
+            },
+            {
+              "name": "Honorino LANDA"
+            },
+            {
+              "name": "Leonel SANCHEZ"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Charly ELSENER"
+            },
+            {
+              "name": "Fritz MORF"
+            },
+            {
+              "name": "Heinz SCHNEITER"
+            },
+            {
+              "name": "Ely TACCHELLA"
+            },
+            {
+              "name": "Andre GROBETY"
+            },
+            {
+              "name": "Hans WEBER"
+            },
+            {
+              "name": "Rolf WUETHRICH"
+            },
+            {
+              "name": "Toni ALLEMANN"
+            },
+            {
+              "name": "Kiki ANTENEN",
+              "captain": true
+            },
+            {
+              "name": "Norbert ESCHMANN"
+            },
+            {
+              "name": "Philippe POTTIER"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Ken ASTON",
+          "country": "ENG"
+        },
+        {
+          "name": "Arthur BLAVIER",
+          "country": "BEL"
+        },
+        {
+          "name": "Arturo YAMASAKI MALDONADO",
+          "country": "MEX"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1962-05-31",
+      "time": "15:00 UTC-4",
+      "team1": "West Germany",
+      "team2": "Italy",
+      "score": [
+        0,
+        0
+      ],
+      "ground": "Estadio Nacional Julio Martínez Prádanos, Santiago",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Wolfgang FAHRIAN"
+            },
+            {
+              "name": "Herbert ERHARDT"
+            },
+            {
+              "name": "Karl-Heinz SCHNELLINGER"
+            },
+            {
+              "name": "Willi SCHULZ"
+            },
+            {
+              "name": "Hans NOWAK"
+            },
+            {
+              "name": "Horst SZYMANIAK"
+            },
+            {
+              "name": "Helmut HALLER"
+            },
+            {
+              "name": "Albert BRUELLS"
+            },
+            {
+              "name": "Hans STURM"
+            },
+            {
+              "name": "Uwe SEELER"
+            },
+            {
+              "name": "Hans SCHAEFER",
+              "captain": true
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Lorenzo BUFFON",
+              "captain": true
+            },
+            {
+              "name": "Giacomo LOSI"
+            },
+            {
+              "name": "Sandro SALVADORE"
+            },
+            {
+              "name": "Cesare MALDINI"
+            },
+            {
+              "name": "Enzo ROBOTTI"
+            },
+            {
+              "name": "Luigi RADICE"
+            },
+            {
+              "name": "Giorgio FERRINI"
+            },
+            {
+              "name": "Jose ALTAFINI"
+            },
+            {
+              "name": "Omar SIVORI"
+            },
+            {
+              "name": "Giampaolo MENICHELLI"
+            },
+            {
+              "name": "Gianni RIVERA"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Bob DAVIDSON",
+          "country": "SCO"
+        },
+        {
+          "name": "Raymond MORGAN",
+          "country": "CAN"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1962-06-02",
+      "time": "15:00 UTC-4",
+      "team1": "Chile",
+      "team2": "Italy",
+      "score": [
+        2,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Jaime RAMIREZ",
+          "minute": "73"
+        },
+        {
+          "name": "Jorge TORO",
+          "minute": "87"
+        }
+      ],
+      "goals2": [],
+      "ground": "Estadio Nacional Julio Martínez Prádanos, Santiago",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Misael ESCUTI"
+            },
+            {
+              "name": "Luis EYZAGUIRRE"
+            },
+            {
+              "name": "Raul SANCHEZ"
+            },
+            {
+              "name": "Sergio NAVARRO",
+              "captain": true
+            },
+            {
+              "name": "Carlos CONTRERAS"
+            },
+            {
+              "name": "Eladio ROJAS"
+            },
+            {
+              "name": "Jorge TORO"
+            },
+            {
+              "name": "Alberto FOUILLOUX"
+            },
+            {
+              "name": "Jaime RAMIREZ"
+            },
+            {
+              "name": "Honorino LANDA"
+            },
+            {
+              "name": "Leonel SANCHEZ"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Carlo MATTREL"
+            },
+            {
+              "name": "Sandro SALVADORE"
+            },
+            {
+              "name": "Enzo ROBOTTI"
+            },
+            {
+              "name": "Mario DAVID"
+            },
+            {
+              "name": "Francesco JANICH"
+            },
+            {
+              "name": "Paride TUMBURUS"
+            },
+            {
+              "name": "Giorgio FERRINI"
+            },
+            {
+              "name": "Bruno MORA",
+              "captain": true
+            },
+            {
+              "name": "Humberto MASCHIO"
+            },
+            {
+              "name": "Jose ALTAFINI"
+            },
+            {
+              "name": "Giampaolo MENICHELLI"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [],
+        [
+          {
+            "type": "R",
+            "name": "Giorgio FERRINI",
+            "minute": "8"
+          },
+          {
+            "type": "R",
+            "name": "Mario DAVID",
+            "minute": "41"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Ken ASTON",
+          "country": "ENG"
+        },
+        {
+          "name": "Leo GOLDSTEIN",
+          "country": "USA"
+        },
+        {
+          "name": "Fernando BUERGO",
+          "country": "MEX"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1962-06-03",
+      "time": "15:00 UTC-4",
+      "team1": "West Germany",
+      "team2": "Switzerland",
+      "score": [
+        2,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Albert BRUELLS",
+          "minute": "45"
+        },
+        {
+          "name": "Uwe SEELER",
+          "minute": "59"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Heinz SCHNEITER",
+          "minute": "73"
+        }
+      ],
+      "ground": "Estadio Nacional Julio Martínez Prádanos, Santiago",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Wolfgang FAHRIAN"
+            },
+            {
+              "name": "Herbert ERHARDT"
+            },
+            {
+              "name": "Karl-Heinz SCHNELLINGER"
+            },
+            {
+              "name": "Willi SCHULZ"
+            },
+            {
+              "name": "Hans NOWAK"
+            },
+            {
+              "name": "Horst SZYMANIAK"
+            },
+            {
+              "name": "Helmut HALLER"
+            },
+            {
+              "name": "Albert BRUELLS"
+            },
+            {
+              "name": "Willi KOSLOWSKI"
+            },
+            {
+              "name": "Uwe SEELER"
+            },
+            {
+              "name": "Hans SCHAEFER",
+              "captain": true
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Charly ELSENER"
+            },
+            {
+              "name": "Heinz SCHNEITER"
+            },
+            {
+              "name": "Ely TACCHELLA"
+            },
+            {
+              "name": "Andre GROBETY"
+            },
+            {
+              "name": "Hans WEBER"
+            },
+            {
+              "name": "Richard DUERR"
+            },
+            {
+              "name": "Rolf WUETHRICH"
+            },
+            {
+              "name": "Toni ALLEMANN"
+            },
+            {
+              "name": "Kiki ANTENEN",
+              "captain": true
+            },
+            {
+              "name": "Norbert ESCHMANN"
+            },
+            {
+              "name": "Roger VONLANTHEN"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Leo HORN",
+          "country": "NED"
+        },
+        {
+          "name": "Nikolaj LATYCHEV",
+          "country": "URS"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1962-06-06",
+      "time": "15:00 UTC-4",
+      "team1": "West Germany",
+      "team2": "Chile",
+      "score": [
+        2,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Horst SZYMANIAK",
+          "minute": "21",
+          "penalty": true
+        },
+        {
+          "name": "Uwe SEELER",
+          "minute": "82"
+        }
+      ],
+      "goals2": [],
+      "ground": "Estadio Nacional Julio Martínez Prádanos, Santiago",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Wolfgang FAHRIAN"
+            },
+            {
+              "name": "Herbert ERHARDT"
+            },
+            {
+              "name": "Karl-Heinz SCHNELLINGER"
+            },
+            {
+              "name": "Willi SCHULZ"
+            },
+            {
+              "name": "Hans NOWAK"
+            },
+            {
+              "name": "Horst SZYMANIAK"
+            },
+            {
+              "name": "Albert BRUELLS"
+            },
+            {
+              "name": "Willy GIESEMANN"
+            },
+            {
+              "name": "Uwe SEELER"
+            },
+            {
+              "name": "Hans SCHAEFER",
+              "captain": true
+            },
+            {
+              "name": "Engelbert KRAUS"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Misael ESCUTI"
+            },
+            {
+              "name": "Luis EYZAGUIRRE"
+            },
+            {
+              "name": "Raul SANCHEZ"
+            },
+            {
+              "name": "Sergio NAVARRO",
+              "captain": true
+            },
+            {
+              "name": "Carlos CONTRERAS"
+            },
+            {
+              "name": "Eladio ROJAS"
+            },
+            {
+              "name": "Jaime RAMIREZ"
+            },
+            {
+              "name": "Honorino LANDA"
+            },
+            {
+              "name": "Leonel SANCHEZ"
+            },
+            {
+              "name": "Mario MORENO"
+            },
+            {
+              "name": "Armando TOBAR"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Bob DAVIDSON",
+          "country": "SCO"
+        },
+        {
+          "name": "Ken ASTON",
+          "country": "ENG"
+        },
+        {
+          "name": "Leo HORN",
+          "country": "NED"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1962-06-07",
+      "time": "15:00 UTC-4",
+      "team1": "Italy",
+      "team2": "Switzerland",
+      "score": [
+        3,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Bruno MORA",
+          "minute": "2"
+        },
+        {
+          "name": "Giacomo BULGARELLI",
+          "minute": "65"
+        },
+        {
+          "name": "Giacomo BULGARELLI",
+          "minute": "67"
+        }
+      ],
+      "goals2": [],
+      "ground": "Estadio Nacional Julio Martínez Prádanos, Santiago",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Lorenzo BUFFON",
+              "captain": true
+            },
+            {
+              "name": "Giacomo LOSI"
+            },
+            {
+              "name": "Sandro SALVADORE"
+            },
+            {
+              "name": "Cesare MALDINI"
+            },
+            {
+              "name": "Enzo ROBOTTI"
+            },
+            {
+              "name": "Luigi RADICE"
+            },
+            {
+              "name": "Bruno MORA"
+            },
+            {
+              "name": "Omar SIVORI"
+            },
+            {
+              "name": "Angelo SORMANI"
+            },
+            {
+              "name": "Ezio PASCUTTI"
+            },
+            {
+              "name": "Giacomo BULGARELLI"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Charly ELSENER"
+            },
+            {
+              "name": "Heinz SCHNEITER"
+            },
+            {
+              "name": "Ely TACCHELLA"
+            },
+            {
+              "name": "Andre GROBETY"
+            },
+            {
+              "name": "Eugen MEIER"
+            },
+            {
+              "name": "Hans WEBER"
+            },
+            {
+              "name": "Richard DUERR"
+            },
+            {
+              "name": "Rolf WUETHRICH"
+            },
+            {
+              "name": "Toni ALLEMANN"
+            },
+            {
+              "name": "Kiki ANTENEN",
+              "captain": true
+            },
+            {
+              "name": "Roger VONLANTHEN"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Nikolaj LATYCHEV",
+          "country": "URS"
+        },
+        {
+          "name": "Bob DAVIDSON",
+          "country": "SCO"
+        },
+        {
+          "name": "Dimitar RUMENTCHEV",
+          "country": "BUL"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1962-05-30",
+      "time": "15:00 UTC-4",
+      "team1": "Brazil",
+      "team2": "Mexico",
+      "score": [
+        2,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Mario ZAGALLO",
+          "minute": "56"
+        },
+        {
+          "name": "PELE",
+          "minute": "73"
+        }
+      ],
+      "goals2": [],
+      "ground": "Estadio Sausalito, Viña del Mar",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "GILMAR"
+            },
+            {
+              "name": "DJALMA SANTOS"
+            },
+            {
+              "name": "MAURO RAMOS",
+              "captain": true
+            },
+            {
+              "name": "ZOZIMO"
+            },
+            {
+              "name": "NILTON SANTOS"
+            },
+            {
+              "name": "ZITO"
+            },
+            {
+              "name": "DIDI"
+            },
+            {
+              "name": "GARRINCHA"
+            },
+            {
+              "name": "PELE"
+            },
+            {
+              "name": "VAVA"
+            },
+            {
+              "name": "Mario ZAGALLO"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Antonio CARBAJAL",
+              "captain": true
+            },
+            {
+              "name": "Jesus DEL MURO"
+            },
+            {
+              "name": "Guillermo SEPULVEDA"
+            },
+            {
+              "name": "Jose VILLEGAS"
+            },
+            {
+              "name": "Raul CARDENAS"
+            },
+            {
+              "name": "Pedro NAJERA"
+            },
+            {
+              "name": "Alfredo DEL AGUILA"
+            },
+            {
+              "name": "Salvador REYES"
+            },
+            {
+              "name": "Hector HERNANDEZ"
+            },
+            {
+              "name": "Isidoro DIAZ"
+            },
+            {
+              "name": "Antonio JASSO"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Gottfried DIENST",
+          "country": "SUI"
+        },
+        {
+          "name": "Carl STEINER",
+          "country": "AUT"
+        },
+        {
+          "name": "Pierre SCHWINTE",
+          "country": "FRA"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1962-05-31",
+      "time": "15:00 UTC-4",
+      "team1": "Czechoslovakia",
+      "team2": "Spain",
+      "score": [
+        1,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Josef STIBRANYI",
+          "minute": "80"
+        }
+      ],
+      "goals2": [],
+      "ground": "Estadio Sausalito, Viña del Mar",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Viliam SCHROJF"
+            },
+            {
+              "name": "Jan LALA"
+            },
+            {
+              "name": "Jan POPLUHAR"
+            },
+            {
+              "name": "Ladislav NOVAK",
+              "captain": true
+            },
+            {
+              "name": "Svatopluk PLUSKAL"
+            },
+            {
+              "name": "Josef MASOPUST"
+            },
+            {
+              "name": "Josef STIBRANYI"
+            },
+            {
+              "name": "Andrej KVASNAK"
+            },
+            {
+              "name": "Adolf SCHERER"
+            },
+            {
+              "name": "Jozef ADAMEC"
+            },
+            {
+              "name": "Josef JELINEK"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "CARMELO"
+            },
+            {
+              "name": "Feliciano RIVILLA"
+            },
+            {
+              "name": "Severino REIJA"
+            },
+            {
+              "name": "Jose SANTAMARIA"
+            },
+            {
+              "name": "Joan SEGARRA",
+              "captain": true
+            },
+            {
+              "name": "Luis DEL SOL"
+            },
+            {
+              "name": "GARAY"
+            },
+            {
+              "name": "Luis SUAREZ"
+            },
+            {
+              "name": "Francisco GENTO"
+            },
+            {
+              "name": "Ferenc PUSKAS"
+            },
+            {
+              "name": "Eulogio MARTINEZ"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Carl STEINER",
+          "country": "AUT"
+        },
+        {
+          "name": "Esteban MARINO",
+          "country": "URU"
+        },
+        {
+          "name": "Walter VAN ROSBERG",
+          "country": "CUW"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1962-06-02",
+      "time": "15:00 UTC-4",
+      "team1": "Brazil",
+      "team2": "Czechoslovakia",
+      "score": [
+        0,
+        0
+      ],
+      "ground": "Estadio Sausalito, Viña del Mar",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "GILMAR"
+            },
+            {
+              "name": "DJALMA SANTOS"
+            },
+            {
+              "name": "MAURO RAMOS",
+              "captain": true
+            },
+            {
+              "name": "ZOZIMO"
+            },
+            {
+              "name": "NILTON SANTOS"
+            },
+            {
+              "name": "ZITO"
+            },
+            {
+              "name": "DIDI"
+            },
+            {
+              "name": "GARRINCHA"
+            },
+            {
+              "name": "PELE"
+            },
+            {
+              "name": "VAVA"
+            },
+            {
+              "name": "Mario ZAGALLO"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Viliam SCHROJF"
+            },
+            {
+              "name": "Jan LALA"
+            },
+            {
+              "name": "Jan POPLUHAR"
+            },
+            {
+              "name": "Ladislav NOVAK",
+              "captain": true
+            },
+            {
+              "name": "Svatopluk PLUSKAL"
+            },
+            {
+              "name": "Josef MASOPUST"
+            },
+            {
+              "name": "Josef STIBRANYI"
+            },
+            {
+              "name": "Andrej KVASNAK"
+            },
+            {
+              "name": "Adolf SCHERER"
+            },
+            {
+              "name": "Jozef ADAMEC"
+            },
+            {
+              "name": "Josef JELINEK"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Pierre SCHWINTE",
+          "country": "FRA"
+        },
+        {
+          "name": "Artur MASSARO",
+          "country": "CHI"
+        },
+        {
+          "name": "Gottfried DIENST",
+          "country": "SUI"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1962-06-03",
+      "time": "15:00 UTC-4",
+      "team1": "Spain",
+      "team2": "Mexico",
+      "score": [
+        1,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Joaquin PEIRO",
+          "minute": "90"
+        }
+      ],
+      "goals2": [],
+      "ground": "Estadio Sausalito, Viña del Mar",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "CARMELO"
+            },
+            {
+              "name": "GRACIA"
+            },
+            {
+              "name": "PACHIN"
+            },
+            {
+              "name": "RODRI"
+            },
+            {
+              "name": "Jose SANTAMARIA"
+            },
+            {
+              "name": "Luis DEL SOL"
+            },
+            {
+              "name": "Luis SUAREZ"
+            },
+            {
+              "name": "MARTI VERGES"
+            },
+            {
+              "name": "Francisco GENTO",
+              "captain": true
+            },
+            {
+              "name": "Joaquin PEIRO"
+            },
+            {
+              "name": "Ferenc PUSKAS"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Antonio CARBAJAL",
+              "captain": true
+            },
+            {
+              "name": "Jesus DEL MURO"
+            },
+            {
+              "name": "Guillermo SEPULVEDA"
+            },
+            {
+              "name": "Ignacio JAUREGUI"
+            },
+            {
+              "name": "Raul CARDENAS"
+            },
+            {
+              "name": "Pedro NAJERA"
+            },
+            {
+              "name": "Alfredo DEL AGUILA"
+            },
+            {
+              "name": "Salvador REYES"
+            },
+            {
+              "name": "Hector HERNANDEZ"
+            },
+            {
+              "name": "Isidoro DIAZ"
+            },
+            {
+              "name": "Antonio JASSO"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Branko TESANIC",
+          "country": "YUG"
+        },
+        {
+          "name": "Claudio VICUNA",
+          "country": "CHI"
+        },
+        {
+          "name": "Walter VAN ROSBERG",
+          "country": "CUW"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1962-06-06",
+      "time": "15:00 UTC-4",
+      "team1": "Brazil",
+      "team2": "Spain",
+      "score": [
+        2,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "AMARILDO",
+          "minute": "72"
+        },
+        {
+          "name": "AMARILDO",
+          "minute": "86"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "ADELARDO",
+          "minute": "35"
+        }
+      ],
+      "ground": "Estadio Sausalito, Viña del Mar",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "GILMAR"
+            },
+            {
+              "name": "DJALMA SANTOS"
+            },
+            {
+              "name": "MAURO RAMOS",
+              "captain": true
+            },
+            {
+              "name": "ZOZIMO"
+            },
+            {
+              "name": "NILTON SANTOS"
+            },
+            {
+              "name": "ZITO"
+            },
+            {
+              "name": "DIDI"
+            },
+            {
+              "name": "GARRINCHA"
+            },
+            {
+              "name": "VAVA"
+            },
+            {
+              "name": "AMARILDO"
+            },
+            {
+              "name": "Mario ZAGALLO"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Jose ARAQUISTAIN"
+            },
+            {
+              "name": "Luis Maria ECHEBERRIA"
+            },
+            {
+              "name": "GRACIA"
+            },
+            {
+              "name": "PACHIN"
+            },
+            {
+              "name": "RODRI"
+            },
+            {
+              "name": "MARTI VERGES"
+            },
+            {
+              "name": "Enrique COLLAR",
+              "captain": true
+            },
+            {
+              "name": "Francisco GENTO"
+            },
+            {
+              "name": "Joaquin PEIRO"
+            },
+            {
+              "name": "Ferenc PUSKAS"
+            },
+            {
+              "name": "ADELARDO"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Sergio BUSTAMANTE",
+          "country": "CHI"
+        },
+        {
+          "name": "Esteban MARINO",
+          "country": "URU"
+        },
+        {
+          "name": "Jose Antonio SUNDHEIM",
+          "country": "COL"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1962-06-07",
+      "time": "15:00 UTC-4",
+      "team1": "Mexico",
+      "team2": "Czechoslovakia",
+      "score": [
+        3,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Isidoro DIAZ",
+          "minute": "12"
+        },
+        {
+          "name": "Alfredo DEL AGUILA",
+          "minute": "29"
+        },
+        {
+          "name": "Hector HERNANDEZ",
+          "minute": "90",
+          "penalty": true
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Vaclav MASEK",
+          "minute": "1"
+        }
+      ],
+      "ground": "Estadio Sausalito, Viña del Mar",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Antonio CARBAJAL",
+              "captain": true
+            },
+            {
+              "name": "Jesus DEL MURO"
+            },
+            {
+              "name": "Guillermo SEPULVEDA"
+            },
+            {
+              "name": "Ignacio JAUREGUI"
+            },
+            {
+              "name": "Raul CARDENAS"
+            },
+            {
+              "name": "Pedro NAJERA"
+            },
+            {
+              "name": "Alfredo HERNANDEZ"
+            },
+            {
+              "name": "Alfredo DEL AGUILA"
+            },
+            {
+              "name": "Salvador REYES"
+            },
+            {
+              "name": "Hector HERNANDEZ"
+            },
+            {
+              "name": "Isidoro DIAZ"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Viliam SCHROJF"
+            },
+            {
+              "name": "Jan LALA"
+            },
+            {
+              "name": "Jan POPLUHAR"
+            },
+            {
+              "name": "Ladislav NOVAK",
+              "captain": true
+            },
+            {
+              "name": "Svatopluk PLUSKAL"
+            },
+            {
+              "name": "Josef MASOPUST"
+            },
+            {
+              "name": "Josef STIBRANYI"
+            },
+            {
+              "name": "Andrej KVASNAK"
+            },
+            {
+              "name": "Adolf SCHERER"
+            },
+            {
+              "name": "Jozef ADAMEC"
+            },
+            {
+              "name": "Vaclav MASEK"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Gottfried DIENST",
+          "country": "SUI"
+        },
+        {
+          "name": "Branko TESANIC",
+          "country": "YUG"
+        },
+        {
+          "name": "Jose Antonio SUNDHEIM",
+          "country": "COL"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1962-05-30",
+      "time": "15:00 UTC-4",
+      "team1": "Argentina",
+      "team2": "Bulgaria",
+      "score": [
+        1,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Hector FACUNDO",
+          "minute": "4"
+        }
+      ],
+      "goals2": [],
+      "ground": "Estadio Braden Copper Co., Rancagua",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Antonio ROMA"
+            },
+            {
+              "name": "Silvio MARZOLINI"
+            },
+            {
+              "name": "Alberto SAINZ"
+            },
+            {
+              "name": "Raul PAEZ"
+            },
+            {
+              "name": "Ruben NAVARRO",
+              "captain": true
+            },
+            {
+              "name": "Federico SACCHI"
+            },
+            {
+              "name": "Oscar ROSSI"
+            },
+            {
+              "name": "Hector FACUNDO"
+            },
+            {
+              "name": "Marcelo PAGANI"
+            },
+            {
+              "name": "Jose SANFILIPPO"
+            },
+            {
+              "name": "Raul BELEN"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Georgi NAIDENOV"
+            },
+            {
+              "name": "Kiril RAKAROV",
+              "captain": true
+            },
+            {
+              "name": "Ivan DIMITROV"
+            },
+            {
+              "name": "Stoyan KITOV"
+            },
+            {
+              "name": "Dimitar KOSTOV"
+            },
+            {
+              "name": "Nikola KOVACHEV"
+            },
+            {
+              "name": "Todor DIEV"
+            },
+            {
+              "name": "Hristo ILIEV"
+            },
+            {
+              "name": "Ivan KOLEV"
+            },
+            {
+              "name": "Dimitar YAKIMOV"
+            },
+            {
+              "name": "Petar VELICHKOV"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Ruben NAVARRO",
+            "minute": "1"
+          }
+        ],
+        []
+      ],
+      "referees": [
+        {
+          "name": "Juan GARDEAZABAL",
+          "country": "ESP"
+        },
+        {
+          "name": "Fernando BUERGO",
+          "country": "MEX"
+        },
+        {
+          "name": "Raymond MORGAN",
+          "country": "CAN"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1962-05-31",
+      "time": "15:00 UTC-4",
+      "team1": "Hungary",
+      "team2": "England",
+      "score": [
+        2,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Lajos TICHY",
+          "minute": "17"
+        },
+        {
+          "name": "Florian ALBERT",
+          "minute": "71"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Ron FLOWERS",
+          "minute": "60",
+          "penalty": true
+        }
+      ],
+      "ground": "Estadio Braden Copper Co., Rancagua",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Gyula GROSICS",
+              "captain": true
+            },
+            {
+              "name": "Sandor MATRAI"
+            },
+            {
+              "name": "Kalman MESZOLY"
+            },
+            {
+              "name": "Laszlo SAROSI"
+            },
+            {
+              "name": "Erno SOLYMOSI"
+            },
+            {
+              "name": "Ferenc SIPOS"
+            },
+            {
+              "name": "Karoly SANDOR"
+            },
+            {
+              "name": "Florian ALBERT"
+            },
+            {
+              "name": "Lajos TICHY"
+            },
+            {
+              "name": "Mate FENYVESI"
+            },
+            {
+              "name": "Gyula RAKOSI"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Ron SPRINGETT"
+            },
+            {
+              "name": "Jimmy ARMFIELD"
+            },
+            {
+              "name": "Ray WILSON"
+            },
+            {
+              "name": "Maurice NORMAN"
+            },
+            {
+              "name": "Bobby MOORE"
+            },
+            {
+              "name": "Ron FLOWERS"
+            },
+            {
+              "name": "Jimmy GREAVES"
+            },
+            {
+              "name": "Gerry HITCHENS"
+            },
+            {
+              "name": "John HAYNES",
+              "captain": true
+            },
+            {
+              "name": "Bobby CHARLTON"
+            },
+            {
+              "name": "Bryan DOUGLAS"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Leo HORN",
+          "country": "NED"
+        },
+        {
+          "name": "Arthur BLAVIER",
+          "country": "BEL"
+        },
+        {
+          "name": "Leo GOLDSTEIN",
+          "country": "USA"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1962-06-02",
+      "time": "15:00 UTC-4",
+      "team1": "England",
+      "team2": "Argentina",
+      "score": [
+        3,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Ron FLOWERS",
+          "minute": "17",
+          "penalty": true
+        },
+        {
+          "name": "Bobby CHARLTON",
+          "minute": "42"
+        },
+        {
+          "name": "Jimmy GREAVES",
+          "minute": "67"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Jose SANFILIPPO",
+          "minute": "81"
+        }
+      ],
+      "ground": "Estadio Braden Copper Co., Rancagua",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Ron SPRINGETT"
+            },
+            {
+              "name": "Jimmy ARMFIELD"
+            },
+            {
+              "name": "Ray WILSON"
+            },
+            {
+              "name": "Maurice NORMAN"
+            },
+            {
+              "name": "Bobby MOORE"
+            },
+            {
+              "name": "Ron FLOWERS"
+            },
+            {
+              "name": "Jimmy GREAVES"
+            },
+            {
+              "name": "John HAYNES",
+              "captain": true
+            },
+            {
+              "name": "Bobby CHARLTON"
+            },
+            {
+              "name": "Bryan DOUGLAS"
+            },
+            {
+              "name": "Alan PEACOCK"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Antonio ROMA"
+            },
+            {
+              "name": "Silvio MARZOLINI"
+            },
+            {
+              "name": "Raul PAEZ"
+            },
+            {
+              "name": "Ruben NAVARRO",
+              "captain": true
+            },
+            {
+              "name": "Vladislao CAP"
+            },
+            {
+              "name": "Federico SACCHI"
+            },
+            {
+              "name": "Antonio RATTIN"
+            },
+            {
+              "name": "Jose SANFILIPPO"
+            },
+            {
+              "name": "Raul BELEN"
+            },
+            {
+              "name": "Ruben SOSA"
+            },
+            {
+              "name": "Juan OLENIAK"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Nikolaj LATYCHEV",
+          "country": "URS"
+        },
+        {
+          "name": "Adolfe Molina REGINATO",
+          "country": "CHI"
+        },
+        {
+          "name": "Raymond MORGAN",
+          "country": "CAN"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1962-06-03",
+      "time": "15:00 UTC-4",
+      "team1": "Hungary",
+      "team2": "Bulgaria",
+      "score": [
+        6,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Florian ALBERT",
+          "minute": "1"
+        },
+        {
+          "name": "Florian ALBERT",
+          "minute": "6"
+        },
+        {
+          "name": "Lajos TICHY",
+          "minute": "8"
+        },
+        {
+          "name": "Erno SOLYMOSI",
+          "minute": "12"
+        },
+        {
+          "name": "Florian ALBERT",
+          "minute": "53"
+        },
+        {
+          "name": "Lajos TICHY",
+          "minute": "70"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Georgi SOKOLOV",
+          "minute": "64"
+        }
+      ],
+      "ground": "Estadio Braden Copper Co., Rancagua",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Istvan ILKU"
+            },
+            {
+              "name": "Sandor MATRAI"
+            },
+            {
+              "name": "Kalman MESZOLY"
+            },
+            {
+              "name": "Laszlo SAROSI",
+              "captain": true
+            },
+            {
+              "name": "Erno SOLYMOSI"
+            },
+            {
+              "name": "Ferenc SIPOS"
+            },
+            {
+              "name": "Janos GOROCS"
+            },
+            {
+              "name": "Karoly SANDOR"
+            },
+            {
+              "name": "Florian ALBERT"
+            },
+            {
+              "name": "Lajos TICHY"
+            },
+            {
+              "name": "Mate FENYVESI"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Georgi NAIDENOV"
+            },
+            {
+              "name": "Kiril RAKAROV",
+              "captain": true
+            },
+            {
+              "name": "Ivan DIMITROV"
+            },
+            {
+              "name": "Stoyan KITOV"
+            },
+            {
+              "name": "Dimitar KOSTOV"
+            },
+            {
+              "name": "Nikola KOVACHEV"
+            },
+            {
+              "name": "Ivan KOLEV"
+            },
+            {
+              "name": "Petar VELICHKOV"
+            },
+            {
+              "name": "Georgi SOKOLOV"
+            },
+            {
+              "name": "Georgi ASPARUKHOV"
+            },
+            {
+              "name": "Dinko DERMENDZHIEV"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Juan GARDEAZABAL",
+          "country": "ESP"
+        },
+        {
+          "name": "Bob DAVIDSON",
+          "country": "SCO"
+        },
+        {
+          "name": "Luis SILVA",
+          "country": "CHI"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1962-06-06",
+      "time": "15:00 UTC-4",
+      "team1": "Hungary",
+      "team2": "Argentina",
+      "score": [
+        0,
+        0
+      ],
+      "ground": "Estadio Braden Copper Co., Rancagua",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Gyula GROSICS",
+              "captain": true
+            },
+            {
+              "name": "Sandor MATRAI"
+            },
+            {
+              "name": "Kalman MESZOLY"
+            },
+            {
+              "name": "Laszlo SAROSI"
+            },
+            {
+              "name": "Erno SOLYMOSI"
+            },
+            {
+              "name": "Ferenc SIPOS"
+            },
+            {
+              "name": "Janos GOROCS"
+            },
+            {
+              "name": "Lajos TICHY"
+            },
+            {
+              "name": "Gyula RAKOSI"
+            },
+            {
+              "name": "Tivadar MONOSTORI"
+            },
+            {
+              "name": "Bela KUHARSZKI"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Rogelio DOMINGUEZ"
+            },
+            {
+              "name": "Jose RAMOS DELGADO"
+            },
+            {
+              "name": "Silvio MARZOLINI"
+            },
+            {
+              "name": "Alberto SAINZ"
+            },
+            {
+              "name": "Vladislao CAP"
+            },
+            {
+              "name": "Federico SACCHI"
+            },
+            {
+              "name": "Hector FACUNDO"
+            },
+            {
+              "name": "Martin PANDO",
+              "captain": true
+            },
+            {
+              "name": "Marcelo PAGANI"
+            },
+            {
+              "name": "Juan OLENIAK"
+            },
+            {
+              "name": "Alberto GONZALEZ"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Arturo YAMASAKI MALDONADO",
+          "country": "MEX"
+        },
+        {
+          "name": "R. BULNES",
+          "country": "CHI"
+        },
+        {
+          "name": "Juan GARDEAZABAL",
+          "country": "ESP"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1962-06-07",
+      "time": "15:00 UTC-4",
+      "team1": "England",
+      "team2": "Bulgaria",
+      "score": [
+        0,
+        0
+      ],
+      "ground": "Estadio Braden Copper Co., Rancagua",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Ron SPRINGETT"
+            },
+            {
+              "name": "Jimmy ARMFIELD"
+            },
+            {
+              "name": "Ray WILSON"
+            },
+            {
+              "name": "Maurice NORMAN"
+            },
+            {
+              "name": "Bobby MOORE"
+            },
+            {
+              "name": "Ron FLOWERS"
+            },
+            {
+              "name": "Jimmy GREAVES"
+            },
+            {
+              "name": "John HAYNES",
+              "captain": true
+            },
+            {
+              "name": "Bobby CHARLTON"
+            },
+            {
+              "name": "Bryan DOUGLAS"
+            },
+            {
+              "name": "Alan PEACOCK"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Georgi NAIDENOV"
+            },
+            {
+              "name": "Ivan DIMITROV"
+            },
+            {
+              "name": "Dimitar KOSTOV"
+            },
+            {
+              "name": "Dimitar DIMOV"
+            },
+            {
+              "name": "Dobromir JECHEV"
+            },
+            {
+              "name": "Nikola KOVACHEV",
+              "captain": true
+            },
+            {
+              "name": "Aleksandar KOSTOV"
+            },
+            {
+              "name": "Ivan KOLEV"
+            },
+            {
+              "name": "Petar VELICHKOV"
+            },
+            {
+              "name": "Georgi SOKOLOV"
+            },
+            {
+              "name": "Dinko DERMENDZHIEV"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Arthur BLAVIER",
+          "country": "BEL"
+        },
+        {
+          "name": "Adolfe Molina REGINATO",
+          "country": "CHI"
+        },
+        {
+          "name": "R. BULNES",
+          "country": "CHI"
+        }
+      ]
+    },
+    {
+      "round": "Quarter-final",
+      "date": "1962-06-10",
+      "time": "14:30 UTC-4",
+      "team1": "Chile",
+      "team2": "Soviet Union",
+      "score": [
+        2,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Leonel SANCHEZ",
+          "minute": "11"
+        },
+        {
+          "name": "Eladio ROJAS",
+          "minute": "29"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Igor CHISLENKO",
+          "minute": "26"
+        }
+      ],
+      "ground": "Carlos Dittborn, Arica",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Misael ESCUTI"
+            },
+            {
+              "name": "Luis EYZAGUIRRE"
+            },
+            {
+              "name": "Raul SANCHEZ"
+            },
+            {
+              "name": "Sergio NAVARRO",
+              "captain": true
+            },
+            {
+              "name": "Carlos CONTRERAS"
+            },
+            {
+              "name": "Eladio ROJAS"
+            },
+            {
+              "name": "Jorge TORO"
+            },
+            {
+              "name": "Jaime RAMIREZ"
+            },
+            {
+              "name": "Honorino LANDA"
+            },
+            {
+              "name": "Leonel SANCHEZ"
+            },
+            {
+              "name": "Armando TOBAR"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Lev YASHIN"
+            },
+            {
+              "name": "Georgi CHOKHELI"
+            },
+            {
+              "name": "Leonid OSTROVSKI"
+            },
+            {
+              "name": "Anatoli MASLYONKIN"
+            },
+            {
+              "name": "Igor NETTO",
+              "captain": true
+            },
+            {
+              "name": "Valeri VORONIN"
+            },
+            {
+              "name": "Valentin IVANOV"
+            },
+            {
+              "name": "Aleksei MAMYKIN"
+            },
+            {
+              "name": "Mikhail MESKHI"
+            },
+            {
+              "name": "Viktor PONEDELNIK"
+            },
+            {
+              "name": "Igor CHISLENKO"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Leo HORN",
+          "country": "NED"
+        },
+        {
+          "name": "Joao ETZEL FILHO",
+          "country": "BRA"
+        },
+        {
+          "name": "Karol GALBA",
+          "country": "TCH"
+        }
+      ]
+    },
+    {
+      "round": "Quarter-final",
+      "date": "1962-06-10",
+      "time": "14:30 UTC-4",
+      "team1": "Czechoslovakia",
+      "team2": "Hungary",
+      "score": [
+        1,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Adolf SCHERER",
+          "minute": "13"
+        }
+      ],
+      "goals2": [],
+      "ground": "Estadio Braden Copper Co., Rancagua",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Viliam SCHROJF"
+            },
+            {
+              "name": "Jan LALA"
+            },
+            {
+              "name": "Jan POPLUHAR"
+            },
+            {
+              "name": "Ladislav NOVAK",
+              "captain": true
+            },
+            {
+              "name": "Svatopluk PLUSKAL"
+            },
+            {
+              "name": "Josef MASOPUST"
+            },
+            {
+              "name": "Andrej KVASNAK"
+            },
+            {
+              "name": "Adolf SCHERER"
+            },
+            {
+              "name": "Josef JELINEK"
+            },
+            {
+              "name": "Tomas POSPICHAL"
+            },
+            {
+              "name": "Josef KADRABA"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Gyula GROSICS",
+              "captain": true
+            },
+            {
+              "name": "Sandor MATRAI"
+            },
+            {
+              "name": "Kalman MESZOLY"
+            },
+            {
+              "name": "Laszlo SAROSI"
+            },
+            {
+              "name": "Erno SOLYMOSI"
+            },
+            {
+              "name": "Ferenc SIPOS"
+            },
+            {
+              "name": "Karoly SANDOR"
+            },
+            {
+              "name": "Florian ALBERT"
+            },
+            {
+              "name": "Lajos TICHY"
+            },
+            {
+              "name": "Mate FENYVESI"
+            },
+            {
+              "name": "Gyula RAKOSI"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Nikolaj LATYCHEV",
+          "country": "URS"
+        },
+        {
+          "name": "Fernando BUERGO",
+          "country": "MEX"
+        },
+        {
+          "name": "Dimitar RUMENTCHEV",
+          "country": "BUL"
+        }
+      ]
+    },
+    {
+      "round": "Quarter-final",
+      "date": "1962-06-10",
+      "time": "14:30 UTC-4",
+      "team1": "Yugoslavia",
+      "team2": "West Germany",
+      "score": [
+        1,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Petar RADAKOVIC",
+          "minute": "85"
+        }
+      ],
+      "goals2": [],
+      "ground": "Estadio Nacional Julio Martínez Prádanos, Santiago",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Milutin SOSKIC"
+            },
+            {
+              "name": "Vladimir DURKOVIC"
+            },
+            {
+              "name": "Fahrudin JUSUFI"
+            },
+            {
+              "name": "Vlatko MARKOVIC"
+            },
+            {
+              "name": "Petar RADAKOVIC"
+            },
+            {
+              "name": "Vladica POPOVIC"
+            },
+            {
+              "name": "Dragoslav SEKULARAC"
+            },
+            {
+              "name": "Drazen JERKOVIC"
+            },
+            {
+              "name": "Milan GALIC",
+              "captain": true
+            },
+            {
+              "name": "Josip SKOBLAR"
+            },
+            {
+              "name": "Vladimir KOVACEVIC"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Wolfgang FAHRIAN"
+            },
+            {
+              "name": "Herbert ERHARDT"
+            },
+            {
+              "name": "Karl-Heinz SCHNELLINGER"
+            },
+            {
+              "name": "Willi SCHULZ"
+            },
+            {
+              "name": "Hans NOWAK"
+            },
+            {
+              "name": "Horst SZYMANIAK"
+            },
+            {
+              "name": "Helmut HALLER"
+            },
+            {
+              "name": "Albert BRUELLS"
+            },
+            {
+              "name": "Willy GIESEMANN"
+            },
+            {
+              "name": "Uwe SEELER"
+            },
+            {
+              "name": "Hans SCHAEFER",
+              "captain": true
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Arturo YAMASAKI MALDONADO",
+          "country": "MEX"
+        },
+        {
+          "name": "Jose Antonio SILVA",
+          "country": "CHI"
+        }
+      ]
+    },
+    {
+      "round": "Quarter-final",
+      "date": "1962-06-10",
+      "time": "14:30 UTC-4",
+      "team1": "Brazil",
+      "team2": "England",
+      "score": [
+        3,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "GARRINCHA",
+          "minute": "31"
+        },
+        {
+          "name": "VAVA",
+          "minute": "53"
+        },
+        {
+          "name": "GARRINCHA",
+          "minute": "59"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Gerry HITCHENS",
+          "minute": "38"
+        }
+      ],
+      "ground": "Estadio Sausalito, Viña del Mar",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "GILMAR"
+            },
+            {
+              "name": "DJALMA SANTOS"
+            },
+            {
+              "name": "MAURO RAMOS",
+              "captain": true
+            },
+            {
+              "name": "ZOZIMO"
+            },
+            {
+              "name": "NILTON SANTOS"
+            },
+            {
+              "name": "ZITO"
+            },
+            {
+              "name": "DIDI"
+            },
+            {
+              "name": "GARRINCHA"
+            },
+            {
+              "name": "VAVA"
+            },
+            {
+              "name": "AMARILDO"
+            },
+            {
+              "name": "Mario ZAGALLO"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Ron SPRINGETT"
+            },
+            {
+              "name": "Jimmy ARMFIELD"
+            },
+            {
+              "name": "Ray WILSON"
+            },
+            {
+              "name": "Maurice NORMAN"
+            },
+            {
+              "name": "Bobby MOORE"
+            },
+            {
+              "name": "Ron FLOWERS"
+            },
+            {
+              "name": "Jimmy GREAVES"
+            },
+            {
+              "name": "Gerry HITCHENS"
+            },
+            {
+              "name": "John HAYNES",
+              "captain": true
+            },
+            {
+              "name": "Bobby CHARLTON"
+            },
+            {
+              "name": "Bryan DOUGLAS"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Pierre SCHWINTE",
+          "country": "FRA"
+        },
+        {
+          "name": "Gottfried DIENST",
+          "country": "SUI"
+        },
+        {
+          "name": "Sergio BUSTAMANTE",
+          "country": "CHI"
+        }
+      ]
+    },
+    {
+      "round": "Semi-final",
+      "date": "1962-06-13",
+      "time": "14:30 UTC-4",
+      "team1": "Czechoslovakia",
+      "team2": "Yugoslavia",
+      "score": [
+        3,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Josef KADRABA",
+          "minute": "48"
+        },
+        {
+          "name": "Adolf SCHERER",
+          "minute": "80"
+        },
+        {
+          "name": "Adolf SCHERER",
+          "minute": "84",
+          "penalty": true
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Drazen JERKOVIC",
+          "minute": "69"
+        }
+      ],
+      "ground": "Estadio Sausalito, Viña del Mar",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Viliam SCHROJF"
+            },
+            {
+              "name": "Jan LALA"
+            },
+            {
+              "name": "Jan POPLUHAR"
+            },
+            {
+              "name": "Ladislav NOVAK",
+              "captain": true
+            },
+            {
+              "name": "Svatopluk PLUSKAL"
+            },
+            {
+              "name": "Josef MASOPUST"
+            },
+            {
+              "name": "Andrej KVASNAK"
+            },
+            {
+              "name": "Adolf SCHERER"
+            },
+            {
+              "name": "Josef JELINEK"
+            },
+            {
+              "name": "Tomas POSPICHAL"
+            },
+            {
+              "name": "Josef KADRABA"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Milutin SOSKIC"
+            },
+            {
+              "name": "Vladimir DURKOVIC"
+            },
+            {
+              "name": "Fahrudin JUSUFI"
+            },
+            {
+              "name": "Vlatko MARKOVIC"
+            },
+            {
+              "name": "Vasilije SIJAKOVIC"
+            },
+            {
+              "name": "Petar RADAKOVIC"
+            },
+            {
+              "name": "Vladica POPOVIC"
+            },
+            {
+              "name": "Dragoslav SEKULARAC"
+            },
+            {
+              "name": "Drazen JERKOVIC"
+            },
+            {
+              "name": "Milan GALIC",
+              "captain": true
+            },
+            {
+              "name": "Josip SKOBLAR"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Gottfried DIENST",
+          "country": "SUI"
+        },
+        {
+          "name": "Carl STEINER",
+          "country": "AUT"
+        },
+        {
+          "name": "Cesare JONNI",
+          "country": "ITA"
+        }
+      ]
+    },
+    {
+      "round": "Semi-final",
+      "date": "1962-06-13",
+      "time": "14:30 UTC-4",
+      "team1": "Brazil",
+      "team2": "Chile",
+      "score": [
+        4,
+        2
+      ],
+      "goals1": [
+        {
+          "name": "GARRINCHA",
+          "minute": "9"
+        },
+        {
+          "name": "GARRINCHA",
+          "minute": "32"
+        },
+        {
+          "name": "VAVA",
+          "minute": "47"
+        },
+        {
+          "name": "VAVA",
+          "minute": "78"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Jorge TORO",
+          "minute": "42"
+        },
+        {
+          "name": "Leonel SANCHEZ",
+          "minute": "61",
+          "penalty": true
+        }
+      ],
+      "ground": "Estadio Nacional Julio Martínez Prádanos, Santiago",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "GILMAR"
+            },
+            {
+              "name": "DJALMA SANTOS"
+            },
+            {
+              "name": "MAURO RAMOS",
+              "captain": true
+            },
+            {
+              "name": "ZOZIMO"
+            },
+            {
+              "name": "NILTON SANTOS"
+            },
+            {
+              "name": "ZITO"
+            },
+            {
+              "name": "DIDI"
+            },
+            {
+              "name": "GARRINCHA"
+            },
+            {
+              "name": "VAVA"
+            },
+            {
+              "name": "AMARILDO"
+            },
+            {
+              "name": "Mario ZAGALLO"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Misael ESCUTI"
+            },
+            {
+              "name": "Luis EYZAGUIRRE"
+            },
+            {
+              "name": "Raul SANCHEZ"
+            },
+            {
+              "name": "Carlos CONTRERAS"
+            },
+            {
+              "name": "Manuel RODRIGUEZ"
+            },
+            {
+              "name": "Eladio ROJAS"
+            },
+            {
+              "name": "Jorge TORO",
+              "captain": true
+            },
+            {
+              "name": "Jaime RAMIREZ"
+            },
+            {
+              "name": "Honorino LANDA"
+            },
+            {
+              "name": "Leonel SANCHEZ"
+            },
+            {
+              "name": "Armando TOBAR"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "R",
+            "name": "GARRINCHA",
+            "minute": "83"
+          }
+        ],
+        [
+          {
+            "type": "R",
+            "name": "Honorino LANDA",
+            "minute": "80"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Arturo YAMASAKI MALDONADO",
+          "country": "MEX"
+        },
+        {
+          "name": "Esteban MARINO",
+          "country": "URU"
+        }
+      ]
+    },
+    {
+      "round": "Match for third place",
+      "date": "1962-06-16",
+      "time": "14:30 UTC-4",
+      "team1": "Chile",
+      "team2": "Yugoslavia",
+      "score": [
+        1,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Eladio ROJAS",
+          "minute": "90"
+        }
+      ],
+      "goals2": [],
+      "ground": "Estadio Nacional Julio Martínez Prádanos, Santiago",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Adan GODOY"
+            },
+            {
+              "name": "Luis EYZAGUIRRE"
+            },
+            {
+              "name": "Raul SANCHEZ"
+            },
+            {
+              "name": "Manuel RODRIGUEZ"
+            },
+            {
+              "name": "Humberto CRUZ"
+            },
+            {
+              "name": "Eladio ROJAS"
+            },
+            {
+              "name": "Jorge TORO",
+              "captain": true
+            },
+            {
+              "name": "Jaime RAMIREZ"
+            },
+            {
+              "name": "Leonel SANCHEZ"
+            },
+            {
+              "name": "Carlos CAMPOS"
+            },
+            {
+              "name": "Armando TOBAR"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Milutin SOSKIC"
+            },
+            {
+              "name": "Vladimir DURKOVIC"
+            },
+            {
+              "name": "Vlatko MARKOVIC"
+            },
+            {
+              "name": "Slavko SVINJAREVIC"
+            },
+            {
+              "name": "Petar RADAKOVIC"
+            },
+            {
+              "name": "Vladica POPOVIC"
+            },
+            {
+              "name": "Dragoslav SEKULARAC"
+            },
+            {
+              "name": "Drazen JERKOVIC"
+            },
+            {
+              "name": "Milan GALIC",
+              "captain": true
+            },
+            {
+              "name": "Josip SKOBLAR"
+            },
+            {
+              "name": "Vladimir KOVACEVIC"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Juan GARDEAZABAL",
+          "country": "ESP"
+        },
+        {
+          "name": "Albert DUSCH",
+          "country": "GER"
+        },
+        {
+          "name": "Andor DOROGI",
+          "country": "HUN"
+        }
+      ]
+    },
+    {
+      "round": "Final",
+      "date": "1962-06-17",
+      "time": "14:30 UTC-4",
+      "team1": "Brazil",
+      "team2": "Czechoslovakia",
+      "score": [
+        3,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "AMARILDO",
+          "minute": "17"
+        },
+        {
+          "name": "ZITO",
+          "minute": "69"
+        },
+        {
+          "name": "VAVA",
+          "minute": "78"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Josef MASOPUST",
+          "minute": "15"
+        }
+      ],
+      "ground": "Estadio Nacional Julio Martínez Prádanos, Santiago",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "GILMAR"
+            },
+            {
+              "name": "DJALMA SANTOS"
+            },
+            {
+              "name": "MAURO RAMOS",
+              "captain": true
+            },
+            {
+              "name": "ZOZIMO"
+            },
+            {
+              "name": "NILTON SANTOS"
+            },
+            {
+              "name": "ZITO"
+            },
+            {
+              "name": "DIDI"
+            },
+            {
+              "name": "GARRINCHA"
+            },
+            {
+              "name": "VAVA"
+            },
+            {
+              "name": "AMARILDO"
+            },
+            {
+              "name": "Mario ZAGALLO"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Viliam SCHROJF"
+            },
+            {
+              "name": "Jan POPLUHAR"
+            },
+            {
+              "name": "Ladislav NOVAK",
+              "captain": true
+            },
+            {
+              "name": "Svatopluk PLUSKAL"
+            },
+            {
+              "name": "Jiri TICHY"
+            },
+            {
+              "name": "Josef MASOPUST"
+            },
+            {
+              "name": "Andrej KVASNAK"
+            },
+            {
+              "name": "Adolf SCHERER"
+            },
+            {
+              "name": "Josef JELINEK"
+            },
+            {
+              "name": "Tomas POSPICHAL"
+            },
+            {
+              "name": "Josef KADRABA"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Nikolaj LATYCHEV",
+          "country": "URS"
+        },
+        {
+          "name": "Leo HORN",
+          "country": "NED"
+        },
+        {
+          "name": "Bob DAVIDSON",
+          "country": "SCO"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4309 @@
+{
+  "name": "World Cup 1958",
+  "matches": [
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1958-06-08",
+      "time": "19:00 UTC+2",
+      "team1": "Argentina",
+      "team2": "West Germany",
+      "score": [
+        1,
+        3
+      ],
+      "goals1": [
+        {
+          "name": "Oreste Omar CORBATTA",
+          "minute": "2"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Helmut RAHN",
+          "minute": "32"
+        },
+        {
+          "name": "Uwe SEELER",
+          "minute": "40"
+        },
+        {
+          "name": "Helmut RAHN",
+          "minute": "79"
+        }
+      ],
+      "ground": "Malmo Stadion, Malmö",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Amadeo CARRIZO"
+            },
+            {
+              "name": "Federico VAIRO"
+            },
+            {
+              "name": "Juan Francesco LOMBARDO"
+            },
+            {
+              "name": "Pedro DELLACHA",
+              "captain": true
+            },
+            {
+              "name": "Nestor ROSSI"
+            },
+            {
+              "name": "Jose VARACKA"
+            },
+            {
+              "name": "Oreste Omar CORBATTA"
+            },
+            {
+              "name": "Eliseo PRADO"
+            },
+            {
+              "name": "Norberto MENENDEZ"
+            },
+            {
+              "name": "Alfredo ROJAS"
+            },
+            {
+              "name": "Osvaldo CRUZ"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Fritz HERKENRATH"
+            },
+            {
+              "name": "Herbert ERHARDT"
+            },
+            {
+              "name": "Erich JUSKOWIAK"
+            },
+            {
+              "name": "Georg STOLLENWERK"
+            },
+            {
+              "name": "Horst ECKEL"
+            },
+            {
+              "name": "Horst SZYMANIAK"
+            },
+            {
+              "name": "Fritz WALTER"
+            },
+            {
+              "name": "Alfred SCHMIDT"
+            },
+            {
+              "name": "Helmut RAHN"
+            },
+            {
+              "name": "Hans SCHAEFER",
+              "captain": true
+            },
+            {
+              "name": "Uwe SEELER"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Reginald LEAFE",
+          "country": "ENG"
+        },
+        {
+          "name": "Leo HELGE",
+          "country": "DEN"
+        },
+        {
+          "name": "Sten AHLNER",
+          "country": "SWE"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1958-06-08",
+      "time": "19:00 UTC+2",
+      "team1": "Northern Ireland",
+      "team2": "Czechoslovakia",
+      "score": [
+        1,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Wilbur CUSH",
+          "minute": "20"
+        }
+      ],
+      "goals2": [],
+      "ground": "Orjans Vall, Halmstad",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Harry GREGG"
+            },
+            {
+              "name": "Willie CUNNINGHAM"
+            },
+            {
+              "name": "Alfred McMICHAEL"
+            },
+            {
+              "name": "Richard KEITH"
+            },
+            {
+              "name": "Danny BLANCHFLOWER",
+              "captain": true
+            },
+            {
+              "name": "Bertie PEACOCK"
+            },
+            {
+              "name": "Jimmy McILROY"
+            },
+            {
+              "name": "Billy BINGHAM"
+            },
+            {
+              "name": "Wilbur CUSH"
+            },
+            {
+              "name": "Peter McPARLAND"
+            },
+            {
+              "name": "Derek DOUGAN"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Bretislav DOLEJSI"
+            },
+            {
+              "name": "Gustav MRAZ"
+            },
+            {
+              "name": "Ladislav NOVAK",
+              "captain": true
+            },
+            {
+              "name": "Jiri CADEK"
+            },
+            {
+              "name": "Josef MASOPUST"
+            },
+            {
+              "name": "Svatopluk PLUSKAL"
+            },
+            {
+              "name": "Jan HERTL"
+            },
+            {
+              "name": "Milan DVORAK"
+            },
+            {
+              "name": "Jaroslav BOROVICKA"
+            },
+            {
+              "name": "Tadeas KRAUS"
+            },
+            {
+              "name": "Vaclav HOVORKA"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Fritz SEIPELT",
+          "country": "AUT"
+        },
+        {
+          "name": "Arthur ELLIS",
+          "country": "ENG"
+        },
+        {
+          "name": "Joaquim FERNANDES CAMPOS",
+          "country": "POR"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1958-06-11",
+      "time": "19:00 UTC+2",
+      "team1": "West Germany",
+      "team2": "Czechoslovakia",
+      "score": [
+        2,
+        2
+      ],
+      "goals1": [
+        {
+          "name": "Hans SCHAEFER",
+          "minute": "59"
+        },
+        {
+          "name": "Helmut RAHN",
+          "minute": "70"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Milan DVORAK",
+          "minute": "24",
+          "penalty": true
+        },
+        {
+          "name": "Zdenek ZIKAN",
+          "minute": "43"
+        }
+      ],
+      "ground": "Olympia Stadium, Helsingborg",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Fritz HERKENRATH"
+            },
+            {
+              "name": "Herbert ERHARDT"
+            },
+            {
+              "name": "Erich JUSKOWIAK"
+            },
+            {
+              "name": "Georg STOLLENWERK"
+            },
+            {
+              "name": "Karl-Heinz SCHNELLINGER"
+            },
+            {
+              "name": "Horst SZYMANIAK"
+            },
+            {
+              "name": "Fritz WALTER"
+            },
+            {
+              "name": "Helmut RAHN"
+            },
+            {
+              "name": "Hans SCHAEFER",
+              "captain": true
+            },
+            {
+              "name": "Uwe SEELER"
+            },
+            {
+              "name": "Berni KLODT"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Bretislav DOLEJSI"
+            },
+            {
+              "name": "Gustav MRAZ"
+            },
+            {
+              "name": "Ladislav NOVAK",
+              "captain": true
+            },
+            {
+              "name": "Jan POPLUHAR"
+            },
+            {
+              "name": "Josef MASOPUST"
+            },
+            {
+              "name": "Svatopluk PLUSKAL"
+            },
+            {
+              "name": "Milan DVORAK"
+            },
+            {
+              "name": "Pavol MOLNAR"
+            },
+            {
+              "name": "Zdenek ZIKAN"
+            },
+            {
+              "name": "Vaclav HOVORKA"
+            },
+            {
+              "name": "Jiri FEUREISL"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Arthur ELLIS",
+          "country": "ENG"
+        },
+        {
+          "name": "Reginald LEAFE",
+          "country": "ENG"
+        },
+        {
+          "name": "Fritz SEIPELT",
+          "country": "AUT"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1958-06-11",
+      "time": "19:00 UTC+2",
+      "team1": "Argentina",
+      "team2": "Northern Ireland",
+      "score": [
+        3,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Oreste Omar CORBATTA",
+          "minute": "38",
+          "penalty": true
+        },
+        {
+          "name": "Norberto MENENDEZ",
+          "minute": "55"
+        },
+        {
+          "name": "Ludovico AVIO",
+          "minute": "59"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Peter McPARLAND",
+          "minute": "3"
+        }
+      ],
+      "ground": "Orjans Vall, Halmstad",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Amadeo CARRIZO"
+            },
+            {
+              "name": "Federico VAIRO"
+            },
+            {
+              "name": "Juan Francesco LOMBARDO"
+            },
+            {
+              "name": "Pedro DELLACHA",
+              "captain": true
+            },
+            {
+              "name": "Nestor ROSSI"
+            },
+            {
+              "name": "Jose VARACKA"
+            },
+            {
+              "name": "Oreste Omar CORBATTA"
+            },
+            {
+              "name": "Norberto MENENDEZ"
+            },
+            {
+              "name": "Angel LABRUNA"
+            },
+            {
+              "name": "Norberto BOGGIO"
+            },
+            {
+              "name": "Ludovico AVIO"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Harry GREGG"
+            },
+            {
+              "name": "Willie CUNNINGHAM"
+            },
+            {
+              "name": "Alfred McMICHAEL"
+            },
+            {
+              "name": "Richard KEITH"
+            },
+            {
+              "name": "Danny BLANCHFLOWER",
+              "captain": true
+            },
+            {
+              "name": "Bertie PEACOCK"
+            },
+            {
+              "name": "Jimmy McILROY"
+            },
+            {
+              "name": "Billy BINGHAM"
+            },
+            {
+              "name": "Wilbur CUSH"
+            },
+            {
+              "name": "Peter McPARLAND"
+            },
+            {
+              "name": "Fay COYLE"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Sten AHLNER",
+          "country": "SWE"
+        },
+        {
+          "name": "Joaquim FERNANDES CAMPOS",
+          "country": "POR"
+        },
+        {
+          "name": "Leo HELGE",
+          "country": "DEN"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1958-06-15",
+      "time": "19:00 UTC+2",
+      "team1": "Czechoslovakia",
+      "team2": "Argentina",
+      "score": [
+        6,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Milan DVORAK",
+          "minute": "8"
+        },
+        {
+          "name": "Zdenek ZIKAN",
+          "minute": "17"
+        },
+        {
+          "name": "Zdenek ZIKAN",
+          "minute": "40"
+        },
+        {
+          "name": "Jiri FEUREISL",
+          "minute": "69"
+        },
+        {
+          "name": "Vaclav HOVORKA",
+          "minute": "82"
+        },
+        {
+          "name": "Vaclav HOVORKA",
+          "minute": "89"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Oreste Omar CORBATTA",
+          "minute": "65",
+          "penalty": true
+        }
+      ],
+      "ground": "Olympia Stadium, Helsingborg",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Bretislav DOLEJSI"
+            },
+            {
+              "name": "Gustav MRAZ"
+            },
+            {
+              "name": "Ladislav NOVAK",
+              "captain": true
+            },
+            {
+              "name": "Jan POPLUHAR"
+            },
+            {
+              "name": "Josef MASOPUST"
+            },
+            {
+              "name": "Milan DVORAK"
+            },
+            {
+              "name": "Pavol MOLNAR"
+            },
+            {
+              "name": "Jaroslav BOROVICKA"
+            },
+            {
+              "name": "Zdenek ZIKAN"
+            },
+            {
+              "name": "Vaclav HOVORKA"
+            },
+            {
+              "name": "Jiri FEUREISL"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Amadeo CARRIZO"
+            },
+            {
+              "name": "Federico VAIRO"
+            },
+            {
+              "name": "Juan Francesco LOMBARDO"
+            },
+            {
+              "name": "Pedro DELLACHA",
+              "captain": true
+            },
+            {
+              "name": "Nestor ROSSI"
+            },
+            {
+              "name": "Jose VARACKA"
+            },
+            {
+              "name": "Oreste Omar CORBATTA"
+            },
+            {
+              "name": "Norberto MENENDEZ"
+            },
+            {
+              "name": "Angel LABRUNA"
+            },
+            {
+              "name": "Ludovico AVIO"
+            },
+            {
+              "name": "Osvaldo CRUZ"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Arthur ELLIS",
+          "country": "ENG"
+        },
+        {
+          "name": "Reginald LEAFE",
+          "country": "ENG"
+        },
+        {
+          "name": "Fritz SEIPELT",
+          "country": "AUT"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1958-06-15",
+      "time": "19:00 UTC+2",
+      "team1": "West Germany",
+      "team2": "Northern Ireland",
+      "score": [
+        2,
+        2
+      ],
+      "goals1": [
+        {
+          "name": "Helmut RAHN",
+          "minute": "20"
+        },
+        {
+          "name": "Uwe SEELER",
+          "minute": "79"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Peter McPARLAND",
+          "minute": "19"
+        },
+        {
+          "name": "Peter McPARLAND",
+          "minute": "60"
+        }
+      ],
+      "ground": "Malmo Stadion, Malmö",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Fritz HERKENRATH"
+            },
+            {
+              "name": "Herbert ERHARDT"
+            },
+            {
+              "name": "Erich JUSKOWIAK"
+            },
+            {
+              "name": "Georg STOLLENWERK"
+            },
+            {
+              "name": "Horst ECKEL"
+            },
+            {
+              "name": "Horst SZYMANIAK"
+            },
+            {
+              "name": "Fritz WALTER"
+            },
+            {
+              "name": "Helmut RAHN"
+            },
+            {
+              "name": "Hans SCHAEFER",
+              "captain": true
+            },
+            {
+              "name": "Uwe SEELER"
+            },
+            {
+              "name": "Berni KLODT"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Harry GREGG"
+            },
+            {
+              "name": "Willie CUNNINGHAM"
+            },
+            {
+              "name": "Alfred McMICHAEL"
+            },
+            {
+              "name": "Richard KEITH"
+            },
+            {
+              "name": "Danny BLANCHFLOWER",
+              "captain": true
+            },
+            {
+              "name": "Bertie PEACOCK"
+            },
+            {
+              "name": "Jimmy McILROY"
+            },
+            {
+              "name": "Billy BINGHAM"
+            },
+            {
+              "name": "Wilbur CUSH"
+            },
+            {
+              "name": "Peter McPARLAND"
+            },
+            {
+              "name": "Tommy CASEY"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Joaquim FERNANDES CAMPOS",
+          "country": "POR"
+        },
+        {
+          "name": "Sten AHLNER",
+          "country": "SWE"
+        },
+        {
+          "name": "Leo HELGE",
+          "country": "DEN"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1958-06-17",
+      "time": "19:00 UTC+2",
+      "team1": "Northern Ireland",
+      "team2": "Czechoslovakia",
+      "score": {
+        "et": [
+          2,
+          1
+        ]
+      },
+      "goals1": [
+        {
+          "name": "Peter McPARLAND",
+          "minute": "44"
+        },
+        {
+          "name": "Peter McPARLAND",
+          "minute": "99"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Zdenek ZIKAN",
+          "minute": "19"
+        }
+      ],
+      "ground": "Malmo Stadion, Malmö",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Norman UPRICHARD"
+            },
+            {
+              "name": "Willie CUNNINGHAM"
+            },
+            {
+              "name": "Alfred McMICHAEL"
+            },
+            {
+              "name": "Richard KEITH"
+            },
+            {
+              "name": "Danny BLANCHFLOWER",
+              "captain": true
+            },
+            {
+              "name": "Bertie PEACOCK"
+            },
+            {
+              "name": "Jimmy McILROY"
+            },
+            {
+              "name": "Billy BINGHAM"
+            },
+            {
+              "name": "Wilbur CUSH"
+            },
+            {
+              "name": "Peter McPARLAND"
+            },
+            {
+              "name": "Jackie SCOTT"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Bretislav DOLEJSI"
+            },
+            {
+              "name": "Gustav MRAZ"
+            },
+            {
+              "name": "Ladislav NOVAK",
+              "captain": true
+            },
+            {
+              "name": "Jan POPLUHAR"
+            },
+            {
+              "name": "Titus BUBERNIK"
+            },
+            {
+              "name": "Josef MASOPUST"
+            },
+            {
+              "name": "Milan DVORAK"
+            },
+            {
+              "name": "Pavol MOLNAR"
+            },
+            {
+              "name": "Jaroslav BOROVICKA"
+            },
+            {
+              "name": "Zdenek ZIKAN"
+            },
+            {
+              "name": "Jiri FEUREISL"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [],
+        [
+          {
+            "type": "R",
+            "name": "Titus BUBERNIK",
+            "minute": "102"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Maurice GUIGUE",
+          "country": "FRA"
+        },
+        {
+          "name": "Joaquim FERNANDES CAMPOS",
+          "country": "POR"
+        },
+        {
+          "name": "Sten AHLNER",
+          "country": "SWE"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1958-06-08",
+      "time": "19:00 UTC+2",
+      "team1": "France",
+      "team2": "Paraguay",
+      "score": [
+        7,
+        3
+      ],
+      "goals1": [
+        {
+          "name": "Just FONTAINE",
+          "minute": "24"
+        },
+        {
+          "name": "Just FONTAINE",
+          "minute": "30"
+        },
+        {
+          "name": "Roger PIANTONI",
+          "minute": "52"
+        },
+        {
+          "name": "Maryan WISNIEWSKI",
+          "minute": "61"
+        },
+        {
+          "name": "Just FONTAINE",
+          "minute": "67"
+        },
+        {
+          "name": "Raymond KOPA",
+          "minute": "70"
+        },
+        {
+          "name": "Jean VINCENT",
+          "minute": "83"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Florencio AMARILLA",
+          "minute": "20"
+        },
+        {
+          "name": "Florencio AMARILLA",
+          "minute": "44",
+          "penalty": true
+        },
+        {
+          "name": "Jorge ROMERO",
+          "minute": "50"
+        }
+      ],
+      "ground": "Idrottsparken, Norrköping",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Francois REMETTER"
+            },
+            {
+              "name": "Raymond KAELBEL"
+            },
+            {
+              "name": "Andre LEROND"
+            },
+            {
+              "name": "Robert JONQUET",
+              "captain": true
+            },
+            {
+              "name": "Jean-Jacques MARCEL"
+            },
+            {
+              "name": "Armand PENVERNE"
+            },
+            {
+              "name": "Just FONTAINE"
+            },
+            {
+              "name": "Raymond KOPA"
+            },
+            {
+              "name": "Roger PIANTONI"
+            },
+            {
+              "name": "Jean VINCENT"
+            },
+            {
+              "name": "Maryan WISNIEWSKI"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Ramon MAYEREGGER"
+            },
+            {
+              "name": "Edelmiro AREVALO"
+            },
+            {
+              "name": "Juan Vicente LEZCANO"
+            },
+            {
+              "name": "Ignacio ACHUCARRO"
+            },
+            {
+              "name": "Agustin MIRANDA"
+            },
+            {
+              "name": "Salvador VILLALBA"
+            },
+            {
+              "name": "Juan AGUERO",
+              "captain": true
+            },
+            {
+              "name": "Jose PARODI"
+            },
+            {
+              "name": "Jorge ROMERO"
+            },
+            {
+              "name": "Florencio AMARILLA"
+            },
+            {
+              "name": "Cayetano RE"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Juan GARDEAZABAL",
+          "country": "ESP"
+        },
+        {
+          "name": "Benjamin GRIFFITHS",
+          "country": "WAL"
+        },
+        {
+          "name": "Juan BROZZI",
+          "country": "ARG"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1958-06-08",
+      "time": "19:00 UTC+2",
+      "team1": "Yugoslavia",
+      "team2": "Scotland",
+      "score": [
+        1,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Aleksandar PETAKOVIC",
+          "minute": "6"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Jimmy MURRAY",
+          "minute": "49"
+        }
+      ],
+      "ground": "Arosvallen, Västerås",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Vladimir BEARA"
+            },
+            {
+              "name": "Vasilije SIJAKOVIC"
+            },
+            {
+              "name": "Tomislav CRNKOVIC"
+            },
+            {
+              "name": "Branko ZEBEC",
+              "captain": true
+            },
+            {
+              "name": "Dobrosav KRSTIC"
+            },
+            {
+              "name": "Vujadin BOSKOV"
+            },
+            {
+              "name": "Dragoslav SEKULARAC"
+            },
+            {
+              "name": "Milos MILUTINOVIC"
+            },
+            {
+              "name": "Aleksandar PETAKOVIC"
+            },
+            {
+              "name": "Toza VESELINOVIC"
+            },
+            {
+              "name": "Zdravko RAJKOV"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Tommy YOUNGER",
+              "captain": true
+            },
+            {
+              "name": "Eric CALDOW"
+            },
+            {
+              "name": "John HEWIE"
+            },
+            {
+              "name": "Bobby EVANS"
+            },
+            {
+              "name": "Doug COWIE"
+            },
+            {
+              "name": "Eddie TURNBULL"
+            },
+            {
+              "name": "Graham LEGGAT"
+            },
+            {
+              "name": "Jimmy MURRAY"
+            },
+            {
+              "name": "Jackie MUDIE"
+            },
+            {
+              "name": "Bobby COLLINS"
+            },
+            {
+              "name": "Stuart IMLACH"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Paul WYSSLING",
+          "country": "SUI"
+        },
+        {
+          "name": "Vincenzo ORLANDINI",
+          "country": "ITA"
+        },
+        {
+          "name": "Martin MACKO",
+          "country": "TCH"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1958-06-11",
+      "time": "19:00 UTC+2",
+      "team1": "Yugoslavia",
+      "team2": "France",
+      "score": [
+        3,
+        2
+      ],
+      "goals1": [
+        {
+          "name": "Aleksandar PETAKOVIC",
+          "minute": "16"
+        },
+        {
+          "name": "Toza VESELINOVIC",
+          "minute": "63"
+        },
+        {
+          "name": "Toza VESELINOVIC",
+          "minute": "88"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Just FONTAINE",
+          "minute": "4"
+        },
+        {
+          "name": "Just FONTAINE",
+          "minute": "85"
+        }
+      ],
+      "ground": "Arosvallen, Västerås",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Vladimir BEARA"
+            },
+            {
+              "name": "Tomislav CRNKOVIC"
+            },
+            {
+              "name": "Novak TOMIC"
+            },
+            {
+              "name": "Branko ZEBEC",
+              "captain": true
+            },
+            {
+              "name": "Dobrosav KRSTIC"
+            },
+            {
+              "name": "Vujadin BOSKOV"
+            },
+            {
+              "name": "Dragoslav SEKULARAC"
+            },
+            {
+              "name": "Milos MILUTINOVIC"
+            },
+            {
+              "name": "Aleksandar PETAKOVIC"
+            },
+            {
+              "name": "Toza VESELINOVIC"
+            },
+            {
+              "name": "Zdravko RAJKOV"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Francois REMETTER"
+            },
+            {
+              "name": "Raymond KAELBEL"
+            },
+            {
+              "name": "Andre LEROND"
+            },
+            {
+              "name": "Roger MARCHE",
+              "captain": true
+            },
+            {
+              "name": "Robert JONQUET"
+            },
+            {
+              "name": "Armand PENVERNE"
+            },
+            {
+              "name": "Just FONTAINE"
+            },
+            {
+              "name": "Raymond KOPA"
+            },
+            {
+              "name": "Roger PIANTONI"
+            },
+            {
+              "name": "Jean VINCENT"
+            },
+            {
+              "name": "Maryan WISNIEWSKI"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Benjamin GRIFFITHS",
+          "country": "WAL"
+        },
+        {
+          "name": "Paul WYSSLING",
+          "country": "SUI"
+        },
+        {
+          "name": "Georg DRAGVOLL",
+          "country": "NOR"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1958-06-11",
+      "time": "19:00 UTC+2",
+      "team1": "Paraguay",
+      "team2": "Scotland",
+      "score": [
+        3,
+        2
+      ],
+      "goals1": [
+        {
+          "name": "Juan AGUERO",
+          "minute": "4"
+        },
+        {
+          "name": "Cayetano RE",
+          "minute": "45"
+        },
+        {
+          "name": "Jose PARODI",
+          "minute": "73"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Jackie MUDIE",
+          "minute": "24"
+        },
+        {
+          "name": "Bobby COLLINS",
+          "minute": "76"
+        }
+      ],
+      "ground": "Idrottsparken, Norrköping",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Samuel AGUILAR"
+            },
+            {
+              "name": "Edelmiro AREVALO"
+            },
+            {
+              "name": "Juan Vicente LEZCANO"
+            },
+            {
+              "name": "Ignacio ACHUCARRO"
+            },
+            {
+              "name": "Eligio ECHAGUE"
+            },
+            {
+              "name": "Salvador VILLALBA"
+            },
+            {
+              "name": "Juan AGUERO",
+              "captain": true
+            },
+            {
+              "name": "Jose PARODI"
+            },
+            {
+              "name": "Jorge ROMERO"
+            },
+            {
+              "name": "Florencio AMARILLA"
+            },
+            {
+              "name": "Cayetano RE"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Tommy YOUNGER",
+              "captain": true
+            },
+            {
+              "name": "Alex PARKER"
+            },
+            {
+              "name": "Eric CALDOW"
+            },
+            {
+              "name": "Bobby EVANS"
+            },
+            {
+              "name": "Doug COWIE"
+            },
+            {
+              "name": "Eddie TURNBULL"
+            },
+            {
+              "name": "Graham LEGGAT"
+            },
+            {
+              "name": "Jackie MUDIE"
+            },
+            {
+              "name": "Bobby COLLINS"
+            },
+            {
+              "name": "Archie ROBERTSON"
+            },
+            {
+              "name": "Willie FERNIE"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Vincenzo ORLANDINI",
+          "country": "ITA"
+        },
+        {
+          "name": "Juan GARDEAZABAL",
+          "country": "ESP"
+        },
+        {
+          "name": "Bengt ANDREN",
+          "country": "SWE"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1958-06-15",
+      "time": "19:00 UTC+2",
+      "team1": "Paraguay",
+      "team2": "Yugoslavia",
+      "score": [
+        3,
+        3
+      ],
+      "goals1": [
+        {
+          "name": "Jose PARODI",
+          "minute": "20"
+        },
+        {
+          "name": "Juan AGUERO",
+          "minute": "49"
+        },
+        {
+          "name": "Jorge ROMERO",
+          "minute": "80"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Radivoje OGNJANOVIC",
+          "minute": "12"
+        },
+        {
+          "name": "Toza VESELINOVIC",
+          "minute": "29"
+        },
+        {
+          "name": "Zdravko RAJKOV",
+          "minute": "73"
+        }
+      ],
+      "ground": "Tunavallen, Eskilstuna",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Samuel AGUILAR"
+            },
+            {
+              "name": "Edelmiro AREVALO"
+            },
+            {
+              "name": "Juan Vicente LEZCANO"
+            },
+            {
+              "name": "Ignacio ACHUCARRO"
+            },
+            {
+              "name": "Eligio ECHAGUE"
+            },
+            {
+              "name": "Salvador VILLALBA"
+            },
+            {
+              "name": "Juan AGUERO",
+              "captain": true
+            },
+            {
+              "name": "Jose PARODI"
+            },
+            {
+              "name": "Jorge ROMERO"
+            },
+            {
+              "name": "Florencio AMARILLA"
+            },
+            {
+              "name": "Cayetano RE"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Vladimir BEARA"
+            },
+            {
+              "name": "Tomislav CRNKOVIC"
+            },
+            {
+              "name": "Novak TOMIC"
+            },
+            {
+              "name": "Branko ZEBEC",
+              "captain": true
+            },
+            {
+              "name": "Dobrosav KRSTIC"
+            },
+            {
+              "name": "Vujadin BOSKOV"
+            },
+            {
+              "name": "Dragoslav SEKULARAC"
+            },
+            {
+              "name": "Aleksandar PETAKOVIC"
+            },
+            {
+              "name": "Toza VESELINOVIC"
+            },
+            {
+              "name": "Zdravko RAJKOV"
+            },
+            {
+              "name": "Radivoje OGNJANOVIC"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Martin MACKO",
+          "country": "TCH"
+        },
+        {
+          "name": "Benjamin GRIFFITHS",
+          "country": "WAL"
+        },
+        {
+          "name": "Juan GARDEAZABAL",
+          "country": "ESP"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1958-06-15",
+      "time": "19:00 UTC+2",
+      "team1": "France",
+      "team2": "Scotland",
+      "score": [
+        2,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Raymond KOPA",
+          "minute": "22"
+        },
+        {
+          "name": "Just FONTAINE",
+          "minute": "44"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Sammy BAIRD",
+          "minute": "66"
+        }
+      ],
+      "ground": "Eyravallen, Örebro",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Claude ABBES"
+            },
+            {
+              "name": "Raymond KAELBEL"
+            },
+            {
+              "name": "Andre LEROND"
+            },
+            {
+              "name": "Robert JONQUET",
+              "captain": true
+            },
+            {
+              "name": "Jean-Jacques MARCEL"
+            },
+            {
+              "name": "Armand PENVERNE"
+            },
+            {
+              "name": "Just FONTAINE"
+            },
+            {
+              "name": "Raymond KOPA"
+            },
+            {
+              "name": "Roger PIANTONI"
+            },
+            {
+              "name": "Jean VINCENT"
+            },
+            {
+              "name": "Maryan WISNIEWSKI"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Bill BROWN"
+            },
+            {
+              "name": "Eric CALDOW"
+            },
+            {
+              "name": "John HEWIE"
+            },
+            {
+              "name": "Bobby EVANS",
+              "captain": true
+            },
+            {
+              "name": "Dave MACKAY"
+            },
+            {
+              "name": "Sammy BAIRD"
+            },
+            {
+              "name": "Eddie TURNBULL"
+            },
+            {
+              "name": "Jimmy MURRAY"
+            },
+            {
+              "name": "Jackie MUDIE"
+            },
+            {
+              "name": "Bobby COLLINS"
+            },
+            {
+              "name": "Stuart IMLACH"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Juan BROZZI",
+          "country": "ARG"
+        },
+        {
+          "name": "Vincenzo ORLANDINI",
+          "country": "ITA"
+        },
+        {
+          "name": "Paul WYSSLING",
+          "country": "SUI"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1958-06-08",
+      "time": "14:00 UTC+2",
+      "team1": "Sweden",
+      "team2": "Mexico",
+      "score": [
+        3,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Agne SIMONSSON",
+          "minute": "17"
+        },
+        {
+          "name": "Nils LIEDHOLM",
+          "minute": "57",
+          "penalty": true
+        },
+        {
+          "name": "Agne SIMONSSON",
+          "minute": "64"
+        }
+      ],
+      "goals2": [],
+      "ground": "Rasunda Stadium, Solna",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Kalle SVENSSON"
+            },
+            {
+              "name": "Orvar BERGMARK"
+            },
+            {
+              "name": "Sven AXBOM"
+            },
+            {
+              "name": "Nils LIEDHOLM",
+              "captain": true
+            },
+            {
+              "name": "Sigge PARLING"
+            },
+            {
+              "name": "Gunnar GREN"
+            },
+            {
+              "name": "Bengt GUSTAVSSON"
+            },
+            {
+              "name": "Kurt HAMRIN"
+            },
+            {
+              "name": "Agne SIMONSSON"
+            },
+            {
+              "name": "Lennart SKOGLUND"
+            },
+            {
+              "name": "Bror MELLBERG"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Antonio CARBAJAL",
+              "captain": true
+            },
+            {
+              "name": "Jesus DEL MURO"
+            },
+            {
+              "name": "Jorge ROMO"
+            },
+            {
+              "name": "Jose VILLEGAS"
+            },
+            {
+              "name": "Alfonso PORTUGAL"
+            },
+            {
+              "name": "Francisco FLORES"
+            },
+            {
+              "name": "Alfredo HERNANDEZ"
+            },
+            {
+              "name": "Salvador REYES"
+            },
+            {
+              "name": "Carlos CALDERON DE LA BARCA"
+            },
+            {
+              "name": "Crescencio GUTIERREZ"
+            },
+            {
+              "name": "Enrique SESMA"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Nikolaj LATYCHEV",
+          "country": "URS"
+        },
+        {
+          "name": "Jack MOWAT",
+          "country": "SCO"
+        },
+        {
+          "name": "Arne ERIKSSON",
+          "country": "FIN"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1958-06-08",
+      "time": "19:00 UTC+2",
+      "team1": "Hungary",
+      "team2": "Wales",
+      "score": [
+        1,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Jozsef BOZSIK",
+          "minute": "5"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "John CHARLES",
+          "minute": "27"
+        }
+      ],
+      "ground": "Jarnvallen, Sandviken",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Gyula GROSICS"
+            },
+            {
+              "name": "Sandor MATRAI"
+            },
+            {
+              "name": "Ferenc SIPOS"
+            },
+            {
+              "name": "Laszlo SAROSI"
+            },
+            {
+              "name": "Jozsef BOZSIK"
+            },
+            {
+              "name": "Pal BERENDY"
+            },
+            {
+              "name": "Lajos TICHY"
+            },
+            {
+              "name": "Nandor HIDEGKUTI",
+              "captain": true
+            },
+            {
+              "name": "Dezso BUNDZSAK"
+            },
+            {
+              "name": "Karoly SANDOR"
+            },
+            {
+              "name": "Mate FENYVESI"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Jack KELSEY"
+            },
+            {
+              "name": "Stuart WILLIAMS"
+            },
+            {
+              "name": "Mel HOPKINS"
+            },
+            {
+              "name": "Derek SULLIVAN"
+            },
+            {
+              "name": "Mel CHARLES"
+            },
+            {
+              "name": "David BOWEN",
+              "captain": true
+            },
+            {
+              "name": "Terry MEDWIN"
+            },
+            {
+              "name": "John CHARLES"
+            },
+            {
+              "name": "Ivor ALLCHURCH"
+            },
+            {
+              "name": "Cliff JONES"
+            },
+            {
+              "name": "Colin WEBSTER"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Jose Maria CODESAL",
+          "country": "URU"
+        },
+        {
+          "name": "Leo LEMESIC",
+          "country": "YUG"
+        },
+        {
+          "name": "Lucien VAN NUFFEL",
+          "country": "BEL"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1958-06-11",
+      "time": "19:00 UTC+2",
+      "team1": "Mexico",
+      "team2": "Wales",
+      "score": [
+        1,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Jaime BELMONTE",
+          "minute": "89"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Ivor ALLCHURCH",
+          "minute": "32"
+        }
+      ],
+      "ground": "Rasunda Stadium, Solna",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Antonio CARBAJAL",
+              "captain": true
+            },
+            {
+              "name": "Jesus DEL MURO"
+            },
+            {
+              "name": "Jorge ROMO"
+            },
+            {
+              "name": "Miguel GUTIERREZ"
+            },
+            {
+              "name": "Francisco FLORES"
+            },
+            {
+              "name": "Raul CARDENAS"
+            },
+            {
+              "name": "Carlos BLANCO"
+            },
+            {
+              "name": "Salvador REYES"
+            },
+            {
+              "name": "Enrique SESMA"
+            },
+            {
+              "name": "Jaime BELMONTE"
+            },
+            {
+              "name": "Carlos GONZALEZ"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Jack KELSEY"
+            },
+            {
+              "name": "Stuart WILLIAMS"
+            },
+            {
+              "name": "Mel HOPKINS"
+            },
+            {
+              "name": "Mel CHARLES"
+            },
+            {
+              "name": "David BOWEN",
+              "captain": true
+            },
+            {
+              "name": "Colin BAKER"
+            },
+            {
+              "name": "Terry MEDWIN"
+            },
+            {
+              "name": "John CHARLES"
+            },
+            {
+              "name": "Ivor ALLCHURCH"
+            },
+            {
+              "name": "Cliff JONES"
+            },
+            {
+              "name": "Colin WEBSTER"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Leo LEMESIC",
+          "country": "YUG"
+        },
+        {
+          "name": "Nikolaj LATYCHEV",
+          "country": "URS"
+        },
+        {
+          "name": "Jose Maria CODESAL",
+          "country": "URU"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1958-06-12",
+      "time": "19:00 UTC+2",
+      "team1": "Sweden",
+      "team2": "Hungary",
+      "score": [
+        2,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Kurt HAMRIN",
+          "minute": "34"
+        },
+        {
+          "name": "Kurt HAMRIN",
+          "minute": "55"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Lajos TICHY",
+          "minute": "77"
+        }
+      ],
+      "ground": "Rasunda Stadium, Solna",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Kalle SVENSSON"
+            },
+            {
+              "name": "Orvar BERGMARK"
+            },
+            {
+              "name": "Sven AXBOM"
+            },
+            {
+              "name": "Nils LIEDHOLM",
+              "captain": true
+            },
+            {
+              "name": "Sigge PARLING"
+            },
+            {
+              "name": "Gunnar GREN"
+            },
+            {
+              "name": "Bengt GUSTAVSSON"
+            },
+            {
+              "name": "Kurt HAMRIN"
+            },
+            {
+              "name": "Agne SIMONSSON"
+            },
+            {
+              "name": "Lennart SKOGLUND"
+            },
+            {
+              "name": "Bror MELLBERG"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Gyula GROSICS"
+            },
+            {
+              "name": "Sandor MATRAI"
+            },
+            {
+              "name": "Ferenc SIPOS"
+            },
+            {
+              "name": "Laszlo SAROSI"
+            },
+            {
+              "name": "Ferenc SZOJKA"
+            },
+            {
+              "name": "Jozsef BOZSIK",
+              "captain": true
+            },
+            {
+              "name": "Pal BERENDY"
+            },
+            {
+              "name": "Lajos TICHY"
+            },
+            {
+              "name": "Dezso BUNDZSAK"
+            },
+            {
+              "name": "Karoly SANDOR"
+            },
+            {
+              "name": "Mate FENYVESI"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Jack MOWAT",
+          "country": "SCO"
+        },
+        {
+          "name": "Lucien VAN NUFFEL",
+          "country": "BEL"
+        },
+        {
+          "name": "Georg DRAGVOLL",
+          "country": "NOR"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1958-06-15",
+      "time": "14:00 UTC+2",
+      "team1": "Sweden",
+      "team2": "Wales",
+      "score": [
+        0,
+        0
+      ],
+      "ground": "Rasunda Stadium, Solna",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Kalle SVENSSON"
+            },
+            {
+              "name": "Orvar BERGMARK"
+            },
+            {
+              "name": "Sven AXBOM"
+            },
+            {
+              "name": "Sigge PARLING"
+            },
+            {
+              "name": "Bengt GUSTAVSSON",
+              "captain": true
+            },
+            {
+              "name": "Reino BORJESSON"
+            },
+            {
+              "name": "Arne SELMOSSON"
+            },
+            {
+              "name": "Lennart SKOGLUND"
+            },
+            {
+              "name": "Gosta LOFGREN"
+            },
+            {
+              "name": "Henry KALLGREN"
+            },
+            {
+              "name": "Bengt BERNDTSSON"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Jack KELSEY"
+            },
+            {
+              "name": "Stuart WILLIAMS"
+            },
+            {
+              "name": "Mel HOPKINS"
+            },
+            {
+              "name": "Derek SULLIVAN"
+            },
+            {
+              "name": "Mel CHARLES"
+            },
+            {
+              "name": "David BOWEN",
+              "captain": true
+            },
+            {
+              "name": "Ron HEWITT"
+            },
+            {
+              "name": "John CHARLES"
+            },
+            {
+              "name": "Ivor ALLCHURCH"
+            },
+            {
+              "name": "Cliff JONES"
+            },
+            {
+              "name": "Roy VERNON"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Lucien VAN NUFFEL",
+          "country": "BEL"
+        },
+        {
+          "name": "Leo LEMESIC",
+          "country": "YUG"
+        },
+        {
+          "name": "Nikolaj LATYCHEV",
+          "country": "URS"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1958-06-15",
+      "time": "19:00 UTC+2",
+      "team1": "Hungary",
+      "team2": "Mexico",
+      "score": [
+        4,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Lajos TICHY",
+          "minute": "19"
+        },
+        {
+          "name": "Lajos TICHY",
+          "minute": "46"
+        },
+        {
+          "name": "Karoly SANDOR",
+          "minute": "54"
+        },
+        {
+          "name": "Jozsef BENCSIS",
+          "minute": "69"
+        }
+      ],
+      "goals2": [],
+      "ground": "Jarnvallen, Sandviken",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Istvan ILKU"
+            },
+            {
+              "name": "Sandor MATRAI"
+            },
+            {
+              "name": "Ferenc SIPOS"
+            },
+            {
+              "name": "Laszlo SAROSI"
+            },
+            {
+              "name": "Ferenc SZOJKA"
+            },
+            {
+              "name": "Antal KOTASZ"
+            },
+            {
+              "name": "Laszlo BUDAI"
+            },
+            {
+              "name": "Lajos TICHY"
+            },
+            {
+              "name": "Nandor HIDEGKUTI",
+              "captain": true
+            },
+            {
+              "name": "Karoly SANDOR"
+            },
+            {
+              "name": "Jozsef BENCSIS"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Antonio CARBAJAL",
+              "captain": true
+            },
+            {
+              "name": "Jesus DEL MURO"
+            },
+            {
+              "name": "Miguel GUTIERREZ"
+            },
+            {
+              "name": "Guillermo SEPULVEDA"
+            },
+            {
+              "name": "Francisco FLORES"
+            },
+            {
+              "name": "Raul CARDENAS"
+            },
+            {
+              "name": "Carlos BLANCO"
+            },
+            {
+              "name": "Salvador REYES"
+            },
+            {
+              "name": "Enrique SESMA"
+            },
+            {
+              "name": "Jaime BELMONTE"
+            },
+            {
+              "name": "Carlos GONZALEZ"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Arne ERIKSSON",
+          "country": "FIN"
+        },
+        {
+          "name": "Jose Maria CODESAL",
+          "country": "URU"
+        },
+        {
+          "name": "Jack MOWAT",
+          "country": "SCO"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1958-06-17",
+      "time": "19:00 UTC+2",
+      "team1": "Wales",
+      "team2": "Hungary",
+      "score": [
+        2,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Ivor ALLCHURCH",
+          "minute": "55"
+        },
+        {
+          "name": "Terry MEDWIN",
+          "minute": "76"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Lajos TICHY",
+          "minute": "33"
+        }
+      ],
+      "ground": "Rasunda Stadium, Solna",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Jack KELSEY"
+            },
+            {
+              "name": "Stuart WILLIAMS"
+            },
+            {
+              "name": "Mel HOPKINS"
+            },
+            {
+              "name": "Derek SULLIVAN"
+            },
+            {
+              "name": "Mel CHARLES"
+            },
+            {
+              "name": "David BOWEN",
+              "captain": true
+            },
+            {
+              "name": "Terry MEDWIN"
+            },
+            {
+              "name": "Ron HEWITT"
+            },
+            {
+              "name": "John CHARLES"
+            },
+            {
+              "name": "Ivor ALLCHURCH"
+            },
+            {
+              "name": "Cliff JONES"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Gyula GROSICS"
+            },
+            {
+              "name": "Sandor MATRAI"
+            },
+            {
+              "name": "Ferenc SIPOS"
+            },
+            {
+              "name": "Laszlo SAROSI"
+            },
+            {
+              "name": "Jozsef BOZSIK",
+              "captain": true
+            },
+            {
+              "name": "Antal KOTASZ"
+            },
+            {
+              "name": "Laszlo BUDAI"
+            },
+            {
+              "name": "Lajos TICHY"
+            },
+            {
+              "name": "Dezso BUNDZSAK"
+            },
+            {
+              "name": "Jozsef BENCSIS"
+            },
+            {
+              "name": "Mate FENYVESI"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [],
+        [
+          {
+            "type": "R",
+            "name": "Ferenc SIPOS",
+            "minute": "79"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Nikolaj LATYCHEV",
+          "country": "URS"
+        },
+        {
+          "name": "Jose Maria CODESAL",
+          "country": "URU"
+        },
+        {
+          "name": "Arne ERIKSSON",
+          "country": "FIN"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1958-06-08",
+      "time": "19:00 UTC+2",
+      "team1": "Soviet Union",
+      "team2": "England",
+      "score": [
+        2,
+        2
+      ],
+      "goals1": [
+        {
+          "name": "Nikita SIMONYAN",
+          "minute": "13"
+        },
+        {
+          "name": "Aleksandr IVANOV",
+          "minute": "55"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Derek KEVAN",
+          "minute": "66"
+        },
+        {
+          "name": "Tom FINNEY",
+          "minute": "85",
+          "penalty": true
+        }
+      ],
+      "ground": "Nya Ullevi, Gothenburg",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Lev YASHIN"
+            },
+            {
+              "name": "Vladimir KESAREV"
+            },
+            {
+              "name": "Konstantin KRIZHEVSKI"
+            },
+            {
+              "name": "Boris KUZNETSOV"
+            },
+            {
+              "name": "Juri VOINOV"
+            },
+            {
+              "name": "Viktor TSARYOV"
+            },
+            {
+              "name": "Valentin IVANOV"
+            },
+            {
+              "name": "Nikita SIMONYAN",
+              "captain": true
+            },
+            {
+              "name": "Sergei SALNIKOV"
+            },
+            {
+              "name": "Anatoli ILYIN"
+            },
+            {
+              "name": "Aleksandr IVANOV"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Colin MC DONALD"
+            },
+            {
+              "name": "Don HOWE"
+            },
+            {
+              "name": "Tommy BANKS"
+            },
+            {
+              "name": "Eddie CLAMP"
+            },
+            {
+              "name": "Billy WRIGHT",
+              "captain": true
+            },
+            {
+              "name": "Bill SLATER"
+            },
+            {
+              "name": "Bryan DOUGLAS"
+            },
+            {
+              "name": "Bobby ROBSON"
+            },
+            {
+              "name": "Derek KEVAN"
+            },
+            {
+              "name": "John HAYNES"
+            },
+            {
+              "name": "Tom FINNEY"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Istvan ZSOLT",
+          "country": "HUN"
+        },
+        {
+          "name": "Birger NILSEN",
+          "country": "NOR"
+        },
+        {
+          "name": "Carl Frederik JORGENSEN",
+          "country": "DEN"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1958-06-08",
+      "time": "19:00 UTC+2",
+      "team1": "Brazil",
+      "team2": "Austria",
+      "score": [
+        3,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Jose ALTAFINI",
+          "minute": "38"
+        },
+        {
+          "name": "NILTON SANTOS",
+          "minute": "49"
+        },
+        {
+          "name": "Jose ALTAFINI",
+          "minute": "89"
+        }
+      ],
+      "goals2": [],
+      "ground": "Rimnersvallen, Uddevalla",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "GILMAR"
+            },
+            {
+              "name": "BELLINI",
+              "captain": true
+            },
+            {
+              "name": "NILTON SANTOS"
+            },
+            {
+              "name": "DE SORDI"
+            },
+            {
+              "name": "ORLANDO"
+            },
+            {
+              "name": "DINO SANI"
+            },
+            {
+              "name": "DIDI"
+            },
+            {
+              "name": "Mario ZAGALLO"
+            },
+            {
+              "name": "JOEL"
+            },
+            {
+              "name": "Jose ALTAFINI"
+            },
+            {
+              "name": "DIDA"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Rudolf SZANWALD"
+            },
+            {
+              "name": "Paul HALLA"
+            },
+            {
+              "name": "Ernst HAPPEL"
+            },
+            {
+              "name": "Franz SWOBODA"
+            },
+            {
+              "name": "Gerhard HANAPPI",
+              "captain": true
+            },
+            {
+              "name": "Karl KOLLER"
+            },
+            {
+              "name": "Walter HORAK"
+            },
+            {
+              "name": "Hans BUZEK"
+            },
+            {
+              "name": "Alfred KOERNER"
+            },
+            {
+              "name": "Helmut SENEKOWITSCH"
+            },
+            {
+              "name": "Walter SCHLEGER"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Maurice GUIGUE",
+          "country": "FRA"
+        },
+        {
+          "name": "Albert DUSCH",
+          "country": "GER"
+        },
+        {
+          "name": "Jan BRONKHORST",
+          "country": "NED"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1958-06-11",
+      "time": "19:00 UTC+2",
+      "team1": "Soviet Union",
+      "team2": "Austria",
+      "score": [
+        2,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Anatoli ILYIN",
+          "minute": "15"
+        },
+        {
+          "name": "Valentin IVANOV",
+          "minute": "63"
+        }
+      ],
+      "goals2": [],
+      "ground": "Ryavallen, Borås",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Lev YASHIN"
+            },
+            {
+              "name": "Vladimir KESAREV"
+            },
+            {
+              "name": "Konstantin KRIZHEVSKI"
+            },
+            {
+              "name": "Boris KUZNETSOV"
+            },
+            {
+              "name": "Juri VOINOV"
+            },
+            {
+              "name": "Viktor TSARYOV"
+            },
+            {
+              "name": "Valentin IVANOV"
+            },
+            {
+              "name": "Nikita SIMONYAN",
+              "captain": true
+            },
+            {
+              "name": "Sergei SALNIKOV"
+            },
+            {
+              "name": "Anatoli ILYIN"
+            },
+            {
+              "name": "Aleksandr IVANOV"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Kurt SCHMIED"
+            },
+            {
+              "name": "Franz SWOBODA"
+            },
+            {
+              "name": "Gerhard HANAPPI",
+              "captain": true
+            },
+            {
+              "name": "Karl KOLLER"
+            },
+            {
+              "name": "Karl STOTZ"
+            },
+            {
+              "name": "Ernst KOZLICEK"
+            },
+            {
+              "name": "Walter HORAK"
+            },
+            {
+              "name": "Paul KOZLICEK"
+            },
+            {
+              "name": "Hans BUZEK"
+            },
+            {
+              "name": "Alfred KOERNER"
+            },
+            {
+              "name": "Helmut SENEKOWITSCH"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Carl Frederik JORGENSEN",
+          "country": "DEN"
+        },
+        {
+          "name": "Birger NILSEN",
+          "country": "NOR"
+        },
+        {
+          "name": "Gosta ACKEBORN",
+          "country": "SWE"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1958-06-11",
+      "time": "19:00 UTC+2",
+      "team1": "Brazil",
+      "team2": "England",
+      "score": [
+        0,
+        0
+      ],
+      "ground": "Nya Ullevi, Gothenburg",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "GILMAR"
+            },
+            {
+              "name": "BELLINI",
+              "captain": true
+            },
+            {
+              "name": "NILTON SANTOS"
+            },
+            {
+              "name": "DE SORDI"
+            },
+            {
+              "name": "ORLANDO"
+            },
+            {
+              "name": "DINO SANI"
+            },
+            {
+              "name": "DIDI"
+            },
+            {
+              "name": "Mario ZAGALLO"
+            },
+            {
+              "name": "JOEL"
+            },
+            {
+              "name": "Jose ALTAFINI"
+            },
+            {
+              "name": "VAVA"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Colin MC DONALD"
+            },
+            {
+              "name": "Don HOWE"
+            },
+            {
+              "name": "Tommy BANKS"
+            },
+            {
+              "name": "Eddie CLAMP"
+            },
+            {
+              "name": "Billy WRIGHT",
+              "captain": true
+            },
+            {
+              "name": "Bill SLATER"
+            },
+            {
+              "name": "Bryan DOUGLAS"
+            },
+            {
+              "name": "Bobby ROBSON"
+            },
+            {
+              "name": "Derek KEVAN"
+            },
+            {
+              "name": "John HAYNES"
+            },
+            {
+              "name": "Alan A COURT"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Albert DUSCH",
+          "country": "GER"
+        },
+        {
+          "name": "Bertil LOEOEW",
+          "country": "SWE"
+        },
+        {
+          "name": "Istvan ZSOLT",
+          "country": "HUN"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1958-06-15",
+      "time": "19:00 UTC+2",
+      "team1": "Brazil",
+      "team2": "Soviet Union",
+      "score": [
+        2,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "VAVA",
+          "minute": "3"
+        },
+        {
+          "name": "VAVA",
+          "minute": "77"
+        }
+      ],
+      "goals2": [],
+      "ground": "Nya Ullevi, Gothenburg",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "GILMAR"
+            },
+            {
+              "name": "BELLINI",
+              "captain": true
+            },
+            {
+              "name": "NILTON SANTOS"
+            },
+            {
+              "name": "DE SORDI"
+            },
+            {
+              "name": "ORLANDO"
+            },
+            {
+              "name": "DIDI"
+            },
+            {
+              "name": "ZITO"
+            },
+            {
+              "name": "Mario ZAGALLO"
+            },
+            {
+              "name": "PELE"
+            },
+            {
+              "name": "GARRINCHA"
+            },
+            {
+              "name": "VAVA"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Lev YASHIN"
+            },
+            {
+              "name": "Vladimir KESAREV"
+            },
+            {
+              "name": "Konstantin KRIZHEVSKI"
+            },
+            {
+              "name": "Boris KUZNETSOV"
+            },
+            {
+              "name": "Juri VOINOV"
+            },
+            {
+              "name": "Igor NETTO",
+              "captain": true
+            },
+            {
+              "name": "Viktor TSARYOV"
+            },
+            {
+              "name": "Valentin IVANOV"
+            },
+            {
+              "name": "Nikita SIMONYAN"
+            },
+            {
+              "name": "Anatoli ILYIN"
+            },
+            {
+              "name": "Aleksandr IVANOV"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Maurice GUIGUE",
+          "country": "FRA"
+        },
+        {
+          "name": "Birger NILSEN",
+          "country": "NOR"
+        },
+        {
+          "name": "Carl Frederik JORGENSEN",
+          "country": "DEN"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1958-06-15",
+      "time": "19:00 UTC+2",
+      "team1": "England",
+      "team2": "Austria",
+      "score": [
+        2,
+        2
+      ],
+      "goals1": [
+        {
+          "name": "John HAYNES",
+          "minute": "56"
+        },
+        {
+          "name": "Derek KEVAN",
+          "minute": "73"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Karl KOLLER",
+          "minute": "16"
+        },
+        {
+          "name": "Alfred KOERNER",
+          "minute": "70"
+        }
+      ],
+      "ground": "Ryavallen, Borås",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Colin MC DONALD"
+            },
+            {
+              "name": "Don HOWE"
+            },
+            {
+              "name": "Tommy BANKS"
+            },
+            {
+              "name": "Eddie CLAMP"
+            },
+            {
+              "name": "Billy WRIGHT",
+              "captain": true
+            },
+            {
+              "name": "Bill SLATER"
+            },
+            {
+              "name": "Bryan DOUGLAS"
+            },
+            {
+              "name": "Bobby ROBSON"
+            },
+            {
+              "name": "Derek KEVAN"
+            },
+            {
+              "name": "John HAYNES"
+            },
+            {
+              "name": "Alan A COURT"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Rudolf SZANWALD"
+            },
+            {
+              "name": "Ernst HAPPEL"
+            },
+            {
+              "name": "Franz SWOBODA"
+            },
+            {
+              "name": "Gerhard HANAPPI",
+              "captain": true
+            },
+            {
+              "name": "Walter KOLLMANN"
+            },
+            {
+              "name": "Karl KOLLER"
+            },
+            {
+              "name": "Ernst KOZLICEK"
+            },
+            {
+              "name": "Paul KOZLICEK"
+            },
+            {
+              "name": "Hans BUZEK"
+            },
+            {
+              "name": "Alfred KOERNER"
+            },
+            {
+              "name": "Helmut SENEKOWITSCH"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Jan BRONKHORST",
+          "country": "NED"
+        },
+        {
+          "name": "Albert DUSCH",
+          "country": "GER"
+        },
+        {
+          "name": "Istvan ZSOLT",
+          "country": "HUN"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1958-06-17",
+      "time": "19:00 UTC+2",
+      "team1": "Soviet Union",
+      "team2": "England",
+      "score": [
+        1,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Anatoli ILYIN",
+          "minute": "68"
+        }
+      ],
+      "goals2": [],
+      "ground": "Nya Ullevi, Gothenburg",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Lev YASHIN"
+            },
+            {
+              "name": "Vladimir KESAREV"
+            },
+            {
+              "name": "Konstantin KRIZHEVSKI"
+            },
+            {
+              "name": "Boris KUZNETSOV"
+            },
+            {
+              "name": "Juri VOINOV"
+            },
+            {
+              "name": "Viktor TSARYOV"
+            },
+            {
+              "name": "German APUKTHIN"
+            },
+            {
+              "name": "Valentin IVANOV"
+            },
+            {
+              "name": "Nikita SIMONYAN",
+              "captain": true
+            },
+            {
+              "name": "Anatoli ILYIN"
+            },
+            {
+              "name": "Yuri FALIN"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Colin MC DONALD"
+            },
+            {
+              "name": "Don HOWE"
+            },
+            {
+              "name": "Tommy BANKS"
+            },
+            {
+              "name": "Billy WRIGHT",
+              "captain": true
+            },
+            {
+              "name": "Bill SLATER"
+            },
+            {
+              "name": "Ronald CLAYTON"
+            },
+            {
+              "name": "Derek KEVAN"
+            },
+            {
+              "name": "John HAYNES"
+            },
+            {
+              "name": "Peter BRABROOK"
+            },
+            {
+              "name": "Peter BROADBENT"
+            },
+            {
+              "name": "Alan A COURT"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Albert DUSCH",
+          "country": "GER"
+        },
+        {
+          "name": "Jan BRONKHORST",
+          "country": "NED"
+        },
+        {
+          "name": "Fritz SEIPELT",
+          "country": "AUT"
+        }
+      ]
+    },
+    {
+      "round": "Quarter-final",
+      "date": "1958-06-19",
+      "time": "19:00 UTC+2",
+      "team1": "West Germany",
+      "team2": "Yugoslavia",
+      "score": [
+        1,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Helmut RAHN",
+          "minute": "12"
+        }
+      ],
+      "goals2": [],
+      "ground": "Malmo Stadion, Malmö",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Fritz HERKENRATH"
+            },
+            {
+              "name": "Herbert ERHARDT"
+            },
+            {
+              "name": "Erich JUSKOWIAK"
+            },
+            {
+              "name": "Georg STOLLENWERK"
+            },
+            {
+              "name": "Horst ECKEL"
+            },
+            {
+              "name": "Horst SZYMANIAK"
+            },
+            {
+              "name": "Fritz WALTER"
+            },
+            {
+              "name": "Alfred SCHMIDT"
+            },
+            {
+              "name": "Helmut RAHN"
+            },
+            {
+              "name": "Hans SCHAEFER",
+              "captain": true
+            },
+            {
+              "name": "Uwe SEELER"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Srboljub KRIVOKUCA"
+            },
+            {
+              "name": "Vasilije SIJAKOVIC"
+            },
+            {
+              "name": "Tomislav CRNKOVIC"
+            },
+            {
+              "name": "Branko ZEBEC",
+              "captain": true
+            },
+            {
+              "name": "Dobrosav KRSTIC"
+            },
+            {
+              "name": "Vujadin BOSKOV"
+            },
+            {
+              "name": "Milos MILUTINOVIC"
+            },
+            {
+              "name": "Aleksandar PETAKOVIC"
+            },
+            {
+              "name": "Toza VESELINOVIC"
+            },
+            {
+              "name": "Zdravko RAJKOV"
+            },
+            {
+              "name": "Radivoje OGNJANOVIC"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Paul WYSSLING",
+          "country": "SUI"
+        },
+        {
+          "name": "Joaquim FERNANDES CAMPOS",
+          "country": "POR"
+        },
+        {
+          "name": "Leo HELGE",
+          "country": "DEN"
+        }
+      ]
+    },
+    {
+      "round": "Quarter-final",
+      "date": "1958-06-19",
+      "time": "19:00 UTC+2",
+      "team1": "Sweden",
+      "team2": "Soviet Union",
+      "score": [
+        2,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Kurt HAMRIN",
+          "minute": "49"
+        },
+        {
+          "name": "Agne SIMONSSON",
+          "minute": "88"
+        }
+      ],
+      "goals2": [],
+      "ground": "Rasunda Stadium, Solna",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Kalle SVENSSON"
+            },
+            {
+              "name": "Orvar BERGMARK"
+            },
+            {
+              "name": "Sven AXBOM"
+            },
+            {
+              "name": "Nils LIEDHOLM",
+              "captain": true
+            },
+            {
+              "name": "Sigge PARLING"
+            },
+            {
+              "name": "Gunnar GREN"
+            },
+            {
+              "name": "Bengt GUSTAVSSON"
+            },
+            {
+              "name": "Reino BORJESSON"
+            },
+            {
+              "name": "Kurt HAMRIN"
+            },
+            {
+              "name": "Agne SIMONSSON"
+            },
+            {
+              "name": "Lennart SKOGLUND"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Lev YASHIN"
+            },
+            {
+              "name": "Vladimir KESAREV"
+            },
+            {
+              "name": "Konstantin KRIZHEVSKI"
+            },
+            {
+              "name": "Boris KUZNETSOV"
+            },
+            {
+              "name": "Juri VOINOV"
+            },
+            {
+              "name": "Viktor TSARYOV"
+            },
+            {
+              "name": "Valentin IVANOV"
+            },
+            {
+              "name": "Nikita SIMONYAN",
+              "captain": true
+            },
+            {
+              "name": "Sergei SALNIKOV"
+            },
+            {
+              "name": "Anatoli ILYIN"
+            },
+            {
+              "name": "Aleksandr IVANOV"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Reginald LEAFE",
+          "country": "ENG"
+        },
+        {
+          "name": "Juan BROZZI",
+          "country": "ARG"
+        },
+        {
+          "name": "Georg DRAGVOLL",
+          "country": "NOR"
+        }
+      ]
+    },
+    {
+      "round": "Quarter-final",
+      "date": "1958-06-19",
+      "time": "19:00 UTC+2",
+      "team1": "Brazil",
+      "team2": "Wales",
+      "score": [
+        1,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "PELE",
+          "minute": "66"
+        }
+      ],
+      "goals2": [],
+      "ground": "Nya Ullevi, Gothenburg",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "GILMAR"
+            },
+            {
+              "name": "BELLINI",
+              "captain": true
+            },
+            {
+              "name": "NILTON SANTOS"
+            },
+            {
+              "name": "DE SORDI"
+            },
+            {
+              "name": "ORLANDO"
+            },
+            {
+              "name": "DIDI"
+            },
+            {
+              "name": "ZITO"
+            },
+            {
+              "name": "Mario ZAGALLO"
+            },
+            {
+              "name": "PELE"
+            },
+            {
+              "name": "GARRINCHA"
+            },
+            {
+              "name": "Jose ALTAFINI"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Jack KELSEY"
+            },
+            {
+              "name": "Stuart WILLIAMS"
+            },
+            {
+              "name": "Mel HOPKINS"
+            },
+            {
+              "name": "Derek SULLIVAN"
+            },
+            {
+              "name": "Mel CHARLES"
+            },
+            {
+              "name": "David BOWEN",
+              "captain": true
+            },
+            {
+              "name": "Terry MEDWIN"
+            },
+            {
+              "name": "Ron HEWITT"
+            },
+            {
+              "name": "Ivor ALLCHURCH"
+            },
+            {
+              "name": "Cliff JONES"
+            },
+            {
+              "name": "Colin WEBSTER"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Fritz SEIPELT",
+          "country": "AUT"
+        },
+        {
+          "name": "Maurice GUIGUE",
+          "country": "FRA"
+        },
+        {
+          "name": "Albert DUSCH",
+          "country": "GER"
+        }
+      ]
+    },
+    {
+      "round": "Quarter-final",
+      "date": "1958-06-19",
+      "time": "19:00 UTC+2",
+      "team1": "France",
+      "team2": "Northern Ireland",
+      "score": [
+        4,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Maryan WISNIEWSKI",
+          "minute": "44"
+        },
+        {
+          "name": "Just FONTAINE",
+          "minute": "55"
+        },
+        {
+          "name": "Just FONTAINE",
+          "minute": "63"
+        },
+        {
+          "name": "Roger PIANTONI",
+          "minute": "68"
+        }
+      ],
+      "goals2": [],
+      "ground": "Idrottsparken, Norrköping",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Claude ABBES"
+            },
+            {
+              "name": "Raymond KAELBEL"
+            },
+            {
+              "name": "Andre LEROND"
+            },
+            {
+              "name": "Robert JONQUET",
+              "captain": true
+            },
+            {
+              "name": "Jean-Jacques MARCEL"
+            },
+            {
+              "name": "Armand PENVERNE"
+            },
+            {
+              "name": "Just FONTAINE"
+            },
+            {
+              "name": "Raymond KOPA"
+            },
+            {
+              "name": "Roger PIANTONI"
+            },
+            {
+              "name": "Jean VINCENT"
+            },
+            {
+              "name": "Maryan WISNIEWSKI"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Harry GREGG"
+            },
+            {
+              "name": "Willie CUNNINGHAM"
+            },
+            {
+              "name": "Alfred McMICHAEL"
+            },
+            {
+              "name": "Richard KEITH"
+            },
+            {
+              "name": "Danny BLANCHFLOWER",
+              "captain": true
+            },
+            {
+              "name": "Jimmy McILROY"
+            },
+            {
+              "name": "Billy BINGHAM"
+            },
+            {
+              "name": "Wilbur CUSH"
+            },
+            {
+              "name": "Peter McPARLAND"
+            },
+            {
+              "name": "Tommy CASEY"
+            },
+            {
+              "name": "Jackie SCOTT"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Juan GARDEAZABAL",
+          "country": "ESP"
+        },
+        {
+          "name": "Nikolaj LATYCHEV",
+          "country": "URS"
+        },
+        {
+          "name": "Bengt ANDREN",
+          "country": "SWE"
+        }
+      ]
+    },
+    {
+      "round": "Semi-final",
+      "date": "1958-06-24",
+      "time": "19:00 UTC+2",
+      "team1": "Brazil",
+      "team2": "France",
+      "score": [
+        5,
+        2
+      ],
+      "goals1": [
+        {
+          "name": "VAVA",
+          "minute": "2"
+        },
+        {
+          "name": "DIDI",
+          "minute": "39"
+        },
+        {
+          "name": "PELE",
+          "minute": "52"
+        },
+        {
+          "name": "PELE",
+          "minute": "64"
+        },
+        {
+          "name": "PELE",
+          "minute": "75"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Just FONTAINE",
+          "minute": "9"
+        },
+        {
+          "name": "Roger PIANTONI",
+          "minute": "83"
+        }
+      ],
+      "ground": "Rasunda Stadium, Solna",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "GILMAR"
+            },
+            {
+              "name": "BELLINI",
+              "captain": true
+            },
+            {
+              "name": "NILTON SANTOS"
+            },
+            {
+              "name": "DE SORDI"
+            },
+            {
+              "name": "ORLANDO"
+            },
+            {
+              "name": "DIDI"
+            },
+            {
+              "name": "ZITO"
+            },
+            {
+              "name": "Mario ZAGALLO"
+            },
+            {
+              "name": "PELE"
+            },
+            {
+              "name": "GARRINCHA"
+            },
+            {
+              "name": "VAVA"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Claude ABBES"
+            },
+            {
+              "name": "Raymond KAELBEL"
+            },
+            {
+              "name": "Andre LEROND"
+            },
+            {
+              "name": "Robert JONQUET",
+              "captain": true
+            },
+            {
+              "name": "Jean-Jacques MARCEL"
+            },
+            {
+              "name": "Armand PENVERNE"
+            },
+            {
+              "name": "Just FONTAINE"
+            },
+            {
+              "name": "Raymond KOPA"
+            },
+            {
+              "name": "Roger PIANTONI"
+            },
+            {
+              "name": "Jean VINCENT"
+            },
+            {
+              "name": "Maryan WISNIEWSKI"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Benjamin GRIFFITHS",
+          "country": "WAL"
+        },
+        {
+          "name": "Paul WYSSLING",
+          "country": "SUI"
+        },
+        {
+          "name": "Reginald LEAFE",
+          "country": "ENG"
+        }
+      ]
+    },
+    {
+      "round": "Semi-final",
+      "date": "1958-06-24",
+      "time": "19:00 UTC+2",
+      "team1": "Sweden",
+      "team2": "West Germany",
+      "score": [
+        3,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Lennart SKOGLUND",
+          "minute": "32"
+        },
+        {
+          "name": "Gunnar GREN",
+          "minute": "81"
+        },
+        {
+          "name": "Kurt HAMRIN",
+          "minute": "88"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Hans SCHAEFER",
+          "minute": "24"
+        }
+      ],
+      "ground": "Nya Ullevi, Gothenburg",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Kalle SVENSSON"
+            },
+            {
+              "name": "Orvar BERGMARK"
+            },
+            {
+              "name": "Sven AXBOM"
+            },
+            {
+              "name": "Nils LIEDHOLM",
+              "captain": true
+            },
+            {
+              "name": "Sigge PARLING"
+            },
+            {
+              "name": "Gunnar GREN"
+            },
+            {
+              "name": "Bengt GUSTAVSSON"
+            },
+            {
+              "name": "Reino BORJESSON"
+            },
+            {
+              "name": "Kurt HAMRIN"
+            },
+            {
+              "name": "Agne SIMONSSON"
+            },
+            {
+              "name": "Lennart SKOGLUND"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Fritz HERKENRATH"
+            },
+            {
+              "name": "Herbert ERHARDT"
+            },
+            {
+              "name": "Erich JUSKOWIAK"
+            },
+            {
+              "name": "Georg STOLLENWERK"
+            },
+            {
+              "name": "Horst ECKEL"
+            },
+            {
+              "name": "Horst SZYMANIAK"
+            },
+            {
+              "name": "Fritz WALTER"
+            },
+            {
+              "name": "Helmut RAHN"
+            },
+            {
+              "name": "Hans SCHAEFER",
+              "captain": true
+            },
+            {
+              "name": "Uwe SEELER"
+            },
+            {
+              "name": "Hans CIESCLARCZYK"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [],
+        [
+          {
+            "type": "R",
+            "name": "Erich JUSKOWIAK",
+            "minute": "59"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Istvan ZSOLT",
+          "country": "HUN"
+        },
+        {
+          "name": "Fritz SEIPELT",
+          "country": "AUT"
+        },
+        {
+          "name": "Arthur ELLIS",
+          "country": "ENG"
+        }
+      ]
+    },
+    {
+      "round": "Match for third place",
+      "date": "1958-06-28",
+      "time": "17:00 UTC+2",
+      "team1": "France",
+      "team2": "West Germany",
+      "score": [
+        6,
+        3
+      ],
+      "goals1": [
+        {
+          "name": "Just FONTAINE",
+          "minute": "16"
+        },
+        {
+          "name": "Raymond KOPA",
+          "minute": "27",
+          "penalty": true
+        },
+        {
+          "name": "Just FONTAINE",
+          "minute": "36"
+        },
+        {
+          "name": "Yvon DOUIS",
+          "minute": "50"
+        },
+        {
+          "name": "Just FONTAINE",
+          "minute": "78"
+        },
+        {
+          "name": "Just FONTAINE",
+          "minute": "89"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Hans CIESCLARCZYK",
+          "minute": "18"
+        },
+        {
+          "name": "Helmut RAHN",
+          "minute": "52"
+        },
+        {
+          "name": "Hans SCHAEFER",
+          "minute": "84"
+        }
+      ],
+      "ground": "Nya Ullevi, Gothenburg",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Claude ABBES"
+            },
+            {
+              "name": "Raymond KAELBEL"
+            },
+            {
+              "name": "Andre LEROND"
+            },
+            {
+              "name": "Maurice LAFONT"
+            },
+            {
+              "name": "Jean-Jacques MARCEL"
+            },
+            {
+              "name": "Armand PENVERNE",
+              "captain": true
+            },
+            {
+              "name": "Yvon DOUIS"
+            },
+            {
+              "name": "Just FONTAINE"
+            },
+            {
+              "name": "Raymond KOPA"
+            },
+            {
+              "name": "Jean VINCENT"
+            },
+            {
+              "name": "Maryan WISNIEWSKI"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Heinz KWIATKOWSKI"
+            },
+            {
+              "name": "Herbert ERHARDT"
+            },
+            {
+              "name": "Heinz WEWERS"
+            },
+            {
+              "name": "Georg STOLLENWERK"
+            },
+            {
+              "name": "Karl-Heinz SCHNELLINGER"
+            },
+            {
+              "name": "Horst SZYMANIAK"
+            },
+            {
+              "name": "Helmut RAHN"
+            },
+            {
+              "name": "Hans SCHAEFER",
+              "captain": true
+            },
+            {
+              "name": "Hans CIESCLARCZYK"
+            },
+            {
+              "name": "Alfred KELBASSA"
+            },
+            {
+              "name": "Hans STURM"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Juan BROZZI",
+          "country": "ARG"
+        },
+        {
+          "name": "Arthur ELLIS",
+          "country": "ENG"
+        },
+        {
+          "name": "Bengt LUNDELL",
+          "country": "SWE"
+        }
+      ]
+    },
+    {
+      "round": "Final",
+      "date": "1958-06-29",
+      "time": "15:00 UTC+2",
+      "team1": "Brazil",
+      "team2": "Sweden",
+      "score": [
+        5,
+        2
+      ],
+      "goals1": [
+        {
+          "name": "VAVA",
+          "minute": "9"
+        },
+        {
+          "name": "VAVA",
+          "minute": "32"
+        },
+        {
+          "name": "PELE",
+          "minute": "55"
+        },
+        {
+          "name": "Mario ZAGALLO",
+          "minute": "68"
+        },
+        {
+          "name": "PELE",
+          "minute": "90"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Nils LIEDHOLM",
+          "minute": "4"
+        },
+        {
+          "name": "Agne SIMONSSON",
+          "minute": "80"
+        }
+      ],
+      "ground": "Rasunda Stadium, Solna",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "GILMAR"
+            },
+            {
+              "name": "BELLINI",
+              "captain": true
+            },
+            {
+              "name": "DJALMA SANTOS"
+            },
+            {
+              "name": "NILTON SANTOS"
+            },
+            {
+              "name": "ORLANDO"
+            },
+            {
+              "name": "DIDI"
+            },
+            {
+              "name": "ZITO"
+            },
+            {
+              "name": "Mario ZAGALLO"
+            },
+            {
+              "name": "PELE"
+            },
+            {
+              "name": "GARRINCHA"
+            },
+            {
+              "name": "VAVA"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Kalle SVENSSON"
+            },
+            {
+              "name": "Orvar BERGMARK"
+            },
+            {
+              "name": "Sven AXBOM"
+            },
+            {
+              "name": "Nils LIEDHOLM",
+              "captain": true
+            },
+            {
+              "name": "Sigge PARLING"
+            },
+            {
+              "name": "Gunnar GREN"
+            },
+            {
+              "name": "Bengt GUSTAVSSON"
+            },
+            {
+              "name": "Reino BORJESSON"
+            },
+            {
+              "name": "Kurt HAMRIN"
+            },
+            {
+              "name": "Agne SIMONSSON"
+            },
+            {
+              "name": "Lennart SKOGLUND"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Maurice GUIGUE",
+          "country": "FRA"
+        },
+        {
+          "name": "Albert DUSCH",
+          "country": "GER"
+        },
+        {
+          "name": "Juan GARDEAZABAL",
+          "country": "ESP"
+        }
+      ]
+    }
+  ]
+}

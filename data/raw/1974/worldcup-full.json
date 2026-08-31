@@ -1,0 +1,6204 @@
+{
+  "name": "World Cup 1974",
+  "matches": [
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1974-06-14",
+      "time": "16:00 UTC+2",
+      "team1": "West Germany",
+      "team2": "Chile",
+      "score": [
+        1,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Paul BREITNER",
+          "minute": "18"
+        }
+      ],
+      "goals2": [],
+      "ground": "Olympiastadion, Berlin West",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Sepp MAIER"
+            },
+            {
+              "name": "Berti VOGTS"
+            },
+            {
+              "name": "Paul BREITNER"
+            },
+            {
+              "name": "Hans Georg SCHWARZENBECK"
+            },
+            {
+              "name": "Franz BECKENBAUER",
+              "captain": true
+            },
+            {
+              "name": "Bernd CULLMANN"
+            },
+            {
+              "name": "Wolfgang OVERATH"
+            },
+            {
+              "name": "Uli HOENESS"
+            },
+            {
+              "name": "Juergen GRABOWSKI"
+            },
+            {
+              "name": "Jupp HEYNCKES"
+            },
+            {
+              "name": "Gerd MUELLER"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Bernd HOELZENBEIN"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Bernd HOELZENBEIN",
+              "off": "Wolfgang OVERATH",
+              "minute": "75"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Leopoldo VALLEJOS"
+            },
+            {
+              "name": "Rolando GARCIA"
+            },
+            {
+              "name": "Alberto QUINTANO"
+            },
+            {
+              "name": "Antonio ARIAS"
+            },
+            {
+              "name": "Elias FIGUEROA"
+            },
+            {
+              "name": "Juan RODRIGUEZ"
+            },
+            {
+              "name": "Francisco VALDES",
+              "captain": true
+            },
+            {
+              "name": "Carlos REINOSO"
+            },
+            {
+              "name": "Guillermo PAEZ"
+            },
+            {
+              "name": "Carlos CASZELY"
+            },
+            {
+              "name": "Sergio AHUMADA"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Alfonso LARA"
+            },
+            {
+              "name": "Leonardo VELIZ"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Leonardo VELIZ",
+              "off": "Francisco VALDES",
+              "minute": "76"
+            },
+            {
+              "on": "Alfonso LARA",
+              "off": "Juan RODRIGUEZ",
+              "minute": "83"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [],
+        [
+          {
+            "type": "Y",
+            "name": "Carlos CASZELY",
+            "minute": "13"
+          },
+          {
+            "type": "Y",
+            "name": "Carlos REINOSO",
+            "minute": "47"
+          },
+          {
+            "type": "Y",
+            "name": "Rolando GARCIA",
+            "minute": "59"
+          },
+          {
+            "type": "R",
+            "name": "Carlos CASZELY",
+            "minute": "67"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Dogan BABACAN",
+          "country": "TUR"
+        },
+        {
+          "name": "John TAYLOR",
+          "country": "ENG"
+        },
+        {
+          "name": "Werner WINSEMANN",
+          "country": "CAN"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1974-06-14",
+      "time": "19:30 UTC+2",
+      "team1": "East Germany",
+      "team2": "Australia",
+      "score": [
+        2,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Colin CURRAN",
+          "minute": "58",
+          "owngoal": true
+        },
+        {
+          "name": "Joachim STREICH",
+          "minute": "72"
+        }
+      ],
+      "goals2": [],
+      "ground": "Volksparkstadion, Hamburg",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Juergen CROY"
+            },
+            {
+              "name": "Bernd BRANSCH",
+              "captain": true
+            },
+            {
+              "name": "Konrad WEISE"
+            },
+            {
+              "name": "Siegmar WAETZLICH"
+            },
+            {
+              "name": "Gerd KISCHE"
+            },
+            {
+              "name": "Juergen POMMERENKE"
+            },
+            {
+              "name": "Juergen SPARWASSER"
+            },
+            {
+              "name": "Harald IRMSCHER"
+            },
+            {
+              "name": "Wolfram LOEWE"
+            },
+            {
+              "name": "Joachim STREICH"
+            },
+            {
+              "name": "Eberhard VOGEL"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Martin HOFFMANN"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Martin HOFFMANN",
+              "off": "Wolfram LOEWE",
+              "minute": "55"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Jack REILLY"
+            },
+            {
+              "name": "Doug UTJESENOVIC"
+            },
+            {
+              "name": "Peter WILSON",
+              "captain": true
+            },
+            {
+              "name": "Manfred SCHAEFER"
+            },
+            {
+              "name": "Colin CURRAN"
+            },
+            {
+              "name": "Ray RICHARDS"
+            },
+            {
+              "name": "Jimmy ROONEY"
+            },
+            {
+              "name": "Jimmy MACKAY"
+            },
+            {
+              "name": "John WARREN"
+            },
+            {
+              "name": "Adrian ALSTON"
+            },
+            {
+              "name": "Branko BULJEVIC"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Siegmar WAETZLICH",
+            "minute": "32"
+          },
+          {
+            "type": "Y",
+            "name": "Eberhard VOGEL",
+            "minute": "58"
+          },
+          {
+            "type": "Y",
+            "name": "Gerd KISCHE",
+            "minute": "61"
+          }
+        ],
+        []
+      ],
+      "referees": [
+        {
+          "name": "Youssou NDIAYE",
+          "country": "SEN"
+        },
+        {
+          "name": "Pablo SANCHEZ IBANEZ",
+          "country": "ESP"
+        },
+        {
+          "name": "Omar DELGADO",
+          "country": "COL"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1974-06-18",
+      "time": "16:00 UTC+2",
+      "team1": "Australia",
+      "team2": "West Germany",
+      "score": [
+        0,
+        3
+      ],
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Wolfgang OVERATH",
+          "minute": "12"
+        },
+        {
+          "name": "Bernd CULLMANN",
+          "minute": "34"
+        },
+        {
+          "name": "Gerd MUELLER",
+          "minute": "53"
+        }
+      ],
+      "ground": "Volksparkstadion, Hamburg",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Jack REILLY"
+            },
+            {
+              "name": "Doug UTJESENOVIC"
+            },
+            {
+              "name": "Peter WILSON",
+              "captain": true
+            },
+            {
+              "name": "Manfred SCHAEFER"
+            },
+            {
+              "name": "Colin CURRAN"
+            },
+            {
+              "name": "Ray RICHARDS"
+            },
+            {
+              "name": "Jimmy ROONEY"
+            },
+            {
+              "name": "Jimmy MACKAY"
+            },
+            {
+              "name": "Adrian ALSTON"
+            },
+            {
+              "name": "Ernie CAMPBELL"
+            },
+            {
+              "name": "Branko BULJEVIC"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Attila ABONYI"
+            },
+            {
+              "name": "Peter OLLERTON"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Attila ABONYI",
+              "off": "Ernie CAMPBELL",
+              "minute": "45+1"
+            },
+            {
+              "on": "Peter OLLERTON",
+              "off": "Branko BULJEVIC",
+              "minute": "61"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Sepp MAIER"
+            },
+            {
+              "name": "Berti VOGTS"
+            },
+            {
+              "name": "Paul BREITNER"
+            },
+            {
+              "name": "Hans Georg SCHWARZENBECK"
+            },
+            {
+              "name": "Franz BECKENBAUER",
+              "captain": true
+            },
+            {
+              "name": "Bernd CULLMANN"
+            },
+            {
+              "name": "Wolfgang OVERATH"
+            },
+            {
+              "name": "Uli HOENESS"
+            },
+            {
+              "name": "Juergen GRABOWSKI"
+            },
+            {
+              "name": "Jupp HEYNCKES"
+            },
+            {
+              "name": "Gerd MUELLER"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Herbert WIMMER"
+            },
+            {
+              "name": "Bernd HOELZENBEIN"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Bernd HOELZENBEIN",
+              "off": "Jupp HEYNCKES",
+              "minute": "45+1"
+            },
+            {
+              "on": "Herbert WIMMER",
+              "off": "Bernd CULLMANN",
+              "minute": "67"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Jimmy MACKAY",
+            "minute": "56"
+          }
+        ],
+        []
+      ],
+      "referees": [
+        {
+          "name": "Mahmoud KAMEL",
+          "country": "EGY"
+        },
+        {
+          "name": "Alfonso GONZALEZ ARCHUNDIA",
+          "country": "MEX"
+        },
+        {
+          "name": "Edison A. PEREZ NUNEZ",
+          "country": "PER"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1974-06-18",
+      "time": "19:30 UTC+2",
+      "team1": "Chile",
+      "team2": "East Germany",
+      "score": [
+        1,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Sergio AHUMADA",
+          "minute": "69"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Martin HOFFMANN",
+          "minute": "55"
+        }
+      ],
+      "ground": "Olympiastadion, Berlin West",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Leopoldo VALLEJOS"
+            },
+            {
+              "name": "Rolando GARCIA"
+            },
+            {
+              "name": "Alberto QUINTANO"
+            },
+            {
+              "name": "Antonio ARIAS"
+            },
+            {
+              "name": "Elias FIGUEROA"
+            },
+            {
+              "name": "Francisco VALDES",
+              "captain": true
+            },
+            {
+              "name": "Carlos REINOSO"
+            },
+            {
+              "name": "Guillermo PAEZ"
+            },
+            {
+              "name": "Jorge SOCIAS"
+            },
+            {
+              "name": "Sergio AHUMADA"
+            },
+            {
+              "name": "Leonardo VELIZ"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Guillermo YAVAR"
+            },
+            {
+              "name": "Rogelio FARIAS"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Guillermo YAVAR",
+              "off": "Francisco VALDES",
+              "minute": "45+1"
+            },
+            {
+              "on": "Rogelio FARIAS",
+              "off": "Jorge SOCIAS",
+              "minute": "67"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Juergen CROY"
+            },
+            {
+              "name": "Bernd BRANSCH",
+              "captain": true
+            },
+            {
+              "name": "Konrad WEISE"
+            },
+            {
+              "name": "Siegmar WAETZLICH"
+            },
+            {
+              "name": "Gerd KISCHE"
+            },
+            {
+              "name": "Juergen SPARWASSER"
+            },
+            {
+              "name": "Harald IRMSCHER"
+            },
+            {
+              "name": "Wolfgang SEGUIN"
+            },
+            {
+              "name": "Joachim STREICH"
+            },
+            {
+              "name": "Eberhard VOGEL"
+            },
+            {
+              "name": "Martin HOFFMANN"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Peter DUCKE"
+            },
+            {
+              "name": "Hans-Juergen KREISCHE"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Peter DUCKE",
+              "off": "Wolfgang SEGUIN",
+              "minute": "29"
+            },
+            {
+              "on": "Hans-Juergen KREISCHE",
+              "off": "Eberhard VOGEL",
+              "minute": "72"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Leonardo VELIZ",
+            "minute": "56"
+          },
+          {
+            "type": "Y",
+            "name": "Guillermo PAEZ",
+            "minute": "60"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Gerd KISCHE",
+            "minute": "65"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Aurelio ANGONESE",
+          "country": "ITA"
+        },
+        {
+          "name": "Ruedi SCHEURER",
+          "country": "SUI"
+        },
+        {
+          "name": "Bob DAVIDSON",
+          "country": "SCO"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1974-06-22",
+      "time": "16:00 UTC+2",
+      "team1": "Australia",
+      "team2": "Chile",
+      "score": [
+        0,
+        0
+      ],
+      "ground": "Olympiastadion, Berlin West",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Jack REILLY"
+            },
+            {
+              "name": "Doug UTJESENOVIC"
+            },
+            {
+              "name": "Peter WILSON",
+              "captain": true
+            },
+            {
+              "name": "Manfred SCHAEFER"
+            },
+            {
+              "name": "Colin CURRAN"
+            },
+            {
+              "name": "Ray RICHARDS"
+            },
+            {
+              "name": "Jimmy ROONEY"
+            },
+            {
+              "name": "Jimmy MACKAY"
+            },
+            {
+              "name": "Attila ABONYI"
+            },
+            {
+              "name": "Adrian ALSTON"
+            },
+            {
+              "name": "Branko BULJEVIC"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Harry WILLIAMS"
+            },
+            {
+              "name": "Peter OLLERTON"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Peter OLLERTON",
+              "off": "Adrian ALSTON",
+              "minute": "65"
+            },
+            {
+              "on": "Harry WILLIAMS",
+              "off": "Colin CURRAN",
+              "minute": "82"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Leopoldo VALLEJOS"
+            },
+            {
+              "name": "Rolando GARCIA"
+            },
+            {
+              "name": "Alberto QUINTANO"
+            },
+            {
+              "name": "Antonio ARIAS"
+            },
+            {
+              "name": "Elias FIGUEROA"
+            },
+            {
+              "name": "Francisco VALDES",
+              "captain": true
+            },
+            {
+              "name": "Carlos REINOSO"
+            },
+            {
+              "name": "Guillermo PAEZ"
+            },
+            {
+              "name": "Carlos CASZELY"
+            },
+            {
+              "name": "Sergio AHUMADA"
+            },
+            {
+              "name": "Leonardo VELIZ"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Rogelio FARIAS"
+            },
+            {
+              "name": "Guillermo YAVAR"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Rogelio FARIAS",
+              "off": "Francisco VALDES",
+              "minute": "57"
+            },
+            {
+              "on": "Guillermo YAVAR",
+              "off": "Leonardo VELIZ",
+              "minute": "72"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Ray RICHARDS",
+            "minute": "37"
+          },
+          {
+            "type": "R",
+            "name": "Ray RICHARDS",
+            "minute": "83"
+          }
+        ],
+        []
+      ],
+      "referees": [
+        {
+          "name": "Jafar NAMDAR",
+          "country": "IRN"
+        },
+        {
+          "name": "Vital LORAUX",
+          "country": "BEL"
+        },
+        {
+          "name": "Arie VAN GEMERT",
+          "country": "NED"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1974-06-22",
+      "time": "19:30 UTC+2",
+      "team1": "East Germany",
+      "team2": "West Germany",
+      "score": [
+        1,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Juergen SPARWASSER",
+          "minute": "77"
+        }
+      ],
+      "goals2": [],
+      "ground": "Volksparkstadion, Hamburg",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Juergen CROY"
+            },
+            {
+              "name": "Lothar KURBJUWEIT"
+            },
+            {
+              "name": "Bernd BRANSCH",
+              "captain": true
+            },
+            {
+              "name": "Konrad WEISE"
+            },
+            {
+              "name": "Siegmar WAETZLICH"
+            },
+            {
+              "name": "Gerd KISCHE"
+            },
+            {
+              "name": "Hans-Juergen KREISCHE"
+            },
+            {
+              "name": "Reinhard LAUCK"
+            },
+            {
+              "name": "Juergen SPARWASSER"
+            },
+            {
+              "name": "Harald IRMSCHER"
+            },
+            {
+              "name": "Martin HOFFMANN"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Erich HAMANN"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Erich HAMANN",
+              "off": "Harald IRMSCHER",
+              "minute": "65"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Sepp MAIER"
+            },
+            {
+              "name": "Berti VOGTS"
+            },
+            {
+              "name": "Paul BREITNER"
+            },
+            {
+              "name": "Hans Georg SCHWARZENBECK"
+            },
+            {
+              "name": "Franz BECKENBAUER",
+              "captain": true
+            },
+            {
+              "name": "Bernd CULLMANN"
+            },
+            {
+              "name": "Wolfgang OVERATH"
+            },
+            {
+              "name": "Uli HOENESS"
+            },
+            {
+              "name": "Heinz FLOHE"
+            },
+            {
+              "name": "Juergen GRABOWSKI"
+            },
+            {
+              "name": "Gerd MUELLER"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Horst-Dieter HOETTGES"
+            },
+            {
+              "name": "Guenter NETZER"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Horst-Dieter HOETTGES",
+              "off": "Hans Georg SCHWARZENBECK",
+              "minute": "68"
+            },
+            {
+              "on": "Guenter NETZER",
+              "off": "Wolfgang OVERATH",
+              "minute": "69"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Juergen SPARWASSER",
+            "minute": "27"
+          },
+          {
+            "type": "Y",
+            "name": "Juergen CROY",
+            "minute": "81"
+          },
+          {
+            "type": "Y",
+            "name": "Hans-Juergen KREISCHE",
+            "minute": "84"
+          }
+        ],
+        []
+      ],
+      "referees": [
+        {
+          "name": "Ramon BARRETO RUIZ",
+          "country": "URU"
+        },
+        {
+          "name": "Armando MARQUES",
+          "country": "BRA"
+        },
+        {
+          "name": "Luis PESTARINO",
+          "country": "ARG"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1974-06-13",
+      "time": "17:00 UTC+2",
+      "team1": "Brazil",
+      "team2": "Yugoslavia",
+      "score": [
+        0,
+        0
+      ],
+      "ground": "Waldstadion, Frankfurt",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "LEAO"
+            },
+            {
+              "name": "LUIS PEREIRA"
+            },
+            {
+              "name": "MARINHO PERES"
+            },
+            {
+              "name": "WILSON PIAZZA",
+              "captain": true
+            },
+            {
+              "name": "MARINHO CHAGAS"
+            },
+            {
+              "name": "NELINHO"
+            },
+            {
+              "name": "RIVELLINO"
+            },
+            {
+              "name": "PAULO CESAR"
+            },
+            {
+              "name": "JAIRZINHO"
+            },
+            {
+              "name": "LEIVINHA"
+            },
+            {
+              "name": "VALDOMIRO"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Enver MARIC"
+            },
+            {
+              "name": "Ivan BULJAN"
+            },
+            {
+              "name": "Enver HADZIABDIC"
+            },
+            {
+              "name": "Drazen MUZINIC"
+            },
+            {
+              "name": "Josip KATALINSKI"
+            },
+            {
+              "name": "Vladislav BOGICEVIC"
+            },
+            {
+              "name": "Ilija PETKOVIC"
+            },
+            {
+              "name": "Branko OBLAK"
+            },
+            {
+              "name": "Jovan ACIMOVIC"
+            },
+            {
+              "name": "Ivica SURJAK"
+            },
+            {
+              "name": "Dragan DZAJIC",
+              "captain": true
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [],
+        [
+          {
+            "type": "Y",
+            "name": "Branko OBLAK",
+            "minute": "17"
+          },
+          {
+            "type": "Y",
+            "name": "Jovan ACIMOVIC",
+            "minute": "49"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Ruedi SCHEURER",
+          "country": "SUI"
+        },
+        {
+          "name": "Vital LORAUX",
+          "country": "BEL"
+        },
+        {
+          "name": "Luis PESTARINO",
+          "country": "ARG"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1974-06-14",
+      "time": "19:30 UTC+2",
+      "team1": "Zaire",
+      "team2": "Scotland",
+      "score": [
+        0,
+        2
+      ],
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Peter LORIMER",
+          "minute": "26"
+        },
+        {
+          "name": "Joe JORDAN",
+          "minute": "34"
+        }
+      ],
+      "ground": "Westfalenstadion, Dortmund",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Kazadi MUAMBA"
+            },
+            {
+              "name": "Muepu ILUNGA"
+            },
+            {
+              "name": "Mwanza Nel MUKOMBO"
+            },
+            {
+              "name": "Buanga TSHIMEN"
+            },
+            {
+              "name": "Lobilo BOBA"
+            },
+            {
+              "name": "Kilasu MASSAMBA"
+            },
+            {
+              "name": "Mana MAMBUENE"
+            },
+            {
+              "name": "Kidumu MANTANTU",
+              "captain": true
+            },
+            {
+              "name": "Ndaye MULAMBA"
+            },
+            {
+              "name": "Mayanga MAKU"
+            },
+            {
+              "name": "Kakoko ETEPE"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Kibonge MAFU"
+            },
+            {
+              "name": "Kembo Uba KEMBO"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Kembo Uba KEMBO",
+              "off": "Mayanga MAKU",
+              "minute": "64"
+            },
+            {
+              "on": "Kibonge MAFU",
+              "off": "Kidumu MANTANTU",
+              "minute": "78"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "David HARVEY"
+            },
+            {
+              "name": "Sandy JARDINE"
+            },
+            {
+              "name": "Danny McGRAIN"
+            },
+            {
+              "name": "James HOLTON"
+            },
+            {
+              "name": "John BLACKLEY"
+            },
+            {
+              "name": "Billy BREMNER",
+              "captain": true
+            },
+            {
+              "name": "Davie HAY"
+            },
+            {
+              "name": "Kenny DALGLISH"
+            },
+            {
+              "name": "Joe JORDAN"
+            },
+            {
+              "name": "Peter LORIMER"
+            },
+            {
+              "name": "Denis LAW"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Tommy HUTCHISON"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Tommy HUTCHISON",
+              "off": "Kenny DALGLISH",
+              "minute": "75"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Kidumu MANTANTU",
+            "minute": "40"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "James HOLTON",
+            "minute": "48"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Gerhard SCHULENBURG",
+          "country": "GER"
+        },
+        {
+          "name": "Tony BOSKOVIC",
+          "country": "AUS"
+        },
+        {
+          "name": "Hans Joachim WEYLAND",
+          "country": "FRG"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1974-06-18",
+      "time": "19:30 UTC+2",
+      "team1": "Scotland",
+      "team2": "Brazil",
+      "score": [
+        0,
+        0
+      ],
+      "ground": "Waldstadion, Frankfurt",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "David HARVEY"
+            },
+            {
+              "name": "Sandy JARDINE"
+            },
+            {
+              "name": "Danny McGRAIN"
+            },
+            {
+              "name": "James HOLTON"
+            },
+            {
+              "name": "Martin BUCHAN"
+            },
+            {
+              "name": "Billy BREMNER",
+              "captain": true
+            },
+            {
+              "name": "Davie HAY"
+            },
+            {
+              "name": "Kenny DALGLISH"
+            },
+            {
+              "name": "Joe JORDAN"
+            },
+            {
+              "name": "Peter LORIMER"
+            },
+            {
+              "name": "Willie MORGAN"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "LEAO"
+            },
+            {
+              "name": "LUIS PEREIRA"
+            },
+            {
+              "name": "MARINHO PERES"
+            },
+            {
+              "name": "WILSON PIAZZA",
+              "captain": true
+            },
+            {
+              "name": "MARINHO CHAGAS"
+            },
+            {
+              "name": "NELINHO"
+            },
+            {
+              "name": "RIVELLINO"
+            },
+            {
+              "name": "PAULO CESAR"
+            },
+            {
+              "name": "JAIRZINHO"
+            },
+            {
+              "name": "LEIVINHA"
+            },
+            {
+              "name": "MIRANDINHA"
+            }
+          ],
+          "bench": [
+            {
+              "name": "CARPEGIANI"
+            }
+          ],
+          "subs": [
+            {
+              "on": "CARPEGIANI",
+              "off": "LEIVINHA",
+              "minute": "65"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [],
+        [
+          {
+            "type": "Y",
+            "name": "RIVELLINO",
+            "minute": "35"
+          },
+          {
+            "type": "Y",
+            "name": "MARINHO CHAGAS",
+            "minute": "81"
+          },
+          {
+            "type": "Y",
+            "name": "MARINHO PERES",
+            "minute": "87"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Arie VAN GEMERT",
+          "country": "NED"
+        },
+        {
+          "name": "Karoly PALOTAI",
+          "country": "HUN"
+        },
+        {
+          "name": "Erich LINEMAYR",
+          "country": "AUT"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1974-06-18",
+      "time": "19:30 UTC+2",
+      "team1": "Yugoslavia",
+      "team2": "Zaire",
+      "score": [
+        9,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Dusan BAJEVIC",
+          "minute": "8"
+        },
+        {
+          "name": "Dragan DZAJIC",
+          "minute": "14"
+        },
+        {
+          "name": "Ivica SURJAK",
+          "minute": "18"
+        },
+        {
+          "name": "Josip KATALINSKI",
+          "minute": "22"
+        },
+        {
+          "name": "Dusan BAJEVIC",
+          "minute": "30"
+        },
+        {
+          "name": "Vladislav BOGICEVIC",
+          "minute": "35"
+        },
+        {
+          "name": "Branko OBLAK",
+          "minute": "61"
+        },
+        {
+          "name": "Ilija PETKOVIC",
+          "minute": "65"
+        },
+        {
+          "name": "Dusan BAJEVIC",
+          "minute": "81"
+        }
+      ],
+      "goals2": [],
+      "ground": "Parkstadion, Gelsenkirchen",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Enver MARIC"
+            },
+            {
+              "name": "Ivan BULJAN"
+            },
+            {
+              "name": "Enver HADZIABDIC"
+            },
+            {
+              "name": "Josip KATALINSKI"
+            },
+            {
+              "name": "Vladislav BOGICEVIC"
+            },
+            {
+              "name": "Ilija PETKOVIC"
+            },
+            {
+              "name": "Branko OBLAK"
+            },
+            {
+              "name": "Jovan ACIMOVIC"
+            },
+            {
+              "name": "Ivica SURJAK"
+            },
+            {
+              "name": "Dragan DZAJIC",
+              "captain": true
+            },
+            {
+              "name": "Dusan BAJEVIC"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Kazadi MUAMBA"
+            },
+            {
+              "name": "Muepu ILUNGA"
+            },
+            {
+              "name": "Mwanza Nel MUKOMBO"
+            },
+            {
+              "name": "Buanga TSHIMEN"
+            },
+            {
+              "name": "Lobilo BOBA"
+            },
+            {
+              "name": "Kilasu MASSAMBA"
+            },
+            {
+              "name": "Mana MAMBUENE"
+            },
+            {
+              "name": "Kembo Uba KEMBO"
+            },
+            {
+              "name": "Kidumu MANTANTU",
+              "captain": true
+            },
+            {
+              "name": "Ndaye MULAMBA"
+            },
+            {
+              "name": "Kakoko ETEPE"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Tubilandu NDIMBI"
+            },
+            {
+              "name": "Mayanga MAKU"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Tubilandu NDIMBI",
+              "off": "Kazadi MUAMBA",
+              "minute": "21"
+            },
+            {
+              "on": "Mayanga MAKU",
+              "off": "Kakoko ETEPE",
+              "minute": "45+1"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Enver HADZIABDIC",
+            "minute": "55"
+          }
+        ],
+        [
+          {
+            "type": "R",
+            "name": "Ndaye MULAMBA",
+            "minute": "23"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Omar DELGADO",
+          "country": "COL"
+        },
+        {
+          "name": "Vicente LLOBREGAT",
+          "country": "VEN"
+        },
+        {
+          "name": "Ramon BARRETO RUIZ",
+          "country": "URU"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1974-06-22",
+      "time": "16:00 UTC+2",
+      "team1": "Scotland",
+      "team2": "Yugoslavia",
+      "score": [
+        1,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Joe JORDAN",
+          "minute": "88"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Stanislav KARASI",
+          "minute": "81"
+        }
+      ],
+      "ground": "Waldstadion, Frankfurt",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "David HARVEY"
+            },
+            {
+              "name": "Sandy JARDINE"
+            },
+            {
+              "name": "Danny McGRAIN"
+            },
+            {
+              "name": "James HOLTON"
+            },
+            {
+              "name": "Martin BUCHAN"
+            },
+            {
+              "name": "Billy BREMNER",
+              "captain": true
+            },
+            {
+              "name": "Davie HAY"
+            },
+            {
+              "name": "Kenny DALGLISH"
+            },
+            {
+              "name": "Joe JORDAN"
+            },
+            {
+              "name": "Peter LORIMER"
+            },
+            {
+              "name": "Willie MORGAN"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Tommy HUTCHISON"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Tommy HUTCHISON",
+              "off": "Kenny DALGLISH",
+              "minute": "65"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Enver MARIC"
+            },
+            {
+              "name": "Ivan BULJAN"
+            },
+            {
+              "name": "Enver HADZIABDIC"
+            },
+            {
+              "name": "Josip KATALINSKI"
+            },
+            {
+              "name": "Vladislav BOGICEVIC"
+            },
+            {
+              "name": "Ilija PETKOVIC"
+            },
+            {
+              "name": "Branko OBLAK"
+            },
+            {
+              "name": "Jovan ACIMOVIC"
+            },
+            {
+              "name": "Ivica SURJAK"
+            },
+            {
+              "name": "Dragan DZAJIC",
+              "captain": true
+            },
+            {
+              "name": "Dusan BAJEVIC"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Stanislav KARASI"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Stanislav KARASI",
+              "off": "Dusan BAJEVIC",
+              "minute": "70"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Joe JORDAN",
+            "minute": "60"
+          },
+          {
+            "type": "Y",
+            "name": "Davie HAY",
+            "minute": "70"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Branko OBLAK",
+            "minute": "24"
+          },
+          {
+            "type": "Y",
+            "name": "Josip KATALINSKI",
+            "minute": "55"
+          },
+          {
+            "type": "Y",
+            "name": "Dusan BAJEVIC",
+            "minute": "70"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Alfonso GONZALEZ ARCHUNDIA",
+          "country": "MEX"
+        },
+        {
+          "name": "Kurt TSCHENSCHER",
+          "country": "GER"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1974-06-22",
+      "time": "16:00 UTC+2",
+      "team1": "Zaire",
+      "team2": "Brazil",
+      "score": [
+        0,
+        3
+      ],
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "JAIRZINHO",
+          "minute": "12"
+        },
+        {
+          "name": "RIVELLINO",
+          "minute": "66"
+        },
+        {
+          "name": "VALDOMIRO",
+          "minute": "79"
+        }
+      ],
+      "ground": "Parkstadion, Gelsenkirchen",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Kazadi MUAMBA"
+            },
+            {
+              "name": "Muepu ILUNGA"
+            },
+            {
+              "name": "Mwanza Nel MUKOMBO"
+            },
+            {
+              "name": "Buanga TSHIMEN"
+            },
+            {
+              "name": "Lobilo BOBA"
+            },
+            {
+              "name": "Tshinabu WA MUNDA"
+            },
+            {
+              "name": "Mana MAMBUENE"
+            },
+            {
+              "name": "Kidumu MANTANTU",
+              "captain": true
+            },
+            {
+              "name": "Kibonge MAFU"
+            },
+            {
+              "name": "Mayanga MAKU"
+            },
+            {
+              "name": "Ntumba KALALA"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Kilasu MASSAMBA"
+            },
+            {
+              "name": "Kembo Uba KEMBO"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Kilasu MASSAMBA",
+              "off": "Tshinabu WA MUNDA",
+              "minute": "61"
+            },
+            {
+              "on": "Kembo Uba KEMBO",
+              "off": "Kidumu MANTANTU",
+              "minute": "62"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "LEAO"
+            },
+            {
+              "name": "LUIS PEREIRA"
+            },
+            {
+              "name": "MARINHO PERES"
+            },
+            {
+              "name": "WILSON PIAZZA",
+              "captain": true
+            },
+            {
+              "name": "MARINHO CHAGAS"
+            },
+            {
+              "name": "NELINHO"
+            },
+            {
+              "name": "RIVELLINO"
+            },
+            {
+              "name": "CARPEGIANI"
+            },
+            {
+              "name": "JAIRZINHO"
+            },
+            {
+              "name": "LEIVINHA"
+            },
+            {
+              "name": "EDU"
+            }
+          ],
+          "bench": [
+            {
+              "name": "MIRANDINHA"
+            },
+            {
+              "name": "VALDOMIRO"
+            }
+          ],
+          "subs": [
+            {
+              "on": "VALDOMIRO",
+              "off": "LEIVINHA",
+              "minute": "10"
+            },
+            {
+              "on": "MIRANDINHA",
+              "off": "WILSON PIAZZA",
+              "minute": "59"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Muepu ILUNGA",
+            "minute": "78"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "MIRANDINHA",
+            "minute": "77"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Nicolae RAINEA",
+          "country": "ROU"
+        },
+        {
+          "name": "Aurelio ANGONESE",
+          "country": "ITA"
+        },
+        {
+          "name": "Klaus OHMSEN",
+          "country": "GER"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1974-06-15",
+      "time": "16:00 UTC+2",
+      "team1": "Sweden",
+      "team2": "Bulgaria",
+      "score": [
+        0,
+        0
+      ],
+      "ground": "Rheinstadion, Düsseldorf",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Ronnie HELLSTROM"
+            },
+            {
+              "name": "Jan OLSSON"
+            },
+            {
+              "name": "Kent KARLSSON"
+            },
+            {
+              "name": "Bjorn ANDERSSON"
+            },
+            {
+              "name": "Ove GRAHN"
+            },
+            {
+              "name": "Bo LARSSON",
+              "captain": true
+            },
+            {
+              "name": "Ove KINDVALL"
+            },
+            {
+              "name": "Staffan TAPPER"
+            },
+            {
+              "name": "Conny TORSTENSSON"
+            },
+            {
+              "name": "Ralf EDSTROM"
+            },
+            {
+              "name": "Roland SANDBERG"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Benno MAGNUSSON"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Benno MAGNUSSON",
+              "off": "Ove KINDVALL",
+              "minute": "73"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Rumen GORANOV"
+            },
+            {
+              "name": "Stefan VELICHKOV"
+            },
+            {
+              "name": "Dimitar PENEV"
+            },
+            {
+              "name": "Asparukh NIKODIMOV"
+            },
+            {
+              "name": "Tsonyo VASILEV"
+            },
+            {
+              "name": "Kiril IVKOV"
+            },
+            {
+              "name": "Bozhil KOLEV"
+            },
+            {
+              "name": "Hristo BONEV",
+              "captain": true
+            },
+            {
+              "name": "Voin VOINOV"
+            },
+            {
+              "name": "Georgi DENEV"
+            },
+            {
+              "name": "Pavel PANOV"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Atanas MIKHAILOV"
+            },
+            {
+              "name": "Mladen VASILEV"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Mladen VASILEV",
+              "off": "Pavel PANOV",
+              "minute": "73"
+            },
+            {
+              "on": "Atanas MIKHAILOV",
+              "off": "Voin VOINOV",
+              "minute": "75"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Edison A. PEREZ NUNEZ",
+          "country": "PER"
+        },
+        {
+          "name": "Alfonso GONZALEZ ARCHUNDIA",
+          "country": "MEX"
+        },
+        {
+          "name": "George SUPPIAH",
+          "country": "SGP"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1974-06-15",
+      "time": "16:00 UTC+2",
+      "team1": "Uruguay",
+      "team2": "Netherlands",
+      "score": [
+        0,
+        2
+      ],
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Johnny REP",
+          "minute": "7"
+        },
+        {
+          "name": "Johnny REP",
+          "minute": "86"
+        }
+      ],
+      "ground": "Niedersachsenstadion, Hanover",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Ladislao MAZURKIEWICZ"
+            },
+            {
+              "name": "Baudilio JAUREGUI"
+            },
+            {
+              "name": "Juan MASNIK",
+              "captain": true
+            },
+            {
+              "name": "Pablo FORLAN"
+            },
+            {
+              "name": "Julio MONTERO"
+            },
+            {
+              "name": "Ricardo PAVONI"
+            },
+            {
+              "name": "Luis CUBILLA"
+            },
+            {
+              "name": "Victor ESPARRAGO"
+            },
+            {
+              "name": "Pedro ROCHA"
+            },
+            {
+              "name": "Walter MANTEGAZZA"
+            },
+            {
+              "name": "Fernando MORENA"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Denis MILAR"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Denis MILAR",
+              "off": "Luis CUBILLA",
+              "minute": "64"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Jan JONGBLOED"
+            },
+            {
+              "name": "Ruud KROL"
+            },
+            {
+              "name": "Wim RIJSBERGEN"
+            },
+            {
+              "name": "Wim SUURBIER"
+            },
+            {
+              "name": "Arie HAAN"
+            },
+            {
+              "name": "Wim VAN HANEGEM"
+            },
+            {
+              "name": "Wim JANSEN"
+            },
+            {
+              "name": "Johan NEESKENS"
+            },
+            {
+              "name": "Johan CRUYFF",
+              "captain": true
+            },
+            {
+              "name": "Rob RENSENBRINK"
+            },
+            {
+              "name": "Johnny REP"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Walter MANTEGAZZA",
+            "minute": "25"
+          },
+          {
+            "type": "Y",
+            "name": "Pablo FORLAN",
+            "minute": "50"
+          },
+          {
+            "type": "Y",
+            "name": "Juan MASNIK",
+            "minute": "65"
+          },
+          {
+            "type": "R",
+            "name": "Julio MONTERO",
+            "minute": "69"
+          }
+        ],
+        []
+      ],
+      "referees": [
+        {
+          "name": "Karoly PALOTAI",
+          "country": "HUN"
+        },
+        {
+          "name": "Pavel KAZAKOV",
+          "country": "URS"
+        },
+        {
+          "name": "Nicolae RAINEA",
+          "country": "ROU"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1974-06-19",
+      "time": "19:30 UTC+2",
+      "team1": "Netherlands",
+      "team2": "Sweden",
+      "score": [
+        0,
+        0
+      ],
+      "ground": "Westfalenstadion, Dortmund",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Jan JONGBLOED"
+            },
+            {
+              "name": "Ruud KROL"
+            },
+            {
+              "name": "Wim RIJSBERGEN"
+            },
+            {
+              "name": "Wim SUURBIER"
+            },
+            {
+              "name": "Arie HAAN"
+            },
+            {
+              "name": "Wim VAN HANEGEM"
+            },
+            {
+              "name": "Wim JANSEN"
+            },
+            {
+              "name": "Johan NEESKENS"
+            },
+            {
+              "name": "Piet KEIZER"
+            },
+            {
+              "name": "Johan CRUYFF",
+              "captain": true
+            },
+            {
+              "name": "Johnny REP"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Theo DE JONG"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Theo DE JONG",
+              "off": "Wim VAN HANEGEM",
+              "minute": "73"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Ronnie HELLSTROM"
+            },
+            {
+              "name": "Jan OLSSON"
+            },
+            {
+              "name": "Kent KARLSSON"
+            },
+            {
+              "name": "Bjorn NORDQVIST"
+            },
+            {
+              "name": "Bjorn ANDERSSON"
+            },
+            {
+              "name": "Ove GRAHN"
+            },
+            {
+              "name": "Bo LARSSON",
+              "captain": true
+            },
+            {
+              "name": "Staffan TAPPER"
+            },
+            {
+              "name": "Inge EJDERSTEDT"
+            },
+            {
+              "name": "Ralf EDSTROM"
+            },
+            {
+              "name": "Roland SANDBERG"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Roland GRIP"
+            },
+            {
+              "name": "Orjan PERSSON"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Orjan PERSSON",
+              "off": "Staffan TAPPER",
+              "minute": "61"
+            },
+            {
+              "on": "Roland GRIP",
+              "off": "Jan OLSSON",
+              "minute": "75"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Johnny REP",
+            "minute": "16"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Bjorn NORDQVIST",
+            "minute": "36"
+          },
+          {
+            "type": "Y",
+            "name": "Orjan PERSSON",
+            "minute": "68"
+          },
+          {
+            "type": "Y",
+            "name": "Bjorn ANDERSSON",
+            "minute": "74"
+          },
+          {
+            "type": "Y",
+            "name": "Ove GRAHN",
+            "minute": "86"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Werner WINSEMANN",
+          "country": "CAN"
+        },
+        {
+          "name": "Kurt TSCHENSCHER",
+          "country": "GER"
+        },
+        {
+          "name": "Clive THOMAS",
+          "country": "WAL"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1974-06-19",
+      "time": "19:30 UTC+2",
+      "team1": "Bulgaria",
+      "team2": "Uruguay",
+      "score": [
+        1,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Hristo BONEV",
+          "minute": "75"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Ricardo PAVONI",
+          "minute": "87"
+        }
+      ],
+      "ground": "Niedersachsenstadion, Hanover",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Rumen GORANOV"
+            },
+            {
+              "name": "Stefan VELICHKOV"
+            },
+            {
+              "name": "Dimitar PENEV"
+            },
+            {
+              "name": "Asparukh NIKODIMOV"
+            },
+            {
+              "name": "Tsonyo VASILEV"
+            },
+            {
+              "name": "Kiril IVKOV"
+            },
+            {
+              "name": "Bozhil KOLEV"
+            },
+            {
+              "name": "Hristo BONEV",
+              "captain": true
+            },
+            {
+              "name": "Voin VOINOV"
+            },
+            {
+              "name": "Georgi DENEV"
+            },
+            {
+              "name": "Pavel PANOV"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Atanas MIKHAILOV"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Atanas MIKHAILOV",
+              "off": "Asparukh NIKODIMOV",
+              "minute": "59"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Ladislao MAZURKIEWICZ",
+              "captain": true
+            },
+            {
+              "name": "Baudilio JAUREGUI"
+            },
+            {
+              "name": "Pablo FORLAN"
+            },
+            {
+              "name": "Ricardo PAVONI"
+            },
+            {
+              "name": "Luis GARISTO"
+            },
+            {
+              "name": "Victor ESPARRAGO"
+            },
+            {
+              "name": "Pedro ROCHA"
+            },
+            {
+              "name": "Walter MANTEGAZZA"
+            },
+            {
+              "name": "Fernando MORENA"
+            },
+            {
+              "name": "Ruben CORBO"
+            },
+            {
+              "name": "Denis MILAR"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Juan MASNIK"
+            },
+            {
+              "name": "Alberto CARDACCIO"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Alberto CARDACCIO",
+              "off": "Walter MANTEGAZZA",
+              "minute": "62"
+            },
+            {
+              "on": "Juan MASNIK",
+              "off": "Luis GARISTO",
+              "minute": "73"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Tsonyo VASILEV",
+            "minute": "9"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Victor ESPARRAGO",
+            "minute": "44"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "John TAYLOR",
+          "country": "ENG"
+        },
+        {
+          "name": "Dogan BABACAN",
+          "country": "TUR"
+        },
+        {
+          "name": "Klaus OHMSEN",
+          "country": "GER"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1974-06-23",
+      "time": "16:00 UTC+2",
+      "team1": "Bulgaria",
+      "team2": "Netherlands",
+      "score": [
+        1,
+        4
+      ],
+      "goals1": [
+        {
+          "name": "Ruud KROL",
+          "minute": "78",
+          "owngoal": true
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Johan NEESKENS",
+          "minute": "5",
+          "penalty": true
+        },
+        {
+          "name": "Johan NEESKENS",
+          "minute": "45",
+          "penalty": true
+        },
+        {
+          "name": "Johnny REP",
+          "minute": "71"
+        },
+        {
+          "name": "Theo DE JONG",
+          "minute": "88"
+        }
+      ],
+      "ground": "Westfalenstadion, Dortmund",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Stefan STAIKOV"
+            },
+            {
+              "name": "Stefan VELICHKOV"
+            },
+            {
+              "name": "Dimitar PENEV"
+            },
+            {
+              "name": "Tsonyo VASILEV"
+            },
+            {
+              "name": "Kiril IVKOV"
+            },
+            {
+              "name": "Bozhil KOLEV"
+            },
+            {
+              "name": "Hristo BONEV",
+              "captain": true
+            },
+            {
+              "name": "Ivan STOYANOV"
+            },
+            {
+              "name": "Voin VOINOV"
+            },
+            {
+              "name": "Georgi DENEV"
+            },
+            {
+              "name": "Pavel PANOV"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Atanas MIKHAILOV"
+            },
+            {
+              "name": "Krasimir BORISOV"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Atanas MIKHAILOV",
+              "off": "Ivan STOYANOV",
+              "minute": "45+1"
+            },
+            {
+              "on": "Krasimir BORISOV",
+              "off": "Pavel PANOV",
+              "minute": "55"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Jan JONGBLOED"
+            },
+            {
+              "name": "Ruud KROL"
+            },
+            {
+              "name": "Wim RIJSBERGEN"
+            },
+            {
+              "name": "Wim SUURBIER"
+            },
+            {
+              "name": "Arie HAAN"
+            },
+            {
+              "name": "Wim VAN HANEGEM"
+            },
+            {
+              "name": "Wim JANSEN"
+            },
+            {
+              "name": "Johan NEESKENS"
+            },
+            {
+              "name": "Johan CRUYFF",
+              "captain": true
+            },
+            {
+              "name": "Rob RENSENBRINK"
+            },
+            {
+              "name": "Johnny REP"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Rinus ISRAEL"
+            },
+            {
+              "name": "Theo DE JONG"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Rinus ISRAEL",
+              "off": "Wim VAN HANEGEM",
+              "minute": "45+1"
+            },
+            {
+              "on": "Theo DE JONG",
+              "off": "Johan NEESKENS",
+              "minute": "79"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Georgi DENEV",
+            "minute": "67"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Wim JANSEN",
+            "minute": "5"
+          },
+          {
+            "type": "Y",
+            "name": "Wim VAN HANEGEM",
+            "minute": "22"
+          },
+          {
+            "type": "Y",
+            "name": "Johan CRUYFF",
+            "minute": "29"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Tony BOSKOVIC",
+          "country": "AUS"
+        },
+        {
+          "name": "Ferdinand BIWERSI",
+          "country": "GER"
+        },
+        {
+          "name": "Walter ESCHWEILER",
+          "country": "GER"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1974-06-23",
+      "time": "16:00 UTC+2",
+      "team1": "Sweden",
+      "team2": "Uruguay",
+      "score": [
+        3,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Ralf EDSTROM",
+          "minute": "46"
+        },
+        {
+          "name": "Roland SANDBERG",
+          "minute": "74"
+        },
+        {
+          "name": "Ralf EDSTROM",
+          "minute": "77"
+        }
+      ],
+      "goals2": [],
+      "ground": "Rheinstadion, Düsseldorf",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Ronnie HELLSTROM"
+            },
+            {
+              "name": "Kent KARLSSON"
+            },
+            {
+              "name": "Bjorn NORDQVIST"
+            },
+            {
+              "name": "Bjorn ANDERSSON"
+            },
+            {
+              "name": "Roland GRIP"
+            },
+            {
+              "name": "Ove GRAHN"
+            },
+            {
+              "name": "Bo LARSSON",
+              "captain": true
+            },
+            {
+              "name": "Ove KINDVALL"
+            },
+            {
+              "name": "Ralf EDSTROM"
+            },
+            {
+              "name": "Roland SANDBERG"
+            },
+            {
+              "name": "Benno MAGNUSSON"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Conny TORSTENSSON"
+            },
+            {
+              "name": "Thomas AHLSTROM"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Thomas AHLSTROM",
+              "off": "Benno MAGNUSSON",
+              "minute": "60"
+            },
+            {
+              "on": "Conny TORSTENSSON",
+              "off": "Ove KINDVALL",
+              "minute": "76"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Ladislao MAZURKIEWICZ",
+              "captain": true
+            },
+            {
+              "name": "Baudilio JAUREGUI"
+            },
+            {
+              "name": "Pablo FORLAN"
+            },
+            {
+              "name": "Ricardo PAVONI"
+            },
+            {
+              "name": "Luis GARISTO"
+            },
+            {
+              "name": "Victor ESPARRAGO"
+            },
+            {
+              "name": "Pedro ROCHA"
+            },
+            {
+              "name": "Walter MANTEGAZZA"
+            },
+            {
+              "name": "Fernando MORENA"
+            },
+            {
+              "name": "Ruben CORBO"
+            },
+            {
+              "name": "Denis MILAR"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Juan MASNIK"
+            },
+            {
+              "name": "Luis CUBILLA"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Luis CUBILLA",
+              "off": "Ruben CORBO",
+              "minute": "43"
+            },
+            {
+              "on": "Juan MASNIK",
+              "off": "Luis GARISTO",
+              "minute": "45+1"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [],
+        [
+          {
+            "type": "Y",
+            "name": "Baudilio JAUREGUI",
+            "minute": "21"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Erich LINEMAYR",
+          "country": "AUT"
+        },
+        {
+          "name": "Vicente LLOBREGAT",
+          "country": "VEN"
+        },
+        {
+          "name": "Heinz ALDINGER",
+          "country": "GER"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1974-06-15",
+      "time": "18:00 UTC+2",
+      "team1": "Italy",
+      "team2": "Haiti",
+      "score": [
+        3,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Gianni RIVERA",
+          "minute": "52"
+        },
+        {
+          "name": "Romeo BENETTI",
+          "minute": "66"
+        },
+        {
+          "name": "Pietro ANASTASI",
+          "minute": "79"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Emmanuel SANON",
+          "minute": "46"
+        }
+      ],
+      "ground": "Olympiastadion, Munich",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Dino ZOFF"
+            },
+            {
+              "name": "Luciano SPINOSI"
+            },
+            {
+              "name": "Giacinto FACCHETTI",
+              "captain": true
+            },
+            {
+              "name": "Francesco MORINI"
+            },
+            {
+              "name": "Tarcisio BURGNICH"
+            },
+            {
+              "name": "Romeo BENETTI"
+            },
+            {
+              "name": "Sandro MAZZOLA"
+            },
+            {
+              "name": "Fabio CAPELLO"
+            },
+            {
+              "name": "Gianni RIVERA"
+            },
+            {
+              "name": "Giorgio CHINAGLIA"
+            },
+            {
+              "name": "Gigi RIVA"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Pietro ANASTASI"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Pietro ANASTASI",
+              "off": "Giorgio CHINAGLIA",
+              "minute": "70"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Henry FRANCILLON"
+            },
+            {
+              "name": "Arsene AUGUSTE"
+            },
+            {
+              "name": "Pierre BAYONNE"
+            },
+            {
+              "name": "Ernst JEAN-JOSEPH"
+            },
+            {
+              "name": "Wilner NAZAIRE",
+              "captain": true
+            },
+            {
+              "name": "Philippe VORBE"
+            },
+            {
+              "name": "Jean Claude DESIR"
+            },
+            {
+              "name": "Eddy ANTOINE"
+            },
+            {
+              "name": "Guy FRANCOIS"
+            },
+            {
+              "name": "Guy SAINT-VIL"
+            },
+            {
+              "name": "Emmanuel SANON"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Claude BARTHELEMY"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Claude BARTHELEMY",
+              "off": "Guy SAINT-VIL",
+              "minute": "45+1"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [],
+        [
+          {
+            "type": "Y",
+            "name": "Pierre BAYONNE",
+            "minute": "65"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Vicente LLOBREGAT",
+          "country": "VEN"
+        },
+        {
+          "name": "Jafar NAMDAR",
+          "country": "IRN"
+        },
+        {
+          "name": "Armando MARQUES",
+          "country": "BRA"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1974-06-15",
+      "time": "18:00 UTC+2",
+      "team1": "Poland",
+      "team2": "Argentina",
+      "score": [
+        3,
+        2
+      ],
+      "goals1": [
+        {
+          "name": "Grzegorz LATO",
+          "minute": "7"
+        },
+        {
+          "name": "Andrzej SZARMACH",
+          "minute": "8"
+        },
+        {
+          "name": "Grzegorz LATO",
+          "minute": "62"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Ramon HEREDIA",
+          "minute": "60"
+        },
+        {
+          "name": "Carlos BABINGTON",
+          "minute": "66"
+        }
+      ],
+      "ground": "Neckarstadion, Stuttgart",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Jan TOMASZEWSKI"
+            },
+            {
+              "name": "Antoni SZYMANOWSKI"
+            },
+            {
+              "name": "Jerzy GORGON"
+            },
+            {
+              "name": "Wladyslaw ZMUDA"
+            },
+            {
+              "name": "Adam MUSIAL"
+            },
+            {
+              "name": "Kazimierz DEYNA",
+              "captain": true
+            },
+            {
+              "name": "Henryk KASPERCZAK"
+            },
+            {
+              "name": "Zygmunt MASZCZYK"
+            },
+            {
+              "name": "Grzegorz LATO"
+            },
+            {
+              "name": "Andrzej SZARMACH"
+            },
+            {
+              "name": "Robert GADOCHA"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Jan DOMARSKI"
+            },
+            {
+              "name": "Leslaw CMIKIEWICZ"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Jan DOMARSKI",
+              "off": "Andrzej SZARMACH",
+              "minute": "70"
+            },
+            {
+              "on": "Leslaw CMIKIEWICZ",
+              "off": "Robert GADOCHA",
+              "minute": "85"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Daniel CARNEVALI"
+            },
+            {
+              "name": "Angel BARGAS"
+            },
+            {
+              "name": "Ramon HEREDIA"
+            },
+            {
+              "name": "Roberto PERFUMO",
+              "captain": true
+            },
+            {
+              "name": "Francisco SA"
+            },
+            {
+              "name": "Enrique WOLFF"
+            },
+            {
+              "name": "Miguel BRINDISI"
+            },
+            {
+              "name": "Ruben AYALA"
+            },
+            {
+              "name": "Carlos BABINGTON"
+            },
+            {
+              "name": "Agustin BALBUENA"
+            },
+            {
+              "name": "Mario KEMPES"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Roberto TELCH"
+            },
+            {
+              "name": "Rene HOUSEMAN"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Rene HOUSEMAN",
+              "off": "Miguel BRINDISI",
+              "minute": "45"
+            },
+            {
+              "on": "Roberto TELCH",
+              "off": "Angel BARGAS",
+              "minute": "67"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [],
+        [
+          {
+            "type": "Y",
+            "name": "Roberto PERFUMO",
+            "minute": "21"
+          },
+          {
+            "type": "Y",
+            "name": "Carlos BABINGTON",
+            "minute": "47"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Clive THOMAS",
+          "country": "WAL"
+        },
+        {
+          "name": "Heinz ALDINGER",
+          "country": "GER"
+        },
+        {
+          "name": "Bob DAVIDSON",
+          "country": "SCO"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1974-06-19",
+      "time": "19:30 UTC+2",
+      "team1": "Argentina",
+      "team2": "Italy",
+      "score": [
+        1,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Rene HOUSEMAN",
+          "minute": "19"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Roberto PERFUMO",
+          "minute": "35",
+          "owngoal": true
+        }
+      ],
+      "ground": "Neckarstadion, Stuttgart",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Daniel CARNEVALI"
+            },
+            {
+              "name": "Ramon HEREDIA"
+            },
+            {
+              "name": "Roberto PERFUMO",
+              "captain": true
+            },
+            {
+              "name": "Francisco SA"
+            },
+            {
+              "name": "Enrique WOLFF"
+            },
+            {
+              "name": "Roberto TELCH"
+            },
+            {
+              "name": "Ruben AYALA"
+            },
+            {
+              "name": "Carlos BABINGTON"
+            },
+            {
+              "name": "Rene HOUSEMAN"
+            },
+            {
+              "name": "Mario KEMPES"
+            },
+            {
+              "name": "Hector YAZALDE"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Ruben GLARIA"
+            },
+            {
+              "name": "Enrique CHAZARRETA"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Ruben GLARIA",
+              "off": "Enrique WOLFF",
+              "minute": "60"
+            },
+            {
+              "on": "Enrique CHAZARRETA",
+              "off": "Hector YAZALDE",
+              "minute": "78"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Dino ZOFF"
+            },
+            {
+              "name": "Luciano SPINOSI"
+            },
+            {
+              "name": "Giacinto FACCHETTI",
+              "captain": true
+            },
+            {
+              "name": "Francesco MORINI"
+            },
+            {
+              "name": "Tarcisio BURGNICH"
+            },
+            {
+              "name": "Romeo BENETTI"
+            },
+            {
+              "name": "Sandro MAZZOLA"
+            },
+            {
+              "name": "Fabio CAPELLO"
+            },
+            {
+              "name": "Gianni RIVERA"
+            },
+            {
+              "name": "Gigi RIVA"
+            },
+            {
+              "name": "Pietro ANASTASI"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Franco CAUSIO"
+            },
+            {
+              "name": "Giuseppe WILSON"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Giuseppe WILSON",
+              "off": "Gianni RIVERA",
+              "minute": "66"
+            },
+            {
+              "on": "Franco CAUSIO",
+              "off": "Francesco MORINI",
+              "minute": "66"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Carlos BABINGTON",
+            "minute": "54"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Romeo BENETTI",
+            "minute": "48"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Pavel KAZAKOV",
+          "country": "URS"
+        },
+        {
+          "name": "Nicolae RAINEA",
+          "country": "ROU"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1974-06-19",
+      "time": "19:30 UTC+2",
+      "team1": "Haiti",
+      "team2": "Poland",
+      "score": [
+        0,
+        7
+      ],
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Grzegorz LATO",
+          "minute": "17"
+        },
+        {
+          "name": "Kazimierz DEYNA",
+          "minute": "18"
+        },
+        {
+          "name": "Andrzej SZARMACH",
+          "minute": "30"
+        },
+        {
+          "name": "Jerzy GORGON",
+          "minute": "31"
+        },
+        {
+          "name": "Andrzej SZARMACH",
+          "minute": "34"
+        },
+        {
+          "name": "Andrzej SZARMACH",
+          "minute": "50"
+        },
+        {
+          "name": "Grzegorz LATO",
+          "minute": "87"
+        }
+      ],
+      "ground": "Olympiastadion, Munich",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Henry FRANCILLON"
+            },
+            {
+              "name": "Arsene AUGUSTE"
+            },
+            {
+              "name": "Fritz ANDRE"
+            },
+            {
+              "name": "Pierre BAYONNE"
+            },
+            {
+              "name": "Wilner NAZAIRE",
+              "captain": true
+            },
+            {
+              "name": "Philippe VORBE"
+            },
+            {
+              "name": "Jean Claude DESIR"
+            },
+            {
+              "name": "Eddy ANTOINE"
+            },
+            {
+              "name": "Guy FRANCOIS"
+            },
+            {
+              "name": "Roger SAINT-VIL"
+            },
+            {
+              "name": "Emmanuel SANON"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Claude BARTHELEMY"
+            },
+            {
+              "name": "Serge RACINE"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Claude BARTHELEMY",
+              "off": "Fritz ANDRE",
+              "minute": "37"
+            },
+            {
+              "on": "Serge RACINE",
+              "off": "Roger SAINT-VIL",
+              "minute": "45+1"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Jan TOMASZEWSKI"
+            },
+            {
+              "name": "Antoni SZYMANOWSKI"
+            },
+            {
+              "name": "Jerzy GORGON"
+            },
+            {
+              "name": "Wladyslaw ZMUDA"
+            },
+            {
+              "name": "Adam MUSIAL"
+            },
+            {
+              "name": "Kazimierz DEYNA",
+              "captain": true
+            },
+            {
+              "name": "Henryk KASPERCZAK"
+            },
+            {
+              "name": "Zygmunt MASZCZYK"
+            },
+            {
+              "name": "Grzegorz LATO"
+            },
+            {
+              "name": "Andrzej SZARMACH"
+            },
+            {
+              "name": "Robert GADOCHA"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Zbigniew GUT"
+            },
+            {
+              "name": "Leslaw CMIKIEWICZ"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Leslaw CMIKIEWICZ",
+              "off": "Zygmunt MASZCZYK",
+              "minute": "65"
+            },
+            {
+              "on": "Zbigniew GUT",
+              "off": "Adam MUSIAL",
+              "minute": "71"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Pierre BAYONNE",
+            "minute": "79"
+          }
+        ],
+        []
+      ],
+      "referees": [
+        {
+          "name": "George SUPPIAH",
+          "country": "SGP"
+        },
+        {
+          "name": "Ferdinand BIWERSI",
+          "country": "GER"
+        },
+        {
+          "name": "Walter ESCHWEILER",
+          "country": "GER"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1974-06-23",
+      "time": "16:00 UTC+2",
+      "team1": "Poland",
+      "team2": "Italy",
+      "score": [
+        2,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Andrzej SZARMACH",
+          "minute": "38"
+        },
+        {
+          "name": "Kazimierz DEYNA",
+          "minute": "44"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Fabio CAPELLO",
+          "minute": "85"
+        }
+      ],
+      "ground": "Neckarstadion, Stuttgart",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Jan TOMASZEWSKI"
+            },
+            {
+              "name": "Antoni SZYMANOWSKI"
+            },
+            {
+              "name": "Jerzy GORGON"
+            },
+            {
+              "name": "Wladyslaw ZMUDA"
+            },
+            {
+              "name": "Adam MUSIAL"
+            },
+            {
+              "name": "Kazimierz DEYNA",
+              "captain": true
+            },
+            {
+              "name": "Henryk KASPERCZAK"
+            },
+            {
+              "name": "Zygmunt MASZCZYK"
+            },
+            {
+              "name": "Grzegorz LATO"
+            },
+            {
+              "name": "Andrzej SZARMACH"
+            },
+            {
+              "name": "Robert GADOCHA"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Leslaw CMIKIEWICZ"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Leslaw CMIKIEWICZ",
+              "off": "Andrzej SZARMACH",
+              "minute": "78"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Dino ZOFF"
+            },
+            {
+              "name": "Luciano SPINOSI"
+            },
+            {
+              "name": "Giacinto FACCHETTI",
+              "captain": true
+            },
+            {
+              "name": "Francesco MORINI"
+            },
+            {
+              "name": "Tarcisio BURGNICH"
+            },
+            {
+              "name": "Romeo BENETTI"
+            },
+            {
+              "name": "Sandro MAZZOLA"
+            },
+            {
+              "name": "Fabio CAPELLO"
+            },
+            {
+              "name": "Franco CAUSIO"
+            },
+            {
+              "name": "Giorgio CHINAGLIA"
+            },
+            {
+              "name": "Pietro ANASTASI"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Giuseppe WILSON"
+            },
+            {
+              "name": "Roberto BONINSEGNA"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Giuseppe WILSON",
+              "off": "Tarcisio BURGNICH",
+              "minute": "33"
+            },
+            {
+              "on": "Roberto BONINSEGNA",
+              "off": "Giorgio CHINAGLIA",
+              "minute": "45+1"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Henryk KASPERCZAK",
+            "minute": "25"
+          },
+          {
+            "type": "Y",
+            "name": "Adam MUSIAL",
+            "minute": "84"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Roberto BONINSEGNA",
+            "minute": "71"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Hans Joachim WEYLAND",
+          "country": "FRG"
+        },
+        {
+          "name": "Werner WINSEMANN",
+          "country": "CAN"
+        },
+        {
+          "name": "Gerhard SCHULENBURG",
+          "country": "GER"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1974-06-23",
+      "time": "16:00 UTC+2",
+      "team1": "Argentina",
+      "team2": "Haiti",
+      "score": [
+        4,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Hector YAZALDE",
+          "minute": "15"
+        },
+        {
+          "name": "Rene HOUSEMAN",
+          "minute": "18"
+        },
+        {
+          "name": "Ruben AYALA",
+          "minute": "55"
+        },
+        {
+          "name": "Hector YAZALDE",
+          "minute": "68"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Emmanuel SANON",
+          "minute": "63"
+        }
+      ],
+      "ground": "Olympiastadion, Munich",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Daniel CARNEVALI"
+            },
+            {
+              "name": "Ramon HEREDIA"
+            },
+            {
+              "name": "Roberto PERFUMO",
+              "captain": true
+            },
+            {
+              "name": "Francisco SA"
+            },
+            {
+              "name": "Enrique WOLFF"
+            },
+            {
+              "name": "Roberto TELCH"
+            },
+            {
+              "name": "Ruben AYALA"
+            },
+            {
+              "name": "Carlos BABINGTON"
+            },
+            {
+              "name": "Rene HOUSEMAN"
+            },
+            {
+              "name": "Mario KEMPES"
+            },
+            {
+              "name": "Hector YAZALDE"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Miguel BRINDISI"
+            },
+            {
+              "name": "Agustin BALBUENA"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Agustin BALBUENA",
+              "off": "Mario KEMPES",
+              "minute": "52"
+            },
+            {
+              "on": "Miguel BRINDISI",
+              "off": "Rene HOUSEMAN",
+              "minute": "57"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Henry FRANCILLON"
+            },
+            {
+              "name": "Serge DUCOSTE"
+            },
+            {
+              "name": "Pierre BAYONNE"
+            },
+            {
+              "name": "Wilner NAZAIRE",
+              "captain": true
+            },
+            {
+              "name": "Wilfred LOUIS"
+            },
+            {
+              "name": "Philippe VORBE"
+            },
+            {
+              "name": "Jean Claude DESIR"
+            },
+            {
+              "name": "Eddy ANTOINE"
+            },
+            {
+              "name": "Serge RACINE"
+            },
+            {
+              "name": "Guy SAINT-VIL"
+            },
+            {
+              "name": "Emmanuel SANON"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Joseph-Marion LEANDRE"
+            },
+            {
+              "name": "Fritz LEANDRE"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Joseph-Marion LEANDRE",
+              "off": "Wilner NAZAIRE",
+              "minute": "25"
+            },
+            {
+              "on": "Fritz LEANDRE",
+              "off": "Guy SAINT-VIL",
+              "minute": "52"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Carlos BABINGTON",
+            "minute": "26"
+          },
+          {
+            "type": "Y",
+            "name": "Ramon HEREDIA",
+            "minute": "60"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Fritz LEANDRE",
+            "minute": "60"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Pablo SANCHEZ IBANEZ",
+          "country": "ESP"
+        },
+        {
+          "name": "Mahmoud KAMEL",
+          "country": "EGY"
+        },
+        {
+          "name": "Birame NDIAYE",
+          "country": "SEN"
+        }
+      ]
+    },
+    {
+      "round": "Second Round, Group A",
+      "date": "1974-06-26",
+      "time": "19:30 UTC+2",
+      "team1": "Brazil",
+      "team2": "East Germany",
+      "score": [
+        1,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "RIVELLINO",
+          "minute": "60"
+        }
+      ],
+      "goals2": [],
+      "ground": "Niedersachsenstadion, Hanover",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "LEAO"
+            },
+            {
+              "name": "LUIS PEREIRA"
+            },
+            {
+              "name": "MARINHO PERES",
+              "captain": true
+            },
+            {
+              "name": "ZE MARIA"
+            },
+            {
+              "name": "MARINHO CHAGAS"
+            },
+            {
+              "name": "RIVELLINO"
+            },
+            {
+              "name": "PAULO CESAR"
+            },
+            {
+              "name": "CARPEGIANI"
+            },
+            {
+              "name": "DIRCEU"
+            },
+            {
+              "name": "JAIRZINHO"
+            },
+            {
+              "name": "VALDOMIRO"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Juergen CROY"
+            },
+            {
+              "name": "Lothar KURBJUWEIT"
+            },
+            {
+              "name": "Bernd BRANSCH",
+              "captain": true
+            },
+            {
+              "name": "Konrad WEISE"
+            },
+            {
+              "name": "Siegmar WAETZLICH"
+            },
+            {
+              "name": "Gerd KISCHE"
+            },
+            {
+              "name": "Reinhard LAUCK"
+            },
+            {
+              "name": "Juergen SPARWASSER"
+            },
+            {
+              "name": "Erich HAMANN"
+            },
+            {
+              "name": "Joachim STREICH"
+            },
+            {
+              "name": "Martin HOFFMANN"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Wolfram LOEWE"
+            },
+            {
+              "name": "Harald IRMSCHER"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Harald IRMSCHER",
+              "off": "Erich HAMANN",
+              "minute": "45+1"
+            },
+            {
+              "on": "Wolfram LOEWE",
+              "off": "Reinhard LAUCK",
+              "minute": "64"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "JAIRZINHO",
+            "minute": "27"
+          },
+          {
+            "type": "Y",
+            "name": "CARPEGIANI",
+            "minute": "28"
+          },
+          {
+            "type": "Y",
+            "name": "DIRCEU",
+            "minute": "75"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Erich HAMANN",
+            "minute": "11"
+          },
+          {
+            "type": "Y",
+            "name": "Joachim STREICH",
+            "minute": "84"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Clive THOMAS",
+          "country": "WAL"
+        },
+        {
+          "name": "Dogan BABACAN",
+          "country": "TUR"
+        },
+        {
+          "name": "Tony BOSKOVIC",
+          "country": "AUS"
+        }
+      ]
+    },
+    {
+      "round": "Second Round, Group A",
+      "date": "1974-06-26",
+      "time": "19:30 UTC+2",
+      "team1": "Netherlands",
+      "team2": "Argentina",
+      "score": [
+        4,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Johan CRUYFF",
+          "minute": "10"
+        },
+        {
+          "name": "Ruud KROL",
+          "minute": "25"
+        },
+        {
+          "name": "Johnny REP",
+          "minute": "73"
+        },
+        {
+          "name": "Johan CRUYFF",
+          "minute": "90"
+        }
+      ],
+      "goals2": [],
+      "ground": "Parkstadion, Gelsenkirchen",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Jan JONGBLOED"
+            },
+            {
+              "name": "Ruud KROL"
+            },
+            {
+              "name": "Wim RIJSBERGEN"
+            },
+            {
+              "name": "Wim SUURBIER"
+            },
+            {
+              "name": "Arie HAAN"
+            },
+            {
+              "name": "Wim VAN HANEGEM"
+            },
+            {
+              "name": "Wim JANSEN"
+            },
+            {
+              "name": "Johan NEESKENS"
+            },
+            {
+              "name": "Johan CRUYFF",
+              "captain": true
+            },
+            {
+              "name": "Rob RENSENBRINK"
+            },
+            {
+              "name": "Johnny REP"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Rinus ISRAEL"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Rinus ISRAEL",
+              "off": "Wim SUURBIER",
+              "minute": "84"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Daniel CARNEVALI"
+            },
+            {
+              "name": "Ramon HEREDIA"
+            },
+            {
+              "name": "Roberto PERFUMO",
+              "captain": true
+            },
+            {
+              "name": "Francisco SA"
+            },
+            {
+              "name": "Carlos SQUEO"
+            },
+            {
+              "name": "Enrique WOLFF"
+            },
+            {
+              "name": "Roberto TELCH"
+            },
+            {
+              "name": "Ruben AYALA"
+            },
+            {
+              "name": "Agustin BALBUENA"
+            },
+            {
+              "name": "Rene HOUSEMAN"
+            },
+            {
+              "name": "Hector YAZALDE"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Mario KEMPES"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Mario KEMPES",
+              "off": "Enrique WOLFF",
+              "minute": "45+1"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Johan NEESKENS",
+            "minute": "22"
+          },
+          {
+            "type": "Y",
+            "name": "Wim SUURBIER",
+            "minute": "58"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Roberto PERFUMO",
+            "minute": "35"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Bob DAVIDSON",
+          "country": "SCO"
+        },
+        {
+          "name": "Kurt TSCHENSCHER",
+          "country": "GER"
+        },
+        {
+          "name": "Pavel KAZAKOV",
+          "country": "URS"
+        }
+      ]
+    },
+    {
+      "round": "Second Round, Group A",
+      "date": "1974-06-30",
+      "time": "16:00 UTC+2",
+      "team1": "East Germany",
+      "team2": "Netherlands",
+      "score": [
+        0,
+        2
+      ],
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Johan NEESKENS",
+          "minute": "7"
+        },
+        {
+          "name": "Rob RENSENBRINK",
+          "minute": "59"
+        }
+      ],
+      "ground": "Parkstadion, Gelsenkirchen",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Juergen CROY"
+            },
+            {
+              "name": "Lothar KURBJUWEIT"
+            },
+            {
+              "name": "Bernd BRANSCH",
+              "captain": true
+            },
+            {
+              "name": "Konrad WEISE"
+            },
+            {
+              "name": "Gerd KISCHE"
+            },
+            {
+              "name": "Ruediger SCHNUPHASE"
+            },
+            {
+              "name": "Juergen POMMERENKE"
+            },
+            {
+              "name": "Reinhard LAUCK"
+            },
+            {
+              "name": "Juergen SPARWASSER"
+            },
+            {
+              "name": "Wolfram LOEWE"
+            },
+            {
+              "name": "Martin HOFFMANN"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Hans-Juergen KREISCHE"
+            },
+            {
+              "name": "Peter DUCKE"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Peter DUCKE",
+              "off": "Wolfram LOEWE",
+              "minute": "54"
+            },
+            {
+              "on": "Hans-Juergen KREISCHE",
+              "off": "Reinhard LAUCK",
+              "minute": "64"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Jan JONGBLOED"
+            },
+            {
+              "name": "Ruud KROL"
+            },
+            {
+              "name": "Wim RIJSBERGEN"
+            },
+            {
+              "name": "Wim SUURBIER"
+            },
+            {
+              "name": "Arie HAAN"
+            },
+            {
+              "name": "Wim VAN HANEGEM"
+            },
+            {
+              "name": "Wim JANSEN"
+            },
+            {
+              "name": "Johan NEESKENS"
+            },
+            {
+              "name": "Johan CRUYFF",
+              "captain": true
+            },
+            {
+              "name": "Rob RENSENBRINK"
+            },
+            {
+              "name": "Johnny REP"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Ruedi SCHEURER",
+          "country": "SUI"
+        },
+        {
+          "name": "Erich LINEMAYR",
+          "country": "AUT"
+        },
+        {
+          "name": "Omar DELGADO",
+          "country": "COL"
+        }
+      ]
+    },
+    {
+      "round": "Second Round, Group A",
+      "date": "1974-06-30",
+      "time": "16:00 UTC+2",
+      "team1": "Argentina",
+      "team2": "Brazil",
+      "score": [
+        1,
+        2
+      ],
+      "goals1": [
+        {
+          "name": "Miguel BRINDISI",
+          "minute": "35"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "RIVELLINO",
+          "minute": "32"
+        },
+        {
+          "name": "JAIRZINHO",
+          "minute": "49"
+        }
+      ],
+      "ground": "Niedersachsenstadion, Hanover",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Daniel CARNEVALI"
+            },
+            {
+              "name": "Angel BARGAS"
+            },
+            {
+              "name": "Ruben GLARIA"
+            },
+            {
+              "name": "Ramon HEREDIA"
+            },
+            {
+              "name": "Francisco SA"
+            },
+            {
+              "name": "Carlos SQUEO"
+            },
+            {
+              "name": "Miguel BRINDISI",
+              "captain": true
+            },
+            {
+              "name": "Ruben AYALA"
+            },
+            {
+              "name": "Carlos BABINGTON"
+            },
+            {
+              "name": "Agustin BALBUENA"
+            },
+            {
+              "name": "Mario KEMPES"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Rene HOUSEMAN"
+            },
+            {
+              "name": "Jorge CARRASCOSA"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Jorge CARRASCOSA",
+              "off": "Mario KEMPES",
+              "minute": "45+1"
+            },
+            {
+              "on": "Rene HOUSEMAN",
+              "off": "Francisco SA",
+              "minute": "45+1"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "LEAO"
+            },
+            {
+              "name": "LUIS PEREIRA"
+            },
+            {
+              "name": "MARINHO PERES",
+              "captain": true
+            },
+            {
+              "name": "ZE MARIA"
+            },
+            {
+              "name": "MARINHO CHAGAS"
+            },
+            {
+              "name": "RIVELLINO"
+            },
+            {
+              "name": "PAULO CESAR"
+            },
+            {
+              "name": "CARPEGIANI"
+            },
+            {
+              "name": "DIRCEU"
+            },
+            {
+              "name": "JAIRZINHO"
+            },
+            {
+              "name": "VALDOMIRO"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Rene HOUSEMAN",
+            "minute": "72"
+          }
+        ],
+        []
+      ],
+      "referees": [
+        {
+          "name": "Vital LORAUX",
+          "country": "BEL"
+        },
+        {
+          "name": "Birame NDIAYE",
+          "country": "SEN"
+        },
+        {
+          "name": "John TAYLOR",
+          "country": "ENG"
+        }
+      ]
+    },
+    {
+      "round": "Second Round, Group A",
+      "date": "1974-07-03",
+      "time": "19:30 UTC+2",
+      "team1": "Argentina",
+      "team2": "East Germany",
+      "score": [
+        1,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Rene HOUSEMAN",
+          "minute": "20"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Joachim STREICH",
+          "minute": "14"
+        }
+      ],
+      "ground": "Parkstadion, Gelsenkirchen",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Ubaldo FILLOL"
+            },
+            {
+              "name": "Angel BARGAS"
+            },
+            {
+              "name": "Jorge CARRASCOSA"
+            },
+            {
+              "name": "Ramon HEREDIA"
+            },
+            {
+              "name": "Enrique WOLFF",
+              "captain": true
+            },
+            {
+              "name": "Miguel BRINDISI"
+            },
+            {
+              "name": "Roberto TELCH"
+            },
+            {
+              "name": "Ruben AYALA"
+            },
+            {
+              "name": "Carlos BABINGTON"
+            },
+            {
+              "name": "Rene HOUSEMAN"
+            },
+            {
+              "name": "Mario KEMPES"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Juergen CROY"
+            },
+            {
+              "name": "Lothar KURBJUWEIT"
+            },
+            {
+              "name": "Bernd BRANSCH",
+              "captain": true
+            },
+            {
+              "name": "Konrad WEISE"
+            },
+            {
+              "name": "Gerd KISCHE"
+            },
+            {
+              "name": "Ruediger SCHNUPHASE"
+            },
+            {
+              "name": "Juergen POMMERENKE"
+            },
+            {
+              "name": "Juergen SPARWASSER"
+            },
+            {
+              "name": "Wolfram LOEWE"
+            },
+            {
+              "name": "Joachim STREICH"
+            },
+            {
+              "name": "Martin HOFFMANN"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Eberhard VOGEL"
+            },
+            {
+              "name": "Peter DUCKE"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Eberhard VOGEL",
+              "off": "Wolfram LOEWE",
+              "minute": "65"
+            },
+            {
+              "on": "Peter DUCKE",
+              "off": "Joachim STREICH",
+              "minute": "80"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Angel BARGAS",
+            "minute": "68"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Juergen SPARWASSER",
+            "minute": "23"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "John TAYLOR",
+          "country": "ENG"
+        },
+        {
+          "name": "Mahmoud KAMEL",
+          "country": "EGY"
+        },
+        {
+          "name": "Clive THOMAS",
+          "country": "WAL"
+        }
+      ]
+    },
+    {
+      "round": "Second Round, Group A",
+      "date": "1974-07-03",
+      "time": "19:30 UTC+2",
+      "team1": "Netherlands",
+      "team2": "Brazil",
+      "score": [
+        2,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Johan NEESKENS",
+          "minute": "50"
+        },
+        {
+          "name": "Johan CRUYFF",
+          "minute": "65"
+        }
+      ],
+      "goals2": [],
+      "ground": "Westfalenstadion, Dortmund",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Jan JONGBLOED"
+            },
+            {
+              "name": "Ruud KROL"
+            },
+            {
+              "name": "Wim RIJSBERGEN"
+            },
+            {
+              "name": "Wim SUURBIER"
+            },
+            {
+              "name": "Arie HAAN"
+            },
+            {
+              "name": "Wim VAN HANEGEM"
+            },
+            {
+              "name": "Wim JANSEN"
+            },
+            {
+              "name": "Johan NEESKENS"
+            },
+            {
+              "name": "Johan CRUYFF",
+              "captain": true
+            },
+            {
+              "name": "Rob RENSENBRINK"
+            },
+            {
+              "name": "Johnny REP"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Rinus ISRAEL"
+            },
+            {
+              "name": "Theo DE JONG"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Theo DE JONG",
+              "off": "Rob RENSENBRINK",
+              "minute": "67"
+            },
+            {
+              "on": "Rinus ISRAEL",
+              "off": "Johan NEESKENS",
+              "minute": "85"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "LEAO"
+            },
+            {
+              "name": "LUIS PEREIRA"
+            },
+            {
+              "name": "MARINHO PERES",
+              "captain": true
+            },
+            {
+              "name": "ZE MARIA"
+            },
+            {
+              "name": "MARINHO CHAGAS"
+            },
+            {
+              "name": "RIVELLINO"
+            },
+            {
+              "name": "PAULO CESAR"
+            },
+            {
+              "name": "CARPEGIANI"
+            },
+            {
+              "name": "DIRCEU"
+            },
+            {
+              "name": "JAIRZINHO"
+            },
+            {
+              "name": "VALDOMIRO"
+            }
+          ],
+          "bench": [
+            {
+              "name": "MIRANDINHA"
+            }
+          ],
+          "subs": [
+            {
+              "on": "MIRANDINHA",
+              "off": "PAULO CESAR",
+              "minute": "61"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Wim SUURBIER",
+            "minute": "30"
+          },
+          {
+            "type": "Y",
+            "name": "Johnny REP",
+            "minute": "69"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "LUIS PEREIRA",
+            "minute": "29"
+          },
+          {
+            "type": "Y",
+            "name": "ZE MARIA",
+            "minute": "37"
+          },
+          {
+            "type": "Y",
+            "name": "MARINHO PERES",
+            "minute": "44"
+          },
+          {
+            "type": "R",
+            "name": "LUIS PEREIRA",
+            "minute": "84"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Kurt TSCHENSCHER",
+          "country": "GER"
+        },
+        {
+          "name": "Bob DAVIDSON",
+          "country": "SCO"
+        },
+        {
+          "name": "George SUPPIAH",
+          "country": "SGP"
+        }
+      ]
+    },
+    {
+      "round": "Second Round, Group B",
+      "date": "1974-06-26",
+      "time": "16:00 UTC+2",
+      "team1": "Yugoslavia",
+      "team2": "West Germany",
+      "score": [
+        0,
+        2
+      ],
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Paul BREITNER",
+          "minute": "39"
+        },
+        {
+          "name": "Gerd MUELLER",
+          "minute": "82"
+        }
+      ],
+      "ground": "Rheinstadion, Düsseldorf",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Enver MARIC"
+            },
+            {
+              "name": "Ivan BULJAN"
+            },
+            {
+              "name": "Enver HADZIABDIC"
+            },
+            {
+              "name": "Drazen MUZINIC"
+            },
+            {
+              "name": "Josip KATALINSKI"
+            },
+            {
+              "name": "Branko OBLAK"
+            },
+            {
+              "name": "Jovan ACIMOVIC"
+            },
+            {
+              "name": "Ivica SURJAK"
+            },
+            {
+              "name": "Dragan DZAJIC",
+              "captain": true
+            },
+            {
+              "name": "Danilo POPIVODA"
+            },
+            {
+              "name": "Stanislav KARASI"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Jurica JERKOVIC"
+            },
+            {
+              "name": "Ilija PETKOVIC"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Ilija PETKOVIC",
+              "off": "Dragan DZAJIC",
+              "minute": "84"
+            },
+            {
+              "on": "Jurica JERKOVIC",
+              "off": "Branko OBLAK",
+              "minute": "84"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Sepp MAIER"
+            },
+            {
+              "name": "Berti VOGTS"
+            },
+            {
+              "name": "Paul BREITNER"
+            },
+            {
+              "name": "Hans Georg SCHWARZENBECK"
+            },
+            {
+              "name": "Franz BECKENBAUER",
+              "captain": true
+            },
+            {
+              "name": "Herbert WIMMER"
+            },
+            {
+              "name": "Wolfgang OVERATH"
+            },
+            {
+              "name": "Rainer BONHOF"
+            },
+            {
+              "name": "Gerd MUELLER"
+            },
+            {
+              "name": "Bernd HOELZENBEIN"
+            },
+            {
+              "name": "Dieter HERZOG"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Uli HOENESS"
+            },
+            {
+              "name": "Heinz FLOHE"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Uli HOENESS",
+              "off": "Herbert WIMMER",
+              "minute": "73"
+            },
+            {
+              "on": "Heinz FLOHE",
+              "off": "Bernd HOELZENBEIN",
+              "minute": "78"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Ivan BULJAN",
+            "minute": "36"
+          },
+          {
+            "type": "Y",
+            "name": "Enver HADZIABDIC",
+            "minute": "61"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Wolfgang OVERATH",
+            "minute": "16"
+          },
+          {
+            "type": "Y",
+            "name": "Berti VOGTS",
+            "minute": "35"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Armando MARQUES",
+          "country": "BRA"
+        },
+        {
+          "name": "Aurelio ANGONESE",
+          "country": "ITA"
+        },
+        {
+          "name": "Edison A. PEREZ NUNEZ",
+          "country": "PER"
+        }
+      ]
+    },
+    {
+      "round": "Second Round, Group B",
+      "date": "1974-06-26",
+      "time": "19:30 UTC+2",
+      "team1": "Sweden",
+      "team2": "Poland",
+      "score": [
+        0,
+        1
+      ],
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Grzegorz LATO",
+          "minute": "43"
+        }
+      ],
+      "ground": "Neckarstadion, Stuttgart",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Ronnie HELLSTROM"
+            },
+            {
+              "name": "Kent KARLSSON"
+            },
+            {
+              "name": "Bjorn NORDQVIST"
+            },
+            {
+              "name": "Bjorn ANDERSSON"
+            },
+            {
+              "name": "Roland GRIP"
+            },
+            {
+              "name": "Ove GRAHN"
+            },
+            {
+              "name": "Bo LARSSON",
+              "captain": true
+            },
+            {
+              "name": "Staffan TAPPER"
+            },
+            {
+              "name": "Conny TORSTENSSON"
+            },
+            {
+              "name": "Ralf EDSTROM"
+            },
+            {
+              "name": "Roland SANDBERG"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Jorgen AUGUSTSSON"
+            },
+            {
+              "name": "Thomas AHLSTROM"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Jorgen AUGUSTSSON",
+              "off": "Bjorn ANDERSSON",
+              "minute": "60"
+            },
+            {
+              "on": "Thomas AHLSTROM",
+              "off": "Staffan TAPPER",
+              "minute": "80"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Jan TOMASZEWSKI"
+            },
+            {
+              "name": "Antoni SZYMANOWSKI"
+            },
+            {
+              "name": "Zbigniew GUT"
+            },
+            {
+              "name": "Jerzy GORGON"
+            },
+            {
+              "name": "Wladyslaw ZMUDA"
+            },
+            {
+              "name": "Kazimierz DEYNA",
+              "captain": true
+            },
+            {
+              "name": "Henryk KASPERCZAK"
+            },
+            {
+              "name": "Zygmunt MASZCZYK"
+            },
+            {
+              "name": "Grzegorz LATO"
+            },
+            {
+              "name": "Andrzej SZARMACH"
+            },
+            {
+              "name": "Robert GADOCHA"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Kazimierz KMIECIK"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Kazimierz KMIECIK",
+              "off": "Andrzej SZARMACH",
+              "minute": "60"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [],
+        [
+          {
+            "type": "Y",
+            "name": "Andrzej SZARMACH",
+            "minute": "44"
+          },
+          {
+            "type": "Y",
+            "name": "Jerzy GORGON",
+            "minute": "49"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Ramon BARRETO RUIZ",
+          "country": "URU"
+        },
+        {
+          "name": "Alfonso GONZALEZ ARCHUNDIA",
+          "country": "MEX"
+        },
+        {
+          "name": "Luis PESTARINO",
+          "country": "ARG"
+        }
+      ]
+    },
+    {
+      "round": "Second Round, Group B",
+      "date": "1974-06-30",
+      "time": "16:00 UTC+2",
+      "team1": "Poland",
+      "team2": "Yugoslavia",
+      "score": [
+        2,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Kazimierz DEYNA",
+          "minute": "24",
+          "penalty": true
+        },
+        {
+          "name": "Grzegorz LATO",
+          "minute": "62"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Stanislav KARASI",
+          "minute": "43"
+        }
+      ],
+      "ground": "Waldstadion, Frankfurt",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Jan TOMASZEWSKI"
+            },
+            {
+              "name": "Antoni SZYMANOWSKI"
+            },
+            {
+              "name": "Jerzy GORGON"
+            },
+            {
+              "name": "Wladyslaw ZMUDA"
+            },
+            {
+              "name": "Adam MUSIAL"
+            },
+            {
+              "name": "Kazimierz DEYNA",
+              "captain": true
+            },
+            {
+              "name": "Henryk KASPERCZAK"
+            },
+            {
+              "name": "Zygmunt MASZCZYK"
+            },
+            {
+              "name": "Grzegorz LATO"
+            },
+            {
+              "name": "Andrzej SZARMACH"
+            },
+            {
+              "name": "Robert GADOCHA"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Jan DOMARSKI"
+            },
+            {
+              "name": "Leslaw CMIKIEWICZ"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Leslaw CMIKIEWICZ",
+              "off": "Andrzej SZARMACH",
+              "minute": "57"
+            },
+            {
+              "on": "Jan DOMARSKI",
+              "off": "Kazimierz DEYNA",
+              "minute": "80"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Enver MARIC"
+            },
+            {
+              "name": "Ivan BULJAN"
+            },
+            {
+              "name": "Enver HADZIABDIC"
+            },
+            {
+              "name": "Josip KATALINSKI"
+            },
+            {
+              "name": "Vladislav BOGICEVIC"
+            },
+            {
+              "name": "Ilija PETKOVIC"
+            },
+            {
+              "name": "Branko OBLAK"
+            },
+            {
+              "name": "Jovan ACIMOVIC",
+              "captain": true
+            },
+            {
+              "name": "Ivica SURJAK"
+            },
+            {
+              "name": "Stanislav KARASI"
+            },
+            {
+              "name": "Dusan BAJEVIC"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Vladimir PETROVIC"
+            },
+            {
+              "name": "Jurica JERKOVIC"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Jurica JERKOVIC",
+              "off": "Branko OBLAK",
+              "minute": "16"
+            },
+            {
+              "on": "Vladimir PETROVIC",
+              "off": "Ilija PETKOVIC",
+              "minute": "81"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Armando MARQUES",
+          "country": "BRA"
+        },
+        {
+          "name": "Werner WINSEMANN",
+          "country": "CAN"
+        }
+      ]
+    },
+    {
+      "round": "Second Round, Group B",
+      "date": "1974-06-30",
+      "time": "19:30 UTC+2",
+      "team1": "West Germany",
+      "team2": "Sweden",
+      "score": [
+        4,
+        2
+      ],
+      "goals1": [
+        {
+          "name": "Wolfgang OVERATH",
+          "minute": "51"
+        },
+        {
+          "name": "Rainer BONHOF",
+          "minute": "52"
+        },
+        {
+          "name": "Juergen GRABOWSKI",
+          "minute": "76"
+        },
+        {
+          "name": "Uli HOENESS",
+          "minute": "89",
+          "penalty": true
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Ralf EDSTROM",
+          "minute": "24"
+        },
+        {
+          "name": "Roland SANDBERG",
+          "minute": "53"
+        }
+      ],
+      "ground": "Rheinstadion, Düsseldorf",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Sepp MAIER"
+            },
+            {
+              "name": "Berti VOGTS"
+            },
+            {
+              "name": "Paul BREITNER"
+            },
+            {
+              "name": "Hans Georg SCHWARZENBECK"
+            },
+            {
+              "name": "Franz BECKENBAUER",
+              "captain": true
+            },
+            {
+              "name": "Wolfgang OVERATH"
+            },
+            {
+              "name": "Uli HOENESS"
+            },
+            {
+              "name": "Rainer BONHOF"
+            },
+            {
+              "name": "Gerd MUELLER"
+            },
+            {
+              "name": "Bernd HOELZENBEIN"
+            },
+            {
+              "name": "Dieter HERZOG"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Heinz FLOHE"
+            },
+            {
+              "name": "Juergen GRABOWSKI"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Juergen GRABOWSKI",
+              "off": "Dieter HERZOG",
+              "minute": "64"
+            },
+            {
+              "on": "Heinz FLOHE",
+              "off": "Bernd HOELZENBEIN",
+              "minute": "83"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Ronnie HELLSTROM"
+            },
+            {
+              "name": "Jan OLSSON"
+            },
+            {
+              "name": "Kent KARLSSON"
+            },
+            {
+              "name": "Bjorn NORDQVIST"
+            },
+            {
+              "name": "Jorgen AUGUSTSSON"
+            },
+            {
+              "name": "Ove GRAHN"
+            },
+            {
+              "name": "Bo LARSSON",
+              "captain": true
+            },
+            {
+              "name": "Staffan TAPPER"
+            },
+            {
+              "name": "Conny TORSTENSSON"
+            },
+            {
+              "name": "Ralf EDSTROM"
+            },
+            {
+              "name": "Roland SANDBERG"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Inge EJDERSTEDT"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Inge EJDERSTEDT",
+              "off": "Bo LARSSON",
+              "minute": "32"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [],
+        [
+          {
+            "type": "Y",
+            "name": "Ove GRAHN",
+            "minute": "45"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Pavel KAZAKOV",
+          "country": "URS"
+        },
+        {
+          "name": "Nicolae RAINEA",
+          "country": "ROU"
+        },
+        {
+          "name": "Pablo SANCHEZ IBANEZ",
+          "country": "ESP"
+        }
+      ]
+    },
+    {
+      "round": "Second Round, Group B",
+      "date": "1974-07-03",
+      "time": "17:00 UTC+2",
+      "team1": "Poland",
+      "team2": "West Germany",
+      "score": [
+        0,
+        1
+      ],
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Gerd MUELLER",
+          "minute": "76"
+        }
+      ],
+      "ground": "Waldstadion, Frankfurt",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Jan TOMASZEWSKI"
+            },
+            {
+              "name": "Antoni SZYMANOWSKI"
+            },
+            {
+              "name": "Jerzy GORGON"
+            },
+            {
+              "name": "Wladyslaw ZMUDA"
+            },
+            {
+              "name": "Adam MUSIAL"
+            },
+            {
+              "name": "Kazimierz DEYNA",
+              "captain": true
+            },
+            {
+              "name": "Henryk KASPERCZAK"
+            },
+            {
+              "name": "Zygmunt MASZCZYK"
+            },
+            {
+              "name": "Grzegorz LATO"
+            },
+            {
+              "name": "Robert GADOCHA"
+            },
+            {
+              "name": "Jan DOMARSKI"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Kazimierz KMIECIK"
+            },
+            {
+              "name": "Leslaw CMIKIEWICZ"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Leslaw CMIKIEWICZ",
+              "off": "Zygmunt MASZCZYK",
+              "minute": "80"
+            },
+            {
+              "on": "Kazimierz KMIECIK",
+              "off": "Henryk KASPERCZAK",
+              "minute": "80"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Sepp MAIER"
+            },
+            {
+              "name": "Berti VOGTS"
+            },
+            {
+              "name": "Paul BREITNER"
+            },
+            {
+              "name": "Hans Georg SCHWARZENBECK"
+            },
+            {
+              "name": "Franz BECKENBAUER",
+              "captain": true
+            },
+            {
+              "name": "Wolfgang OVERATH"
+            },
+            {
+              "name": "Uli HOENESS"
+            },
+            {
+              "name": "Rainer BONHOF"
+            },
+            {
+              "name": "Juergen GRABOWSKI"
+            },
+            {
+              "name": "Gerd MUELLER"
+            },
+            {
+              "name": "Bernd HOELZENBEIN"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Erich LINEMAYR",
+          "country": "AUT"
+        },
+        {
+          "name": "Karoly PALOTAI",
+          "country": "HUN"
+        },
+        {
+          "name": "Ruedi SCHEURER",
+          "country": "SUI"
+        }
+      ]
+    },
+    {
+      "round": "Second Round, Group B",
+      "date": "1974-07-03",
+      "time": "19:30 UTC+2",
+      "team1": "Sweden",
+      "team2": "Yugoslavia",
+      "score": [
+        2,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Ralf EDSTROM",
+          "minute": "29"
+        },
+        {
+          "name": "Conny TORSTENSSON",
+          "minute": "85"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Ivica SURJAK",
+          "minute": "27"
+        }
+      ],
+      "ground": "Rheinstadion, Düsseldorf",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Ronnie HELLSTROM"
+            },
+            {
+              "name": "Jan OLSSON"
+            },
+            {
+              "name": "Kent KARLSSON"
+            },
+            {
+              "name": "Bjorn NORDQVIST",
+              "captain": true
+            },
+            {
+              "name": "Jorgen AUGUSTSSON"
+            },
+            {
+              "name": "Ove GRAHN"
+            },
+            {
+              "name": "Staffan TAPPER"
+            },
+            {
+              "name": "Orjan PERSSON"
+            },
+            {
+              "name": "Conny TORSTENSSON"
+            },
+            {
+              "name": "Ralf EDSTROM"
+            },
+            {
+              "name": "Roland SANDBERG"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Enver MARIC"
+            },
+            {
+              "name": "Ivan BULJAN"
+            },
+            {
+              "name": "Enver HADZIABDIC"
+            },
+            {
+              "name": "Josip KATALINSKI"
+            },
+            {
+              "name": "Vladislav BOGICEVIC"
+            },
+            {
+              "name": "Jovan ACIMOVIC"
+            },
+            {
+              "name": "Jurica JERKOVIC"
+            },
+            {
+              "name": "Miroslav PAVLOVIC"
+            },
+            {
+              "name": "Vladimir PETROVIC"
+            },
+            {
+              "name": "Ivica SURJAK"
+            },
+            {
+              "name": "Dragan DZAJIC",
+              "captain": true
+            }
+          ],
+          "bench": [
+            {
+              "name": "Luka PERUZOVIC"
+            },
+            {
+              "name": "Stanislav KARASI"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Stanislav KARASI",
+              "off": "Vladimir PETROVIC",
+              "minute": "70"
+            },
+            {
+              "on": "Luka PERUZOVIC",
+              "off": "Miroslav PAVLOVIC",
+              "minute": "78"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [],
+        [
+          {
+            "type": "Y",
+            "name": "Josip KATALINSKI",
+            "minute": "71"
+          },
+          {
+            "type": "Y",
+            "name": "Stanislav KARASI",
+            "minute": "81"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Luis PESTARINO",
+          "country": "ARG"
+        },
+        {
+          "name": "Ramon BARRETO RUIZ",
+          "country": "URU"
+        },
+        {
+          "name": "Vicente LLOBREGAT",
+          "country": "VEN"
+        }
+      ]
+    },
+    {
+      "round": "Match for third place",
+      "date": "1974-07-06",
+      "time": "16:00 UTC+2",
+      "team1": "Brazil",
+      "team2": "Poland",
+      "score": [
+        0,
+        1
+      ],
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Grzegorz LATO",
+          "minute": "76"
+        }
+      ],
+      "ground": "Olympiastadion, Munich",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "LEAO"
+            },
+            {
+              "name": "MARINHO PERES",
+              "captain": true
+            },
+            {
+              "name": "ZE MARIA"
+            },
+            {
+              "name": "MARINHO CHAGAS"
+            },
+            {
+              "name": "ALFREDO"
+            },
+            {
+              "name": "RIVELLINO"
+            },
+            {
+              "name": "CARPEGIANI"
+            },
+            {
+              "name": "ADEMIR DA GUIA"
+            },
+            {
+              "name": "DIRCEU"
+            },
+            {
+              "name": "JAIRZINHO"
+            },
+            {
+              "name": "VALDOMIRO"
+            }
+          ],
+          "bench": [
+            {
+              "name": "MIRANDINHA"
+            }
+          ],
+          "subs": [
+            {
+              "on": "MIRANDINHA",
+              "off": "ADEMIR DA GUIA",
+              "minute": "66"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Jan TOMASZEWSKI"
+            },
+            {
+              "name": "Antoni SZYMANOWSKI"
+            },
+            {
+              "name": "Jerzy GORGON"
+            },
+            {
+              "name": "Wladyslaw ZMUDA"
+            },
+            {
+              "name": "Adam MUSIAL"
+            },
+            {
+              "name": "Kazimierz DEYNA",
+              "captain": true
+            },
+            {
+              "name": "Henryk KASPERCZAK"
+            },
+            {
+              "name": "Zygmunt MASZCZYK"
+            },
+            {
+              "name": "Grzegorz LATO"
+            },
+            {
+              "name": "Andrzej SZARMACH"
+            },
+            {
+              "name": "Robert GADOCHA"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Leslaw CMIKIEWICZ"
+            },
+            {
+              "name": "Zdzislaw KAPKA"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Leslaw CMIKIEWICZ",
+              "off": "Henryk KASPERCZAK",
+              "minute": "73"
+            },
+            {
+              "on": "Zdzislaw KAPKA",
+              "off": "Andrzej SZARMACH",
+              "minute": "75"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "JAIRZINHO",
+            "minute": "76"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Henryk KASPERCZAK",
+            "minute": "71"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Aurelio ANGONESE",
+          "country": "ITA"
+        },
+        {
+          "name": "Jafar NAMDAR",
+          "country": "IRN"
+        },
+        {
+          "name": "Birame NDIAYE",
+          "country": "SEN"
+        }
+      ]
+    },
+    {
+      "round": "Final",
+      "date": "1974-07-07",
+      "time": "16:00 UTC+2",
+      "team1": "Netherlands",
+      "team2": "West Germany",
+      "score": [
+        1,
+        2
+      ],
+      "goals1": [
+        {
+          "name": "Johan NEESKENS",
+          "minute": "2",
+          "penalty": true
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Paul BREITNER",
+          "minute": "25",
+          "penalty": true
+        },
+        {
+          "name": "Gerd MUELLER",
+          "minute": "43"
+        }
+      ],
+      "ground": "Olympiastadion, Munich",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Jan JONGBLOED"
+            },
+            {
+              "name": "Ruud KROL"
+            },
+            {
+              "name": "Wim RIJSBERGEN"
+            },
+            {
+              "name": "Wim SUURBIER"
+            },
+            {
+              "name": "Arie HAAN"
+            },
+            {
+              "name": "Wim VAN HANEGEM"
+            },
+            {
+              "name": "Wim JANSEN"
+            },
+            {
+              "name": "Johan NEESKENS"
+            },
+            {
+              "name": "Johan CRUYFF",
+              "captain": true
+            },
+            {
+              "name": "Rob RENSENBRINK"
+            },
+            {
+              "name": "Johnny REP"
+            }
+          ],
+          "bench": [
+            {
+              "name": "Theo DE JONG"
+            },
+            {
+              "name": "Rene VAN DE KERKHOF"
+            }
+          ],
+          "subs": [
+            {
+              "on": "Rene VAN DE KERKHOF",
+              "off": "Rob RENSENBRINK",
+              "minute": "45+1"
+            },
+            {
+              "on": "Theo DE JONG",
+              "off": "Wim RIJSBERGEN",
+              "minute": "68"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Sepp MAIER"
+            },
+            {
+              "name": "Berti VOGTS"
+            },
+            {
+              "name": "Paul BREITNER"
+            },
+            {
+              "name": "Hans Georg SCHWARZENBECK"
+            },
+            {
+              "name": "Franz BECKENBAUER",
+              "captain": true
+            },
+            {
+              "name": "Wolfgang OVERATH"
+            },
+            {
+              "name": "Uli HOENESS"
+            },
+            {
+              "name": "Rainer BONHOF"
+            },
+            {
+              "name": "Juergen GRABOWSKI"
+            },
+            {
+              "name": "Gerd MUELLER"
+            },
+            {
+              "name": "Bernd HOELZENBEIN"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Wim VAN HANEGEM",
+            "minute": "22"
+          },
+          {
+            "type": "Y",
+            "name": "Johan NEESKENS",
+            "minute": "39"
+          },
+          {
+            "type": "Y",
+            "name": "Johan CRUYFF",
+            "minute": "45"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Berti VOGTS",
+            "minute": "3"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "John TAYLOR",
+          "country": "ENG"
+        },
+        {
+          "name": "Alfonso GONZALEZ ARCHUNDIA",
+          "country": "MEX"
+        },
+        {
+          "name": "Ramon BARRETO RUIZ",
+          "country": "URU"
+        }
+      ]
+    }
+  ]
+}

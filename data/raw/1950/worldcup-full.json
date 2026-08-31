@@ -1,0 +1,2737 @@
+{
+  "name": "World Cup 1950",
+  "matches": [
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1950-06-24",
+      "time": "15:00 UTC-3",
+      "team1": "Brazil",
+      "team2": "Mexico",
+      "score": [
+        4,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "ADEMIR",
+          "minute": "30"
+        },
+        {
+          "name": "JAIR",
+          "minute": "65"
+        },
+        {
+          "name": "BALTAZAR",
+          "minute": "71"
+        },
+        {
+          "name": "ADEMIR",
+          "minute": "79"
+        }
+      ],
+      "goals2": [],
+      "ground": "Maracanã, Rio de Janeiro",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "BARBOSA"
+            },
+            {
+              "name": "AUGUSTO",
+              "captain": true
+            },
+            {
+              "name": "JUVENAL"
+            },
+            {
+              "name": "ELY DO AMPARO"
+            },
+            {
+              "name": "DANILO ALVIM"
+            },
+            {
+              "name": "BIGODE"
+            },
+            {
+              "name": "FRIACA"
+            },
+            {
+              "name": "JAIR"
+            },
+            {
+              "name": "MANECA"
+            },
+            {
+              "name": "BALTAZAR"
+            },
+            {
+              "name": "ADEMIR"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Antonio CARBAJAL"
+            },
+            {
+              "name": "Alfonso MONTEMAYOR",
+              "captain": true
+            },
+            {
+              "name": "Jose ROCA"
+            },
+            {
+              "name": "Rodrigo RUIZ"
+            },
+            {
+              "name": "Felipe ZETTER"
+            },
+            {
+              "name": "Mario OCHOA"
+            },
+            {
+              "name": "Hector ORTIZ"
+            },
+            {
+              "name": "Horacio CASARIN"
+            },
+            {
+              "name": "Mario PEREZ"
+            },
+            {
+              "name": "Carlos SEPTIEN"
+            },
+            {
+              "name": "Jose VELAZQUEZ"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "George READER",
+          "country": "ENG"
+        },
+        {
+          "name": "Benjamin GRIFFITHS",
+          "country": "WAL"
+        },
+        {
+          "name": "George MITCHELL",
+          "country": "SCO"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1950-06-25",
+      "time": "15:00 UTC-3",
+      "team1": "Yugoslavia",
+      "team2": "Switzerland",
+      "score": [
+        3,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Rajko MITIC",
+          "minute": "59"
+        },
+        {
+          "name": "Kosta TOMASEVIC",
+          "minute": "70"
+        },
+        {
+          "name": "Tihomir OGNJANOV",
+          "minute": "84"
+        }
+      ],
+      "goals2": [],
+      "ground": "Independencia, Belo Horizonte",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Srdjan MRKUSIC"
+            },
+            {
+              "name": "Ivan HORVAT"
+            },
+            {
+              "name": "Branko STANKOVIC"
+            },
+            {
+              "name": "Predrag DJAJIC"
+            },
+            {
+              "name": "Miodrag JOVANOVIC"
+            },
+            {
+              "name": "Stjepan BOBEK"
+            },
+            {
+              "name": "Rajko MITIC",
+              "captain": true
+            },
+            {
+              "name": "Bernard VUKAS"
+            },
+            {
+              "name": "Zeljko CAJKOVSKI"
+            },
+            {
+              "name": "Tihomir OGNJANOV"
+            },
+            {
+              "name": "Kosta TOMASEVIC"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Georges STUBER"
+            },
+            {
+              "name": "Roger BOCQUET"
+            },
+            {
+              "name": "Andre NEURY"
+            },
+            {
+              "name": "Gerhard LUSENTI"
+            },
+            {
+              "name": "Oliver EGGIMANN"
+            },
+            {
+              "name": "Roger QUINCHE"
+            },
+            {
+              "name": "Kiki ANTENEN"
+            },
+            {
+              "name": "Rene BADER"
+            },
+            {
+              "name": "Fredy BICKEL",
+              "captain": true
+            },
+            {
+              "name": "Jackie FATTON"
+            },
+            {
+              "name": "Jean TAMINI"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Giovanni GALEATI",
+          "country": "ITA"
+        },
+        {
+          "name": "Ivan EKLIND",
+          "country": "SWE"
+        },
+        {
+          "name": "Generoso DATTILO",
+          "country": "ITA"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1950-06-28",
+      "time": "15:00 UTC-3",
+      "team1": "Yugoslavia",
+      "team2": "Mexico",
+      "score": [
+        4,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Stjepan BOBEK",
+          "minute": "20"
+        },
+        {
+          "name": "Zeljko CAJKOVSKI",
+          "minute": "23"
+        },
+        {
+          "name": "Zeljko CAJKOVSKI",
+          "minute": "51"
+        },
+        {
+          "name": "Kosta TOMASEVIC",
+          "minute": "81"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Hector ORTIZ",
+          "minute": "89",
+          "penalty": true
+        }
+      ],
+      "ground": "Eucaliptos, Porto Alegre",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Srdjan MRKUSIC"
+            },
+            {
+              "name": "Ivan HORVAT",
+              "captain": true
+            },
+            {
+              "name": "Branko STANKOVIC"
+            },
+            {
+              "name": "Zlatko CAJKOVSKI"
+            },
+            {
+              "name": "Predrag DJAJIC"
+            },
+            {
+              "name": "Miodrag JOVANOVIC"
+            },
+            {
+              "name": "Stjepan BOBEK"
+            },
+            {
+              "name": "Rajko MITIC"
+            },
+            {
+              "name": "Zeljko CAJKOVSKI"
+            },
+            {
+              "name": "Prvoslav MIHAJLOVIC"
+            },
+            {
+              "name": "Kosta TOMASEVIC"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Antonio CARBAJAL"
+            },
+            {
+              "name": "Gregorio GOMEZ"
+            },
+            {
+              "name": "Manuel GUTIERREZ"
+            },
+            {
+              "name": "Jose ROCA"
+            },
+            {
+              "name": "Samuel CUBURU"
+            },
+            {
+              "name": "Hector ORTIZ"
+            },
+            {
+              "name": "Horacio CASARIN",
+              "captain": true
+            },
+            {
+              "name": "Mario PEREZ"
+            },
+            {
+              "name": "Carlos SEPTIEN"
+            },
+            {
+              "name": "Jose VELAZQUEZ"
+            },
+            {
+              "name": "Jose NARANJO"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Reginald LEAFE",
+          "country": "ENG"
+        },
+        {
+          "name": "Gunnar DAHLNER",
+          "country": "SWE"
+        },
+        {
+          "name": "Karel VAN DER MEER",
+          "country": "NED"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1950-06-28",
+      "time": "15:00 UTC-3",
+      "team1": "Brazil",
+      "team2": "Switzerland",
+      "score": [
+        2,
+        2
+      ],
+      "goals1": [
+        {
+          "name": "ALFREDO II",
+          "minute": "3"
+        },
+        {
+          "name": "BALTAZAR",
+          "minute": "32"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Jackie FATTON",
+          "minute": "17"
+        },
+        {
+          "name": "Jackie FATTON",
+          "minute": "88"
+        }
+      ],
+      "ground": "Estádio do Pacaembu, São Paulo",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "BARBOSA"
+            },
+            {
+              "name": "AUGUSTO",
+              "captain": true
+            },
+            {
+              "name": "JUVENAL"
+            },
+            {
+              "name": "BAUER"
+            },
+            {
+              "name": "RUY"
+            },
+            {
+              "name": "NORONHA"
+            },
+            {
+              "name": "FRIACA"
+            },
+            {
+              "name": "MANECA"
+            },
+            {
+              "name": "BALTAZAR"
+            },
+            {
+              "name": "ADEMIR"
+            },
+            {
+              "name": "ALFREDO II"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Georges STUBER"
+            },
+            {
+              "name": "Roger BOCQUET"
+            },
+            {
+              "name": "Gerhard LUSENTI"
+            },
+            {
+              "name": "Andre NEURY"
+            },
+            {
+              "name": "Oliver EGGIMANN"
+            },
+            {
+              "name": "Roger QUINCHE"
+            },
+            {
+              "name": "Rene BADER"
+            },
+            {
+              "name": "Fredy BICKEL",
+              "captain": true
+            },
+            {
+              "name": "Jackie FATTON"
+            },
+            {
+              "name": "Hans-Peter FRIEDLAENDER"
+            },
+            {
+              "name": "Jean TAMINI"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Ramon AZON ROMA",
+          "country": "ESP"
+        },
+        {
+          "name": "Sergio BUSTAMANTE",
+          "country": "CHI"
+        },
+        {
+          "name": "Cayetano DE NICOLA",
+          "country": "PAR"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1950-07-01",
+      "time": "15:00 UTC-3",
+      "team1": "Brazil",
+      "team2": "Yugoslavia",
+      "score": [
+        2,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "ADEMIR",
+          "minute": "4"
+        },
+        {
+          "name": "ZIZINHO",
+          "minute": "69"
+        }
+      ],
+      "goals2": [],
+      "ground": "Maracanã, Rio de Janeiro",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "BARBOSA"
+            },
+            {
+              "name": "AUGUSTO",
+              "captain": true
+            },
+            {
+              "name": "JUVENAL"
+            },
+            {
+              "name": "BAUER"
+            },
+            {
+              "name": "DANILO ALVIM"
+            },
+            {
+              "name": "BIGODE"
+            },
+            {
+              "name": "ZIZINHO"
+            },
+            {
+              "name": "JAIR"
+            },
+            {
+              "name": "CHICO"
+            },
+            {
+              "name": "MANECA"
+            },
+            {
+              "name": "ADEMIR"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Srdjan MRKUSIC"
+            },
+            {
+              "name": "Ivan HORVAT"
+            },
+            {
+              "name": "Branko STANKOVIC"
+            },
+            {
+              "name": "Zlatko CAJKOVSKI",
+              "captain": true
+            },
+            {
+              "name": "Predrag DJAJIC"
+            },
+            {
+              "name": "Miodrag JOVANOVIC"
+            },
+            {
+              "name": "Stjepan BOBEK"
+            },
+            {
+              "name": "Rajko MITIC"
+            },
+            {
+              "name": "Bernard VUKAS"
+            },
+            {
+              "name": "Zeljko CAJKOVSKI"
+            },
+            {
+              "name": "Kosta TOMASEVIC"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Benjamin GRIFFITHS",
+          "country": "WAL"
+        },
+        {
+          "name": "Alois BERANEK",
+          "country": "AUT"
+        },
+        {
+          "name": "Jose DA COSTA VIEIRA",
+          "country": "POR"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1950-07-02",
+      "time": "15:40 UTC-3",
+      "team1": "Switzerland",
+      "team2": "Mexico",
+      "score": [
+        2,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Rene BADER",
+          "minute": "10"
+        },
+        {
+          "name": "Kiki ANTENEN",
+          "minute": "44"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Horacio CASARIN",
+          "minute": "89"
+        }
+      ],
+      "ground": "Eucaliptos, Porto Alegre",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Adolphe HUG"
+            },
+            {
+              "name": "Roger BOCQUET",
+              "captain": true
+            },
+            {
+              "name": "Gerhard LUSENTI"
+            },
+            {
+              "name": "Andre NEURY"
+            },
+            {
+              "name": "Oliver EGGIMANN"
+            },
+            {
+              "name": "Roger QUINCHE"
+            },
+            {
+              "name": "Kiki ANTENEN"
+            },
+            {
+              "name": "Rene BADER"
+            },
+            {
+              "name": "Jackie FATTON"
+            },
+            {
+              "name": "Hans-Peter FRIEDLAENDER"
+            },
+            {
+              "name": "Jean TAMINI"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Antonio CARBAJAL"
+            },
+            {
+              "name": "Gregorio GOMEZ"
+            },
+            {
+              "name": "Manuel GUTIERREZ"
+            },
+            {
+              "name": "Jose ROCA"
+            },
+            {
+              "name": "Antonio FLORES"
+            },
+            {
+              "name": "Mario OCHOA"
+            },
+            {
+              "name": "Hector ORTIZ"
+            },
+            {
+              "name": "Horacio CASARIN",
+              "captain": true
+            },
+            {
+              "name": "Jose NARANJO"
+            },
+            {
+              "name": "Jose VELAZQUEZ"
+            },
+            {
+              "name": "Jose BORBOLLA"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Ivan EKLIND",
+          "country": "SWE"
+        },
+        {
+          "name": "Gunnar DAHLNER",
+          "country": "SWE"
+        },
+        {
+          "name": "Sergio BUSTAMANTE",
+          "country": "CHI"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1950-06-25",
+      "time": "15:00 UTC-3",
+      "team1": "England",
+      "team2": "Chile",
+      "score": [
+        2,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Stan MORTENSEN",
+          "minute": "39"
+        },
+        {
+          "name": "Wilf MANNION",
+          "minute": "51"
+        }
+      ],
+      "goals2": [],
+      "ground": "Maracanã, Rio de Janeiro",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Bert WILLIAMS"
+            },
+            {
+              "name": "John ASTON"
+            },
+            {
+              "name": "Alf RAMSEY"
+            },
+            {
+              "name": "Billy WRIGHT",
+              "captain": true
+            },
+            {
+              "name": "Jimmy DICKINSON"
+            },
+            {
+              "name": "Laurie HUGHES"
+            },
+            {
+              "name": "Stan MORTENSEN"
+            },
+            {
+              "name": "Roy BENTLEY"
+            },
+            {
+              "name": "Tom FINNEY"
+            },
+            {
+              "name": "Wilf MANNION"
+            },
+            {
+              "name": "Jimmy MULLEN"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Sergio LIVINGSTONE",
+              "captain": true
+            },
+            {
+              "name": "Manuel ALVAREZ"
+            },
+            {
+              "name": "Arturo FARIAS"
+            },
+            {
+              "name": "Fernando ROLDAN"
+            },
+            {
+              "name": "Miguel BUSQUETS"
+            },
+            {
+              "name": "Hernan CARVALLO"
+            },
+            {
+              "name": "Atilio CREMASCHI"
+            },
+            {
+              "name": "Guillermo DIAZ"
+            },
+            {
+              "name": "Luis MAYANES"
+            },
+            {
+              "name": "Manuel MUNOZ"
+            },
+            {
+              "name": "Jorge ROBLEDO"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Karel VAN DER MEER",
+          "country": "NED"
+        },
+        {
+          "name": "Mario GARDELLI",
+          "country": "BRA"
+        },
+        {
+          "name": "Gunnar DAHLNER",
+          "country": "SWE"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1950-06-25",
+      "time": "15:00 UTC-3",
+      "team1": "Spain",
+      "team2": "USA",
+      "score": [
+        3,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Silvestre IGOA",
+          "minute": "81"
+        },
+        {
+          "name": "Estanislao BASORA",
+          "minute": "83"
+        },
+        {
+          "name": "ZARRA",
+          "minute": "89"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Gino PARIANI",
+          "minute": "17"
+        }
+      ],
+      "ground": "Estádio Durival Britto e Silva, Curitiba",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Ignacio EIZAGUIRRE",
+              "captain": true
+            },
+            {
+              "name": "GABRIEL ALONSO"
+            },
+            {
+              "name": "GONZALVO II"
+            },
+            {
+              "name": "ANTUNEZ"
+            },
+            {
+              "name": "GONZALVO III"
+            },
+            {
+              "name": "Antonio PUCHADES"
+            },
+            {
+              "name": "Estanislao BASORA"
+            },
+            {
+              "name": "GAINZA"
+            },
+            {
+              "name": "ROSENDO HERNANDEZ"
+            },
+            {
+              "name": "Silvestre IGOA"
+            },
+            {
+              "name": "ZARRA"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Frank BORGHI"
+            },
+            {
+              "name": "Harry KEOUGH",
+              "captain": true
+            },
+            {
+              "name": "Joe MACA"
+            },
+            {
+              "name": "Walter BAHR"
+            },
+            {
+              "name": "Charlie COLOMBO"
+            },
+            {
+              "name": "Ed McILVENNY"
+            },
+            {
+              "name": "John SOUZA"
+            },
+            {
+              "name": "Joe GAETJENS"
+            },
+            {
+              "name": "Gino PARIANI"
+            },
+            {
+              "name": "Frank WALLACE"
+            },
+            {
+              "name": "Adam WOLANIN"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Mario VIANA",
+          "country": "BRA"
+        },
+        {
+          "name": "Jose DA COSTA VIEIRA",
+          "country": "POR"
+        },
+        {
+          "name": "Charles DE LA SALLE",
+          "country": "FRA"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1950-06-29",
+      "time": "15:00 UTC-3",
+      "team1": "USA",
+      "team2": "England",
+      "score": [
+        1,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Joe GAETJENS",
+          "minute": "38"
+        }
+      ],
+      "goals2": [],
+      "ground": "Independencia, Belo Horizonte",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Frank BORGHI"
+            },
+            {
+              "name": "Harry KEOUGH"
+            },
+            {
+              "name": "Joe MACA"
+            },
+            {
+              "name": "Walter BAHR"
+            },
+            {
+              "name": "Charlie COLOMBO"
+            },
+            {
+              "name": "Ed McILVENNY",
+              "captain": true
+            },
+            {
+              "name": "John SOUZA"
+            },
+            {
+              "name": "Joe GAETJENS"
+            },
+            {
+              "name": "Gino PARIANI"
+            },
+            {
+              "name": "Ed SOUZA"
+            },
+            {
+              "name": "Frank WALLACE"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Bert WILLIAMS"
+            },
+            {
+              "name": "John ASTON"
+            },
+            {
+              "name": "Alf RAMSEY"
+            },
+            {
+              "name": "Billy WRIGHT",
+              "captain": true
+            },
+            {
+              "name": "Jimmy DICKINSON"
+            },
+            {
+              "name": "Laurie HUGHES"
+            },
+            {
+              "name": "Stan MORTENSEN"
+            },
+            {
+              "name": "Roy BENTLEY"
+            },
+            {
+              "name": "Tom FINNEY"
+            },
+            {
+              "name": "Wilf MANNION"
+            },
+            {
+              "name": "Jimmy MULLEN"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Generoso DATTILO",
+          "country": "ITA"
+        },
+        {
+          "name": "Charles DE LA SALLE",
+          "country": "FRA"
+        },
+        {
+          "name": "Giovanni GALEATI",
+          "country": "ITA"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1950-06-29",
+      "time": "15:00 UTC-3",
+      "team1": "Spain",
+      "team2": "Chile",
+      "score": [
+        2,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Estanislao BASORA",
+          "minute": "17"
+        },
+        {
+          "name": "ZARRA",
+          "minute": "30"
+        }
+      ],
+      "goals2": [],
+      "ground": "Maracanã, Rio de Janeiro",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Antonio RAMALLETS"
+            },
+            {
+              "name": "GABRIEL ALONSO"
+            },
+            {
+              "name": "GONZALVO II"
+            },
+            {
+              "name": "Jose PARRA"
+            },
+            {
+              "name": "GONZALVO III"
+            },
+            {
+              "name": "Antonio PUCHADES"
+            },
+            {
+              "name": "Estanislao BASORA"
+            },
+            {
+              "name": "GAINZA",
+              "captain": true
+            },
+            {
+              "name": "Silvestre IGOA"
+            },
+            {
+              "name": "Jose PANIZO"
+            },
+            {
+              "name": "ZARRA"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Sergio LIVINGSTONE",
+              "captain": true
+            },
+            {
+              "name": "Manuel ALVAREZ"
+            },
+            {
+              "name": "Arturo FARIAS"
+            },
+            {
+              "name": "Fernando ROLDAN"
+            },
+            {
+              "name": "Miguel BUSQUETS"
+            },
+            {
+              "name": "Hernan CARVALLO"
+            },
+            {
+              "name": "Atilio CREMASCHI"
+            },
+            {
+              "name": "Guillermo DIAZ"
+            },
+            {
+              "name": "Andres PRIETO"
+            },
+            {
+              "name": "Jorge ROBLEDO"
+            },
+            {
+              "name": "Manuel MUNOZ"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Alberto MALCHER",
+          "country": "BRA"
+        },
+        {
+          "name": "Esteban MARINO",
+          "country": "URU"
+        },
+        {
+          "name": "Alfredo ALVAREZ",
+          "country": "BOL"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1950-07-02",
+      "time": "15:00 UTC-3",
+      "team1": "Spain",
+      "team2": "England",
+      "score": [
+        1,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "ZARRA",
+          "minute": "48"
+        }
+      ],
+      "goals2": [],
+      "ground": "Maracanã, Rio de Janeiro",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Antonio RAMALLETS"
+            },
+            {
+              "name": "GABRIEL ALONSO"
+            },
+            {
+              "name": "GONZALVO II"
+            },
+            {
+              "name": "Jose PARRA"
+            },
+            {
+              "name": "GONZALVO III"
+            },
+            {
+              "name": "Antonio PUCHADES"
+            },
+            {
+              "name": "Estanislao BASORA"
+            },
+            {
+              "name": "GAINZA",
+              "captain": true
+            },
+            {
+              "name": "Silvestre IGOA"
+            },
+            {
+              "name": "Jose PANIZO"
+            },
+            {
+              "name": "ZARRA"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Bert WILLIAMS"
+            },
+            {
+              "name": "Alf RAMSEY"
+            },
+            {
+              "name": "Billy WRIGHT",
+              "captain": true
+            },
+            {
+              "name": "Bill ECKERSLEY"
+            },
+            {
+              "name": "Jimmy DICKINSON"
+            },
+            {
+              "name": "Laurie HUGHES"
+            },
+            {
+              "name": "Stanley MATTHEWS"
+            },
+            {
+              "name": "Stan MORTENSEN"
+            },
+            {
+              "name": "Eddie BAILY"
+            },
+            {
+              "name": "Tom FINNEY"
+            },
+            {
+              "name": "Jackie MILBURN"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Giovanni GALEATI",
+          "country": "ITA"
+        },
+        {
+          "name": "Jean LUTZ",
+          "country": "SUI"
+        },
+        {
+          "name": "Generoso DATTILO",
+          "country": "ITA"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1950-07-02",
+      "time": "15:00 UTC-3",
+      "team1": "Chile",
+      "team2": "USA",
+      "score": [
+        5,
+        2
+      ],
+      "goals1": [
+        {
+          "name": "Jorge ROBLEDO",
+          "minute": "16"
+        },
+        {
+          "name": "Atilio CREMASCHI",
+          "minute": "32"
+        },
+        {
+          "name": "Andres PRIETO",
+          "minute": "54"
+        },
+        {
+          "name": "Atilio CREMASCHI",
+          "minute": "60"
+        },
+        {
+          "name": "Fernando RIERA",
+          "minute": "82"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Frank WALLACE",
+          "minute": "47"
+        },
+        {
+          "name": "Joe MACA",
+          "minute": "48",
+          "penalty": true
+        }
+      ],
+      "ground": "Ilha do Retiro, Recife",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Sergio LIVINGSTONE",
+              "captain": true
+            },
+            {
+              "name": "Manuel ALVAREZ"
+            },
+            {
+              "name": "Arturo FARIAS"
+            },
+            {
+              "name": "Manuel MACHUCA"
+            },
+            {
+              "name": "Miguel BUSQUETS"
+            },
+            {
+              "name": "Carlos ROJAS"
+            },
+            {
+              "name": "Atilio CREMASCHI"
+            },
+            {
+              "name": "Carlos IBANEZ"
+            },
+            {
+              "name": "Andres PRIETO"
+            },
+            {
+              "name": "Fernando RIERA"
+            },
+            {
+              "name": "Jorge ROBLEDO"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Frank BORGHI"
+            },
+            {
+              "name": "Harry KEOUGH"
+            },
+            {
+              "name": "Joe MACA"
+            },
+            {
+              "name": "Walter BAHR",
+              "captain": true
+            },
+            {
+              "name": "Charlie COLOMBO"
+            },
+            {
+              "name": "Ed McILVENNY"
+            },
+            {
+              "name": "John SOUZA"
+            },
+            {
+              "name": "Joe GAETJENS"
+            },
+            {
+              "name": "Gino PARIANI"
+            },
+            {
+              "name": "Ed SOUZA"
+            },
+            {
+              "name": "Frank WALLACE"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Mario GARDELLI",
+          "country": "BRA"
+        },
+        {
+          "name": "Mario Ruben HEYEN",
+          "country": "PAR"
+        },
+        {
+          "name": "Alfredo ALVAREZ",
+          "country": "BOL"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1950-06-25",
+      "time": "15:00 UTC-3",
+      "team1": "Sweden",
+      "team2": "Italy",
+      "score": [
+        3,
+        2
+      ],
+      "goals1": [
+        {
+          "name": "Hans JEPPSSON",
+          "minute": "25"
+        },
+        {
+          "name": "Sune ANDERSSON",
+          "minute": "34"
+        },
+        {
+          "name": "Hans JEPPSSON",
+          "minute": "69"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Riccardo CARAPELLESE",
+          "minute": "7"
+        },
+        {
+          "name": "Ermes MUCCINELLI",
+          "minute": "78"
+        }
+      ],
+      "ground": "Estádio do Pacaembu, São Paulo",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Kalle SVENSSON"
+            },
+            {
+              "name": "Sune ANDERSSON"
+            },
+            {
+              "name": "Erik NILSSON",
+              "captain": true
+            },
+            {
+              "name": "Lennart SAMUELSSON"
+            },
+            {
+              "name": "Knut NORDAHL"
+            },
+            {
+              "name": "Ingvar GARD"
+            },
+            {
+              "name": "Lennart SKOGLUND"
+            },
+            {
+              "name": "Hans JEPPSSON"
+            },
+            {
+              "name": "Stellan NILSSON"
+            },
+            {
+              "name": "Karl-Erik PALMER"
+            },
+            {
+              "name": "Stig SUNDQVIST"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Lucidio SENTIMENTI"
+            },
+            {
+              "name": "Carlo PAROLA"
+            },
+            {
+              "name": "Zeffiro FURIASSI"
+            },
+            {
+              "name": "Attilio GIOVANNINI"
+            },
+            {
+              "name": "Carlo ANNOVAZZI"
+            },
+            {
+              "name": "Aldo CAMPATELLI"
+            },
+            {
+              "name": "Augusto MAGLI"
+            },
+            {
+              "name": "Giampiero BONIPERTI"
+            },
+            {
+              "name": "Gino CAPPELLO"
+            },
+            {
+              "name": "Riccardo CARAPELLESE",
+              "captain": true
+            },
+            {
+              "name": "Ermes MUCCINELLI"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Jean LUTZ",
+          "country": "SUI"
+        },
+        {
+          "name": "Alois BERANEK",
+          "country": "AUT"
+        },
+        {
+          "name": "Carlos TEJADA",
+          "country": "MEX"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1950-06-29",
+      "time": "15:30 UTC-3",
+      "team1": "Sweden",
+      "team2": "Paraguay",
+      "score": [
+        2,
+        2
+      ],
+      "goals1": [
+        {
+          "name": "Stig SUNDQVIST",
+          "minute": "17"
+        },
+        {
+          "name": "Karl-Erik PALMER",
+          "minute": "26"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Cesar LOPEZ FRETES",
+          "minute": "35"
+        },
+        {
+          "name": "Atilio LOPEZ",
+          "minute": "74"
+        }
+      ],
+      "ground": "Estádio Durival Britto e Silva, Curitiba",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Kalle SVENSSON"
+            },
+            {
+              "name": "Sune ANDERSSON"
+            },
+            {
+              "name": "Erik NILSSON",
+              "captain": true
+            },
+            {
+              "name": "Lennart SAMUELSSON"
+            },
+            {
+              "name": "Knut NORDAHL"
+            },
+            {
+              "name": "Ingvar GARD"
+            },
+            {
+              "name": "Lennart SKOGLUND"
+            },
+            {
+              "name": "Hans JEPPSSON"
+            },
+            {
+              "name": "Egon JONSSON"
+            },
+            {
+              "name": "Karl-Erik PALMER"
+            },
+            {
+              "name": "Stig SUNDQVIST"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Marcelino VARGAS"
+            },
+            {
+              "name": "Casiano CESPEDES"
+            },
+            {
+              "name": "Manuel GAVILAN"
+            },
+            {
+              "name": "Alberto GONZALEZ"
+            },
+            {
+              "name": "Castor CANTERO"
+            },
+            {
+              "name": "Victoriano LEGUIZAMON"
+            },
+            {
+              "name": "Leongino UNZAIN"
+            },
+            {
+              "name": "Enrique AVALOS"
+            },
+            {
+              "name": "Atilio LOPEZ"
+            },
+            {
+              "name": "Cesar LOPEZ FRETES",
+              "captain": true
+            },
+            {
+              "name": "Dario JARA SAGUIER"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Robert MITCHELL",
+          "country": "SCO"
+        },
+        {
+          "name": "Leo LEMESIC",
+          "country": "YUG"
+        },
+        {
+          "name": "Prudencio GARCIA",
+          "country": "USA"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1950-07-02",
+      "time": "15:00 UTC-3",
+      "team1": "Italy",
+      "team2": "Paraguay",
+      "score": [
+        2,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Riccardo CARAPELLESE",
+          "minute": "12"
+        },
+        {
+          "name": "Egisto PANDOLFINI",
+          "minute": "63"
+        }
+      ],
+      "goals2": [],
+      "ground": "Estádio do Pacaembu, São Paulo",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Giuseppe MORO"
+            },
+            {
+              "name": "Ivano BLASON"
+            },
+            {
+              "name": "Zeffiro FURIASSI"
+            },
+            {
+              "name": "Leandro REMONDINI"
+            },
+            {
+              "name": "Osvaldo FATTORI"
+            },
+            {
+              "name": "Giacomo MARI"
+            },
+            {
+              "name": "Amedeo AMADEI"
+            },
+            {
+              "name": "Gino CAPPELLO"
+            },
+            {
+              "name": "Riccardo CARAPELLESE",
+              "captain": true
+            },
+            {
+              "name": "Ermes MUCCINELLI"
+            },
+            {
+              "name": "Egisto PANDOLFINI"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Marcelino VARGAS"
+            },
+            {
+              "name": "Casiano CESPEDES"
+            },
+            {
+              "name": "Manuel GAVILAN"
+            },
+            {
+              "name": "Alberto GONZALEZ"
+            },
+            {
+              "name": "Castor CANTERO"
+            },
+            {
+              "name": "Victoriano LEGUIZAMON"
+            },
+            {
+              "name": "Leongino UNZAIN"
+            },
+            {
+              "name": "Enrique AVALOS"
+            },
+            {
+              "name": "Atilio LOPEZ"
+            },
+            {
+              "name": "Cesar LOPEZ FRETES",
+              "captain": true
+            },
+            {
+              "name": "Dario JARA SAGUIER"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Arthur ELLIS",
+          "country": "ENG"
+        },
+        {
+          "name": "Prudencio GARCIA",
+          "country": "USA"
+        },
+        {
+          "name": "Charles DE LA SALLE",
+          "country": "FRA"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1950-07-02",
+      "time": "15:00 UTC-3",
+      "team1": "Uruguay",
+      "team2": "Bolivia",
+      "score": [
+        8,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Oscar MIGUEZ",
+          "minute": "14"
+        },
+        {
+          "name": "Ernesto VIDAL",
+          "minute": "18"
+        },
+        {
+          "name": "Juan SCHIAFFINO",
+          "minute": "23"
+        },
+        {
+          "name": "Oscar MIGUEZ",
+          "minute": "40"
+        },
+        {
+          "name": "Oscar MIGUEZ",
+          "minute": "51"
+        },
+        {
+          "name": "Juan SCHIAFFINO",
+          "minute": "54"
+        },
+        {
+          "name": "Julio PEREZ",
+          "minute": "83"
+        },
+        {
+          "name": "Alcides GHIGGIA",
+          "minute": "87"
+        }
+      ],
+      "goals2": [],
+      "ground": "Independencia, Belo Horizonte",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Roque MASPOLI"
+            },
+            {
+              "name": "Matias GONZALEZ"
+            },
+            {
+              "name": "Eusebio TEJERA"
+            },
+            {
+              "name": "Obdulio VARELA",
+              "captain": true
+            },
+            {
+              "name": "Victor RODRIGUEZ ANDRADE"
+            },
+            {
+              "name": "Juan Carlos GONZALEZ"
+            },
+            {
+              "name": "Alcides GHIGGIA"
+            },
+            {
+              "name": "Juan SCHIAFFINO"
+            },
+            {
+              "name": "Ernesto VIDAL"
+            },
+            {
+              "name": "Oscar MIGUEZ"
+            },
+            {
+              "name": "Julio PEREZ"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Eduardo GUTIERREZ"
+            },
+            {
+              "name": "Alberto ACHA"
+            },
+            {
+              "name": "Jose BUSTAMANTE-NAVA",
+              "captain": true
+            },
+            {
+              "name": "Leonardo FERREL"
+            },
+            {
+              "name": "Antonio GRECCO"
+            },
+            {
+              "name": "Antonio VALENCIA"
+            },
+            {
+              "name": "Victor ALGARANAZ"
+            },
+            {
+              "name": "Roberto CAPPARELLI"
+            },
+            {
+              "name": "Benigno GUTIERREZ"
+            },
+            {
+              "name": "Benjamin MALDONADO"
+            },
+            {
+              "name": "Victor UGARTE"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "George READER",
+          "country": "ENG"
+        },
+        {
+          "name": "Mario VIANA",
+          "country": "BRA"
+        },
+        {
+          "name": "Leo LEMESIC",
+          "country": "YUG"
+        }
+      ]
+    },
+    {
+      "round": "Final Round",
+      "date": "1950-07-09",
+      "time": "15:00 UTC-3",
+      "team1": "Brazil",
+      "team2": "Sweden",
+      "score": [
+        7,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "ADEMIR",
+          "minute": "17"
+        },
+        {
+          "name": "ADEMIR",
+          "minute": "36"
+        },
+        {
+          "name": "CHICO",
+          "minute": "39"
+        },
+        {
+          "name": "ADEMIR",
+          "minute": "52"
+        },
+        {
+          "name": "ADEMIR",
+          "minute": "58"
+        },
+        {
+          "name": "MANECA",
+          "minute": "85"
+        },
+        {
+          "name": "CHICO",
+          "minute": "88"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Sune ANDERSSON",
+          "minute": "67",
+          "penalty": true
+        }
+      ],
+      "ground": "Maracanã, Rio de Janeiro",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "BARBOSA"
+            },
+            {
+              "name": "AUGUSTO",
+              "captain": true
+            },
+            {
+              "name": "JUVENAL"
+            },
+            {
+              "name": "BAUER"
+            },
+            {
+              "name": "DANILO ALVIM"
+            },
+            {
+              "name": "BIGODE"
+            },
+            {
+              "name": "ZIZINHO"
+            },
+            {
+              "name": "JAIR"
+            },
+            {
+              "name": "CHICO"
+            },
+            {
+              "name": "MANECA"
+            },
+            {
+              "name": "ADEMIR"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Kalle SVENSSON"
+            },
+            {
+              "name": "Sune ANDERSSON"
+            },
+            {
+              "name": "Erik NILSSON",
+              "captain": true
+            },
+            {
+              "name": "Lennart SAMUELSSON"
+            },
+            {
+              "name": "Knut NORDAHL"
+            },
+            {
+              "name": "Ingvar GARD"
+            },
+            {
+              "name": "Lennart SKOGLUND"
+            },
+            {
+              "name": "Hans JEPPSSON"
+            },
+            {
+              "name": "Stellan NILSSON"
+            },
+            {
+              "name": "Karl-Erik PALMER"
+            },
+            {
+              "name": "Stig SUNDQVIST"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Arthur ELLIS",
+          "country": "ENG"
+        },
+        {
+          "name": "Prudencio GARCIA",
+          "country": "USA"
+        },
+        {
+          "name": "Charles DE LA SALLE",
+          "country": "FRA"
+        }
+      ]
+    },
+    {
+      "round": "Final Round",
+      "date": "1950-07-09",
+      "time": "15:00 UTC-3",
+      "team1": "Uruguay",
+      "team2": "Spain",
+      "score": [
+        2,
+        2
+      ],
+      "goals1": [
+        {
+          "name": "Alcides GHIGGIA",
+          "minute": "29"
+        },
+        {
+          "name": "Obdulio VARELA",
+          "minute": "73"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Estanislao BASORA",
+          "minute": "37"
+        },
+        {
+          "name": "Estanislao BASORA",
+          "minute": "39"
+        }
+      ],
+      "ground": "Estádio do Pacaembu, São Paulo",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Roque MASPOLI"
+            },
+            {
+              "name": "Matias GONZALEZ"
+            },
+            {
+              "name": "Eusebio TEJERA"
+            },
+            {
+              "name": "Obdulio VARELA",
+              "captain": true
+            },
+            {
+              "name": "Victor RODRIGUEZ ANDRADE"
+            },
+            {
+              "name": "Juan Carlos GONZALEZ"
+            },
+            {
+              "name": "Alcides GHIGGIA"
+            },
+            {
+              "name": "Juan SCHIAFFINO"
+            },
+            {
+              "name": "Ernesto VIDAL"
+            },
+            {
+              "name": "Oscar MIGUEZ"
+            },
+            {
+              "name": "Julio PEREZ"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Antonio RAMALLETS"
+            },
+            {
+              "name": "GABRIEL ALONSO"
+            },
+            {
+              "name": "GONZALVO II"
+            },
+            {
+              "name": "Jose PARRA"
+            },
+            {
+              "name": "GONZALVO III"
+            },
+            {
+              "name": "Antonio PUCHADES"
+            },
+            {
+              "name": "Estanislao BASORA"
+            },
+            {
+              "name": "GAINZA",
+              "captain": true
+            },
+            {
+              "name": "Silvestre IGOA"
+            },
+            {
+              "name": "Luis MOLOWNY"
+            },
+            {
+              "name": "ZARRA"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Benjamin GRIFFITHS",
+          "country": "WAL"
+        },
+        {
+          "name": "Generoso DATTILO",
+          "country": "ITA"
+        },
+        {
+          "name": "Alfredo ALVAREZ",
+          "country": "BOL"
+        }
+      ]
+    },
+    {
+      "round": "Final Round",
+      "date": "1950-07-13",
+      "time": "15:00 UTC-3",
+      "team1": "Uruguay",
+      "team2": "Sweden",
+      "score": [
+        3,
+        2
+      ],
+      "goals1": [
+        {
+          "name": "Alcides GHIGGIA",
+          "minute": "39"
+        },
+        {
+          "name": "Oscar MIGUEZ",
+          "minute": "77"
+        },
+        {
+          "name": "Oscar MIGUEZ",
+          "minute": "85"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Karl-Erik PALMER",
+          "minute": "5"
+        },
+        {
+          "name": "Stig SUNDQVIST",
+          "minute": "40"
+        }
+      ],
+      "ground": "Estádio do Pacaembu, São Paulo",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Anibal PAZ"
+            },
+            {
+              "name": "Schubert GAMBETTA"
+            },
+            {
+              "name": "Matias GONZALEZ"
+            },
+            {
+              "name": "Eusebio TEJERA"
+            },
+            {
+              "name": "Obdulio VARELA",
+              "captain": true
+            },
+            {
+              "name": "Victor RODRIGUEZ ANDRADE"
+            },
+            {
+              "name": "Alcides GHIGGIA"
+            },
+            {
+              "name": "Juan SCHIAFFINO"
+            },
+            {
+              "name": "Ernesto VIDAL"
+            },
+            {
+              "name": "Oscar MIGUEZ"
+            },
+            {
+              "name": "Julio PEREZ"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Kalle SVENSSON"
+            },
+            {
+              "name": "Sune ANDERSSON"
+            },
+            {
+              "name": "Gunnar JOHANSSON II"
+            },
+            {
+              "name": "Erik NILSSON",
+              "captain": true
+            },
+            {
+              "name": "Lennart SAMUELSSON"
+            },
+            {
+              "name": "Ingvar GARD"
+            },
+            {
+              "name": "Hans JEPPSSON"
+            },
+            {
+              "name": "Egon JONSSON"
+            },
+            {
+              "name": "Bror MELLBERG"
+            },
+            {
+              "name": "Karl-Erik PALMER"
+            },
+            {
+              "name": "Stig SUNDQVIST"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Giovanni GALEATI",
+          "country": "ITA"
+        },
+        {
+          "name": "Alois BERANEK",
+          "country": "AUT"
+        },
+        {
+          "name": "Cayetano DE NICOLA",
+          "country": "PAR"
+        }
+      ]
+    },
+    {
+      "round": "Final Round",
+      "date": "1950-07-13",
+      "time": "15:00 UTC-3",
+      "team1": "Brazil",
+      "team2": "Spain",
+      "score": [
+        6,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "ADEMIR",
+          "minute": "15"
+        },
+        {
+          "name": "JAIR",
+          "minute": "21"
+        },
+        {
+          "name": "CHICO",
+          "minute": "31"
+        },
+        {
+          "name": "CHICO",
+          "minute": "55"
+        },
+        {
+          "name": "ADEMIR",
+          "minute": "57"
+        },
+        {
+          "name": "ZIZINHO",
+          "minute": "67"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Silvestre IGOA",
+          "minute": "71"
+        }
+      ],
+      "ground": "Maracanã, Rio de Janeiro",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "BARBOSA"
+            },
+            {
+              "name": "AUGUSTO",
+              "captain": true
+            },
+            {
+              "name": "JUVENAL"
+            },
+            {
+              "name": "BAUER"
+            },
+            {
+              "name": "DANILO ALVIM"
+            },
+            {
+              "name": "BIGODE"
+            },
+            {
+              "name": "ZIZINHO"
+            },
+            {
+              "name": "FRIACA"
+            },
+            {
+              "name": "JAIR"
+            },
+            {
+              "name": "CHICO"
+            },
+            {
+              "name": "ADEMIR"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Antonio RAMALLETS"
+            },
+            {
+              "name": "GABRIEL ALONSO"
+            },
+            {
+              "name": "GONZALVO II"
+            },
+            {
+              "name": "Jose PARRA"
+            },
+            {
+              "name": "GONZALVO III"
+            },
+            {
+              "name": "Antonio PUCHADES"
+            },
+            {
+              "name": "Estanislao BASORA"
+            },
+            {
+              "name": "GAINZA",
+              "captain": true
+            },
+            {
+              "name": "Silvestre IGOA"
+            },
+            {
+              "name": "Jose PANIZO"
+            },
+            {
+              "name": "ZARRA"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "BIGODE",
+            "minute": "1"
+          }
+        ],
+        []
+      ],
+      "referees": [
+        {
+          "name": "Reginald LEAFE",
+          "country": "ENG"
+        },
+        {
+          "name": "George MITCHELL",
+          "country": "SCO"
+        },
+        {
+          "name": "Jose DA COSTA VIEIRA",
+          "country": "POR"
+        }
+      ]
+    },
+    {
+      "round": "Final Round",
+      "date": "1950-07-16",
+      "time": "15:00 UTC-3",
+      "team1": "Uruguay",
+      "team2": "Brazil",
+      "score": [
+        2,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Juan SCHIAFFINO",
+          "minute": "66"
+        },
+        {
+          "name": "Alcides GHIGGIA",
+          "minute": "79"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "FRIACA",
+          "minute": "47"
+        }
+      ],
+      "ground": "Maracanã, Rio de Janeiro",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Roque MASPOLI"
+            },
+            {
+              "name": "Matias GONZALEZ"
+            },
+            {
+              "name": "Eusebio TEJERA"
+            },
+            {
+              "name": "Schubert GAMBETTA"
+            },
+            {
+              "name": "Obdulio VARELA",
+              "captain": true
+            },
+            {
+              "name": "Victor RODRIGUEZ ANDRADE"
+            },
+            {
+              "name": "Alcides GHIGGIA"
+            },
+            {
+              "name": "Oscar MIGUEZ"
+            },
+            {
+              "name": "Juan SCHIAFFINO"
+            },
+            {
+              "name": "Ruben MORAN"
+            },
+            {
+              "name": "Julio PEREZ"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "BARBOSA"
+            },
+            {
+              "name": "AUGUSTO",
+              "captain": true
+            },
+            {
+              "name": "JUVENAL"
+            },
+            {
+              "name": "BAUER"
+            },
+            {
+              "name": "BIGODE"
+            },
+            {
+              "name": "DANILO ALVIM"
+            },
+            {
+              "name": "ZIZINHO"
+            },
+            {
+              "name": "ADEMIR"
+            },
+            {
+              "name": "FRIACA"
+            },
+            {
+              "name": "JAIR"
+            },
+            {
+              "name": "CHICO"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "George READER",
+          "country": "ENG"
+        },
+        {
+          "name": "Arthur ELLIS",
+          "country": "ENG"
+        },
+        {
+          "name": "George MITCHELL",
+          "country": "SCO"
+        }
+      ]
+    },
+    {
+      "round": "Final Round",
+      "date": "1950-07-16",
+      "time": "15:00 UTC-3",
+      "team1": "Sweden",
+      "team2": "Spain",
+      "score": [
+        3,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Stig SUNDQVIST",
+          "minute": "15"
+        },
+        {
+          "name": "Bror MELLBERG",
+          "minute": "33"
+        },
+        {
+          "name": "Karl-Erik PALMER",
+          "minute": "80"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "ZARRA",
+          "minute": "82"
+        }
+      ],
+      "ground": "Estádio do Pacaembu, São Paulo",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Kalle SVENSSON"
+            },
+            {
+              "name": "Sune ANDERSSON"
+            },
+            {
+              "name": "Lennart SAMUELSSON"
+            },
+            {
+              "name": "Erik NILSSON",
+              "captain": true
+            },
+            {
+              "name": "Gunnar JOHANSSON II"
+            },
+            {
+              "name": "Ingvar GARD"
+            },
+            {
+              "name": "Ingvar RYDELL"
+            },
+            {
+              "name": "Stig SUNDQVIST"
+            },
+            {
+              "name": "Bror MELLBERG"
+            },
+            {
+              "name": "Karl-Erik PALMER"
+            },
+            {
+              "name": "Egon JONSSON"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Ignacio EIZAGUIRRE"
+            },
+            {
+              "name": "GABRIEL ALONSO"
+            },
+            {
+              "name": "Vicente ASENSI"
+            },
+            {
+              "name": "Alfonso SILVA"
+            },
+            {
+              "name": "Jose PARRA"
+            },
+            {
+              "name": "Antonio PUCHADES"
+            },
+            {
+              "name": "ROSENDO HERNANDEZ"
+            },
+            {
+              "name": "Estanislao BASORA"
+            },
+            {
+              "name": "ZARRA",
+              "captain": true
+            },
+            {
+              "name": "Jose PANIZO"
+            },
+            {
+              "name": "Jose JUNCOSA"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Karel VAN DER MEER",
+          "country": "NED"
+        },
+        {
+          "name": "Jean LUTZ",
+          "country": "SUI"
+        },
+        {
+          "name": "Prudencio GARCIA",
+          "country": "USA"
+        }
+      ]
+    }
+  ]
+}

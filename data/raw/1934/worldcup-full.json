@@ -1,0 +1,2138 @@
+{
+  "name": "World Cup 1934",
+  "matches": [
+    {
+      "round": "Preliminary Round",
+      "date": "1934-05-27",
+      "time": "16:30 UTC+2",
+      "team1": "Czechoslovakia",
+      "team2": "Romania",
+      "score": [
+        2,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Antonin PUC",
+          "minute": "50"
+        },
+        {
+          "name": "Oldrich NEJEDLY",
+          "minute": "67"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Stefan DOBAY",
+          "minute": "11"
+        }
+      ],
+      "ground": "Littorio, Trieste",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Frantisek PLANICKA",
+              "captain": true
+            },
+            {
+              "name": "Josef CTYROKY"
+            },
+            {
+              "name": "Ladislav ZENISEK"
+            },
+            {
+              "name": "Stefan CAMBAL"
+            },
+            {
+              "name": "Josef KOSTALEK"
+            },
+            {
+              "name": "Rudolf KRCIL"
+            },
+            {
+              "name": "Oldrich NEJEDLY"
+            },
+            {
+              "name": "Antonin PUC"
+            },
+            {
+              "name": "Frantisek JUNEK"
+            },
+            {
+              "name": "Josef SILNY"
+            },
+            {
+              "name": "Jiri SOBOTKA"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "William ZOMBORY"
+            },
+            {
+              "name": "Gheorghe ALBU"
+            },
+            {
+              "name": "Rudolf KOTORMANY"
+            },
+            {
+              "name": "Vasile DEHELEANU"
+            },
+            {
+              "name": "Josif MORAVETZ"
+            },
+            {
+              "name": "Emerich VOGL",
+              "captain": true
+            },
+            {
+              "name": "Silviu BINDEA"
+            },
+            {
+              "name": "Iuliu BODOLA"
+            },
+            {
+              "name": "Stefan DOBAY"
+            },
+            {
+              "name": "Nicolae KOVACS"
+            },
+            {
+              "name": "Gratian SEPI"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Jean LANGENUS",
+          "country": "BEL"
+        },
+        {
+          "name": "Giuseppe SCARPI",
+          "country": "ITA"
+        },
+        {
+          "name": "Raffaele SCORZONI",
+          "country": "ITA"
+        }
+      ]
+    },
+    {
+      "round": "Preliminary Round",
+      "date": "1934-05-27",
+      "time": "16:30 UTC+2",
+      "team1": "Germany",
+      "team2": "Belgium",
+      "score": [
+        5,
+        2
+      ],
+      "goals1": [
+        {
+          "name": "Stanislaus KOBIERSKI",
+          "minute": "25"
+        },
+        {
+          "name": "Otto SIFFLING",
+          "minute": "49"
+        },
+        {
+          "name": "Edmund CONEN",
+          "minute": "66"
+        },
+        {
+          "name": "Edmund CONEN",
+          "minute": "70"
+        },
+        {
+          "name": "Edmund CONEN",
+          "minute": "87"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Bernard VOORHOOF",
+          "minute": "29"
+        },
+        {
+          "name": "Bernard VOORHOOF",
+          "minute": "43"
+        }
+      ],
+      "ground": "Giovanni Berta, Florence",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Willibald KRESS"
+            },
+            {
+              "name": "Sigmund HARINGER"
+            },
+            {
+              "name": "Paul JANES"
+            },
+            {
+              "name": "Hans SCHWARTZ"
+            },
+            {
+              "name": "Paul ZIELINSKI"
+            },
+            {
+              "name": "Edmund CONEN"
+            },
+            {
+              "name": "Karl HOHMANN"
+            },
+            {
+              "name": "Stanislaus KOBIERSKI"
+            },
+            {
+              "name": "Ernest LEHNER"
+            },
+            {
+              "name": "Otto SIFFLING"
+            },
+            {
+              "name": "Fritz SZEPAN",
+              "captain": true
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Andre VAN DE WEYER"
+            },
+            {
+              "name": "Costant JOACIM"
+            },
+            {
+              "name": "Philibert SMELLINCKX"
+            },
+            {
+              "name": "Jean CLAESSENS"
+            },
+            {
+              "name": "Frans PEERAER"
+            },
+            {
+              "name": "Felix WELKENHUYSEN",
+              "captain": true
+            },
+            {
+              "name": "Jean CAPELLE"
+            },
+            {
+              "name": "Francois DE VRIES"
+            },
+            {
+              "name": "Laurent GRIMMONPREZ"
+            },
+            {
+              "name": "Bernard VOORHOOF"
+            },
+            {
+              "name": "Albert HEREMANS"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Francesco MATTEA",
+          "country": "ITA"
+        },
+        {
+          "name": "Ermenegildo MELANDRI",
+          "country": "ITA"
+        },
+        {
+          "name": "Jacques BAERT",
+          "country": "FRA"
+        }
+      ]
+    },
+    {
+      "round": "Preliminary Round",
+      "date": "1934-05-27",
+      "time": "16:30 UTC+2",
+      "team1": "Austria",
+      "team2": "France",
+      "score": {
+        "et": [
+          3,
+          2
+        ]
+      },
+      "goals1": [
+        {
+          "name": "Matthias SINDELAR",
+          "minute": "44"
+        },
+        {
+          "name": "Toni SCHALL",
+          "minute": "93"
+        },
+        {
+          "name": "Josef BICAN",
+          "minute": "109"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Jean NICOLAS",
+          "minute": "18"
+        },
+        {
+          "name": "Georges VERRIEST",
+          "minute": "116",
+          "penalty": true
+        }
+      ],
+      "ground": "Stadio Olimpico, Turin",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Peter PLATZER"
+            },
+            {
+              "name": "Karl SESTA"
+            },
+            {
+              "name": "Franz CISAR"
+            },
+            {
+              "name": "Josef SMISTIK",
+              "captain": true
+            },
+            {
+              "name": "Hans URBANEK"
+            },
+            {
+              "name": "Franz WAGNER"
+            },
+            {
+              "name": "Josef BICAN"
+            },
+            {
+              "name": "Toni SCHALL"
+            },
+            {
+              "name": "Matthias SINDELAR"
+            },
+            {
+              "name": "Rudi VIERTL"
+            },
+            {
+              "name": "Karl ZISCHEK"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Alex THEPOT",
+              "captain": true
+            },
+            {
+              "name": "Jacques MAIRESSE"
+            },
+            {
+              "name": "Etienne MATTLER"
+            },
+            {
+              "name": "Edmond DELFOUR"
+            },
+            {
+              "name": "Noel LIETAER"
+            },
+            {
+              "name": "Roger RIO"
+            },
+            {
+              "name": "Georges VERRIEST"
+            },
+            {
+              "name": "Joseph ALCAZAR"
+            },
+            {
+              "name": "Alfred ASTON"
+            },
+            {
+              "name": "Fritz KELLER"
+            },
+            {
+              "name": "Jean NICOLAS"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Johannes VAN MOORSEL",
+          "country": "NED"
+        },
+        {
+          "name": "Camillo CAIRONI",
+          "country": "ITA"
+        },
+        {
+          "name": "Louis BAERT",
+          "country": "BEL"
+        }
+      ]
+    },
+    {
+      "round": "Preliminary Round",
+      "date": "1934-05-27",
+      "time": "16:30 UTC+2",
+      "team1": "Switzerland",
+      "team2": "Netherlands",
+      "score": [
+        3,
+        2
+      ],
+      "goals1": [
+        {
+          "name": "Leopold KIELHOLZ",
+          "minute": "7"
+        },
+        {
+          "name": "Leopold KIELHOLZ",
+          "minute": "43"
+        },
+        {
+          "name": "Andre ABEGGLEN",
+          "minute": "66"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Kick SMIT",
+          "minute": "29"
+        },
+        {
+          "name": "Leen VENTE",
+          "minute": "69"
+        }
+      ],
+      "ground": "Stadio Giuseppe Meazza, Milan",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Frank SECHEHAYE"
+            },
+            {
+              "name": "Severino MINELLI",
+              "captain": true
+            },
+            {
+              "name": "Walter WEILER"
+            },
+            {
+              "name": "Albert GUINCHARD"
+            },
+            {
+              "name": "Ernst HUFSCHMID"
+            },
+            {
+              "name": "Fernand JACCARD"
+            },
+            {
+              "name": "Andre ABEGGLEN"
+            },
+            {
+              "name": "Giuseppe BOSSI"
+            },
+            {
+              "name": "Leopold KIELHOLZ"
+            },
+            {
+              "name": "Raymond PASELLO"
+            },
+            {
+              "name": "Willy VON KAENEL"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Gejus VAN DER MEULEN"
+            },
+            {
+              "name": "Sjef VAN RUN"
+            },
+            {
+              "name": "Mauk WEBER"
+            },
+            {
+              "name": "Puck VAN HEEL",
+              "captain": true
+            },
+            {
+              "name": "Willem ANDERIESEN"
+            },
+            {
+              "name": "Henk PELLIKAAN"
+            },
+            {
+              "name": "Beb BAKHUYS"
+            },
+            {
+              "name": "Kick SMIT"
+            },
+            {
+              "name": "Joop VAN NELLEN"
+            },
+            {
+              "name": "Leen VENTE"
+            },
+            {
+              "name": "Frank WELS"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Ivan EKLIND",
+          "country": "SWE"
+        },
+        {
+          "name": "Alois BERANEK",
+          "country": "AUT"
+        },
+        {
+          "name": "Ferruccio BONIVENTO",
+          "country": "ITA"
+        }
+      ]
+    },
+    {
+      "round": "Preliminary Round",
+      "date": "1934-05-27",
+      "time": "16:30 UTC+2",
+      "team1": "Spain",
+      "team2": "Brazil",
+      "score": [
+        3,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "IRARAGORRI",
+          "minute": "18",
+          "penalty": true
+        },
+        {
+          "name": "IRARAGORRI",
+          "minute": "25"
+        },
+        {
+          "name": "Isidro LANGARA",
+          "minute": "29"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "LEONIDAS",
+          "minute": "55"
+        }
+      ],
+      "ground": "Estadio Luigi Ferraris, Genoa",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Ricardo ZAMORA",
+              "captain": true
+            },
+            {
+              "name": "I QUINCOCES"
+            },
+            {
+              "name": "CIRIACO"
+            },
+            {
+              "name": "MARCULETA"
+            },
+            {
+              "name": "CILAURREN"
+            },
+            {
+              "name": "IRARAGORRI"
+            },
+            {
+              "name": "Simon LECUE"
+            },
+            {
+              "name": "Jose MUGUERZA"
+            },
+            {
+              "name": "GOROSTIZA"
+            },
+            {
+              "name": "LAFUENTE"
+            },
+            {
+              "name": "Isidro LANGARA"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "PEDROSA"
+            },
+            {
+              "name": "LUIZ LUZ"
+            },
+            {
+              "name": "SYLVIO HOFFMANN"
+            },
+            {
+              "name": "CANALLI"
+            },
+            {
+              "name": "TINOCO"
+            },
+            {
+              "name": "MARTIM",
+              "captain": true
+            },
+            {
+              "name": "WALDEMAR DE BRITTO"
+            },
+            {
+              "name": "PATESKO"
+            },
+            {
+              "name": "ARMANDINHO"
+            },
+            {
+              "name": "LEONIDAS"
+            },
+            {
+              "name": "LUISINHO"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Alfred BIRLEM",
+          "country": "GER"
+        },
+        {
+          "name": "Ettore CARMINATI",
+          "country": "ITA"
+        },
+        {
+          "name": "Mihaly IVANCSICS",
+          "country": "HUN"
+        }
+      ]
+    },
+    {
+      "round": "Preliminary Round",
+      "date": "1934-05-27",
+      "time": "16:30 UTC+2",
+      "team1": "Sweden",
+      "team2": "Argentina",
+      "score": [
+        3,
+        2
+      ],
+      "goals1": [
+        {
+          "name": "Sven JONASSON",
+          "minute": "9"
+        },
+        {
+          "name": "Sven JONASSON",
+          "minute": "67"
+        },
+        {
+          "name": "Knut KROON",
+          "minute": "79"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Ernesto BELIS",
+          "minute": "4"
+        },
+        {
+          "name": "Alberto GALATEO",
+          "minute": "48"
+        }
+      ],
+      "ground": "Littorale, Bologna",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Anders RYDBERG"
+            },
+            {
+              "name": "Nils AXELSSON"
+            },
+            {
+              "name": "Sven ANDERSSON"
+            },
+            {
+              "name": "Ernst ANDERSSON"
+            },
+            {
+              "name": "Rune CARLSSON"
+            },
+            {
+              "name": "Nils ROSEN",
+              "captain": true
+            },
+            {
+              "name": "Gosta DUNKER"
+            },
+            {
+              "name": "Ragnar GUSTAVSSON"
+            },
+            {
+              "name": "Sven JONASSON"
+            },
+            {
+              "name": "Tore KELLER"
+            },
+            {
+              "name": "Knut KROON"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Hector FRESCHI"
+            },
+            {
+              "name": "Ernesto BELIS"
+            },
+            {
+              "name": "Juan PEDEVILLA"
+            },
+            {
+              "name": "Arcadio LOPEZ"
+            },
+            {
+              "name": "Jose NEHIN"
+            },
+            {
+              "name": "Costantino URBIETA SOSA"
+            },
+            {
+              "name": "Alfredo DE VINCENZI",
+              "captain": true
+            },
+            {
+              "name": "Alberto GALATEO"
+            },
+            {
+              "name": "Roberto IRANETA"
+            },
+            {
+              "name": "Francisco RUA"
+            },
+            {
+              "name": "Federico WILDE"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Eugen BRAUN",
+          "country": "AUT"
+        },
+        {
+          "name": "Albino CARRARO",
+          "country": "ITA"
+        },
+        {
+          "name": "Giuseppe TURBIANI",
+          "country": "ITA"
+        }
+      ]
+    },
+    {
+      "round": "Preliminary Round",
+      "date": "1934-05-27",
+      "time": "16:30 UTC+2",
+      "team1": "Italy",
+      "team2": "USA",
+      "score": [
+        7,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Angelo SCHIAVIO",
+          "minute": "18"
+        },
+        {
+          "name": "Raimundo ORSI",
+          "minute": "20"
+        },
+        {
+          "name": "Angelo SCHIAVIO",
+          "minute": "29"
+        },
+        {
+          "name": "Giovanni FERRARI",
+          "minute": "63"
+        },
+        {
+          "name": "Angelo SCHIAVIO",
+          "minute": "64"
+        },
+        {
+          "name": "Raimundo ORSI",
+          "minute": "69"
+        },
+        {
+          "name": "Giuseppe MEAZZA",
+          "minute": "90"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Aldo DONELLI",
+          "minute": "57"
+        }
+      ],
+      "ground": "Nazionale PNF, Rome",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Giampiero COMBI"
+            },
+            {
+              "name": "Luigi ALLEMANDI"
+            },
+            {
+              "name": "Virginio ROSETTA",
+              "captain": true
+            },
+            {
+              "name": "Luigi BERTOLINI"
+            },
+            {
+              "name": "Giovanni FERRARI"
+            },
+            {
+              "name": "Giuseppe MEAZZA"
+            },
+            {
+              "name": "Luis MONTI"
+            },
+            {
+              "name": "Mario PIZZIOLO"
+            },
+            {
+              "name": "Raimundo ORSI"
+            },
+            {
+              "name": "Angelo SCHIAVIO"
+            },
+            {
+              "name": "Anfilogino GUARISI"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Julius HJULIAN"
+            },
+            {
+              "name": "Ed CZERKIEWICZ"
+            },
+            {
+              "name": "George MOORHOUSE",
+              "captain": true
+            },
+            {
+              "name": "Peter PIETRAS"
+            },
+            {
+              "name": "Walter DICK"
+            },
+            {
+              "name": "Aldo DONELLI"
+            },
+            {
+              "name": "Tom FLORIE"
+            },
+            {
+              "name": "Billy GONSALVES"
+            },
+            {
+              "name": "Bill McLEAN"
+            },
+            {
+              "name": "Werner NILSEN"
+            },
+            {
+              "name": "Francis RYAN"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Rene MERCET",
+          "country": "SUI"
+        },
+        {
+          "name": "Pedro ESCARTIN",
+          "country": "ESP"
+        },
+        {
+          "name": "Bohumil ZENISEK",
+          "country": "TCH"
+        }
+      ]
+    },
+    {
+      "round": "Preliminary Round",
+      "date": "1934-05-27",
+      "time": "16:30 UTC+2",
+      "team1": "Hungary",
+      "team2": "Egypt",
+      "score": [
+        4,
+        2
+      ],
+      "goals1": [
+        {
+          "name": "Pal TELEKI",
+          "minute": "11"
+        },
+        {
+          "name": "Geza TOLDI",
+          "minute": "31"
+        },
+        {
+          "name": "Jeno VINCZE",
+          "minute": "53"
+        },
+        {
+          "name": "Geza TOLDI",
+          "minute": "61"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Abdel Rahman FAWZI",
+          "minute": "35"
+        },
+        {
+          "name": "Abdel Rahman FAWZI",
+          "minute": "39"
+        }
+      ],
+      "ground": "Giorgio Ascarelli, Naples",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Antal SZABO"
+            },
+            {
+              "name": "Gyula FUTO"
+            },
+            {
+              "name": "Laszlo STERNBERG",
+              "captain": true
+            },
+            {
+              "name": "Gyula LAZAR"
+            },
+            {
+              "name": "Istvan PALOTAS"
+            },
+            {
+              "name": "Gyorgy SZUCS"
+            },
+            {
+              "name": "Imre MARKOS"
+            },
+            {
+              "name": "Gabor SZABO"
+            },
+            {
+              "name": "Pal TELEKI"
+            },
+            {
+              "name": "Geza TOLDI"
+            },
+            {
+              "name": "Jeno VINCZE"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Kamel MASOUD"
+            },
+            {
+              "name": "Ali Mohammed EL KAF"
+            },
+            {
+              "name": "Ismail RAFA AT"
+            },
+            {
+              "name": "Abdel SHARLI"
+            },
+            {
+              "name": "Hassan EL FAR"
+            },
+            {
+              "name": "Mohamed Hassan HELMI"
+            },
+            {
+              "name": "Mohamed LATIF"
+            },
+            {
+              "name": "Hassan RAGHAB"
+            },
+            {
+              "name": "Mostafa KAMEL TAHA"
+            },
+            {
+              "name": "Abdel Rahman FAWZI"
+            },
+            {
+              "name": "Mahmoud MOUKHTAR",
+              "captain": true
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Rinaldo BARLASSINA",
+          "country": "ITA"
+        },
+        {
+          "name": "Generoso DATTILO",
+          "country": "ITA"
+        },
+        {
+          "name": "Otello SASSI",
+          "country": "ITA"
+        }
+      ]
+    },
+    {
+      "round": "Quarter-final",
+      "date": "1934-05-31",
+      "time": "16:30 UTC+2",
+      "team1": "Austria",
+      "team2": "Hungary",
+      "score": [
+        2,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Johann HORVATH",
+          "minute": "8"
+        },
+        {
+          "name": "Karl ZISCHEK",
+          "minute": "51"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Gyorgy SAROSI",
+          "minute": "60",
+          "penalty": true
+        }
+      ],
+      "ground": "Littorale, Bologna",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Peter PLATZER"
+            },
+            {
+              "name": "Karl SESTA"
+            },
+            {
+              "name": "Franz CISAR"
+            },
+            {
+              "name": "Josef SMISTIK"
+            },
+            {
+              "name": "Hans URBANEK"
+            },
+            {
+              "name": "Franz WAGNER"
+            },
+            {
+              "name": "Josef BICAN"
+            },
+            {
+              "name": "Matthias SINDELAR"
+            },
+            {
+              "name": "Johann HORVATH",
+              "captain": true
+            },
+            {
+              "name": "Rudi VIERTL"
+            },
+            {
+              "name": "Karl ZISCHEK"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Antal SZABO"
+            },
+            {
+              "name": "Laszlo STERNBERG",
+              "captain": true
+            },
+            {
+              "name": "Jozsef VAGO"
+            },
+            {
+              "name": "Istvan PALOTAS"
+            },
+            {
+              "name": "Antal SZALAY"
+            },
+            {
+              "name": "Gyorgy SZUCS"
+            },
+            {
+              "name": "Gyorgy SAROSI"
+            },
+            {
+              "name": "Istvan AVAR"
+            },
+            {
+              "name": "Tibor KEMENY"
+            },
+            {
+              "name": "Imre MARKOS"
+            },
+            {
+              "name": "Geza TOLDI"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [],
+        [
+          {
+            "type": "R",
+            "name": "Imre MARKOS",
+            "minute": "63"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Francesco MATTEA",
+          "country": "ITA"
+        },
+        {
+          "name": "Pedro ESCARTIN",
+          "country": "ESP"
+        },
+        {
+          "name": "Alfred BIRLEM",
+          "country": "GER"
+        }
+      ]
+    },
+    {
+      "round": "Quarter-final",
+      "date": "1934-05-31",
+      "time": "16:30 UTC+2",
+      "team1": "Italy",
+      "team2": "Spain",
+      "score": {
+        "et": [
+          1,
+          1
+        ]
+      },
+      "goals1": [
+        {
+          "name": "Giovanni FERRARI",
+          "minute": "44"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Luis REGUEIRO",
+          "minute": "30"
+        }
+      ],
+      "ground": "Giovanni Berta, Florence",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Giampiero COMBI",
+              "captain": true
+            },
+            {
+              "name": "Luigi ALLEMANDI"
+            },
+            {
+              "name": "Eraldo MONZEGLIO"
+            },
+            {
+              "name": "Armando CASTELLAZZI"
+            },
+            {
+              "name": "Giovanni FERRARI"
+            },
+            {
+              "name": "Giuseppe MEAZZA"
+            },
+            {
+              "name": "Luis MONTI"
+            },
+            {
+              "name": "Mario PIZZIOLO"
+            },
+            {
+              "name": "Enrique GUAITA"
+            },
+            {
+              "name": "Raimundo ORSI"
+            },
+            {
+              "name": "Angelo SCHIAVIO"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Ricardo ZAMORA",
+              "captain": true
+            },
+            {
+              "name": "I QUINCOCES"
+            },
+            {
+              "name": "CIRIACO"
+            },
+            {
+              "name": "CILAURREN"
+            },
+            {
+              "name": "IRARAGORRI"
+            },
+            {
+              "name": "Jose MUGUERZA"
+            },
+            {
+              "name": "FEDE"
+            },
+            {
+              "name": "GOROSTIZA"
+            },
+            {
+              "name": "LAFUENTE"
+            },
+            {
+              "name": "Isidro LANGARA"
+            },
+            {
+              "name": "Luis REGUEIRO"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Louis BAERT",
+          "country": "BEL"
+        },
+        {
+          "name": "Bohumil ZENISEK",
+          "country": "TCH"
+        },
+        {
+          "name": "Mihaly IVANCSICS",
+          "country": "HUN"
+        }
+      ]
+    },
+    {
+      "round": "Quarter-final",
+      "date": "1934-05-31",
+      "time": "16:30 UTC+2",
+      "team1": "Germany",
+      "team2": "Sweden",
+      "score": [
+        2,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Karl HOHMANN",
+          "minute": "60"
+        },
+        {
+          "name": "Karl HOHMANN",
+          "minute": "63"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Gosta DUNKER",
+          "minute": "82"
+        }
+      ],
+      "ground": "Stadio Giuseppe Meazza, Milan",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Willibald KRESS"
+            },
+            {
+              "name": "Willy BUSCH"
+            },
+            {
+              "name": "Sigmund HARINGER"
+            },
+            {
+              "name": "Rudolf GRAMLICH"
+            },
+            {
+              "name": "Paul ZIELINSKI"
+            },
+            {
+              "name": "Edmund CONEN"
+            },
+            {
+              "name": "Karl HOHMANN"
+            },
+            {
+              "name": "Stanislaus KOBIERSKI"
+            },
+            {
+              "name": "Ernest LEHNER"
+            },
+            {
+              "name": "Otto SIFFLING"
+            },
+            {
+              "name": "Fritz SZEPAN",
+              "captain": true
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Anders RYDBERG"
+            },
+            {
+              "name": "Nils AXELSSON"
+            },
+            {
+              "name": "Sven ANDERSSON"
+            },
+            {
+              "name": "Ernst ANDERSSON"
+            },
+            {
+              "name": "Rune CARLSSON"
+            },
+            {
+              "name": "Nils ROSEN",
+              "captain": true
+            },
+            {
+              "name": "Gosta DUNKER"
+            },
+            {
+              "name": "Ragnar GUSTAVSSON"
+            },
+            {
+              "name": "Sven JONASSON"
+            },
+            {
+              "name": "Tore KELLER"
+            },
+            {
+              "name": "Knut KROON"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Rinaldo BARLASSINA",
+          "country": "ITA"
+        },
+        {
+          "name": "Rene MERCET",
+          "country": "SUI"
+        },
+        {
+          "name": "Johannes VAN MOORSEL",
+          "country": "NED"
+        }
+      ]
+    },
+    {
+      "round": "Quarter-final",
+      "date": "1934-05-31",
+      "time": "16:30 UTC+2",
+      "team1": "Czechoslovakia",
+      "team2": "Switzerland",
+      "score": [
+        3,
+        2
+      ],
+      "goals1": [
+        {
+          "name": "Frantisek SVOBODA",
+          "minute": "24"
+        },
+        {
+          "name": "Jiri SOBOTKA",
+          "minute": "49"
+        },
+        {
+          "name": "Oldrich NEJEDLY",
+          "minute": "82"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Leopold KIELHOLZ",
+          "minute": "18"
+        },
+        {
+          "name": "Willy JAEGGI",
+          "minute": "78"
+        }
+      ],
+      "ground": "Stadio Olimpico, Turin",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Frantisek PLANICKA",
+              "captain": true
+            },
+            {
+              "name": "Josef CTYROKY"
+            },
+            {
+              "name": "Ladislav ZENISEK"
+            },
+            {
+              "name": "Stefan CAMBAL"
+            },
+            {
+              "name": "Josef KOSTALEK"
+            },
+            {
+              "name": "Rudolf KRCIL"
+            },
+            {
+              "name": "Oldrich NEJEDLY"
+            },
+            {
+              "name": "Antonin PUC"
+            },
+            {
+              "name": "Frantisek JUNEK"
+            },
+            {
+              "name": "Jiri SOBOTKA"
+            },
+            {
+              "name": "Frantisek SVOBODA"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Frank SECHEHAYE"
+            },
+            {
+              "name": "Severino MINELLI",
+              "captain": true
+            },
+            {
+              "name": "Walter WEILER"
+            },
+            {
+              "name": "Albert GUINCHARD"
+            },
+            {
+              "name": "Ernst HUFSCHMID"
+            },
+            {
+              "name": "Fernand JACCARD"
+            },
+            {
+              "name": "Andre ABEGGLEN"
+            },
+            {
+              "name": "Alfred JAECK"
+            },
+            {
+              "name": "Willy JAEGGI"
+            },
+            {
+              "name": "Leopold KIELHOLZ"
+            },
+            {
+              "name": "Willy VON KAENEL"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Alois BERANEK",
+          "country": "AUT"
+        },
+        {
+          "name": "Youssuf MOHAMED",
+          "country": "EGY"
+        },
+        {
+          "name": "Jacques BAERT",
+          "country": "FRA"
+        }
+      ]
+    },
+    {
+      "round": "Quarter-final",
+      "date": "1934-06-01",
+      "time": "16:30 UTC+2",
+      "team1": "Italy",
+      "team2": "Spain",
+      "score": [
+        1,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Giuseppe MEAZZA",
+          "minute": "11"
+        }
+      ],
+      "goals2": [],
+      "ground": "Giovanni Berta, Florence",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Giampiero COMBI",
+              "captain": true
+            },
+            {
+              "name": "Luigi ALLEMANDI"
+            },
+            {
+              "name": "Eraldo MONZEGLIO"
+            },
+            {
+              "name": "Luigi BERTOLINI"
+            },
+            {
+              "name": "Giuseppe MEAZZA"
+            },
+            {
+              "name": "Luis MONTI"
+            },
+            {
+              "name": "Attilio FERRARIS"
+            },
+            {
+              "name": "Felice BOREL"
+            },
+            {
+              "name": "Atilio DEMARIA"
+            },
+            {
+              "name": "Enrique GUAITA"
+            },
+            {
+              "name": "Raimundo ORSI"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Juan NOGUES"
+            },
+            {
+              "name": "I QUINCOCES",
+              "captain": true
+            },
+            {
+              "name": "ZABALO"
+            },
+            {
+              "name": "CILAURREN"
+            },
+            {
+              "name": "Simon LECUE"
+            },
+            {
+              "name": "Jose MUGUERZA"
+            },
+            {
+              "name": "CRISANTO BOSCH"
+            },
+            {
+              "name": "I Guillermo CAMPANAL"
+            },
+            {
+              "name": "CHACHO"
+            },
+            {
+              "name": "Luis REGUEIRO"
+            },
+            {
+              "name": "Martin VENTOLRA"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Rene MERCET",
+          "country": "SUI"
+        },
+        {
+          "name": "Mihaly IVANCSICS",
+          "country": "HUN"
+        },
+        {
+          "name": "Bohumil ZENISEK",
+          "country": "TCH"
+        }
+      ]
+    },
+    {
+      "round": "Semi-final",
+      "date": "1934-06-03",
+      "time": "16:30 UTC+2",
+      "team1": "Italy",
+      "team2": "Austria",
+      "score": [
+        1,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Enrique GUAITA",
+          "minute": "19"
+        }
+      ],
+      "goals2": [],
+      "ground": "Stadio Giuseppe Meazza, Milan",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Giampiero COMBI",
+              "captain": true
+            },
+            {
+              "name": "Luigi ALLEMANDI"
+            },
+            {
+              "name": "Eraldo MONZEGLIO"
+            },
+            {
+              "name": "Luigi BERTOLINI"
+            },
+            {
+              "name": "Giovanni FERRARI"
+            },
+            {
+              "name": "Attilio FERRARIS"
+            },
+            {
+              "name": "Giuseppe MEAZZA"
+            },
+            {
+              "name": "Luis MONTI"
+            },
+            {
+              "name": "Enrique GUAITA"
+            },
+            {
+              "name": "Raimundo ORSI"
+            },
+            {
+              "name": "Angelo SCHIAVIO"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Peter PLATZER"
+            },
+            {
+              "name": "Karl SESTA"
+            },
+            {
+              "name": "Franz CISAR"
+            },
+            {
+              "name": "Josef SMISTIK",
+              "captain": true
+            },
+            {
+              "name": "Hans URBANEK"
+            },
+            {
+              "name": "Franz WAGNER"
+            },
+            {
+              "name": "Josef BICAN"
+            },
+            {
+              "name": "Toni SCHALL"
+            },
+            {
+              "name": "Matthias SINDELAR"
+            },
+            {
+              "name": "Rudi VIERTL"
+            },
+            {
+              "name": "Karl ZISCHEK"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Ivan EKLIND",
+          "country": "SWE"
+        },
+        {
+          "name": "Louis BAERT",
+          "country": "BEL"
+        },
+        {
+          "name": "Bohumil ZENISEK",
+          "country": "TCH"
+        }
+      ]
+    },
+    {
+      "round": "Semi-final",
+      "date": "1934-06-03",
+      "time": "16:30 UTC+2",
+      "team1": "Czechoslovakia",
+      "team2": "Germany",
+      "score": [
+        3,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Oldrich NEJEDLY",
+          "minute": "21"
+        },
+        {
+          "name": "Oldrich NEJEDLY",
+          "minute": "69"
+        },
+        {
+          "name": "Oldrich NEJEDLY",
+          "minute": "80"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Rudolf NOACK",
+          "minute": "62"
+        }
+      ],
+      "ground": "Nazionale PNF, Rome",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Frantisek PLANICKA",
+              "captain": true
+            },
+            {
+              "name": "Josef CTYROKY"
+            },
+            {
+              "name": "Jaroslav BURGR"
+            },
+            {
+              "name": "Stefan CAMBAL"
+            },
+            {
+              "name": "Josef KOSTALEK"
+            },
+            {
+              "name": "Rudolf KRCIL"
+            },
+            {
+              "name": "Oldrich NEJEDLY"
+            },
+            {
+              "name": "Antonin PUC"
+            },
+            {
+              "name": "Frantisek JUNEK"
+            },
+            {
+              "name": "Jiri SOBOTKA"
+            },
+            {
+              "name": "Frantisek SVOBODA"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Willibald KRESS"
+            },
+            {
+              "name": "Willy BUSCH"
+            },
+            {
+              "name": "Sigmund HARINGER"
+            },
+            {
+              "name": "Paul ZIELINSKI"
+            },
+            {
+              "name": "Jakob BENDER"
+            },
+            {
+              "name": "Edmund CONEN"
+            },
+            {
+              "name": "Stanislaus KOBIERSKI"
+            },
+            {
+              "name": "Ernest LEHNER"
+            },
+            {
+              "name": "Rudolf NOACK"
+            },
+            {
+              "name": "Otto SIFFLING"
+            },
+            {
+              "name": "Fritz SZEPAN",
+              "captain": true
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Rinaldo BARLASSINA",
+          "country": "ITA"
+        },
+        {
+          "name": "Alois BERANEK",
+          "country": "AUT"
+        },
+        {
+          "name": "Pedro ESCARTIN",
+          "country": "ESP"
+        }
+      ]
+    },
+    {
+      "round": "Match for third place",
+      "date": "1934-06-07",
+      "time": "18:00 UTC+2",
+      "team1": "Germany",
+      "team2": "Austria",
+      "score": [
+        3,
+        2
+      ],
+      "goals1": [
+        {
+          "name": "Ernest LEHNER",
+          "minute": "1"
+        },
+        {
+          "name": "Edmund CONEN",
+          "minute": "27"
+        },
+        {
+          "name": "Ernest LEHNER",
+          "minute": "42"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Johann HORVATH",
+          "minute": "28"
+        },
+        {
+          "name": "Karl SESTA",
+          "minute": "54"
+        }
+      ],
+      "ground": "Giorgio Ascarelli, Naples",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Hans JAKOB"
+            },
+            {
+              "name": "Willy BUSCH"
+            },
+            {
+              "name": "Paul JANES"
+            },
+            {
+              "name": "Reinhold MUENZENBERG"
+            },
+            {
+              "name": "Paul ZIELINSKI"
+            },
+            {
+              "name": "Jakob BENDER"
+            },
+            {
+              "name": "Edmund CONEN"
+            },
+            {
+              "name": "Mathias HEIDEMANN"
+            },
+            {
+              "name": "Ernest LEHNER"
+            },
+            {
+              "name": "Otto SIFFLING"
+            },
+            {
+              "name": "Fritz SZEPAN",
+              "captain": true
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Peter PLATZER"
+            },
+            {
+              "name": "Karl SESTA"
+            },
+            {
+              "name": "Franz CISAR"
+            },
+            {
+              "name": "Josef SMISTIK"
+            },
+            {
+              "name": "Hans URBANEK"
+            },
+            {
+              "name": "Franz WAGNER"
+            },
+            {
+              "name": "Josef BICAN"
+            },
+            {
+              "name": "Georg BRAUN"
+            },
+            {
+              "name": "Johann HORVATH",
+              "captain": true
+            },
+            {
+              "name": "Rudi VIERTL"
+            },
+            {
+              "name": "Karl ZISCHEK"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Albino CARRARO",
+          "country": "ITA"
+        },
+        {
+          "name": "Camillo CAIRONI",
+          "country": "ITA"
+        },
+        {
+          "name": "Pedro ESCARTIN",
+          "country": "ESP"
+        }
+      ]
+    },
+    {
+      "round": "Final",
+      "date": "1934-06-10",
+      "time": "17:30 UTC+2",
+      "team1": "Italy",
+      "team2": "Czechoslovakia",
+      "score": {
+        "et": [
+          2,
+          1
+        ]
+      },
+      "goals1": [
+        {
+          "name": "Raimundo ORSI",
+          "minute": "81"
+        },
+        {
+          "name": "Angelo SCHIAVIO",
+          "minute": "95"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Antonin PUC",
+          "minute": "71"
+        }
+      ],
+      "ground": "Nazionale PNF, Rome",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Giampiero COMBI",
+              "captain": true
+            },
+            {
+              "name": "Luigi ALLEMANDI"
+            },
+            {
+              "name": "Eraldo MONZEGLIO"
+            },
+            {
+              "name": "Luigi BERTOLINI"
+            },
+            {
+              "name": "Giovanni FERRARI"
+            },
+            {
+              "name": "Attilio FERRARIS"
+            },
+            {
+              "name": "Giuseppe MEAZZA"
+            },
+            {
+              "name": "Luis MONTI"
+            },
+            {
+              "name": "Enrique GUAITA"
+            },
+            {
+              "name": "Raimundo ORSI"
+            },
+            {
+              "name": "Angelo SCHIAVIO"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Frantisek PLANICKA",
+              "captain": true
+            },
+            {
+              "name": "Josef CTYROKY"
+            },
+            {
+              "name": "Ladislav ZENISEK"
+            },
+            {
+              "name": "Stefan CAMBAL"
+            },
+            {
+              "name": "Josef KOSTALEK"
+            },
+            {
+              "name": "Rudolf KRCIL"
+            },
+            {
+              "name": "Oldrich NEJEDLY"
+            },
+            {
+              "name": "Antonin PUC"
+            },
+            {
+              "name": "Frantisek JUNEK"
+            },
+            {
+              "name": "Jiri SOBOTKA"
+            },
+            {
+              "name": "Frantisek SVOBODA"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Ivan EKLIND",
+          "country": "SWE"
+        },
+        {
+          "name": "Alfred BIRLEM",
+          "country": "GER"
+        },
+        {
+          "name": "Mihaly IVANCSICS",
+          "country": "HUN"
+        }
+      ]
+    }
+  ]
+}

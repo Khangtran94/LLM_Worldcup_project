@@ -1,0 +1,3390 @@
+{
+  "name": "World Cup 1954",
+  "matches": [
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1954-06-16",
+      "time": "18:00 UTC+2",
+      "team1": "Brazil",
+      "team2": "Mexico",
+      "score": [
+        5,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "BALTAZAR",
+          "minute": "23"
+        },
+        {
+          "name": "DIDI",
+          "minute": "30"
+        },
+        {
+          "name": "PINGA",
+          "minute": "34"
+        },
+        {
+          "name": "PINGA",
+          "minute": "43"
+        },
+        {
+          "name": "JULINHO",
+          "minute": "69"
+        }
+      ],
+      "goals2": [],
+      "ground": "Charmilles, Geneva",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "CASTILHO"
+            },
+            {
+              "name": "DJALMA SANTOS"
+            },
+            {
+              "name": "NILTON SANTOS"
+            },
+            {
+              "name": "BRANDAOZINHO"
+            },
+            {
+              "name": "BAUER",
+              "captain": true
+            },
+            {
+              "name": "PINHEIRO"
+            },
+            {
+              "name": "DIDI"
+            },
+            {
+              "name": "JULINHO"
+            },
+            {
+              "name": "BALTAZAR"
+            },
+            {
+              "name": "PINGA"
+            },
+            {
+              "name": "RODRIGUES"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Salvador MOTA"
+            },
+            {
+              "name": "Narciso LOPEZ"
+            },
+            {
+              "name": "Jorge ROMO"
+            },
+            {
+              "name": "Juan GOMEZ"
+            },
+            {
+              "name": "Raul CARDENAS"
+            },
+            {
+              "name": "Rafael AVALOS"
+            },
+            {
+              "name": "Alfredo TORRES"
+            },
+            {
+              "name": "Jose NARANJO",
+              "captain": true
+            },
+            {
+              "name": "Jose LAMADRID"
+            },
+            {
+              "name": "Tomas BALCAZAR"
+            },
+            {
+              "name": "Raul ARELLANO"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Paul WYSSLING",
+          "country": "SUI"
+        },
+        {
+          "name": "Ernest SCHONHOLZER",
+          "country": "SUI"
+        },
+        {
+          "name": "Jose DA COSTA VIEIRA",
+          "country": "POR"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1954-06-16",
+      "time": "18:00 UTC+2",
+      "team1": "Yugoslavia",
+      "team2": "France",
+      "score": [
+        1,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Milos MILUTINOVIC",
+          "minute": "15"
+        }
+      ],
+      "goals2": [],
+      "ground": "La Pontaise, Lausanne",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Vladimir BEARA"
+            },
+            {
+              "name": "Branko STANKOVIC"
+            },
+            {
+              "name": "Tomislav CRNKOVIC"
+            },
+            {
+              "name": "Ivan HORVAT"
+            },
+            {
+              "name": "Zlatko CAJKOVSKI"
+            },
+            {
+              "name": "Vujadin BOSKOV"
+            },
+            {
+              "name": "Branko ZEBEC"
+            },
+            {
+              "name": "Rajko MITIC"
+            },
+            {
+              "name": "Bernard VUKAS"
+            },
+            {
+              "name": "Stjepan BOBEK",
+              "captain": true
+            },
+            {
+              "name": "Milos MILUTINOVIC"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Francois REMETTER"
+            },
+            {
+              "name": "Lazare GIANESSI"
+            },
+            {
+              "name": "Raymond KAELBEL"
+            },
+            {
+              "name": "Robert JONQUET",
+              "captain": true
+            },
+            {
+              "name": "Armand PENVERNE"
+            },
+            {
+              "name": "Jean-Jacques MARCEL"
+            },
+            {
+              "name": "Rene DEREUDDRE"
+            },
+            {
+              "name": "Leon GLOVACKI"
+            },
+            {
+              "name": "Raymond KOPA"
+            },
+            {
+              "name": "Andre STRAPPE"
+            },
+            {
+              "name": "Jean VINCENT"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Benjamin GRIFFITHS",
+          "country": "WAL"
+        },
+        {
+          "name": "Rene BAUMBERGER",
+          "country": "SUI"
+        },
+        {
+          "name": "Manuel ASENSI",
+          "country": "ESP"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1954-06-19",
+      "time": "17:00 UTC+2",
+      "team1": "Brazil",
+      "team2": "Yugoslavia",
+      "score": {
+        "et": [
+          1,
+          1
+        ]
+      },
+      "goals1": [
+        {
+          "name": "DIDI",
+          "minute": "69"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Branko ZEBEC",
+          "minute": "48"
+        }
+      ],
+      "ground": "La Pontaise, Lausanne",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "CASTILHO"
+            },
+            {
+              "name": "DJALMA SANTOS"
+            },
+            {
+              "name": "NILTON SANTOS"
+            },
+            {
+              "name": "BRANDAOZINHO"
+            },
+            {
+              "name": "BAUER",
+              "captain": true
+            },
+            {
+              "name": "PINHEIRO"
+            },
+            {
+              "name": "DIDI"
+            },
+            {
+              "name": "JULINHO"
+            },
+            {
+              "name": "BALTAZAR"
+            },
+            {
+              "name": "PINGA"
+            },
+            {
+              "name": "RODRIGUES"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Vladimir BEARA"
+            },
+            {
+              "name": "Branko STANKOVIC"
+            },
+            {
+              "name": "Tomislav CRNKOVIC"
+            },
+            {
+              "name": "Ivan HORVAT"
+            },
+            {
+              "name": "Zlatko CAJKOVSKI"
+            },
+            {
+              "name": "Vujadin BOSKOV"
+            },
+            {
+              "name": "Branko ZEBEC"
+            },
+            {
+              "name": "Rajko MITIC",
+              "captain": true
+            },
+            {
+              "name": "Bernard VUKAS"
+            },
+            {
+              "name": "Milos MILUTINOVIC"
+            },
+            {
+              "name": "Dionizije DVORNIC"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Charlie FAULTLESS",
+          "country": "SCO"
+        },
+        {
+          "name": "Arthur ELLIS",
+          "country": "ENG"
+        },
+        {
+          "name": "Albert VON GUNTER",
+          "country": "SUI"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1954-06-19",
+      "time": "17:10 UTC+2",
+      "team1": "France",
+      "team2": "Mexico",
+      "score": [
+        3,
+        2
+      ],
+      "goals1": [
+        {
+          "name": "Jean VINCENT",
+          "minute": "19"
+        },
+        {
+          "name": "Raul CARDENAS",
+          "minute": "46",
+          "owngoal": true
+        },
+        {
+          "name": "Raymond KOPA",
+          "minute": "88",
+          "penalty": true
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Jose LAMADRID",
+          "minute": "54"
+        },
+        {
+          "name": "Tomas BALCAZAR",
+          "minute": "85"
+        }
+      ],
+      "ground": "Charmilles, Geneva",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Francois REMETTER"
+            },
+            {
+              "name": "Lazare GIANESSI"
+            },
+            {
+              "name": "Raymond KAELBEL"
+            },
+            {
+              "name": "Roger MARCHE",
+              "captain": true
+            },
+            {
+              "name": "Jean-Jacques MARCEL"
+            },
+            {
+              "name": "Abderrhamane MAHJOUB"
+            },
+            {
+              "name": "Abdelaziz BEN-TIFOUR"
+            },
+            {
+              "name": "Rene DEREUDDRE"
+            },
+            {
+              "name": "Raymond KOPA"
+            },
+            {
+              "name": "Andre STRAPPE"
+            },
+            {
+              "name": "Jean VINCENT"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Antonio CARBAJAL"
+            },
+            {
+              "name": "Narciso LOPEZ"
+            },
+            {
+              "name": "Jorge ROMO"
+            },
+            {
+              "name": "Saturnino MARTINEZ"
+            },
+            {
+              "name": "Raul CARDENAS"
+            },
+            {
+              "name": "Rafael AVALOS"
+            },
+            {
+              "name": "Alfredo TORRES"
+            },
+            {
+              "name": "Jose NARANJO",
+              "captain": true
+            },
+            {
+              "name": "Jose LAMADRID"
+            },
+            {
+              "name": "Tomas BALCAZAR"
+            },
+            {
+              "name": "Raul ARELLANO"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Manuel ASENSI",
+          "country": "ESP"
+        },
+        {
+          "name": "Laurent FRANKEN",
+          "country": "BEL"
+        },
+        {
+          "name": "Rene BAUMBERGER",
+          "country": "SUI"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1954-06-17",
+      "time": "18:00 UTC+2",
+      "team1": "Hungary",
+      "team2": "South Korea",
+      "score": [
+        9,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Ferenc PUSKAS",
+          "minute": "12"
+        },
+        {
+          "name": "Mihaly LANTOS",
+          "minute": "18"
+        },
+        {
+          "name": "Sandor KOCSIS",
+          "minute": "24"
+        },
+        {
+          "name": "Sandor KOCSIS",
+          "minute": "36"
+        },
+        {
+          "name": "Sandor KOCSIS",
+          "minute": "50"
+        },
+        {
+          "name": "Zoltan CZIBOR",
+          "minute": "59"
+        },
+        {
+          "name": "Peter PALOTAS",
+          "minute": "75"
+        },
+        {
+          "name": "Peter PALOTAS",
+          "minute": "83"
+        },
+        {
+          "name": "Ferenc PUSKAS",
+          "minute": "89"
+        }
+      ],
+      "goals2": [],
+      "ground": "Hardturm, Zürich",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Gyula GROSICS"
+            },
+            {
+              "name": "Jeno BUZANSZKY"
+            },
+            {
+              "name": "Mihaly LANTOS"
+            },
+            {
+              "name": "Gyula LORANT"
+            },
+            {
+              "name": "Jozsef BOZSIK"
+            },
+            {
+              "name": "Ferenc SZOJKA"
+            },
+            {
+              "name": "Sandor KOCSIS"
+            },
+            {
+              "name": "Ferenc PUSKAS",
+              "captain": true
+            },
+            {
+              "name": "Zoltan CZIBOR"
+            },
+            {
+              "name": "Laszlo BUDAI"
+            },
+            {
+              "name": "Peter PALOTAS"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "HONG Dook Jong"
+            },
+            {
+              "name": "PARK Kyu Chong"
+            },
+            {
+              "name": "PARK Yae Seung"
+            },
+            {
+              "name": "MIN Byung Dae",
+              "captain": true
+            },
+            {
+              "name": "KANG Chang Gi"
+            },
+            {
+              "name": "CHUNG Nam Sik"
+            },
+            {
+              "name": "CHU Yung Kwang"
+            },
+            {
+              "name": "CHOI Chung Min"
+            },
+            {
+              "name": "WOO Sang Kwon"
+            },
+            {
+              "name": "SUNG Nak Woon"
+            },
+            {
+              "name": "PARK Il Kap"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Raymond VINCENTI",
+          "country": "FRA"
+        },
+        {
+          "name": "Albert VON GUNTER",
+          "country": "SUI"
+        },
+        {
+          "name": "Carl STEINER",
+          "country": "AUT"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1954-06-17",
+      "time": "18:00 UTC+2",
+      "team1": "West Germany",
+      "team2": "Turkey",
+      "score": [
+        4,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Hans SCHAEFER",
+          "minute": "14"
+        },
+        {
+          "name": "Berni KLODT",
+          "minute": "52"
+        },
+        {
+          "name": "Ottmar WALTER",
+          "minute": "60"
+        },
+        {
+          "name": "Max MORLOCK",
+          "minute": "84"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Suat MAMAT",
+          "minute": "2"
+        }
+      ],
+      "ground": "Stade de Suisse, Bern",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Toni TUREK"
+            },
+            {
+              "name": "Fritz LABAND"
+            },
+            {
+              "name": "Werner KOHLMEYER"
+            },
+            {
+              "name": "Jupp POSIPAL"
+            },
+            {
+              "name": "Karl MAI"
+            },
+            {
+              "name": "Fritz WALTER",
+              "captain": true
+            },
+            {
+              "name": "Horst ECKEL"
+            },
+            {
+              "name": "Max MORLOCK"
+            },
+            {
+              "name": "Berni KLODT"
+            },
+            {
+              "name": "Ottmar WALTER"
+            },
+            {
+              "name": "Hans SCHAEFER"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Turgay SEREN",
+              "captain": true
+            },
+            {
+              "name": "Ridvan BOLATLI"
+            },
+            {
+              "name": "Basri DIRIMLILI"
+            },
+            {
+              "name": "Mustafa ERTAN"
+            },
+            {
+              "name": "Cetin ZEYBEK"
+            },
+            {
+              "name": "Rober ERYOL"
+            },
+            {
+              "name": "Erol KESKIN"
+            },
+            {
+              "name": "Suat MAMAT"
+            },
+            {
+              "name": "Ismail FERIDUN"
+            },
+            {
+              "name": "Buhran SARGUN"
+            },
+            {
+              "name": "Lefter KUCUKANDONYADIS"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Jose DA COSTA VIEIRA",
+          "country": "POR"
+        },
+        {
+          "name": "Istvan ZSOLT",
+          "country": "HUN"
+        },
+        {
+          "name": "Armand MERLOTTI",
+          "country": "SUI"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1954-06-20",
+      "time": "16:50 UTC+2",
+      "team1": "Hungary",
+      "team2": "West Germany",
+      "score": [
+        8,
+        3
+      ],
+      "goals1": [
+        {
+          "name": "Sandor KOCSIS",
+          "minute": "3"
+        },
+        {
+          "name": "Ferenc PUSKAS",
+          "minute": "17"
+        },
+        {
+          "name": "Sandor KOCSIS",
+          "minute": "21"
+        },
+        {
+          "name": "Nandor HIDEGKUTI",
+          "minute": "52"
+        },
+        {
+          "name": "Nandor HIDEGKUTI",
+          "minute": "54"
+        },
+        {
+          "name": "Sandor KOCSIS",
+          "minute": "69"
+        },
+        {
+          "name": "Jozsef TOTH",
+          "minute": "75"
+        },
+        {
+          "name": "Sandor KOCSIS",
+          "minute": "78"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Alfred PFAFF",
+          "minute": "25"
+        },
+        {
+          "name": "Helmut RAHN",
+          "minute": "77"
+        },
+        {
+          "name": "Richard HERRMANN",
+          "minute": "84"
+        }
+      ],
+      "ground": "St. Jakob-Park, Basel",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Gyula GROSICS"
+            },
+            {
+              "name": "Jeno BUZANSZKY"
+            },
+            {
+              "name": "Mihaly LANTOS"
+            },
+            {
+              "name": "Gyula LORANT"
+            },
+            {
+              "name": "Jozsef BOZSIK"
+            },
+            {
+              "name": "Jozsef ZAKARIAS"
+            },
+            {
+              "name": "Jozsef TOTH"
+            },
+            {
+              "name": "Sandor KOCSIS"
+            },
+            {
+              "name": "Nandor HIDEGKUTI"
+            },
+            {
+              "name": "Ferenc PUSKAS",
+              "captain": true
+            },
+            {
+              "name": "Zoltan CZIBOR"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Heinz KWIATKOWSKI"
+            },
+            {
+              "name": "Werner KOHLMEYER"
+            },
+            {
+              "name": "Hans BAUER"
+            },
+            {
+              "name": "Jupp POSIPAL"
+            },
+            {
+              "name": "Werner LIEBRICH"
+            },
+            {
+              "name": "Paul MEBUS"
+            },
+            {
+              "name": "Fritz WALTER",
+              "captain": true
+            },
+            {
+              "name": "Horst ECKEL"
+            },
+            {
+              "name": "Helmut RAHN"
+            },
+            {
+              "name": "Richard HERRMANN"
+            },
+            {
+              "name": "Alfred PFAFF"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "William LING",
+          "country": "ENG"
+        },
+        {
+          "name": "Werner SCHICKER",
+          "country": "SUI"
+        },
+        {
+          "name": "Benjamin GRIFFITHS",
+          "country": "WAL"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1954-06-20",
+      "time": "17:00 UTC+2",
+      "team1": "Turkey",
+      "team2": "South Korea",
+      "score": [
+        7,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Suat MAMAT",
+          "minute": "10"
+        },
+        {
+          "name": "Lefter KUCUKANDONYADIS",
+          "minute": "18"
+        },
+        {
+          "name": "Suat MAMAT",
+          "minute": "30"
+        },
+        {
+          "name": "Buhran SARGUN",
+          "minute": "37"
+        },
+        {
+          "name": "Buhran SARGUN",
+          "minute": "64"
+        },
+        {
+          "name": "Buhran SARGUN",
+          "minute": "70"
+        },
+        {
+          "name": "Erol KESKIN",
+          "minute": "76"
+        }
+      ],
+      "goals2": [],
+      "ground": "Charmilles, Geneva",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Turgay SEREN",
+              "captain": true
+            },
+            {
+              "name": "Ridvan BOLATLI"
+            },
+            {
+              "name": "Basri DIRIMLILI"
+            },
+            {
+              "name": "Mustafa ERTAN"
+            },
+            {
+              "name": "Cetin ZEYBEK"
+            },
+            {
+              "name": "Rober ERYOL"
+            },
+            {
+              "name": "Erol KESKIN"
+            },
+            {
+              "name": "Suat MAMAT"
+            },
+            {
+              "name": "Ismail FERIDUN"
+            },
+            {
+              "name": "Buhran SARGUN"
+            },
+            {
+              "name": "Lefter KUCUKANDONYADIS"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "HONG Dook Jong"
+            },
+            {
+              "name": "PARK Kyu Chong",
+              "captain": true
+            },
+            {
+              "name": "LI Jong Kap"
+            },
+            {
+              "name": "HAN Chung Wa"
+            },
+            {
+              "name": "KANG Chang Gi"
+            },
+            {
+              "name": "KIM Ji Sung"
+            },
+            {
+              "name": "LI Sao Nam"
+            },
+            {
+              "name": "WOO Sang Kwon"
+            },
+            {
+              "name": "LI Ki Joo"
+            },
+            {
+              "name": "YUNG Kook Chin"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Esteban MARINO",
+          "country": "URU"
+        },
+        {
+          "name": "Vincenzo ORLANDINI",
+          "country": "ITA"
+        },
+        {
+          "name": "Ernest SCHONHOLZER",
+          "country": "SUI"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1954-06-23",
+      "time": "18:00 UTC+2",
+      "team1": "West Germany",
+      "team2": "Turkey",
+      "score": [
+        7,
+        2
+      ],
+      "goals1": [
+        {
+          "name": "Ottmar WALTER",
+          "minute": "7"
+        },
+        {
+          "name": "Hans SCHAEFER",
+          "minute": "12"
+        },
+        {
+          "name": "Max MORLOCK",
+          "minute": "30"
+        },
+        {
+          "name": "Max MORLOCK",
+          "minute": "60"
+        },
+        {
+          "name": "Fritz WALTER",
+          "minute": "62"
+        },
+        {
+          "name": "Max MORLOCK",
+          "minute": "77"
+        },
+        {
+          "name": "Hans SCHAEFER",
+          "minute": "79"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Mustafa ERTAN",
+          "minute": "21"
+        },
+        {
+          "name": "Lefter KUCUKANDONYADIS",
+          "minute": "82"
+        }
+      ],
+      "ground": "Hardturm, Zürich",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Toni TUREK"
+            },
+            {
+              "name": "Fritz LABAND"
+            },
+            {
+              "name": "Hans BAUER"
+            },
+            {
+              "name": "Jupp POSIPAL"
+            },
+            {
+              "name": "Karl MAI"
+            },
+            {
+              "name": "Fritz WALTER",
+              "captain": true
+            },
+            {
+              "name": "Horst ECKEL"
+            },
+            {
+              "name": "Max MORLOCK"
+            },
+            {
+              "name": "Berni KLODT"
+            },
+            {
+              "name": "Ottmar WALTER"
+            },
+            {
+              "name": "Hans SCHAEFER"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Sukru ERSOY"
+            },
+            {
+              "name": "Ridvan BOLATLI"
+            },
+            {
+              "name": "Basri DIRIMLILI"
+            },
+            {
+              "name": "Mustafa ERTAN"
+            },
+            {
+              "name": "Naci ERDEM"
+            },
+            {
+              "name": "Cetin ZEYBEK"
+            },
+            {
+              "name": "Rober ERYOL"
+            },
+            {
+              "name": "Erol KESKIN"
+            },
+            {
+              "name": "Lefter KUCUKANDONYADIS",
+              "captain": true
+            },
+            {
+              "name": "Onarici NECMI"
+            },
+            {
+              "name": "Coskun TAS"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Raymond VINCENTI",
+          "country": "FRA"
+        },
+        {
+          "name": "Charlie FAULTLESS",
+          "country": "SCO"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1954-06-16",
+      "time": "18:00 UTC+2",
+      "team1": "Austria",
+      "team2": "Scotland",
+      "score": [
+        1,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Erich PROBST",
+          "minute": "33"
+        }
+      ],
+      "goals2": [],
+      "ground": "Hardturm, Zürich",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Kurt SCHMIED",
+              "captain": true
+            },
+            {
+              "name": "Gerhard HANAPPI"
+            },
+            {
+              "name": "Ernst HAPPEL"
+            },
+            {
+              "name": "Leopold BARSCHANDT"
+            },
+            {
+              "name": "Ernst OCWIRK"
+            },
+            {
+              "name": "Karl KOLLER"
+            },
+            {
+              "name": "Robert KOERNER"
+            },
+            {
+              "name": "Walter SCHLEGER"
+            },
+            {
+              "name": "Erich PROBST"
+            },
+            {
+              "name": "Alfred KOERNER"
+            },
+            {
+              "name": "Robert DIENST"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Fred MARTIN"
+            },
+            {
+              "name": "Willie CUNNINGHAM",
+              "captain": true
+            },
+            {
+              "name": "Jock AIRD"
+            },
+            {
+              "name": "Jimmy DAVIDSON"
+            },
+            {
+              "name": "Tommy DOCHERTY"
+            },
+            {
+              "name": "Doug COWIE"
+            },
+            {
+              "name": "John McKENZIE"
+            },
+            {
+              "name": "Allan BROWN"
+            },
+            {
+              "name": "Neil MOCHAN"
+            },
+            {
+              "name": "Willie FERNIE"
+            },
+            {
+              "name": "Willie ORMOND"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Laurent FRANKEN",
+          "country": "BEL"
+        },
+        {
+          "name": "Mario VIANA",
+          "country": "BRA"
+        },
+        {
+          "name": "Josef GULDE",
+          "country": "SUI"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1954-06-16",
+      "time": "18:00 UTC+2",
+      "team1": "Uruguay",
+      "team2": "Czechoslovakia",
+      "score": [
+        2,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Oscar MIGUEZ",
+          "minute": "71"
+        },
+        {
+          "name": "Juan SCHIAFFINO",
+          "minute": "84"
+        }
+      ],
+      "goals2": [],
+      "ground": "Stade de Suisse, Bern",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Roque MASPOLI"
+            },
+            {
+              "name": "Jose SANTAMARIA"
+            },
+            {
+              "name": "William MARTINEZ"
+            },
+            {
+              "name": "Victor RODRIGUEZ ANDRADE"
+            },
+            {
+              "name": "Obdulio VARELA",
+              "captain": true
+            },
+            {
+              "name": "Luis CRUZ"
+            },
+            {
+              "name": "Julio ABBADIE"
+            },
+            {
+              "name": "Oscar MIGUEZ"
+            },
+            {
+              "name": "Juan SCHIAFFINO"
+            },
+            {
+              "name": "Carlos BORGES"
+            },
+            {
+              "name": "Javier AMBROIS"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Theodor REIMANN"
+            },
+            {
+              "name": "Frantisek SAFRANEK"
+            },
+            {
+              "name": "Ladislav NOVAK",
+              "captain": true
+            },
+            {
+              "name": "Jiri TRNKA"
+            },
+            {
+              "name": "Jiri HLEDIK"
+            },
+            {
+              "name": "Jan HERTL"
+            },
+            {
+              "name": "Vladislav HLAVACEK"
+            },
+            {
+              "name": "Otto HEMELE"
+            },
+            {
+              "name": "Emil PAZICKY"
+            },
+            {
+              "name": "Jiri PESEK"
+            },
+            {
+              "name": "Ladislav KACANI"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Arthur ELLIS",
+          "country": "ENG"
+        },
+        {
+          "name": "William LING",
+          "country": "ENG"
+        },
+        {
+          "name": "Werner SCHICKER",
+          "country": "SUI"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1954-06-19",
+      "time": "16:50 UTC+2",
+      "team1": "Uruguay",
+      "team2": "Scotland",
+      "score": [
+        7,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Carlos BORGES",
+          "minute": "17"
+        },
+        {
+          "name": "Oscar MIGUEZ",
+          "minute": "30"
+        },
+        {
+          "name": "Carlos BORGES",
+          "minute": "47"
+        },
+        {
+          "name": "Julio ABBADIE",
+          "minute": "54"
+        },
+        {
+          "name": "Carlos BORGES",
+          "minute": "57"
+        },
+        {
+          "name": "Oscar MIGUEZ",
+          "minute": "83"
+        },
+        {
+          "name": "Julio ABBADIE",
+          "minute": "85"
+        }
+      ],
+      "goals2": [],
+      "ground": "St. Jakob-Park, Basel",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Roque MASPOLI"
+            },
+            {
+              "name": "Jose SANTAMARIA"
+            },
+            {
+              "name": "William MARTINEZ"
+            },
+            {
+              "name": "Victor RODRIGUEZ ANDRADE"
+            },
+            {
+              "name": "Obdulio VARELA",
+              "captain": true
+            },
+            {
+              "name": "Luis CRUZ"
+            },
+            {
+              "name": "Julio ABBADIE"
+            },
+            {
+              "name": "Oscar MIGUEZ"
+            },
+            {
+              "name": "Juan SCHIAFFINO"
+            },
+            {
+              "name": "Carlos BORGES"
+            },
+            {
+              "name": "Javier AMBROIS"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Fred MARTIN"
+            },
+            {
+              "name": "Willie CUNNINGHAM",
+              "captain": true
+            },
+            {
+              "name": "Jock AIRD"
+            },
+            {
+              "name": "Jimmy DAVIDSON"
+            },
+            {
+              "name": "Tommy DOCHERTY"
+            },
+            {
+              "name": "Doug COWIE"
+            },
+            {
+              "name": "John McKENZIE"
+            },
+            {
+              "name": "Allan BROWN"
+            },
+            {
+              "name": "Neil MOCHAN"
+            },
+            {
+              "name": "Willie FERNIE"
+            },
+            {
+              "name": "Willie ORMOND"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Vincenzo ORLANDINI",
+          "country": "ITA"
+        },
+        {
+          "name": "Paul WYSSLING",
+          "country": "SUI"
+        },
+        {
+          "name": "Denilo GUIDI",
+          "country": "SUI"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1954-06-19",
+      "time": "17:00 UTC+2",
+      "team1": "Austria",
+      "team2": "Czechoslovakia",
+      "score": [
+        5,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Ernst STOJASPAL",
+          "minute": "3"
+        },
+        {
+          "name": "Erich PROBST",
+          "minute": "4"
+        },
+        {
+          "name": "Erich PROBST",
+          "minute": "21"
+        },
+        {
+          "name": "Erich PROBST",
+          "minute": "24"
+        },
+        {
+          "name": "Ernst STOJASPAL",
+          "minute": "65"
+        }
+      ],
+      "goals2": [],
+      "ground": "Hardturm, Zürich",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Kurt SCHMIED"
+            },
+            {
+              "name": "Gerhard HANAPPI"
+            },
+            {
+              "name": "Ernst HAPPEL"
+            },
+            {
+              "name": "Leopold BARSCHANDT"
+            },
+            {
+              "name": "Ernst OCWIRK",
+              "captain": true
+            },
+            {
+              "name": "Karl KOLLER"
+            },
+            {
+              "name": "Robert KOERNER"
+            },
+            {
+              "name": "Theodor WAGNER"
+            },
+            {
+              "name": "Erich PROBST"
+            },
+            {
+              "name": "Alfred KOERNER"
+            },
+            {
+              "name": "Ernst STOJASPAL"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Imrich STACHO"
+            },
+            {
+              "name": "Frantisek SAFRANEK"
+            },
+            {
+              "name": "Ladislav NOVAK",
+              "captain": true
+            },
+            {
+              "name": "Jiri TRNKA"
+            },
+            {
+              "name": "Svatopluk PLUSKAL"
+            },
+            {
+              "name": "Jan HERTL"
+            },
+            {
+              "name": "Vladislav HLAVACEK"
+            },
+            {
+              "name": "Otto HEMELE"
+            },
+            {
+              "name": "Emil PAZICKY"
+            },
+            {
+              "name": "Ladislav KACANI"
+            },
+            {
+              "name": "Tadeas KRAUS"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Vasa STEFANOVIC",
+          "country": "YUG"
+        },
+        {
+          "name": "Josef GULDE",
+          "country": "SUI"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1954-06-17",
+      "time": "17:50 UTC+2",
+      "team1": "Switzerland",
+      "team2": "Italy",
+      "score": [
+        2,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Robert BALLAMAN",
+          "minute": "18"
+        },
+        {
+          "name": "Sepp HUEGI",
+          "minute": "78"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Giampiero BONIPERTI",
+          "minute": "44"
+        }
+      ],
+      "ground": "La Pontaise, Lausanne",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Eugene PARLIER"
+            },
+            {
+              "name": "Roger BOCQUET",
+              "captain": true
+            },
+            {
+              "name": "Marcel FLUECKIGER"
+            },
+            {
+              "name": "Andre NEURY"
+            },
+            {
+              "name": "Willy KERNEN"
+            },
+            {
+              "name": "Charles CASALI"
+            },
+            {
+              "name": "Robert BALLAMAN"
+            },
+            {
+              "name": "Jackie FATTON"
+            },
+            {
+              "name": "Sepp HUEGI"
+            },
+            {
+              "name": "Eugen MEIER"
+            },
+            {
+              "name": "Roger VONLANTHEN"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Giorgio GHEZZI"
+            },
+            {
+              "name": "Guido VINCENZI"
+            },
+            {
+              "name": "Giovanni GIACOMAZZI"
+            },
+            {
+              "name": "Maino NERI"
+            },
+            {
+              "name": "Omero TOGNON"
+            },
+            {
+              "name": "Fulvio NESTI"
+            },
+            {
+              "name": "Ermes MUCCINELLI"
+            },
+            {
+              "name": "Egisto PANDOLFINI"
+            },
+            {
+              "name": "Carlo GALLI"
+            },
+            {
+              "name": "Benito LORENZI"
+            },
+            {
+              "name": "Giampiero BONIPERTI",
+              "captain": true
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Mario VIANA",
+          "country": "BRA"
+        },
+        {
+          "name": "Manuel ASENSI",
+          "country": "ESP"
+        },
+        {
+          "name": "Esteban MARINO",
+          "country": "URU"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1954-06-17",
+      "time": "18:10 UTC+2",
+      "team1": "England",
+      "team2": "Belgium",
+      "score": {
+        "et": [
+          4,
+          4
+        ]
+      },
+      "goals1": [
+        {
+          "name": "Ivor BROADIS",
+          "minute": "26"
+        },
+        {
+          "name": "Nat LOFTHOUSE",
+          "minute": "36"
+        },
+        {
+          "name": "Ivor BROADIS",
+          "minute": "63"
+        },
+        {
+          "name": "Nat LOFTHOUSE",
+          "minute": "91"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Leopold ANOUL",
+          "minute": "5"
+        },
+        {
+          "name": "Rik COPPENS",
+          "minute": "67"
+        },
+        {
+          "name": "Leopold ANOUL",
+          "minute": "71"
+        },
+        {
+          "name": "Jimmy DICKINSON",
+          "minute": "94",
+          "owngoal": true
+        }
+      ],
+      "ground": "St. Jakob-Park, Basel",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Gilbert MERRICK"
+            },
+            {
+              "name": "Ron STANIFORTH"
+            },
+            {
+              "name": "Roger BYRNE"
+            },
+            {
+              "name": "Billy WRIGHT",
+              "captain": true
+            },
+            {
+              "name": "Syd OWEN"
+            },
+            {
+              "name": "Jimmy DICKINSON"
+            },
+            {
+              "name": "Stanley MATTHEWS"
+            },
+            {
+              "name": "Ivor BROADIS"
+            },
+            {
+              "name": "Nat LOFTHOUSE"
+            },
+            {
+              "name": "Tommy TAYLOR"
+            },
+            {
+              "name": "Tom FINNEY"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Leopold GERNAEY"
+            },
+            {
+              "name": "Marcel DRIES"
+            },
+            {
+              "name": "Alfons VAN BRANDT"
+            },
+            {
+              "name": "Constant HUYSMANS"
+            },
+            {
+              "name": "Louis CARRE"
+            },
+            {
+              "name": "Victor MEES"
+            },
+            {
+              "name": "Denis HOUF"
+            },
+            {
+              "name": "Rik COPPENS"
+            },
+            {
+              "name": "Leopold ANOUL"
+            },
+            {
+              "name": "Joseph MERMANS",
+              "captain": true
+            },
+            {
+              "name": "Pieter VAN DEN BOSCH"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Emil SCHMETZER",
+          "country": "FRG"
+        },
+        {
+          "name": "Fritz BUCHMUELLER",
+          "country": "SUI"
+        },
+        {
+          "name": "Willy RUFFLI",
+          "country": "SUI"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1954-06-20",
+      "time": "17:00 UTC+2",
+      "team1": "Italy",
+      "team2": "Belgium",
+      "score": [
+        4,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Egisto PANDOLFINI",
+          "minute": "41",
+          "penalty": true
+        },
+        {
+          "name": "Carlo GALLI",
+          "minute": "48"
+        },
+        {
+          "name": "Amleto FRIGNANI",
+          "minute": "58"
+        },
+        {
+          "name": "Benito LORENZI",
+          "minute": "78"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Leopold ANOUL",
+          "minute": "81"
+        }
+      ],
+      "ground": "Comunale di Cornaredo, Lugano",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Giorgio GHEZZI"
+            },
+            {
+              "name": "Giovanni GIACOMAZZI"
+            },
+            {
+              "name": "Ardico MAGNINI"
+            },
+            {
+              "name": "Maino NERI"
+            },
+            {
+              "name": "Omero TOGNON"
+            },
+            {
+              "name": "Fulvio NESTI"
+            },
+            {
+              "name": "Egisto PANDOLFINI",
+              "captain": true
+            },
+            {
+              "name": "Carlo GALLI"
+            },
+            {
+              "name": "Gino CAPPELLO"
+            },
+            {
+              "name": "Benito LORENZI"
+            },
+            {
+              "name": "Amleto FRIGNANI"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Leopold GERNAEY"
+            },
+            {
+              "name": "Marcel DRIES"
+            },
+            {
+              "name": "Alfons VAN BRANDT"
+            },
+            {
+              "name": "Constant HUYSMANS"
+            },
+            {
+              "name": "Louis CARRE"
+            },
+            {
+              "name": "Victor MEES"
+            },
+            {
+              "name": "Rik COPPENS"
+            },
+            {
+              "name": "Leopold ANOUL"
+            },
+            {
+              "name": "Joseph MERMANS",
+              "captain": true
+            },
+            {
+              "name": "Poly VAN DEN BOSCH"
+            },
+            {
+              "name": "Pieter VAN DEN BOSCH"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Carl STEINER",
+          "country": "AUT"
+        },
+        {
+          "name": "Raymond VINCENTI",
+          "country": "FRA"
+        },
+        {
+          "name": "Emil SCHMETZER",
+          "country": "FRG"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1954-06-20",
+      "time": "17:10 UTC+2",
+      "team1": "England",
+      "team2": "Switzerland",
+      "score": [
+        2,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Jimmy MULLEN",
+          "minute": "43"
+        },
+        {
+          "name": "Dennis WILSHAW",
+          "minute": "69"
+        }
+      ],
+      "goals2": [],
+      "ground": "Stade de Suisse, Bern",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Gilbert MERRICK"
+            },
+            {
+              "name": "Ron STANIFORTH"
+            },
+            {
+              "name": "Roger BYRNE"
+            },
+            {
+              "name": "Billy WRIGHT",
+              "captain": true
+            },
+            {
+              "name": "Jimmy DICKINSON"
+            },
+            {
+              "name": "Bill McGARRY"
+            },
+            {
+              "name": "Ivor BROADIS"
+            },
+            {
+              "name": "Tommy TAYLOR"
+            },
+            {
+              "name": "Tom FINNEY"
+            },
+            {
+              "name": "Dennis WILSHAW"
+            },
+            {
+              "name": "Jimmy MULLEN"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Eugene PARLIER"
+            },
+            {
+              "name": "Roger BOCQUET",
+              "captain": true
+            },
+            {
+              "name": "Andre NEURY"
+            },
+            {
+              "name": "Oliver EGGIMANN"
+            },
+            {
+              "name": "Willy KERNEN"
+            },
+            {
+              "name": "Heinz BIGLER"
+            },
+            {
+              "name": "Kiki ANTENEN"
+            },
+            {
+              "name": "Robert BALLAMAN"
+            },
+            {
+              "name": "Jackie FATTON"
+            },
+            {
+              "name": "Eugen MEIER"
+            },
+            {
+              "name": "Roger VONLANTHEN"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Istvan ZSOLT",
+          "country": "HUN"
+        },
+        {
+          "name": "Jose DA COSTA VIEIRA",
+          "country": "POR"
+        },
+        {
+          "name": "Vasa STEFANOVIC",
+          "country": "YUG"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1954-06-23",
+      "time": "18:00 UTC+2",
+      "team1": "Switzerland",
+      "team2": "Italy",
+      "score": [
+        4,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Sepp HUEGI",
+          "minute": "14"
+        },
+        {
+          "name": "Robert BALLAMAN",
+          "minute": "48"
+        },
+        {
+          "name": "Sepp HUEGI",
+          "minute": "85"
+        },
+        {
+          "name": "Jackie FATTON",
+          "minute": "90"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Fulvio NESTI",
+          "minute": "67"
+        }
+      ],
+      "ground": "St. Jakob-Park, Basel",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Eugene PARLIER"
+            },
+            {
+              "name": "Roger BOCQUET",
+              "captain": true
+            },
+            {
+              "name": "Andre NEURY"
+            },
+            {
+              "name": "Oliver EGGIMANN"
+            },
+            {
+              "name": "Willy KERNEN"
+            },
+            {
+              "name": "Charles CASALI"
+            },
+            {
+              "name": "Kiki ANTENEN"
+            },
+            {
+              "name": "Robert BALLAMAN"
+            },
+            {
+              "name": "Jackie FATTON"
+            },
+            {
+              "name": "Sepp HUEGI"
+            },
+            {
+              "name": "Roger VONLANTHEN"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Giovanni VIOLA"
+            },
+            {
+              "name": "Giovanni GIACOMAZZI"
+            },
+            {
+              "name": "Ardico MAGNINI"
+            },
+            {
+              "name": "Omero TOGNON"
+            },
+            {
+              "name": "Fulvio NESTI"
+            },
+            {
+              "name": "Giacomo MARI"
+            },
+            {
+              "name": "Armando SEGATO"
+            },
+            {
+              "name": "Ermes MUCCINELLI"
+            },
+            {
+              "name": "Egisto PANDOLFINI",
+              "captain": true
+            },
+            {
+              "name": "Benito LORENZI"
+            },
+            {
+              "name": "Amleto FRIGNANI"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Benjamin GRIFFITHS",
+          "country": "WAL"
+        },
+        {
+          "name": "Jose DA COSTA VIEIRA",
+          "country": "POR"
+        },
+        {
+          "name": "William LING",
+          "country": "ENG"
+        }
+      ]
+    },
+    {
+      "round": "Quarter-final",
+      "date": "1954-06-26",
+      "time": "17:00 UTC+2",
+      "team1": "Austria",
+      "team2": "Switzerland",
+      "score": [
+        7,
+        5
+      ],
+      "goals1": [
+        {
+          "name": "Theodor WAGNER",
+          "minute": "25"
+        },
+        {
+          "name": "Alfred KOERNER",
+          "minute": "26"
+        },
+        {
+          "name": "Theodor WAGNER",
+          "minute": "27"
+        },
+        {
+          "name": "Ernst OCWIRK",
+          "minute": "32"
+        },
+        {
+          "name": "Alfred KOERNER",
+          "minute": "34"
+        },
+        {
+          "name": "Theodor WAGNER",
+          "minute": "53"
+        },
+        {
+          "name": "Erich PROBST",
+          "minute": "76"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Robert BALLAMAN",
+          "minute": "16"
+        },
+        {
+          "name": "Sepp HUEGI",
+          "minute": "17"
+        },
+        {
+          "name": "Sepp HUEGI",
+          "minute": "19"
+        },
+        {
+          "name": "Robert BALLAMAN",
+          "minute": "39"
+        },
+        {
+          "name": "Sepp HUEGI",
+          "minute": "60"
+        }
+      ],
+      "ground": "La Pontaise, Lausanne",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Kurt SCHMIED"
+            },
+            {
+              "name": "Gerhard HANAPPI"
+            },
+            {
+              "name": "Ernst HAPPEL"
+            },
+            {
+              "name": "Leopold BARSCHANDT"
+            },
+            {
+              "name": "Ernst OCWIRK",
+              "captain": true
+            },
+            {
+              "name": "Karl KOLLER"
+            },
+            {
+              "name": "Robert KOERNER"
+            },
+            {
+              "name": "Theodor WAGNER"
+            },
+            {
+              "name": "Erich PROBST"
+            },
+            {
+              "name": "Alfred KOERNER"
+            },
+            {
+              "name": "Ernst STOJASPAL"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Eugene PARLIER"
+            },
+            {
+              "name": "Roger BOCQUET",
+              "captain": true
+            },
+            {
+              "name": "Andre NEURY"
+            },
+            {
+              "name": "Oliver EGGIMANN"
+            },
+            {
+              "name": "Willy KERNEN"
+            },
+            {
+              "name": "Charles CASALI"
+            },
+            {
+              "name": "Kiki ANTENEN"
+            },
+            {
+              "name": "Robert BALLAMAN"
+            },
+            {
+              "name": "Jackie FATTON"
+            },
+            {
+              "name": "Sepp HUEGI"
+            },
+            {
+              "name": "Roger VONLANTHEN"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Charlie FAULTLESS",
+          "country": "SCO"
+        },
+        {
+          "name": "Manuel ASENSI",
+          "country": "ESP"
+        },
+        {
+          "name": "Emil SCHMETZER",
+          "country": "FRG"
+        }
+      ]
+    },
+    {
+      "round": "Quarter-final",
+      "date": "1954-06-26",
+      "time": "17:00 UTC+2",
+      "team1": "Uruguay",
+      "team2": "England",
+      "score": [
+        4,
+        2
+      ],
+      "goals1": [
+        {
+          "name": "Carlos BORGES",
+          "minute": "5"
+        },
+        {
+          "name": "Obdulio VARELA",
+          "minute": "39"
+        },
+        {
+          "name": "Juan SCHIAFFINO",
+          "minute": "46"
+        },
+        {
+          "name": "Javier AMBROIS",
+          "minute": "78"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Nat LOFTHOUSE",
+          "minute": "16"
+        },
+        {
+          "name": "Tom FINNEY",
+          "minute": "67"
+        }
+      ],
+      "ground": "St. Jakob-Park, Basel",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Roque MASPOLI"
+            },
+            {
+              "name": "Jose SANTAMARIA"
+            },
+            {
+              "name": "William MARTINEZ"
+            },
+            {
+              "name": "Victor RODRIGUEZ ANDRADE"
+            },
+            {
+              "name": "Obdulio VARELA",
+              "captain": true
+            },
+            {
+              "name": "Luis CRUZ"
+            },
+            {
+              "name": "Julio ABBADIE"
+            },
+            {
+              "name": "Oscar MIGUEZ"
+            },
+            {
+              "name": "Juan SCHIAFFINO"
+            },
+            {
+              "name": "Carlos BORGES"
+            },
+            {
+              "name": "Javier AMBROIS"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Gilbert MERRICK"
+            },
+            {
+              "name": "Ron STANIFORTH"
+            },
+            {
+              "name": "Roger BYRNE"
+            },
+            {
+              "name": "Billy WRIGHT",
+              "captain": true
+            },
+            {
+              "name": "Jimmy DICKINSON"
+            },
+            {
+              "name": "Bill McGARRY"
+            },
+            {
+              "name": "Stanley MATTHEWS"
+            },
+            {
+              "name": "Ivor BROADIS"
+            },
+            {
+              "name": "Nat LOFTHOUSE"
+            },
+            {
+              "name": "Tom FINNEY"
+            },
+            {
+              "name": "Dennis WILSHAW"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Carl STEINER",
+          "country": "AUT"
+        },
+        {
+          "name": "Vasa STEFANOVIC",
+          "country": "YUG"
+        },
+        {
+          "name": "Vincenzo ORLANDINI",
+          "country": "ITA"
+        }
+      ]
+    },
+    {
+      "round": "Quarter-final",
+      "date": "1954-06-27",
+      "time": "17:00 UTC+2",
+      "team1": "West Germany",
+      "team2": "Yugoslavia",
+      "score": [
+        2,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Ivan HORVAT",
+          "minute": "9",
+          "owngoal": true
+        },
+        {
+          "name": "Helmut RAHN",
+          "minute": "85"
+        }
+      ],
+      "goals2": [],
+      "ground": "Charmilles, Geneva",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Toni TUREK"
+            },
+            {
+              "name": "Fritz LABAND"
+            },
+            {
+              "name": "Werner KOHLMEYER"
+            },
+            {
+              "name": "Werner LIEBRICH"
+            },
+            {
+              "name": "Karl MAI"
+            },
+            {
+              "name": "Fritz WALTER",
+              "captain": true
+            },
+            {
+              "name": "Horst ECKEL"
+            },
+            {
+              "name": "Helmut RAHN"
+            },
+            {
+              "name": "Max MORLOCK"
+            },
+            {
+              "name": "Ottmar WALTER"
+            },
+            {
+              "name": "Hans SCHAEFER"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Vladimir BEARA"
+            },
+            {
+              "name": "Branko STANKOVIC"
+            },
+            {
+              "name": "Tomislav CRNKOVIC"
+            },
+            {
+              "name": "Ivan HORVAT"
+            },
+            {
+              "name": "Zlatko CAJKOVSKI"
+            },
+            {
+              "name": "Vujadin BOSKOV"
+            },
+            {
+              "name": "Branko ZEBEC"
+            },
+            {
+              "name": "Rajko MITIC",
+              "captain": true
+            },
+            {
+              "name": "Bernard VUKAS"
+            },
+            {
+              "name": "Stjepan BOBEK"
+            },
+            {
+              "name": "Milos MILUTINOVIC"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Istvan ZSOLT",
+          "country": "HUN"
+        },
+        {
+          "name": "Laurent FRANKEN",
+          "country": "BEL"
+        },
+        {
+          "name": "Fritz BUCHMUELLER",
+          "country": "SUI"
+        }
+      ]
+    },
+    {
+      "round": "Quarter-final",
+      "date": "1954-06-27",
+      "time": "17:00 UTC+2",
+      "team1": "Hungary",
+      "team2": "Brazil",
+      "score": [
+        4,
+        2
+      ],
+      "goals1": [
+        {
+          "name": "Nandor HIDEGKUTI",
+          "minute": "4"
+        },
+        {
+          "name": "Sandor KOCSIS",
+          "minute": "7"
+        },
+        {
+          "name": "Mihaly LANTOS",
+          "minute": "60",
+          "penalty": true
+        },
+        {
+          "name": "Sandor KOCSIS",
+          "minute": "88"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "DJALMA SANTOS",
+          "minute": "18",
+          "penalty": true
+        },
+        {
+          "name": "JULINHO",
+          "minute": "65"
+        }
+      ],
+      "ground": "Stade de Suisse, Bern",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Gyula GROSICS"
+            },
+            {
+              "name": "Jeno BUZANSZKY"
+            },
+            {
+              "name": "Mihaly LANTOS"
+            },
+            {
+              "name": "Gyula LORANT"
+            },
+            {
+              "name": "Jozsef BOZSIK",
+              "captain": true
+            },
+            {
+              "name": "Jozsef ZAKARIAS"
+            },
+            {
+              "name": "Jozsef TOTH"
+            },
+            {
+              "name": "Sandor KOCSIS"
+            },
+            {
+              "name": "Nandor HIDEGKUTI"
+            },
+            {
+              "name": "Zoltan CZIBOR"
+            },
+            {
+              "name": "Mihaly TOTH"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "CASTILHO"
+            },
+            {
+              "name": "DJALMA SANTOS"
+            },
+            {
+              "name": "NILTON SANTOS"
+            },
+            {
+              "name": "BRANDAOZINHO"
+            },
+            {
+              "name": "BAUER",
+              "captain": true
+            },
+            {
+              "name": "PINHEIRO"
+            },
+            {
+              "name": "DIDI"
+            },
+            {
+              "name": "JULINHO"
+            },
+            {
+              "name": "MAURINHO"
+            },
+            {
+              "name": "HUMBERTO"
+            },
+            {
+              "name": "INDIO"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "R",
+            "name": "Jozsef BOZSIK",
+            "minute": "71"
+          }
+        ],
+        [
+          {
+            "type": "R",
+            "name": "NILTON SANTOS",
+            "minute": "71"
+          },
+          {
+            "type": "R",
+            "name": "HUMBERTO",
+            "minute": "79"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Arthur ELLIS",
+          "country": "ENG"
+        },
+        {
+          "name": "William LING",
+          "country": "ENG"
+        },
+        {
+          "name": "Paul WYSSLING",
+          "country": "SUI"
+        }
+      ]
+    },
+    {
+      "round": "Semi-final",
+      "date": "1954-06-30",
+      "time": "18:00 UTC+2",
+      "team1": "West Germany",
+      "team2": "Austria",
+      "score": [
+        6,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Hans SCHAEFER",
+          "minute": "31"
+        },
+        {
+          "name": "Max MORLOCK",
+          "minute": "47"
+        },
+        {
+          "name": "Fritz WALTER",
+          "minute": "54",
+          "penalty": true
+        },
+        {
+          "name": "Ottmar WALTER",
+          "minute": "61"
+        },
+        {
+          "name": "Fritz WALTER",
+          "minute": "64",
+          "penalty": true
+        },
+        {
+          "name": "Ottmar WALTER",
+          "minute": "89"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Erich PROBST",
+          "minute": "51"
+        }
+      ],
+      "ground": "St. Jakob-Park, Basel",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Toni TUREK"
+            },
+            {
+              "name": "Werner KOHLMEYER"
+            },
+            {
+              "name": "Jupp POSIPAL"
+            },
+            {
+              "name": "Werner LIEBRICH"
+            },
+            {
+              "name": "Karl MAI"
+            },
+            {
+              "name": "Fritz WALTER",
+              "captain": true
+            },
+            {
+              "name": "Horst ECKEL"
+            },
+            {
+              "name": "Helmut RAHN"
+            },
+            {
+              "name": "Max MORLOCK"
+            },
+            {
+              "name": "Ottmar WALTER"
+            },
+            {
+              "name": "Hans SCHAEFER"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Walter ZEMAN"
+            },
+            {
+              "name": "Gerhard HANAPPI"
+            },
+            {
+              "name": "Ernst HAPPEL"
+            },
+            {
+              "name": "Ernst OCWIRK",
+              "captain": true
+            },
+            {
+              "name": "Karl KOLLER"
+            },
+            {
+              "name": "Robert KOERNER"
+            },
+            {
+              "name": "Walter SCHLEGER"
+            },
+            {
+              "name": "Theodor WAGNER"
+            },
+            {
+              "name": "Erich PROBST"
+            },
+            {
+              "name": "Alfred KOERNER"
+            },
+            {
+              "name": "Ernst STOJASPAL"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Vincenzo ORLANDINI",
+          "country": "ITA"
+        },
+        {
+          "name": "Arthur ELLIS",
+          "country": "ENG"
+        },
+        {
+          "name": "Fritz BUCHMUELLER",
+          "country": "SUI"
+        }
+      ]
+    },
+    {
+      "round": "Semi-final",
+      "date": "1954-06-30",
+      "time": "18:00 UTC+2",
+      "team1": "Hungary",
+      "team2": "Uruguay",
+      "score": {
+        "et": [
+          4,
+          2
+        ]
+      },
+      "goals1": [
+        {
+          "name": "Zoltan CZIBOR",
+          "minute": "12"
+        },
+        {
+          "name": "Nandor HIDEGKUTI",
+          "minute": "47"
+        },
+        {
+          "name": "Sandor KOCSIS",
+          "minute": "109"
+        },
+        {
+          "name": "Sandor KOCSIS",
+          "minute": "116"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Juan HOHBERG",
+          "minute": "75"
+        },
+        {
+          "name": "Juan HOHBERG",
+          "minute": "86"
+        }
+      ],
+      "ground": "La Pontaise, Lausanne",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Gyula GROSICS"
+            },
+            {
+              "name": "Jeno BUZANSZKY"
+            },
+            {
+              "name": "Mihaly LANTOS"
+            },
+            {
+              "name": "Gyula LORANT"
+            },
+            {
+              "name": "Jozsef BOZSIK",
+              "captain": true
+            },
+            {
+              "name": "Jozsef ZAKARIAS"
+            },
+            {
+              "name": "Sandor KOCSIS"
+            },
+            {
+              "name": "Nandor HIDEGKUTI"
+            },
+            {
+              "name": "Zoltan CZIBOR"
+            },
+            {
+              "name": "Laszlo BUDAI"
+            },
+            {
+              "name": "Peter PALOTAS"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Roque MASPOLI"
+            },
+            {
+              "name": "Jose SANTAMARIA"
+            },
+            {
+              "name": "William MARTINEZ",
+              "captain": true
+            },
+            {
+              "name": "Victor RODRIGUEZ ANDRADE"
+            },
+            {
+              "name": "Nestor CARBALLO"
+            },
+            {
+              "name": "Luis CRUZ"
+            },
+            {
+              "name": "Juan HOHBERG"
+            },
+            {
+              "name": "Juan SCHIAFFINO"
+            },
+            {
+              "name": "Carlos BORGES"
+            },
+            {
+              "name": "Rafael SOUTO"
+            },
+            {
+              "name": "Javier AMBROIS"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Benjamin GRIFFITHS",
+          "country": "WAL"
+        },
+        {
+          "name": "Charlie FAULTLESS",
+          "country": "SCO"
+        },
+        {
+          "name": "Raymond VINCENTI",
+          "country": "FRA"
+        }
+      ]
+    },
+    {
+      "round": "Match for third place",
+      "date": "1954-07-03",
+      "time": "17:00 UTC+2",
+      "team1": "Austria",
+      "team2": "Uruguay",
+      "score": [
+        3,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Ernst STOJASPAL",
+          "minute": "16",
+          "penalty": true
+        },
+        {
+          "name": "Luis CRUZ",
+          "minute": "59",
+          "owngoal": true
+        },
+        {
+          "name": "Ernst OCWIRK",
+          "minute": "79"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Juan HOHBERG",
+          "minute": "22"
+        }
+      ],
+      "ground": "Hardturm, Zürich",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Kurt SCHMIED"
+            },
+            {
+              "name": "Gerhard HANAPPI"
+            },
+            {
+              "name": "Leopold BARSCHANDT"
+            },
+            {
+              "name": "Walter KOLLMANN"
+            },
+            {
+              "name": "Ernst OCWIRK",
+              "captain": true
+            },
+            {
+              "name": "Karl KOLLER"
+            },
+            {
+              "name": "Robert KOERNER"
+            },
+            {
+              "name": "Theodor WAGNER"
+            },
+            {
+              "name": "Erich PROBST"
+            },
+            {
+              "name": "Robert DIENST"
+            },
+            {
+              "name": "Ernst STOJASPAL"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Roque MASPOLI"
+            },
+            {
+              "name": "Jose SANTAMARIA"
+            },
+            {
+              "name": "William MARTINEZ",
+              "captain": true
+            },
+            {
+              "name": "Victor RODRIGUEZ ANDRADE"
+            },
+            {
+              "name": "Nestor CARBALLO"
+            },
+            {
+              "name": "Luis CRUZ"
+            },
+            {
+              "name": "Julio ABBADIE"
+            },
+            {
+              "name": "Juan HOHBERG"
+            },
+            {
+              "name": "Juan SCHIAFFINO"
+            },
+            {
+              "name": "Carlos BORGES"
+            },
+            {
+              "name": "Omar MENDEZ"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Paul WYSSLING",
+          "country": "SUI"
+        },
+        {
+          "name": "Istvan ZSOLT",
+          "country": "HUN"
+        },
+        {
+          "name": "Arthur ELLIS",
+          "country": "ENG"
+        }
+      ]
+    },
+    {
+      "round": "Final",
+      "date": "1954-07-04",
+      "time": "17:00 UTC+2",
+      "team1": "West Germany",
+      "team2": "Hungary",
+      "score": [
+        3,
+        2
+      ],
+      "goals1": [
+        {
+          "name": "Max MORLOCK",
+          "minute": "10"
+        },
+        {
+          "name": "Helmut RAHN",
+          "minute": "18"
+        },
+        {
+          "name": "Helmut RAHN",
+          "minute": "84"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Ferenc PUSKAS",
+          "minute": "6"
+        },
+        {
+          "name": "Zoltan CZIBOR",
+          "minute": "8"
+        }
+      ],
+      "ground": "Stade de Suisse, Bern",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Toni TUREK"
+            },
+            {
+              "name": "Werner KOHLMEYER"
+            },
+            {
+              "name": "Jupp POSIPAL"
+            },
+            {
+              "name": "Werner LIEBRICH"
+            },
+            {
+              "name": "Karl MAI"
+            },
+            {
+              "name": "Fritz WALTER",
+              "captain": true
+            },
+            {
+              "name": "Horst ECKEL"
+            },
+            {
+              "name": "Helmut RAHN"
+            },
+            {
+              "name": "Max MORLOCK"
+            },
+            {
+              "name": "Ottmar WALTER"
+            },
+            {
+              "name": "Hans SCHAEFER"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Gyula GROSICS"
+            },
+            {
+              "name": "Jeno BUZANSZKY"
+            },
+            {
+              "name": "Mihaly LANTOS"
+            },
+            {
+              "name": "Gyula LORANT"
+            },
+            {
+              "name": "Jozsef BOZSIK"
+            },
+            {
+              "name": "Jozsef ZAKARIAS"
+            },
+            {
+              "name": "Sandor KOCSIS"
+            },
+            {
+              "name": "Nandor HIDEGKUTI"
+            },
+            {
+              "name": "Ferenc PUSKAS",
+              "captain": true
+            },
+            {
+              "name": "Zoltan CZIBOR"
+            },
+            {
+              "name": "Mihaly TOTH"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "William LING",
+          "country": "ENG"
+        },
+        {
+          "name": "Vincenzo ORLANDINI",
+          "country": "ITA"
+        },
+        {
+          "name": "Benjamin GRIFFITHS",
+          "country": "WAL"
+        }
+      ]
+    }
+  ]
+}

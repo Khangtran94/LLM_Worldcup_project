@@ -1,0 +1,2231 @@
+{
+  "name": "World Cup 1930",
+  "matches": [
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1930-07-13",
+      "time": "15:00 UTC-3",
+      "team1": "France",
+      "team2": "Mexico",
+      "score": [
+        4,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Lucien LAURENT",
+          "minute": "19"
+        },
+        {
+          "name": "Marcel LANGILLER",
+          "minute": "40"
+        },
+        {
+          "name": "Andre MASCHINOT",
+          "minute": "43"
+        },
+        {
+          "name": "Andre MASCHINOT",
+          "minute": "87"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Juan CARRENO",
+          "minute": "70"
+        }
+      ],
+      "ground": "Pocitos, Montevideo",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Alex THEPOT"
+            },
+            {
+              "name": "Marcel CAPELLE"
+            },
+            {
+              "name": "Etienne MATTLER"
+            },
+            {
+              "name": "Augustin CHANTREL"
+            },
+            {
+              "name": "Marcel PINEL"
+            },
+            {
+              "name": "Alex VILLAPLANE",
+              "captain": true
+            },
+            {
+              "name": "Edmond DELFOUR"
+            },
+            {
+              "name": "Marcel LANGILLER"
+            },
+            {
+              "name": "Lucien LAURENT"
+            },
+            {
+              "name": "Ernest LIBERATI"
+            },
+            {
+              "name": "Andre MASCHINOT"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Oscar BONFIGLIO"
+            },
+            {
+              "name": "Rafael GARZA",
+              "captain": true
+            },
+            {
+              "name": "Manuel ROSAS"
+            },
+            {
+              "name": "Efrain AMEZCUA"
+            },
+            {
+              "name": "Felipe ROSAS"
+            },
+            {
+              "name": "Alfredo SANCHEZ"
+            },
+            {
+              "name": "Juan CARRENO"
+            },
+            {
+              "name": "Hilario LOPEZ"
+            },
+            {
+              "name": "Dionisio MEJIA"
+            },
+            {
+              "name": "Jose RUIZ"
+            },
+            {
+              "name": "Luis PEREZ"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Domingo LOMBARDI",
+          "country": "URU"
+        },
+        {
+          "name": "Henry CRISTOPHE",
+          "country": "BEL"
+        },
+        {
+          "name": "Gilberto REGO",
+          "country": "BRA"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1930-07-15",
+      "time": "16:00 UTC-3",
+      "team1": "Argentina",
+      "team2": "France",
+      "score": [
+        1,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Luis MONTI",
+          "minute": "81"
+        }
+      ],
+      "goals2": [],
+      "ground": "Parque Central, Montevideo",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Angel BOSSIO"
+            },
+            {
+              "name": "Jose DELLA TORRE"
+            },
+            {
+              "name": "Ramon MUTTIS"
+            },
+            {
+              "name": "Luis MONTI"
+            },
+            {
+              "name": "Juan EVARISTO"
+            },
+            {
+              "name": "Pedro SUAREZ"
+            },
+            {
+              "name": "Francisco VARALLO"
+            },
+            {
+              "name": "Mario EVARISTO"
+            },
+            {
+              "name": "Manuel FERREIRA",
+              "captain": true
+            },
+            {
+              "name": "Roberto CERRO"
+            },
+            {
+              "name": "Natalio PERINETTI"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Alex THEPOT"
+            },
+            {
+              "name": "Marcel CAPELLE"
+            },
+            {
+              "name": "Etienne MATTLER"
+            },
+            {
+              "name": "Augustin CHANTREL"
+            },
+            {
+              "name": "Marcel PINEL"
+            },
+            {
+              "name": "Alex VILLAPLANE",
+              "captain": true
+            },
+            {
+              "name": "Edmond DELFOUR"
+            },
+            {
+              "name": "Marcel LANGILLER"
+            },
+            {
+              "name": "Lucien LAURENT"
+            },
+            {
+              "name": "Ernest LIBERATI"
+            },
+            {
+              "name": "Andre MASCHINOT"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Gilberto REGO",
+          "country": "BRA"
+        },
+        {
+          "name": "Ulises SAUCEDO",
+          "country": "BOL"
+        },
+        {
+          "name": "Constantin RADULESCU",
+          "country": "ROU"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1930-07-16",
+      "time": "14:45 UTC-3",
+      "team1": "Chile",
+      "team2": "Mexico",
+      "score": [
+        3,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Carlos VIDAL",
+          "minute": "3"
+        },
+        {
+          "name": "Manuel ROSAS",
+          "minute": "51",
+          "owngoal": true
+        },
+        {
+          "name": "Carlos VIDAL",
+          "minute": "65"
+        }
+      ],
+      "goals2": [],
+      "ground": "Parque Central, Montevideo",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Roberto CORTES"
+            },
+            {
+              "name": "Victor MORALES"
+            },
+            {
+              "name": "Ulises POIRIER"
+            },
+            {
+              "name": "Humberto ELGUETA"
+            },
+            {
+              "name": "Guillermo SAAVEDRA"
+            },
+            {
+              "name": "Arturo TORRES"
+            },
+            {
+              "name": "Tomas OJEDA"
+            },
+            {
+              "name": "Carlos SCHNEBERGER",
+              "captain": true
+            },
+            {
+              "name": "Guillermo SUBIABRE"
+            },
+            {
+              "name": "Carlos VIDAL"
+            },
+            {
+              "name": "Eberardo VILLALOBOS"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Isidoro SOTA"
+            },
+            {
+              "name": "Rafael GARZA",
+              "captain": true
+            },
+            {
+              "name": "Manuel ROSAS"
+            },
+            {
+              "name": "Efrain AMEZCUA"
+            },
+            {
+              "name": "Alfredo SANCHEZ"
+            },
+            {
+              "name": "Felipe ROSAS"
+            },
+            {
+              "name": "Juan CARRENO"
+            },
+            {
+              "name": "Roberto GAYON"
+            },
+            {
+              "name": "Hilario LOPEZ"
+            },
+            {
+              "name": "Jose RUIZ"
+            },
+            {
+              "name": "Luis PEREZ"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Henry CRISTOPHE",
+          "country": "BEL"
+        },
+        {
+          "name": "Martin APHESTEGUY",
+          "country": "URU"
+        },
+        {
+          "name": "Jean LANGENUS",
+          "country": "BEL"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1930-07-19",
+      "time": "12:50 UTC-3",
+      "team1": "Chile",
+      "team2": "France",
+      "score": [
+        1,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Guillermo SUBIABRE",
+          "minute": "65"
+        }
+      ],
+      "goals2": [],
+      "ground": "Estadio Centenario, Montevideo",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Roberto CORTES"
+            },
+            {
+              "name": "Ernesto CHAPARRO"
+            },
+            {
+              "name": "Guillermo RIVEROS"
+            },
+            {
+              "name": "Guillermo SAAVEDRA"
+            },
+            {
+              "name": "Arturo TORRES"
+            },
+            {
+              "name": "Casimiro TORRES"
+            },
+            {
+              "name": "Tomas OJEDA"
+            },
+            {
+              "name": "Carlos SCHNEBERGER",
+              "captain": true
+            },
+            {
+              "name": "Guillermo SUBIABRE"
+            },
+            {
+              "name": "Carlos VIDAL"
+            },
+            {
+              "name": "Eberardo VILLALOBOS"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Alex THEPOT"
+            },
+            {
+              "name": "Marcel CAPELLE"
+            },
+            {
+              "name": "Etienne MATTLER"
+            },
+            {
+              "name": "Augustin CHANTREL"
+            },
+            {
+              "name": "Marcel PINEL"
+            },
+            {
+              "name": "Alex VILLAPLANE",
+              "captain": true
+            },
+            {
+              "name": "Celestin DELMER"
+            },
+            {
+              "name": "Edmond DELFOUR"
+            },
+            {
+              "name": "Marcel LANGILLER"
+            },
+            {
+              "name": "Ernest LIBERATI"
+            },
+            {
+              "name": "Emile VEINANTE"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Anibal TEJADA",
+          "country": "URU"
+        },
+        {
+          "name": "Domingo LOMBARDI",
+          "country": "URU"
+        },
+        {
+          "name": "Gilberto REGO",
+          "country": "BRA"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1930-07-19",
+      "time": "15:00 UTC-3",
+      "team1": "Argentina",
+      "team2": "Mexico",
+      "score": [
+        6,
+        3
+      ],
+      "goals1": [
+        {
+          "name": "Guillermo STABILE",
+          "minute": "8"
+        },
+        {
+          "name": "Adolfo ZUMELZU",
+          "minute": "12"
+        },
+        {
+          "name": "Guillermo STABILE",
+          "minute": "17"
+        },
+        {
+          "name": "Francisco VARALLO",
+          "minute": "53"
+        },
+        {
+          "name": "Adolfo ZUMELZU",
+          "minute": "55"
+        },
+        {
+          "name": "Guillermo STABILE",
+          "minute": "80"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Manuel ROSAS",
+          "minute": "42",
+          "penalty": true
+        },
+        {
+          "name": "Manuel ROSAS",
+          "minute": "65"
+        },
+        {
+          "name": "Roberto GAYON",
+          "minute": "75"
+        }
+      ],
+      "ground": "Estadio Centenario, Montevideo",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Angel BOSSIO",
+              "captain": true
+            },
+            {
+              "name": "Alberto CHIVIDINI"
+            },
+            {
+              "name": "Jose DELLA TORRE"
+            },
+            {
+              "name": "Rodolfo ORLANDINI"
+            },
+            {
+              "name": "Fernando PATERNOSTER"
+            },
+            {
+              "name": "Adolfo ZUMELZU"
+            },
+            {
+              "name": "Atilio DEMARIA"
+            },
+            {
+              "name": "Carlos PEUCELLE"
+            },
+            {
+              "name": "Francisco VARALLO"
+            },
+            {
+              "name": "Carlos SPADARO"
+            },
+            {
+              "name": "Guillermo STABILE"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Oscar BONFIGLIO"
+            },
+            {
+              "name": "Francisco GARZA GUTIERREZ"
+            },
+            {
+              "name": "Rafael GARZA",
+              "captain": true
+            },
+            {
+              "name": "Manuel ROSAS"
+            },
+            {
+              "name": "Raimundo RODRIGUEZ"
+            },
+            {
+              "name": "Felipe ROSAS"
+            },
+            {
+              "name": "Alfredo SANCHEZ"
+            },
+            {
+              "name": "Juan CARRENO"
+            },
+            {
+              "name": "Roberto GAYON"
+            },
+            {
+              "name": "Hilario LOPEZ"
+            },
+            {
+              "name": "Felipe OLIVARES"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Ulises SAUCEDO",
+          "country": "BOL"
+        },
+        {
+          "name": "Gualberto ALONSO",
+          "country": "URU"
+        },
+        {
+          "name": "Constantin RADULESCU",
+          "country": "ROU"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1930-07-22",
+      "time": "14:45 UTC-3",
+      "team1": "Argentina",
+      "team2": "Chile",
+      "score": [
+        3,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Guillermo STABILE",
+          "minute": "12"
+        },
+        {
+          "name": "Guillermo STABILE",
+          "minute": "13"
+        },
+        {
+          "name": "Mario EVARISTO",
+          "minute": "51"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Guillermo SUBIABRE",
+          "minute": "15"
+        }
+      ],
+      "ground": "Estadio Centenario, Montevideo",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Angel BOSSIO"
+            },
+            {
+              "name": "Jose DELLA TORRE"
+            },
+            {
+              "name": "Rodolfo ORLANDINI"
+            },
+            {
+              "name": "Fernando PATERNOSTER"
+            },
+            {
+              "name": "Luis MONTI"
+            },
+            {
+              "name": "Juan EVARISTO"
+            },
+            {
+              "name": "Carlos PEUCELLE"
+            },
+            {
+              "name": "Francisco VARALLO"
+            },
+            {
+              "name": "Mario EVARISTO"
+            },
+            {
+              "name": "Manuel FERREIRA",
+              "captain": true
+            },
+            {
+              "name": "Guillermo STABILE"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Roberto CORTES"
+            },
+            {
+              "name": "Ernesto CHAPARRO"
+            },
+            {
+              "name": "Victor MORALES"
+            },
+            {
+              "name": "Guillermo SAAVEDRA"
+            },
+            {
+              "name": "Arturo TORRES"
+            },
+            {
+              "name": "Casimiro TORRES"
+            },
+            {
+              "name": "Juan AGUILERA"
+            },
+            {
+              "name": "Guillermo ARELLANO"
+            },
+            {
+              "name": "Guillermo SUBIABRE",
+              "captain": true
+            },
+            {
+              "name": "Carlos VIDAL"
+            },
+            {
+              "name": "Eberardo VILLALOBOS"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Jean LANGENUS",
+          "country": "BEL"
+        },
+        {
+          "name": "Henry CRISTOPHE",
+          "country": "BEL"
+        },
+        {
+          "name": "Ulises SAUCEDO",
+          "country": "BOL"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1930-07-14",
+      "time": "12:45 UTC-3",
+      "team1": "Yugoslavia",
+      "team2": "Brazil",
+      "score": [
+        2,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Aleksandar TIRNANIC",
+          "minute": "21"
+        },
+        {
+          "name": "Ivica BEK",
+          "minute": "30"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "PREGUINHO",
+          "minute": "62"
+        }
+      ],
+      "ground": "Parque Central, Montevideo",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Milovan JAKSIC"
+            },
+            {
+              "name": "Milutin IVKOVIC",
+              "captain": true
+            },
+            {
+              "name": "Dragan MIHAJLOVIC"
+            },
+            {
+              "name": "Ljubisa STEFANOVIC"
+            },
+            {
+              "name": "Milorad ARSENIJEVIC"
+            },
+            {
+              "name": "Momcilo DJOKIC"
+            },
+            {
+              "name": "Ivica BEK"
+            },
+            {
+              "name": "Blagoje MARJANOVIC"
+            },
+            {
+              "name": "Branislav SEKULIC"
+            },
+            {
+              "name": "Djordje VUJADINOVIC"
+            },
+            {
+              "name": "Aleksandar TIRNANIC"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "JOEL"
+            },
+            {
+              "name": "ITALIA"
+            },
+            {
+              "name": "BRILHANTE"
+            },
+            {
+              "name": "FAUSTO"
+            },
+            {
+              "name": "HERMOGENES"
+            },
+            {
+              "name": "FERNANDO GIUDICELLI"
+            },
+            {
+              "name": "TEOPHILO"
+            },
+            {
+              "name": "POLY"
+            },
+            {
+              "name": "PREGUINHO",
+              "captain": true
+            },
+            {
+              "name": "NILO"
+            },
+            {
+              "name": "ARAKEN"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Anibal TEJADA",
+          "country": "URU"
+        },
+        {
+          "name": "Ricardo VALLARINO",
+          "country": "URU"
+        },
+        {
+          "name": "Thomas BALWAY",
+          "country": "FRA"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1930-07-17",
+      "time": "12:45 UTC-3",
+      "team1": "Yugoslavia",
+      "team2": "Bolivia",
+      "score": [
+        4,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Ivica BEK",
+          "minute": "60"
+        },
+        {
+          "name": "Blagoje MARJANOVIC",
+          "minute": "65"
+        },
+        {
+          "name": "Ivica BEK",
+          "minute": "67"
+        },
+        {
+          "name": "Djordje VUJADINOVIC",
+          "minute": "85"
+        }
+      ],
+      "goals2": [],
+      "ground": "Parque Central, Montevideo",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Milovan JAKSIC"
+            },
+            {
+              "name": "Milutin IVKOVIC",
+              "captain": true
+            },
+            {
+              "name": "Dragan MIHAJLOVIC"
+            },
+            {
+              "name": "Ljubisa STEFANOVIC"
+            },
+            {
+              "name": "Milorad ARSENIJEVIC"
+            },
+            {
+              "name": "Momcilo DJOKIC"
+            },
+            {
+              "name": "Ivica BEK"
+            },
+            {
+              "name": "Blagoje MARJANOVIC"
+            },
+            {
+              "name": "Dragutin NAJDANOVIC"
+            },
+            {
+              "name": "Djordje VUJADINOVIC"
+            },
+            {
+              "name": "Aleksandar TIRNANIC"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Jesus BERMUDEZ"
+            },
+            {
+              "name": "Casiano CHAVARRIA"
+            },
+            {
+              "name": "Segundo DURANDAL"
+            },
+            {
+              "name": "Jorge ARGOTE"
+            },
+            {
+              "name": "Diogenes LARA"
+            },
+            {
+              "name": "Jorge BALDERRAMA"
+            },
+            {
+              "name": "Mario ALBORTA"
+            },
+            {
+              "name": "Jose BUSTAMANTE"
+            },
+            {
+              "name": "Rene FERNANDEZ"
+            },
+            {
+              "name": "Gumercindo GOMEZ"
+            },
+            {
+              "name": "Rafael MENDEZ",
+              "captain": true
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Francisco MATEUCCI",
+          "country": "URU"
+        },
+        {
+          "name": "Domingo LOMBARDI",
+          "country": "URU"
+        },
+        {
+          "name": "Alberto WARNKEN",
+          "country": "CHI"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1930-07-20",
+      "time": "13:00 UTC-3",
+      "team1": "Brazil",
+      "team2": "Bolivia",
+      "score": [
+        4,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "MODERATO",
+          "minute": "37"
+        },
+        {
+          "name": "PREGUINHO",
+          "minute": "67"
+        },
+        {
+          "name": "MODERATO",
+          "minute": "73"
+        },
+        {
+          "name": "PREGUINHO",
+          "minute": "83"
+        }
+      ],
+      "goals2": [],
+      "ground": "Estadio Centenario, Montevideo",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "VELLOSO"
+            },
+            {
+              "name": "ITALIA"
+            },
+            {
+              "name": "ZE LUIS"
+            },
+            {
+              "name": "FAUSTO"
+            },
+            {
+              "name": "HERMOGENES"
+            },
+            {
+              "name": "FERNANDO GIUDICELLI"
+            },
+            {
+              "name": "CARVALHO LEITE"
+            },
+            {
+              "name": "BENEDICTO"
+            },
+            {
+              "name": "MODERATO"
+            },
+            {
+              "name": "RUSSINHO"
+            },
+            {
+              "name": "PREGUINHO",
+              "captain": true
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Jesus BERMUDEZ"
+            },
+            {
+              "name": "Casiano CHAVARRIA"
+            },
+            {
+              "name": "Segundo DURANDAL"
+            },
+            {
+              "name": "Diogenes LARA"
+            },
+            {
+              "name": "Renato SAINZ"
+            },
+            {
+              "name": "Jorge BALDERRAMA"
+            },
+            {
+              "name": "Mario ALBORTA"
+            },
+            {
+              "name": "Jose BUSTAMANTE"
+            },
+            {
+              "name": "Rene FERNANDEZ"
+            },
+            {
+              "name": "Rafael MENDEZ",
+              "captain": true
+            },
+            {
+              "name": "Eduardo REYES ORTIZ"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Thomas BALWAY",
+          "country": "FRA"
+        },
+        {
+          "name": "Francisco MATEUCCI",
+          "country": "URU"
+        },
+        {
+          "name": "Gaspar VALLEJO",
+          "country": "MEX"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1930-07-14",
+      "time": "14:50 UTC-3",
+      "team1": "Romania",
+      "team2": "Peru",
+      "score": [
+        3,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Adalbert DESU",
+          "minute": "1"
+        },
+        {
+          "name": "Constantin STANCIU",
+          "minute": "79"
+        },
+        {
+          "name": "Nicolae KOVACS",
+          "minute": "89"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Luis SOUZA",
+          "minute": "75"
+        }
+      ],
+      "ground": "Pocitos, Montevideo",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Ion LAPUSNEANU"
+            },
+            {
+              "name": "Rudolf BUERGER"
+            },
+            {
+              "name": "Adalbert STEINER"
+            },
+            {
+              "name": "Emerich VOGL",
+              "captain": true
+            },
+            {
+              "name": "Alfred EISENBEISSER"
+            },
+            {
+              "name": "Ladislau RAFFINSKY"
+            },
+            {
+              "name": "Adalbert DESU"
+            },
+            {
+              "name": "Nicolae KOVACS"
+            },
+            {
+              "name": "Constantin STANCIU"
+            },
+            {
+              "name": "Rudolf WETZER"
+            },
+            {
+              "name": "Stefan BARBU"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Juan VALDIVIESO"
+            },
+            {
+              "name": "Mario DE LAS CASAS"
+            },
+            {
+              "name": "Alberto SORIA"
+            },
+            {
+              "name": "Alberto DENEGRI"
+            },
+            {
+              "name": "Placido GALINDO",
+              "captain": true
+            },
+            {
+              "name": "Domingo GARCIA"
+            },
+            {
+              "name": "Jose Maria LAVALLE"
+            },
+            {
+              "name": "Demetrio NEYRA"
+            },
+            {
+              "name": "Luis SOUZA"
+            },
+            {
+              "name": "Alejandro VILLANUEVA"
+            },
+            {
+              "name": "Julio LORES"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [],
+        [
+          {
+            "type": "R",
+            "name": "Placido GALINDO",
+            "minute": "70"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Alberto WARNKEN",
+          "country": "CHI"
+        },
+        {
+          "name": "Jean LANGENUS",
+          "country": "BEL"
+        },
+        {
+          "name": "Francisco MATEUCCI",
+          "country": "URU"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1930-07-18",
+      "time": "14:30 UTC-3",
+      "team1": "Uruguay",
+      "team2": "Peru",
+      "score": [
+        1,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Hector CASTRO",
+          "minute": "60"
+        }
+      ],
+      "goals2": [],
+      "ground": "Estadio Centenario, Montevideo",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Enrique BALLESTRERO"
+            },
+            {
+              "name": "Jose NASAZZI",
+              "captain": true
+            },
+            {
+              "name": "Domingo TEJERA"
+            },
+            {
+              "name": "Jose ANDRADE"
+            },
+            {
+              "name": "Lorenzo FERNANDEZ"
+            },
+            {
+              "name": "Alvaro GESTIDO"
+            },
+            {
+              "name": "Hector CASTRO"
+            },
+            {
+              "name": "Pedro CEA"
+            },
+            {
+              "name": "Victoriano IRIARTE"
+            },
+            {
+              "name": "Pedro PETRONE"
+            },
+            {
+              "name": "Santos URDINARAN"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Jorge PARDON"
+            },
+            {
+              "name": "Mario DE LAS CASAS"
+            },
+            {
+              "name": "Antonio MAQUILON",
+              "captain": true
+            },
+            {
+              "name": "Eduardo ASTENGO"
+            },
+            {
+              "name": "Alberto DENEGRI"
+            },
+            {
+              "name": "Placido GALINDO"
+            },
+            {
+              "name": "Jose Maria LAVALLE"
+            },
+            {
+              "name": "Demetrio NEYRA"
+            },
+            {
+              "name": "Luis SOUZA"
+            },
+            {
+              "name": "Alejandro VILLANUEVA"
+            },
+            {
+              "name": "Julio LORES"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Jean LANGENUS",
+          "country": "BEL"
+        },
+        {
+          "name": "Thomas BALWAY",
+          "country": "FRA"
+        },
+        {
+          "name": "Henry CRISTOPHE",
+          "country": "BEL"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1930-07-21",
+      "time": "14:50 UTC-3",
+      "team1": "Uruguay",
+      "team2": "Romania",
+      "score": [
+        4,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Pablo DORADO",
+          "minute": "7"
+        },
+        {
+          "name": "Hector SCARONE",
+          "minute": "24"
+        },
+        {
+          "name": "Juan ANSELMO",
+          "minute": "30"
+        },
+        {
+          "name": "Pedro CEA",
+          "minute": "35"
+        }
+      ],
+      "goals2": [],
+      "ground": "Estadio Centenario, Montevideo",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Enrique BALLESTRERO"
+            },
+            {
+              "name": "Jose NASAZZI",
+              "captain": true
+            },
+            {
+              "name": "Ernesto MASCHERONI"
+            },
+            {
+              "name": "Jose ANDRADE"
+            },
+            {
+              "name": "Lorenzo FERNANDEZ"
+            },
+            {
+              "name": "Alvaro GESTIDO"
+            },
+            {
+              "name": "Juan ANSELMO"
+            },
+            {
+              "name": "Pedro CEA"
+            },
+            {
+              "name": "Pablo DORADO"
+            },
+            {
+              "name": "Victoriano IRIARTE"
+            },
+            {
+              "name": "Hector SCARONE"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Ion LAPUSNEANU"
+            },
+            {
+              "name": "Rudolf BUERGER"
+            },
+            {
+              "name": "Emerich VOGL",
+              "captain": true
+            },
+            {
+              "name": "Iosif CZAKO"
+            },
+            {
+              "name": "Alfred EISENBEISSER"
+            },
+            {
+              "name": "Ladislau RAFFINSKY"
+            },
+            {
+              "name": "Corneliu ROBE"
+            },
+            {
+              "name": "Adalbert DESU"
+            },
+            {
+              "name": "Nicolae KOVACS"
+            },
+            {
+              "name": "Rudolf WETZER"
+            },
+            {
+              "name": "Stefan BARBU"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Gilberto REGO",
+          "country": "BRA"
+        },
+        {
+          "name": "Alberto WARNKEN",
+          "country": "CHI"
+        },
+        {
+          "name": "Ulises SAUCEDO",
+          "country": "BOL"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1930-07-13",
+      "time": "15:00 UTC-3",
+      "team1": "USA",
+      "team2": "Belgium",
+      "score": [
+        3,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Bart McGHEE",
+          "minute": "23"
+        },
+        {
+          "name": "Tom FLORIE",
+          "minute": "45"
+        },
+        {
+          "name": "Bert PATENAUDE",
+          "minute": "69"
+        }
+      ],
+      "goals2": [],
+      "ground": "Parque Central, Montevideo",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Jimmy DOUGLAS"
+            },
+            {
+              "name": "George MOORHOUSE"
+            },
+            {
+              "name": "Ralph TRACY"
+            },
+            {
+              "name": "Alexander WOOD"
+            },
+            {
+              "name": "Jimmy GALLAGHER"
+            },
+            {
+              "name": "Andrew AULD"
+            },
+            {
+              "name": "Jim BROWN"
+            },
+            {
+              "name": "Tom FLORIE",
+              "captain": true
+            },
+            {
+              "name": "Billy GONSALVES"
+            },
+            {
+              "name": "Bart McGHEE"
+            },
+            {
+              "name": "Bert PATENAUDE"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Arnold BADJOU"
+            },
+            {
+              "name": "Nikolaas HOYDONCKX"
+            },
+            {
+              "name": "Theodore NOUWENS"
+            },
+            {
+              "name": "Jean DE CLERQ"
+            },
+            {
+              "name": "Jan DIDDENS"
+            },
+            {
+              "name": "Auguste HELLEMANS"
+            },
+            {
+              "name": "Pierre BRAINE",
+              "captain": true
+            },
+            {
+              "name": "Fernand ADAMS"
+            },
+            {
+              "name": "Jacques MOESCHAL"
+            },
+            {
+              "name": "Louis VERSYP"
+            },
+            {
+              "name": "Bernard VOORHOOF"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Jose MACIAS",
+          "country": "ARG"
+        },
+        {
+          "name": "Francisco MATEUCCI",
+          "country": "URU"
+        },
+        {
+          "name": "Alberto WARNKEN",
+          "country": "CHI"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1930-07-17",
+      "time": "14:45 UTC-3",
+      "team1": "USA",
+      "team2": "Paraguay",
+      "score": [
+        3,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Bert PATENAUDE",
+          "minute": "10"
+        },
+        {
+          "name": "Bert PATENAUDE",
+          "minute": "15"
+        },
+        {
+          "name": "Bert PATENAUDE",
+          "minute": "50"
+        }
+      ],
+      "goals2": [],
+      "ground": "Parque Central, Montevideo",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Jimmy DOUGLAS"
+            },
+            {
+              "name": "George MOORHOUSE"
+            },
+            {
+              "name": "Ralph TRACY"
+            },
+            {
+              "name": "Alexander WOOD"
+            },
+            {
+              "name": "Jimmy GALLAGHER"
+            },
+            {
+              "name": "Andrew AULD"
+            },
+            {
+              "name": "Jim BROWN"
+            },
+            {
+              "name": "Tom FLORIE",
+              "captain": true
+            },
+            {
+              "name": "Billy GONSALVES"
+            },
+            {
+              "name": "Bart McGHEE"
+            },
+            {
+              "name": "Bert PATENAUDE"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Modesto DENIS"
+            },
+            {
+              "name": "Jose Leon MIRACCA"
+            },
+            {
+              "name": "Quiterio OLMEDO"
+            },
+            {
+              "name": "Francisco AGUIRRE"
+            },
+            {
+              "name": "Eusebio DIAZ"
+            },
+            {
+              "name": "Romildo ETCHEVERRY"
+            },
+            {
+              "name": "Diogenes DOMINGUEZ"
+            },
+            {
+              "name": "Aurelio GONZALEZ"
+            },
+            {
+              "name": "Lino NESSI"
+            },
+            {
+              "name": "Luis VARGAS PENA",
+              "captain": true
+            },
+            {
+              "name": "Delfin BENITEZ CACERES"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Jose MACIAS",
+          "country": "ARG"
+        },
+        {
+          "name": "Martin APHESTEGUY",
+          "country": "URU"
+        },
+        {
+          "name": "Anibal TEJADA",
+          "country": "URU"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1930-07-20",
+      "time": "15:00 UTC-3",
+      "team1": "Paraguay",
+      "team2": "Belgium",
+      "score": [
+        1,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Luis VARGAS PENA",
+          "minute": "40"
+        }
+      ],
+      "goals2": [],
+      "ground": "Estadio Centenario, Montevideo",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Pedro BENITEZ"
+            },
+            {
+              "name": "Salvador FLORES"
+            },
+            {
+              "name": "Quiterio OLMEDO"
+            },
+            {
+              "name": "Santiago BENITEZ"
+            },
+            {
+              "name": "Eusebio DIAZ"
+            },
+            {
+              "name": "Tranquilino GARCETE"
+            },
+            {
+              "name": "Delfin BENITEZ CACERES"
+            },
+            {
+              "name": "Aurelio GONZALEZ"
+            },
+            {
+              "name": "Lino NESSI"
+            },
+            {
+              "name": "Luis VARGAS PENA",
+              "captain": true
+            },
+            {
+              "name": "Gerardo ROMERO"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Arnold BADJOU"
+            },
+            {
+              "name": "Henri DE DEKEN"
+            },
+            {
+              "name": "Nikolaas HOYDONCKX"
+            },
+            {
+              "name": "Theodore NOUWENS"
+            },
+            {
+              "name": "Jan DIDDENS"
+            },
+            {
+              "name": "Auguste HELLEMANS"
+            },
+            {
+              "name": "Pierre BRAINE",
+              "captain": true
+            },
+            {
+              "name": "Fernand ADAMS"
+            },
+            {
+              "name": "Gerard DELBEKE"
+            },
+            {
+              "name": "Jacques MOESCHAL"
+            },
+            {
+              "name": "Louis VERSYP"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Ricardo VALLARINO",
+          "country": "URU"
+        },
+        {
+          "name": "Jose MACIAS",
+          "country": "ARG"
+        },
+        {
+          "name": "Domingo LOMBARDI",
+          "country": "URU"
+        }
+      ]
+    },
+    {
+      "round": "Semi-final",
+      "date": "1930-07-26",
+      "time": "14:45 UTC-3",
+      "team1": "Argentina",
+      "team2": "USA",
+      "score": [
+        6,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Luis MONTI",
+          "minute": "20"
+        },
+        {
+          "name": "Alejandro SCOPELLI",
+          "minute": "56"
+        },
+        {
+          "name": "Guillermo STABILE",
+          "minute": "69"
+        },
+        {
+          "name": "Carlos PEUCELLE",
+          "minute": "80"
+        },
+        {
+          "name": "Carlos PEUCELLE",
+          "minute": "85"
+        },
+        {
+          "name": "Guillermo STABILE",
+          "minute": "87"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Jim BROWN",
+          "minute": "89"
+        }
+      ],
+      "ground": "Estadio Centenario, Montevideo",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Juan BOTASSO"
+            },
+            {
+              "name": "Jose DELLA TORRE"
+            },
+            {
+              "name": "Rodolfo ORLANDINI"
+            },
+            {
+              "name": "Fernando PATERNOSTER"
+            },
+            {
+              "name": "Luis MONTI"
+            },
+            {
+              "name": "Juan EVARISTO"
+            },
+            {
+              "name": "Carlos PEUCELLE"
+            },
+            {
+              "name": "Mario EVARISTO"
+            },
+            {
+              "name": "Manuel FERREIRA",
+              "captain": true
+            },
+            {
+              "name": "Alejandro SCOPELLI"
+            },
+            {
+              "name": "Guillermo STABILE"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Jimmy DOUGLAS"
+            },
+            {
+              "name": "George MOORHOUSE"
+            },
+            {
+              "name": "Ralph TRACY"
+            },
+            {
+              "name": "Alexander WOOD"
+            },
+            {
+              "name": "Jimmy GALLAGHER"
+            },
+            {
+              "name": "Andrew AULD"
+            },
+            {
+              "name": "Jim BROWN"
+            },
+            {
+              "name": "Tom FLORIE",
+              "captain": true
+            },
+            {
+              "name": "Billy GONSALVES"
+            },
+            {
+              "name": "Bart McGHEE"
+            },
+            {
+              "name": "Bert PATENAUDE"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Jean LANGENUS",
+          "country": "BEL"
+        },
+        {
+          "name": "Gaspar VALLEJO",
+          "country": "MEX"
+        },
+        {
+          "name": "Alberto WARNKEN",
+          "country": "CHI"
+        }
+      ]
+    },
+    {
+      "round": "Semi-final",
+      "date": "1930-07-27",
+      "time": "14:45 UTC-3",
+      "team1": "Uruguay",
+      "team2": "Yugoslavia",
+      "score": [
+        6,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Pedro CEA",
+          "minute": "18"
+        },
+        {
+          "name": "Juan ANSELMO",
+          "minute": "20"
+        },
+        {
+          "name": "Juan ANSELMO",
+          "minute": "31"
+        },
+        {
+          "name": "Victoriano IRIARTE",
+          "minute": "61"
+        },
+        {
+          "name": "Pedro CEA",
+          "minute": "67"
+        },
+        {
+          "name": "Pedro CEA",
+          "minute": "72"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Djordje VUJADINOVIC",
+          "minute": "4"
+        }
+      ],
+      "ground": "Estadio Centenario, Montevideo",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Enrique BALLESTRERO"
+            },
+            {
+              "name": "Jose NASAZZI",
+              "captain": true
+            },
+            {
+              "name": "Ernesto MASCHERONI"
+            },
+            {
+              "name": "Jose ANDRADE"
+            },
+            {
+              "name": "Lorenzo FERNANDEZ"
+            },
+            {
+              "name": "Alvaro GESTIDO"
+            },
+            {
+              "name": "Juan ANSELMO"
+            },
+            {
+              "name": "Pedro CEA"
+            },
+            {
+              "name": "Pablo DORADO"
+            },
+            {
+              "name": "Victoriano IRIARTE"
+            },
+            {
+              "name": "Hector SCARONE"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Milovan JAKSIC"
+            },
+            {
+              "name": "Milutin IVKOVIC",
+              "captain": true
+            },
+            {
+              "name": "Dragan MIHAJLOVIC"
+            },
+            {
+              "name": "Ljubisa STEFANOVIC"
+            },
+            {
+              "name": "Milorad ARSENIJEVIC"
+            },
+            {
+              "name": "Momcilo DJOKIC"
+            },
+            {
+              "name": "Ivica BEK"
+            },
+            {
+              "name": "Blagoje MARJANOVIC"
+            },
+            {
+              "name": "Branislav SEKULIC"
+            },
+            {
+              "name": "Djordje VUJADINOVIC"
+            },
+            {
+              "name": "Aleksandar TIRNANIC"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Gilberto REGO",
+          "country": "BRA"
+        },
+        {
+          "name": "Ulises SAUCEDO",
+          "country": "BOL"
+        },
+        {
+          "name": "Thomas BALWAY",
+          "country": "FRA"
+        }
+      ]
+    },
+    {
+      "round": "Final",
+      "date": "1930-07-30",
+      "time": "14:15 UTC-3",
+      "team1": "Uruguay",
+      "team2": "Argentina",
+      "score": [
+        4,
+        2
+      ],
+      "goals1": [
+        {
+          "name": "Pablo DORADO",
+          "minute": "12"
+        },
+        {
+          "name": "Pedro CEA",
+          "minute": "57"
+        },
+        {
+          "name": "Victoriano IRIARTE",
+          "minute": "68"
+        },
+        {
+          "name": "Hector CASTRO",
+          "minute": "89"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Carlos PEUCELLE",
+          "minute": "20"
+        },
+        {
+          "name": "Guillermo STABILE",
+          "minute": "37"
+        }
+      ],
+      "ground": "Estadio Centenario, Montevideo",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Enrique BALLESTRERO"
+            },
+            {
+              "name": "Jose NASAZZI",
+              "captain": true
+            },
+            {
+              "name": "Ernesto MASCHERONI"
+            },
+            {
+              "name": "Jose ANDRADE"
+            },
+            {
+              "name": "Lorenzo FERNANDEZ"
+            },
+            {
+              "name": "Alvaro GESTIDO"
+            },
+            {
+              "name": "Hector CASTRO"
+            },
+            {
+              "name": "Pedro CEA"
+            },
+            {
+              "name": "Pablo DORADO"
+            },
+            {
+              "name": "Victoriano IRIARTE"
+            },
+            {
+              "name": "Hector SCARONE"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Juan BOTASSO"
+            },
+            {
+              "name": "Jose DELLA TORRE"
+            },
+            {
+              "name": "Fernando PATERNOSTER"
+            },
+            {
+              "name": "Luis MONTI"
+            },
+            {
+              "name": "Juan EVARISTO"
+            },
+            {
+              "name": "Pedro SUAREZ"
+            },
+            {
+              "name": "Carlos PEUCELLE"
+            },
+            {
+              "name": "Francisco VARALLO"
+            },
+            {
+              "name": "Mario EVARISTO"
+            },
+            {
+              "name": "Manuel FERREIRA",
+              "captain": true
+            },
+            {
+              "name": "Guillermo STABILE"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Jean LANGENUS",
+          "country": "BEL"
+        },
+        {
+          "name": "Ulises SAUCEDO",
+          "country": "BOL"
+        },
+        {
+          "name": "Henry CRISTOPHE",
+          "country": "BEL"
+        }
+      ]
+    }
+  ]
+}

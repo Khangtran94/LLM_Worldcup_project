@@ -1,0 +1,2329 @@
+{
+  "name": "World Cup 1938",
+  "matches": [
+    {
+      "round": "1st Round",
+      "date": "1938-06-04",
+      "time": "17:00 UTC+2",
+      "team1": "Switzerland",
+      "team2": "Germany",
+      "score": {
+        "et": [
+          1,
+          1
+        ]
+      },
+      "goals1": [
+        {
+          "name": "Andre ABEGGLEN",
+          "minute": "43"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Josef GAUCHEL",
+          "minute": "29"
+        }
+      ],
+      "ground": "Parc des Princes, Paris",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Willy HUBER"
+            },
+            {
+              "name": "August LEHMANN"
+            },
+            {
+              "name": "Severino MINELLI",
+              "captain": true
+            },
+            {
+              "name": "Ernst LOERTSCHER"
+            },
+            {
+              "name": "Hermann SPRINGER"
+            },
+            {
+              "name": "Sirio VERNATI"
+            },
+            {
+              "name": "Andre ABEGGLEN"
+            },
+            {
+              "name": "Georges AEBY"
+            },
+            {
+              "name": "Lauro AMADO"
+            },
+            {
+              "name": "Fredy BICKEL"
+            },
+            {
+              "name": "Eugen WALASCHEK"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Rudolf RAFTL"
+            },
+            {
+              "name": "Paul JANES"
+            },
+            {
+              "name": "Willibald SCHMAUS"
+            },
+            {
+              "name": "Albin KITZINGER"
+            },
+            {
+              "name": "Andreas KUPFER"
+            },
+            {
+              "name": "Hans MOCK",
+              "captain": true
+            },
+            {
+              "name": "Josef GAUCHEL"
+            },
+            {
+              "name": "Rudolf GELLESCH"
+            },
+            {
+              "name": "Wilhelm HAHNEMANN"
+            },
+            {
+              "name": "Ernest LEHNER"
+            },
+            {
+              "name": "Hans PESSER"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [],
+        [
+          {
+            "type": "R",
+            "name": "Hans PESSER",
+            "minute": "96"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Jean LANGENUS",
+          "country": "BEL"
+        },
+        {
+          "name": "Paul MARENCO",
+          "country": "FRA"
+        },
+        {
+          "name": "Johannes VAN MOORSEL",
+          "country": "NED"
+        }
+      ]
+    },
+    {
+      "round": "1st Round",
+      "date": "1938-06-05",
+      "time": "17:00 UTC+2",
+      "team1": "Hungary",
+      "team2": "Dutch East Indies",
+      "score": [
+        6,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Vilmos KOHUT",
+          "minute": "13"
+        },
+        {
+          "name": "Geza TOLDI",
+          "minute": "15"
+        },
+        {
+          "name": "Gyorgy SAROSI",
+          "minute": "28"
+        },
+        {
+          "name": "Gyula ZSENGELLER",
+          "minute": "35"
+        },
+        {
+          "name": "Gyula ZSENGELLER",
+          "minute": "76"
+        },
+        {
+          "name": "Gyorgy SAROSI",
+          "minute": "89"
+        }
+      ],
+      "goals2": [],
+      "ground": "Velodrome Municipale, Reims",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Jozsef HADA"
+            },
+            {
+              "name": "Sandor BIRO"
+            },
+            {
+              "name": "Lajos KORANYI"
+            },
+            {
+              "name": "Gyula LAZAR"
+            },
+            {
+              "name": "Istvan BALOGH"
+            },
+            {
+              "name": "Jozsef TURAY"
+            },
+            {
+              "name": "Gyorgy SAROSI",
+              "captain": true
+            },
+            {
+              "name": "Gyula ZSENGELLER"
+            },
+            {
+              "name": "Vilmos KOHUT"
+            },
+            {
+              "name": "Ferenc SAS"
+            },
+            {
+              "name": "Geza TOLDI"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Mo Heng TAN"
+            },
+            {
+              "name": "Frans HUKON"
+            },
+            {
+              "name": "Tjaak PATTIWAEL"
+            },
+            {
+              "name": "Jack SAMUELS"
+            },
+            {
+              "name": "Anwar SUTAN"
+            },
+            {
+              "name": "Frans MEENG",
+              "captain": true
+            },
+            {
+              "name": "Achmad NAWIR"
+            },
+            {
+              "name": "Hans TAIHUTTU"
+            },
+            {
+              "name": "Hong Djien TAN"
+            },
+            {
+              "name": "Suvarte SOEDARMADJI"
+            },
+            {
+              "name": "Henk SOMMERS"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Roger CONRIE",
+          "country": "FRA"
+        },
+        {
+          "name": "Charles DE LA SALLE",
+          "country": "FRA"
+        },
+        {
+          "name": "Karl WEINGARTNER",
+          "country": "AUT"
+        }
+      ]
+    },
+    {
+      "round": "1st Round",
+      "date": "1938-06-05",
+      "time": "17:00 UTC+2",
+      "team1": "France",
+      "team2": "Belgium",
+      "score": [
+        3,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Emile VEINANTE",
+          "minute": "1"
+        },
+        {
+          "name": "Jean NICOLAS",
+          "minute": "16"
+        },
+        {
+          "name": "Jean NICOLAS",
+          "minute": "69"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Henri ISEMBORGHS",
+          "minute": "38"
+        }
+      ],
+      "ground": "Stade Olympique, Paris (Colombes)",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Laurent DI LORTO"
+            },
+            {
+              "name": "Hector CAZENAVE"
+            },
+            {
+              "name": "Raoul DIAGNE"
+            },
+            {
+              "name": "Etienne MATTLER",
+              "captain": true
+            },
+            {
+              "name": "Auguste JORDAN"
+            },
+            {
+              "name": "Jean BASTIEN"
+            },
+            {
+              "name": "Edmond DELFOUR"
+            },
+            {
+              "name": "Oscar HEISSERER"
+            },
+            {
+              "name": "Emile VEINANTE"
+            },
+            {
+              "name": "Alfred ASTON"
+            },
+            {
+              "name": "Jean NICOLAS"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Arnold BADJOU"
+            },
+            {
+              "name": "Robert PAVERICK"
+            },
+            {
+              "name": "Corneel SEYS"
+            },
+            {
+              "name": "Alphonse DE WINTER"
+            },
+            {
+              "name": "Emile STIJNEN",
+              "captain": true
+            },
+            {
+              "name": "John VAN ALPHEN"
+            },
+            {
+              "name": "Raymond BRAINE"
+            },
+            {
+              "name": "Fernand BUYLE"
+            },
+            {
+              "name": "Henri ISEMBORGHS"
+            },
+            {
+              "name": "Charles VANDEWOUWER"
+            },
+            {
+              "name": "Bernard VOORHOOF"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Hans WUETHRICH",
+          "country": "SUI"
+        },
+        {
+          "name": "Gustav KRIST",
+          "country": "TCH"
+        },
+        {
+          "name": "Alfred BIRLEM",
+          "country": "GER"
+        }
+      ]
+    },
+    {
+      "round": "1st Round",
+      "date": "1938-06-05",
+      "time": "17:00 UTC+2",
+      "team1": "Italy",
+      "team2": "Norway",
+      "score": {
+        "et": [
+          2,
+          1
+        ]
+      },
+      "goals1": [
+        {
+          "name": "Pietro FERRARIS",
+          "minute": "2"
+        },
+        {
+          "name": "Silvio PIOLA",
+          "minute": "94"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Arne BRUSTAD",
+          "minute": "83"
+        }
+      ],
+      "ground": "Stade Vélodrome, Marseille",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Aldo OLIVIERI"
+            },
+            {
+              "name": "Eraldo MONZEGLIO"
+            },
+            {
+              "name": "Pietro RAVA"
+            },
+            {
+              "name": "Michele ANDREOLO"
+            },
+            {
+              "name": "Giovanni FERRARI"
+            },
+            {
+              "name": "Ugo LOCATELLI"
+            },
+            {
+              "name": "Pietro SERANTONI"
+            },
+            {
+              "name": "Pietro FERRARIS"
+            },
+            {
+              "name": "Giuseppe MEAZZA",
+              "captain": true
+            },
+            {
+              "name": "Silvio PIOLA"
+            },
+            {
+              "name": "Piero PASINATI"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Henry JOHANSEN"
+            },
+            {
+              "name": "Oivind HOLMSEN"
+            },
+            {
+              "name": "Rolf JOHANNESEN"
+            },
+            {
+              "name": "Nils ERIKSEN",
+              "captain": true
+            },
+            {
+              "name": "Kristian HENRIKSEN"
+            },
+            {
+              "name": "Rolf HOLMBERG"
+            },
+            {
+              "name": "Arne BRUSTAD"
+            },
+            {
+              "name": "Knut BRYNILDSEN"
+            },
+            {
+              "name": "Odd FRANTZEN"
+            },
+            {
+              "name": "Magnar ISAKSEN"
+            },
+            {
+              "name": "Reidar KVAMMEN"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Alois BERANEK",
+          "country": "AUT"
+        },
+        {
+          "name": "D. BOUTOURE",
+          "country": "FRA"
+        },
+        {
+          "name": "D. TREHOU",
+          "country": "FRA"
+        }
+      ]
+    },
+    {
+      "round": "1st Round",
+      "date": "1938-06-05",
+      "time": "17:00 UTC+2",
+      "team1": "Cuba",
+      "team2": "Romania",
+      "score": {
+        "et": [
+          3,
+          3
+        ]
+      },
+      "goals1": [
+        {
+          "name": "Hector SOCORRO",
+          "minute": "44"
+        },
+        {
+          "name": "Jose MAGRINA",
+          "minute": "69"
+        },
+        {
+          "name": "Hector SOCORRO",
+          "minute": "103"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Silviu BINDEA",
+          "minute": "35"
+        },
+        {
+          "name": "Iuliu BARATKY",
+          "minute": "88"
+        },
+        {
+          "name": "Stefan DOBAY",
+          "minute": "105"
+        }
+      ],
+      "ground": "Stade de Toulouse, Toulouse",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Benito CARVAJALES"
+            },
+            {
+              "name": "Jacinto BARQUIN"
+            },
+            {
+              "name": "Manuel CHORENS"
+            },
+            {
+              "name": "Joaquin ARIAS"
+            },
+            {
+              "name": "Pedro BERGES"
+            },
+            {
+              "name": "Tomas FERNANDEZ",
+              "captain": true
+            },
+            {
+              "name": "Jose RODRIGUEZ"
+            },
+            {
+              "name": "Hector SOCORRO"
+            },
+            {
+              "name": "Mario SOSA"
+            },
+            {
+              "name": "Juan TUNAS"
+            },
+            {
+              "name": "Jose MAGRINA"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Dumitru PAVLOVICI"
+            },
+            {
+              "name": "Rudolf BUERGER"
+            },
+            {
+              "name": "Vasile CHIROIU"
+            },
+            {
+              "name": "Vintila COSSINI"
+            },
+            {
+              "name": "Gheorghe RASINARU"
+            },
+            {
+              "name": "Ladislau RAFFINSKY"
+            },
+            {
+              "name": "Iuliu BARATKY"
+            },
+            {
+              "name": "Silviu BINDEA"
+            },
+            {
+              "name": "Iuliu BODOLA"
+            },
+            {
+              "name": "Stefan DOBAY"
+            },
+            {
+              "name": "Nicolae KOVACS",
+              "captain": true
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Giuseppe SCARPI",
+          "country": "ITA"
+        },
+        {
+          "name": "Ferdinand VALPREDE",
+          "country": "FRA"
+        },
+        {
+          "name": "Jean MERKCX",
+          "country": "FRA"
+        }
+      ]
+    },
+    {
+      "round": "1st Round",
+      "date": "1938-06-05",
+      "time": "17:30 UTC+2",
+      "team1": "Brazil",
+      "team2": "Poland",
+      "score": {
+        "et": [
+          6,
+          5
+        ]
+      },
+      "goals1": [
+        {
+          "name": "LEONIDAS",
+          "minute": "18"
+        },
+        {
+          "name": "ROMEU",
+          "minute": "25"
+        },
+        {
+          "name": "PERACIO",
+          "minute": "44"
+        },
+        {
+          "name": "PERACIO",
+          "minute": "71"
+        },
+        {
+          "name": "LEONIDAS",
+          "minute": "93"
+        },
+        {
+          "name": "LEONIDAS",
+          "minute": "104"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Fryedryk SZERFKE",
+          "minute": "23",
+          "penalty": true
+        },
+        {
+          "name": "Ernest WILIMOWSKI",
+          "minute": "53"
+        },
+        {
+          "name": "Ernest WILIMOWSKI",
+          "minute": "59"
+        },
+        {
+          "name": "Ernest WILIMOWSKI",
+          "minute": "89"
+        },
+        {
+          "name": "Ernest WILIMOWSKI",
+          "minute": "118"
+        }
+      ],
+      "ground": "Stade de la Meinau, Strasbourg",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "BATATAIS"
+            },
+            {
+              "name": "DOMINGOS DA GUIA"
+            },
+            {
+              "name": "MACHADO"
+            },
+            {
+              "name": "MARTIM",
+              "captain": true
+            },
+            {
+              "name": "AFONSINHO"
+            },
+            {
+              "name": "ZEZE PROCOPIO"
+            },
+            {
+              "name": "HERCULES"
+            },
+            {
+              "name": "LOPES"
+            },
+            {
+              "name": "PERACIO"
+            },
+            {
+              "name": "LEONIDAS"
+            },
+            {
+              "name": "ROMEU"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Edward MADEJSKI"
+            },
+            {
+              "name": "Antoni GALECKI"
+            },
+            {
+              "name": "Wladyslaw SZSZEPANIAK",
+              "captain": true
+            },
+            {
+              "name": "Ewald DYTKO"
+            },
+            {
+              "name": "Wilhelm GORA"
+            },
+            {
+              "name": "Erwin NYC"
+            },
+            {
+              "name": "Ernest WILIMOWSKI"
+            },
+            {
+              "name": "Ryszard PIEC"
+            },
+            {
+              "name": "Leonard PIONTEK"
+            },
+            {
+              "name": "Fryedryk SZERFKE"
+            },
+            {
+              "name": "Gerard WODARZ"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Ivan EKLIND",
+          "country": "SWE"
+        },
+        {
+          "name": "Louis POISSANT",
+          "country": "FRA"
+        },
+        {
+          "name": "Ernest KISSENBERGER",
+          "country": "FRA"
+        }
+      ]
+    },
+    {
+      "round": "1st Round",
+      "date": "1938-06-05",
+      "time": "18:30 UTC+2",
+      "team1": "Czechoslovakia",
+      "team2": "Netherlands",
+      "score": {
+        "et": [
+          3,
+          0
+        ]
+      },
+      "goals1": [
+        {
+          "name": "Josef KOSTALEK",
+          "minute": "93"
+        },
+        {
+          "name": "Josef ZEMAN",
+          "minute": "111"
+        },
+        {
+          "name": "Oldrich NEJEDLY",
+          "minute": "118"
+        }
+      ],
+      "goals2": [],
+      "ground": "Cavee Verte, Le Havre",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Frantisek PLANICKA",
+              "captain": true
+            },
+            {
+              "name": "Jaroslav BURGR"
+            },
+            {
+              "name": "Ferdinand DAUCIK"
+            },
+            {
+              "name": "Jaroslav BOUCEK"
+            },
+            {
+              "name": "Vlastimil KOPECKY"
+            },
+            {
+              "name": "Josef KOSTALEK"
+            },
+            {
+              "name": "Oldrich NEJEDLY"
+            },
+            {
+              "name": "Jan RIHA"
+            },
+            {
+              "name": "Oldrich RULC"
+            },
+            {
+              "name": "Ladislav SIMUNEK"
+            },
+            {
+              "name": "Josef ZEMAN"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Adriaan VAN MALE"
+            },
+            {
+              "name": "Bertus CALDENHOVE"
+            },
+            {
+              "name": "Mauk WEBER"
+            },
+            {
+              "name": "Puck VAN HEEL",
+              "captain": true
+            },
+            {
+              "name": "Willem ANDERIESEN"
+            },
+            {
+              "name": "Bas PAAUWE"
+            },
+            {
+              "name": "Kick SMIT"
+            },
+            {
+              "name": "Bertus DE HARDER"
+            },
+            {
+              "name": "Frans VAN DER VEEN"
+            },
+            {
+              "name": "Leen VENTE"
+            },
+            {
+              "name": "Frank WELS"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Lucien LECLERCQ",
+          "country": "FRA"
+        },
+        {
+          "name": "D. OLIVE",
+          "country": "FRA"
+        },
+        {
+          "name": "Victor SDEZ",
+          "country": "FRA"
+        }
+      ]
+    },
+    {
+      "round": "1st Round",
+      "date": "1938-06-09",
+      "time": "18:00 UTC+2",
+      "team1": "Cuba",
+      "team2": "Romania",
+      "score": [
+        2,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Hector SOCORRO",
+          "minute": "51"
+        },
+        {
+          "name": "Tomas FERNANDEZ",
+          "minute": "57"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Stefan DOBAY",
+          "minute": "35"
+        }
+      ],
+      "ground": "Stade de Toulouse, Toulouse",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Juan AYRA"
+            },
+            {
+              "name": "Jacinto BARQUIN"
+            },
+            {
+              "name": "Manuel CHORENS"
+            },
+            {
+              "name": "Joaquin ARIAS"
+            },
+            {
+              "name": "Pedro BERGES"
+            },
+            {
+              "name": "Tomas FERNANDEZ",
+              "captain": true
+            },
+            {
+              "name": "Jose RODRIGUEZ"
+            },
+            {
+              "name": "Hector SOCORRO"
+            },
+            {
+              "name": "Mario SOSA"
+            },
+            {
+              "name": "Juan TUNAS"
+            },
+            {
+              "name": "Jose MAGRINA"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Robert SADOWSKY"
+            },
+            {
+              "name": "Rudolf BUERGER"
+            },
+            {
+              "name": "Iacob FELECAN"
+            },
+            {
+              "name": "Andrei BARBULESCU"
+            },
+            {
+              "name": "Gheorghe RASINARU"
+            },
+            {
+              "name": "Ladislau RAFFINSKY"
+            },
+            {
+              "name": "Iuliu BARATKY"
+            },
+            {
+              "name": "Ionica BOGDAN"
+            },
+            {
+              "name": "Stefan DOBAY",
+              "captain": true
+            },
+            {
+              "name": "Ioachim MOLDOVEANU"
+            },
+            {
+              "name": "Iuliu PRASSLER"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Alfred BIRLEM",
+          "country": "GER"
+        },
+        {
+          "name": "Pierre CAPDEVILLE",
+          "country": "FRA"
+        },
+        {
+          "name": "Paul MARENCO",
+          "country": "FRA"
+        }
+      ]
+    },
+    {
+      "round": "1st Round",
+      "date": "1938-06-09",
+      "time": "18:00 UTC+2",
+      "team1": "Switzerland",
+      "team2": "Germany",
+      "score": [
+        4,
+        2
+      ],
+      "goals1": [
+        {
+          "name": "Eugen WALASCHEK",
+          "minute": "42"
+        },
+        {
+          "name": "Fredy BICKEL",
+          "minute": "64"
+        },
+        {
+          "name": "Andre ABEGGLEN",
+          "minute": "75"
+        },
+        {
+          "name": "Andre ABEGGLEN",
+          "minute": "78"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Wilhelm HAHNEMANN",
+          "minute": "8"
+        },
+        {
+          "name": "Ernst LOERTSCHER",
+          "minute": "22",
+          "owngoal": true
+        }
+      ],
+      "ground": "Parc des Princes, Paris",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Willy HUBER"
+            },
+            {
+              "name": "August LEHMANN"
+            },
+            {
+              "name": "Severino MINELLI",
+              "captain": true
+            },
+            {
+              "name": "Ernst LOERTSCHER"
+            },
+            {
+              "name": "Hermann SPRINGER"
+            },
+            {
+              "name": "Sirio VERNATI"
+            },
+            {
+              "name": "Andre ABEGGLEN"
+            },
+            {
+              "name": "Georges AEBY"
+            },
+            {
+              "name": "Lauro AMADO"
+            },
+            {
+              "name": "Fredy BICKEL"
+            },
+            {
+              "name": "Eugen WALASCHEK"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Rudolf RAFTL"
+            },
+            {
+              "name": "Paul JANES"
+            },
+            {
+              "name": "Jakob STREITLE"
+            },
+            {
+              "name": "Ludwig GOLDBRUNNER"
+            },
+            {
+              "name": "Andreas KUPFER"
+            },
+            {
+              "name": "Stefan SKOUMAL"
+            },
+            {
+              "name": "Wilhelm HAHNEMANN"
+            },
+            {
+              "name": "Ernest LEHNER"
+            },
+            {
+              "name": "Leopold NEUMER"
+            },
+            {
+              "name": "Josef STROH"
+            },
+            {
+              "name": "Fritz SZEPAN",
+              "captain": true
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Ivan EKLIND",
+          "country": "SWE"
+        },
+        {
+          "name": "Louis BAERT",
+          "country": "BEL"
+        },
+        {
+          "name": "Johannes VAN MOORSEL",
+          "country": "NED"
+        }
+      ]
+    },
+    {
+      "round": "Quarter-final",
+      "date": "1938-06-12",
+      "time": "17:00 UTC+2",
+      "team1": "Hungary",
+      "team2": "Switzerland",
+      "score": [
+        2,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Gyorgy SAROSI",
+          "minute": "40"
+        },
+        {
+          "name": "Gyula ZSENGELLER",
+          "minute": "89"
+        }
+      ],
+      "goals2": [],
+      "ground": "Victor Boucquey, Lille",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Antal SZABO"
+            },
+            {
+              "name": "Sandor BIRO"
+            },
+            {
+              "name": "Lajos KORANYI"
+            },
+            {
+              "name": "Gyula LAZAR"
+            },
+            {
+              "name": "Antal SZALAY"
+            },
+            {
+              "name": "Jozsef TURAY"
+            },
+            {
+              "name": "Gyorgy SAROSI",
+              "captain": true
+            },
+            {
+              "name": "Gyula ZSENGELLER"
+            },
+            {
+              "name": "Vilmos KOHUT"
+            },
+            {
+              "name": "Ferenc SAS"
+            },
+            {
+              "name": "Jeno VINCZE"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Willy HUBER"
+            },
+            {
+              "name": "August LEHMANN"
+            },
+            {
+              "name": "Adolf STELZER"
+            },
+            {
+              "name": "Ernst LOERTSCHER"
+            },
+            {
+              "name": "Hermann SPRINGER"
+            },
+            {
+              "name": "Sirio VERNATI"
+            },
+            {
+              "name": "Andre ABEGGLEN",
+              "captain": true
+            },
+            {
+              "name": "Lauro AMADO"
+            },
+            {
+              "name": "Fredy BICKEL"
+            },
+            {
+              "name": "Tullio GRASSI"
+            },
+            {
+              "name": "Eugen WALASCHEK"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Rinaldo BARLASSINA",
+          "country": "ITA"
+        },
+        {
+          "name": "Alois BERANEK",
+          "country": "AUT"
+        },
+        {
+          "name": "D. BOUTOURE",
+          "country": "FRA"
+        }
+      ]
+    },
+    {
+      "round": "Quarter-final",
+      "date": "1938-06-12",
+      "time": "17:00 UTC+2",
+      "team1": "Italy",
+      "team2": "France",
+      "score": [
+        3,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Gino COLAUSSI",
+          "minute": "9"
+        },
+        {
+          "name": "Silvio PIOLA",
+          "minute": "51"
+        },
+        {
+          "name": "Silvio PIOLA",
+          "minute": "72"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Oscar HEISSERER",
+          "minute": "10"
+        }
+      ],
+      "ground": "Stade Olympique, Paris (Colombes)",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Aldo OLIVIERI"
+            },
+            {
+              "name": "Pietro RAVA"
+            },
+            {
+              "name": "Alfredo FONI"
+            },
+            {
+              "name": "Michele ANDREOLO"
+            },
+            {
+              "name": "Giovanni FERRARI"
+            },
+            {
+              "name": "Ugo LOCATELLI"
+            },
+            {
+              "name": "Pietro SERANTONI"
+            },
+            {
+              "name": "Amedeo BIAVATI"
+            },
+            {
+              "name": "Gino COLAUSSI"
+            },
+            {
+              "name": "Giuseppe MEAZZA",
+              "captain": true
+            },
+            {
+              "name": "Silvio PIOLA"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Laurent DI LORTO"
+            },
+            {
+              "name": "Hector CAZENAVE"
+            },
+            {
+              "name": "Raoul DIAGNE"
+            },
+            {
+              "name": "Etienne MATTLER",
+              "captain": true
+            },
+            {
+              "name": "Auguste JORDAN"
+            },
+            {
+              "name": "Jean BASTIEN"
+            },
+            {
+              "name": "Edmond DELFOUR"
+            },
+            {
+              "name": "Oscar HEISSERER"
+            },
+            {
+              "name": "Emile VEINANTE"
+            },
+            {
+              "name": "Alfred ASTON"
+            },
+            {
+              "name": "Jean NICOLAS"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Louis BAERT",
+          "country": "BEL"
+        },
+        {
+          "name": "Hans WUETHRICH",
+          "country": "SUI"
+        },
+        {
+          "name": "Ivan EKLIND",
+          "country": "SWE"
+        }
+      ]
+    },
+    {
+      "round": "Quarter-final",
+      "date": "1938-06-12",
+      "time": "17:00 UTC+2",
+      "team1": "Brazil",
+      "team2": "Czechoslovakia",
+      "score": {
+        "et": [
+          1,
+          1
+        ]
+      },
+      "goals1": [
+        {
+          "name": "LEONIDAS",
+          "minute": "30"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Oldrich NEJEDLY",
+          "minute": "65",
+          "penalty": true
+        }
+      ],
+      "ground": "Stade de Bordeaux, Bordeaux",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "WALTER GOULART"
+            },
+            {
+              "name": "DOMINGOS DA GUIA"
+            },
+            {
+              "name": "MACHADO"
+            },
+            {
+              "name": "MARTIM",
+              "captain": true
+            },
+            {
+              "name": "AFONSINHO"
+            },
+            {
+              "name": "ZEZE PROCOPIO"
+            },
+            {
+              "name": "HERCULES"
+            },
+            {
+              "name": "LOPES"
+            },
+            {
+              "name": "PERACIO"
+            },
+            {
+              "name": "LEONIDAS"
+            },
+            {
+              "name": "ROMEU"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Frantisek PLANICKA",
+              "captain": true
+            },
+            {
+              "name": "Jaroslav BURGR"
+            },
+            {
+              "name": "Ferdinand DAUCIK"
+            },
+            {
+              "name": "Jaroslav BOUCEK"
+            },
+            {
+              "name": "Josef KOSTALEK"
+            },
+            {
+              "name": "Vlastimil KOPECKY"
+            },
+            {
+              "name": "Oldrich NEJEDLY"
+            },
+            {
+              "name": "Antonin PUC"
+            },
+            {
+              "name": "Josef LUDL"
+            },
+            {
+              "name": "Jan RIHA"
+            },
+            {
+              "name": "Ladislav SIMUNEK"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "R",
+            "name": "ZEZE PROCOPIO",
+            "minute": "14"
+          },
+          {
+            "type": "R",
+            "name": "MACHADO",
+            "minute": "89"
+          }
+        ],
+        [
+          {
+            "type": "R",
+            "name": "Jan RIHA",
+            "minute": "89"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Pal VON HERTZKA",
+          "country": "HUN"
+        },
+        {
+          "name": "Giuseppe SCARPI",
+          "country": "ITA"
+        },
+        {
+          "name": "Charles DE LA SALLE",
+          "country": "FRA"
+        }
+      ]
+    },
+    {
+      "round": "Quarter-final",
+      "date": "1938-06-12",
+      "time": "17:00 UTC+2",
+      "team1": "Sweden",
+      "team2": "Cuba",
+      "score": [
+        8,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Harry ANDERSSON",
+          "minute": "9"
+        },
+        {
+          "name": "Gustav WETTERSTROM",
+          "minute": "22"
+        },
+        {
+          "name": "Gustav WETTERSTROM",
+          "minute": "37"
+        },
+        {
+          "name": "Gustav WETTERSTROM",
+          "minute": "44"
+        },
+        {
+          "name": "Tore KELLER",
+          "minute": "80"
+        },
+        {
+          "name": "Harry ANDERSSON",
+          "minute": "81"
+        },
+        {
+          "name": "Arne NYBERG",
+          "minute": "84"
+        },
+        {
+          "name": "Harry ANDERSSON",
+          "minute": "89"
+        }
+      ],
+      "goals2": [],
+      "ground": "Fort Carree, Antibes",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Henock ABRAHAMSSON"
+            },
+            {
+              "name": "Ivar ERIKSSON"
+            },
+            {
+              "name": "Olle KALLGREN"
+            },
+            {
+              "name": "Erik ALMGREN"
+            },
+            {
+              "name": "Sven JACOBSSON"
+            },
+            {
+              "name": "Kurt SVANSTROM"
+            },
+            {
+              "name": "Harry ANDERSSON"
+            },
+            {
+              "name": "Sven JONASSON"
+            },
+            {
+              "name": "Tore KELLER",
+              "captain": true
+            },
+            {
+              "name": "Arne NYBERG"
+            },
+            {
+              "name": "Gustav WETTERSTROM"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Benito CARVAJALES"
+            },
+            {
+              "name": "Jacinto BARQUIN"
+            },
+            {
+              "name": "Manuel CHORENS"
+            },
+            {
+              "name": "Joaquin ARIAS"
+            },
+            {
+              "name": "Pedro BERGES"
+            },
+            {
+              "name": "Tomas FERNANDEZ",
+              "captain": true
+            },
+            {
+              "name": "Jose RODRIGUEZ"
+            },
+            {
+              "name": "Juan ALONSO"
+            },
+            {
+              "name": "Pedro FERRER"
+            },
+            {
+              "name": "Hector SOCORRO"
+            },
+            {
+              "name": "Juan TUNAS"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Gustav KRIST",
+          "country": "TCH"
+        },
+        {
+          "name": "Karl WEINGARTNER",
+          "country": "AUT"
+        },
+        {
+          "name": "Victor SDEZ",
+          "country": "FRA"
+        }
+      ]
+    },
+    {
+      "round": "Quarter-final",
+      "date": "1938-06-14",
+      "time": "18:00 UTC+2",
+      "team1": "Brazil",
+      "team2": "Czechoslovakia",
+      "score": [
+        2,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "LEONIDAS",
+          "minute": "57"
+        },
+        {
+          "name": "ROBERTO",
+          "minute": "63"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Vlastimil KOPECKY",
+          "minute": "25"
+        }
+      ],
+      "ground": "Stade de Bordeaux, Bordeaux",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "WALTER GOULART"
+            },
+            {
+              "name": "JAU"
+            },
+            {
+              "name": "NARIZ"
+            },
+            {
+              "name": "BRANDAO"
+            },
+            {
+              "name": "BRITTO"
+            },
+            {
+              "name": "ARGEMIRO"
+            },
+            {
+              "name": "ROBERTO"
+            },
+            {
+              "name": "PATESKO"
+            },
+            {
+              "name": "LEONIDAS",
+              "captain": true
+            },
+            {
+              "name": "LUISINHO"
+            },
+            {
+              "name": "TIM"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Karel BURKERT"
+            },
+            {
+              "name": "Jaroslav BURGR",
+              "captain": true
+            },
+            {
+              "name": "Ferdinand DAUCIK"
+            },
+            {
+              "name": "Jaroslav BOUCEK"
+            },
+            {
+              "name": "Vlastimil KOPECKY"
+            },
+            {
+              "name": "Josef KOSTALEK"
+            },
+            {
+              "name": "Vaclav HORAK"
+            },
+            {
+              "name": "Arnost KREUZ"
+            },
+            {
+              "name": "Josef LUDL"
+            },
+            {
+              "name": "Karel SENECKY"
+            },
+            {
+              "name": "Oldrich RULC"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Georges CAPDEVILLE",
+          "country": "FRA"
+        },
+        {
+          "name": "Paul MARENCO",
+          "country": "FRA"
+        },
+        {
+          "name": "Ernest KISSENBERGER",
+          "country": "FRA"
+        }
+      ]
+    },
+    {
+      "round": "Semi-final",
+      "date": "1938-06-16",
+      "time": "18:00 UTC+2",
+      "team1": "Italy",
+      "team2": "Brazil",
+      "score": [
+        2,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Gino COLAUSSI",
+          "minute": "51"
+        },
+        {
+          "name": "Giuseppe MEAZZA",
+          "minute": "60",
+          "penalty": true
+        }
+      ],
+      "goals2": [
+        {
+          "name": "ROMEU",
+          "minute": "87"
+        }
+      ],
+      "ground": "Stade Vélodrome, Marseille",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Aldo OLIVIERI"
+            },
+            {
+              "name": "Pietro RAVA"
+            },
+            {
+              "name": "Alfredo FONI"
+            },
+            {
+              "name": "Michele ANDREOLO"
+            },
+            {
+              "name": "Giovanni FERRARI"
+            },
+            {
+              "name": "Ugo LOCATELLI"
+            },
+            {
+              "name": "Pietro SERANTONI"
+            },
+            {
+              "name": "Amedeo BIAVATI"
+            },
+            {
+              "name": "Gino COLAUSSI"
+            },
+            {
+              "name": "Giuseppe MEAZZA",
+              "captain": true
+            },
+            {
+              "name": "Silvio PIOLA"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "WALTER GOULART"
+            },
+            {
+              "name": "DOMINGOS DA GUIA"
+            },
+            {
+              "name": "MACHADO"
+            },
+            {
+              "name": "MARTIM",
+              "captain": true
+            },
+            {
+              "name": "AFONSINHO"
+            },
+            {
+              "name": "ZEZE PROCOPIO"
+            },
+            {
+              "name": "LOPES"
+            },
+            {
+              "name": "PERACIO"
+            },
+            {
+              "name": "PATESKO"
+            },
+            {
+              "name": "LUISINHO"
+            },
+            {
+              "name": "ROMEU"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Hans WUETHRICH",
+          "country": "SUI"
+        },
+        {
+          "name": "Alois BERANEK",
+          "country": "AUT"
+        },
+        {
+          "name": "Paul MARENCO",
+          "country": "FRA"
+        }
+      ]
+    },
+    {
+      "round": "Semi-final",
+      "date": "1938-06-16",
+      "time": "18:00 UTC+2",
+      "team1": "Hungary",
+      "team2": "Sweden",
+      "score": [
+        5,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Sven JACOBSSON",
+          "minute": "19",
+          "owngoal": true
+        },
+        {
+          "name": "Pal TITKOS",
+          "minute": "37"
+        },
+        {
+          "name": "Gyula ZSENGELLER",
+          "minute": "39"
+        },
+        {
+          "name": "Gyorgy SAROSI",
+          "minute": "65"
+        },
+        {
+          "name": "Gyula ZSENGELLER",
+          "minute": "85"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Arne NYBERG",
+          "minute": "1"
+        }
+      ],
+      "ground": "Parc des Princes, Paris",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Antal SZABO"
+            },
+            {
+              "name": "Sandor BIRO"
+            },
+            {
+              "name": "Lajos KORANYI"
+            },
+            {
+              "name": "Gyula LAZAR"
+            },
+            {
+              "name": "Antal SZALAY"
+            },
+            {
+              "name": "Jozsef TURAY"
+            },
+            {
+              "name": "Gyorgy SAROSI",
+              "captain": true
+            },
+            {
+              "name": "Pal TITKOS"
+            },
+            {
+              "name": "Gyula ZSENGELLER"
+            },
+            {
+              "name": "Ferenc SAS"
+            },
+            {
+              "name": "Geza TOLDI"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Henock ABRAHAMSSON"
+            },
+            {
+              "name": "Ivar ERIKSSON"
+            },
+            {
+              "name": "Olle KALLGREN"
+            },
+            {
+              "name": "Erik ALMGREN"
+            },
+            {
+              "name": "Sven JACOBSSON"
+            },
+            {
+              "name": "Kurt SVANSTROM"
+            },
+            {
+              "name": "Harry ANDERSSON"
+            },
+            {
+              "name": "Sven JONASSON"
+            },
+            {
+              "name": "Tore KELLER",
+              "captain": true
+            },
+            {
+              "name": "Arne NYBERG"
+            },
+            {
+              "name": "Gustav WETTERSTROM"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Lucien LECLERCQ",
+          "country": "FRA"
+        },
+        {
+          "name": "Johannes VAN MOORSEL",
+          "country": "NED"
+        },
+        {
+          "name": "Giuseppe SCARPI",
+          "country": "ITA"
+        }
+      ]
+    },
+    {
+      "round": "Match for third place",
+      "date": "1938-06-19",
+      "time": "17:00 UTC+2",
+      "team1": "Brazil",
+      "team2": "Sweden",
+      "score": [
+        4,
+        2
+      ],
+      "goals1": [
+        {
+          "name": "ROMEU",
+          "minute": "44"
+        },
+        {
+          "name": "LEONIDAS",
+          "minute": "63"
+        },
+        {
+          "name": "LEONIDAS",
+          "minute": "74"
+        },
+        {
+          "name": "PERACIO",
+          "minute": "80"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Sven JONASSON",
+          "minute": "28"
+        },
+        {
+          "name": "Arne NYBERG",
+          "minute": "38"
+        }
+      ],
+      "ground": "Stade de Bordeaux, Bordeaux",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "BATATAIS"
+            },
+            {
+              "name": "DOMINGOS DA GUIA"
+            },
+            {
+              "name": "MACHADO"
+            },
+            {
+              "name": "AFONSINHO"
+            },
+            {
+              "name": "ZEZE PROCOPIO"
+            },
+            {
+              "name": "BRANDAO"
+            },
+            {
+              "name": "PERACIO"
+            },
+            {
+              "name": "PATESKO"
+            },
+            {
+              "name": "LEONIDAS",
+              "captain": true
+            },
+            {
+              "name": "ROMEU"
+            },
+            {
+              "name": "ROBERTO"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Henock ABRAHAMSSON"
+            },
+            {
+              "name": "Ivar ERIKSSON"
+            },
+            {
+              "name": "Erik NILSSON"
+            },
+            {
+              "name": "Erik ALMGREN"
+            },
+            {
+              "name": "Arne LINDERHOLM"
+            },
+            {
+              "name": "Kurt SVANSTROM",
+              "captain": true
+            },
+            {
+              "name": "Ake ANDERSSON"
+            },
+            {
+              "name": "Harry ANDERSSON"
+            },
+            {
+              "name": "Sven JONASSON"
+            },
+            {
+              "name": "Arne NYBERG"
+            },
+            {
+              "name": "Erik PERSSON"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Jean LANGENUS",
+          "country": "BEL"
+        },
+        {
+          "name": "D. OLIVE",
+          "country": "FRA"
+        },
+        {
+          "name": "Ferdinand VALPREDE",
+          "country": "FRA"
+        }
+      ]
+    },
+    {
+      "round": "Final",
+      "date": "1938-06-19",
+      "time": "17:00 UTC+2",
+      "team1": "Italy",
+      "team2": "Hungary",
+      "score": [
+        4,
+        2
+      ],
+      "goals1": [
+        {
+          "name": "Gino COLAUSSI",
+          "minute": "6"
+        },
+        {
+          "name": "Silvio PIOLA",
+          "minute": "16"
+        },
+        {
+          "name": "Gino COLAUSSI",
+          "minute": "35"
+        },
+        {
+          "name": "Silvio PIOLA",
+          "minute": "82"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Pal TITKOS",
+          "minute": "8"
+        },
+        {
+          "name": "Gyorgy SAROSI",
+          "minute": "70"
+        }
+      ],
+      "ground": "Stade Olympique, Paris (Colombes)",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Aldo OLIVIERI"
+            },
+            {
+              "name": "Pietro RAVA"
+            },
+            {
+              "name": "Alfredo FONI"
+            },
+            {
+              "name": "Michele ANDREOLO"
+            },
+            {
+              "name": "Giovanni FERRARI"
+            },
+            {
+              "name": "Ugo LOCATELLI"
+            },
+            {
+              "name": "Pietro SERANTONI"
+            },
+            {
+              "name": "Amedeo BIAVATI"
+            },
+            {
+              "name": "Gino COLAUSSI"
+            },
+            {
+              "name": "Giuseppe MEAZZA",
+              "captain": true
+            },
+            {
+              "name": "Silvio PIOLA"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Antal SZABO"
+            },
+            {
+              "name": "Sandor BIRO"
+            },
+            {
+              "name": "Gyula POLGAR"
+            },
+            {
+              "name": "Gyula LAZAR"
+            },
+            {
+              "name": "Antal SZALAY"
+            },
+            {
+              "name": "Gyorgy SZUCS"
+            },
+            {
+              "name": "Gyorgy SAROSI",
+              "captain": true
+            },
+            {
+              "name": "Pal TITKOS"
+            },
+            {
+              "name": "Gyula ZSENGELLER"
+            },
+            {
+              "name": "Ferenc SAS"
+            },
+            {
+              "name": "Jeno VINCZE"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Georges CAPDEVILLE",
+          "country": "FRA"
+        },
+        {
+          "name": "Hans WUETHRICH",
+          "country": "SUI"
+        },
+        {
+          "name": "Gustav KRIST",
+          "country": "TCH"
+        }
+      ]
+    }
+  ]
+}

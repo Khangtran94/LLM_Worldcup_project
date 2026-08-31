@@ -1,0 +1,4016 @@
+{
+  "name": "World Cup 1966",
+  "matches": [
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1966-07-11",
+      "time": "19:30 UTC+1",
+      "team1": "England",
+      "team2": "Uruguay",
+      "score": [
+        0,
+        0
+      ],
+      "ground": "Wembley Stadium, London",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Gordon BANKS"
+            },
+            {
+              "name": "George COHEN"
+            },
+            {
+              "name": "Ray WILSON"
+            },
+            {
+              "name": "Jack CHARLTON"
+            },
+            {
+              "name": "Bobby MOORE",
+              "captain": true
+            },
+            {
+              "name": "Nobby STILES"
+            },
+            {
+              "name": "Alan BALL"
+            },
+            {
+              "name": "Jimmy GREAVES"
+            },
+            {
+              "name": "Bobby CHARLTON"
+            },
+            {
+              "name": "John CONNELLY"
+            },
+            {
+              "name": "Roger HUNT"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Ladislao MAZURKIEWICZ"
+            },
+            {
+              "name": "Horacio TROCHE",
+              "captain": true
+            },
+            {
+              "name": "Jorge MANICERA"
+            },
+            {
+              "name": "Nestor GONCALVES"
+            },
+            {
+              "name": "Luis UBINA"
+            },
+            {
+              "name": "Omar CAETANO"
+            },
+            {
+              "name": "Julio CORTES"
+            },
+            {
+              "name": "Hector SILVA"
+            },
+            {
+              "name": "Pedro ROCHA"
+            },
+            {
+              "name": "Domingo PEREZ"
+            },
+            {
+              "name": "Milton VIERA"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Istvan ZSOLT",
+          "country": "HUN"
+        },
+        {
+          "name": "Tofik BAKHRAMOV",
+          "country": "URS"
+        },
+        {
+          "name": "Dimitar RUMENTCHEV",
+          "country": "BUL"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1966-07-13",
+      "time": "19:30 UTC+1",
+      "team1": "France",
+      "team2": "Mexico",
+      "score": [
+        1,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Gerard HAUSSER",
+          "minute": "62"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Enrique BORJA",
+          "minute": "48"
+        }
+      ],
+      "ground": "Wembley Stadium, London",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Marcel AUBOUR"
+            },
+            {
+              "name": "Bernard BOSQUIER"
+            },
+            {
+              "name": "Robert BUDZYNSKI"
+            },
+            {
+              "name": "Gabriel DE MICHELE"
+            },
+            {
+              "name": "Jean DJORKAEFF"
+            },
+            {
+              "name": "Marcel ARTELESA",
+              "captain": true
+            },
+            {
+              "name": "Joseph BONNEL"
+            },
+            {
+              "name": "Robert HERBIN"
+            },
+            {
+              "name": "Nestor COMBIN"
+            },
+            {
+              "name": "Philippe GONDET"
+            },
+            {
+              "name": "Gerard HAUSSER"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Ignacio CALDERON"
+            },
+            {
+              "name": "Arturo CHAIREZ"
+            },
+            {
+              "name": "Gustavo PENA",
+              "captain": true
+            },
+            {
+              "name": "Gabriel NUNEZ"
+            },
+            {
+              "name": "Isidoro DIAZ"
+            },
+            {
+              "name": "Guillermo HERNANDEZ"
+            },
+            {
+              "name": "Magdaleno MERCADO"
+            },
+            {
+              "name": "Aaron PADILLA"
+            },
+            {
+              "name": "Javier FRAGOSO"
+            },
+            {
+              "name": "Salvador REYES"
+            },
+            {
+              "name": "Enrique BORJA"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Menachem ASHKENAZI",
+          "country": "ISR"
+        },
+        {
+          "name": "Joaquim FERNANDES CAMPOS",
+          "country": "POR"
+        },
+        {
+          "name": "Karol GALBA",
+          "country": "TCH"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1966-07-15",
+      "time": "19:30 UTC+1",
+      "team1": "Uruguay",
+      "team2": "France",
+      "score": [
+        2,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Pedro ROCHA",
+          "minute": "26"
+        },
+        {
+          "name": "Julio CORTES",
+          "minute": "31"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Hector DE BOURGOING",
+          "minute": "15",
+          "penalty": true
+        }
+      ],
+      "ground": "White City, London",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Ladislao MAZURKIEWICZ"
+            },
+            {
+              "name": "Horacio TROCHE",
+              "captain": true
+            },
+            {
+              "name": "Jorge MANICERA"
+            },
+            {
+              "name": "Nestor GONCALVES"
+            },
+            {
+              "name": "Luis UBINA"
+            },
+            {
+              "name": "Omar CAETANO"
+            },
+            {
+              "name": "Julio CORTES"
+            },
+            {
+              "name": "Jose SASIA"
+            },
+            {
+              "name": "Pedro ROCHA"
+            },
+            {
+              "name": "Domingo PEREZ"
+            },
+            {
+              "name": "Milton VIERA"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Marcel AUBOUR"
+            },
+            {
+              "name": "Bernard BOSQUIER"
+            },
+            {
+              "name": "Robert BUDZYNSKI"
+            },
+            {
+              "name": "Jean DJORKAEFF"
+            },
+            {
+              "name": "Marcel ARTELESA",
+              "captain": true
+            },
+            {
+              "name": "Joseph BONNEL"
+            },
+            {
+              "name": "Yves HERBERT"
+            },
+            {
+              "name": "Hector DE BOURGOING"
+            },
+            {
+              "name": "Philippe GONDET"
+            },
+            {
+              "name": "Gerard HAUSSER"
+            },
+            {
+              "name": "Jacques SIMON"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Karol GALBA",
+          "country": "TCH"
+        },
+        {
+          "name": "Leo CALLAGHAN",
+          "country": "WAL"
+        },
+        {
+          "name": "Armando MARQUES",
+          "country": "BRA"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1966-07-16",
+      "time": "19:30 UTC+1",
+      "team1": "England",
+      "team2": "Mexico",
+      "score": [
+        2,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Bobby CHARLTON",
+          "minute": "37"
+        },
+        {
+          "name": "Roger HUNT",
+          "minute": "75"
+        }
+      ],
+      "goals2": [],
+      "ground": "Wembley Stadium, London",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Gordon BANKS"
+            },
+            {
+              "name": "George COHEN"
+            },
+            {
+              "name": "Ray WILSON"
+            },
+            {
+              "name": "Jack CHARLTON"
+            },
+            {
+              "name": "Bobby MOORE",
+              "captain": true
+            },
+            {
+              "name": "Nobby STILES"
+            },
+            {
+              "name": "Martin PETERS"
+            },
+            {
+              "name": "Jimmy GREAVES"
+            },
+            {
+              "name": "Bobby CHARLTON"
+            },
+            {
+              "name": "Terry PAINE"
+            },
+            {
+              "name": "Roger HUNT"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Ignacio CALDERON"
+            },
+            {
+              "name": "Arturo CHAIREZ"
+            },
+            {
+              "name": "Gustavo PENA",
+              "captain": true
+            },
+            {
+              "name": "Jesus DEL MURO"
+            },
+            {
+              "name": "Ignacio JAUREGUI"
+            },
+            {
+              "name": "Gabriel NUNEZ"
+            },
+            {
+              "name": "Isidoro DIAZ"
+            },
+            {
+              "name": "Guillermo HERNANDEZ"
+            },
+            {
+              "name": "Aaron PADILLA"
+            },
+            {
+              "name": "Salvador REYES"
+            },
+            {
+              "name": "Enrique BORJA"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Concetto LO BELLO",
+          "country": "ITA"
+        },
+        {
+          "name": "CHOI Duk Ryong",
+          "country": "PRK"
+        },
+        {
+          "name": "Menachem ASHKENAZI",
+          "country": "ISR"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1966-07-19",
+      "time": "16:30 UTC+1",
+      "team1": "Uruguay",
+      "team2": "Mexico",
+      "score": [
+        0,
+        0
+      ],
+      "ground": "Wembley Stadium, London",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Ladislao MAZURKIEWICZ"
+            },
+            {
+              "name": "Horacio TROCHE",
+              "captain": true
+            },
+            {
+              "name": "Jorge MANICERA"
+            },
+            {
+              "name": "Nestor GONCALVES"
+            },
+            {
+              "name": "Luis UBINA"
+            },
+            {
+              "name": "Omar CAETANO"
+            },
+            {
+              "name": "Julio CORTES"
+            },
+            {
+              "name": "Jose SASIA"
+            },
+            {
+              "name": "Pedro ROCHA"
+            },
+            {
+              "name": "Domingo PEREZ"
+            },
+            {
+              "name": "Milton VIERA"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Antonio CARBAJAL"
+            },
+            {
+              "name": "Arturo CHAIREZ"
+            },
+            {
+              "name": "Gustavo PENA",
+              "captain": true
+            },
+            {
+              "name": "Gabriel NUNEZ"
+            },
+            {
+              "name": "Isidoro DIAZ"
+            },
+            {
+              "name": "Ernesto CISNEROS"
+            },
+            {
+              "name": "Guillermo HERNANDEZ"
+            },
+            {
+              "name": "Magdaleno MERCADO"
+            },
+            {
+              "name": "Aaron PADILLA"
+            },
+            {
+              "name": "Salvador REYES"
+            },
+            {
+              "name": "Enrique BORJA"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Bertil LOEOEW",
+          "country": "SWE"
+        },
+        {
+          "name": "Claudio VICUNA",
+          "country": "CHI"
+        },
+        {
+          "name": "Concetto LO BELLO",
+          "country": "ITA"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 1",
+      "date": "1966-07-20",
+      "time": "19:30 UTC+1",
+      "team1": "England",
+      "team2": "France",
+      "score": [
+        2,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Roger HUNT",
+          "minute": "38"
+        },
+        {
+          "name": "Roger HUNT",
+          "minute": "75"
+        }
+      ],
+      "goals2": [],
+      "ground": "Wembley Stadium, London",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Gordon BANKS"
+            },
+            {
+              "name": "George COHEN"
+            },
+            {
+              "name": "Ray WILSON"
+            },
+            {
+              "name": "Jack CHARLTON"
+            },
+            {
+              "name": "Bobby MOORE",
+              "captain": true
+            },
+            {
+              "name": "Nobby STILES"
+            },
+            {
+              "name": "Martin PETERS"
+            },
+            {
+              "name": "Ian CALLAGHAN"
+            },
+            {
+              "name": "Jimmy GREAVES"
+            },
+            {
+              "name": "Bobby CHARLTON"
+            },
+            {
+              "name": "Roger HUNT"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Marcel AUBOUR"
+            },
+            {
+              "name": "Bernard BOSQUIER"
+            },
+            {
+              "name": "Robert BUDZYNSKI"
+            },
+            {
+              "name": "Jean DJORKAEFF"
+            },
+            {
+              "name": "Marcel ARTELESA",
+              "captain": true
+            },
+            {
+              "name": "Joseph BONNEL"
+            },
+            {
+              "name": "Yves HERBERT"
+            },
+            {
+              "name": "Robert HERBIN"
+            },
+            {
+              "name": "Philippe GONDET"
+            },
+            {
+              "name": "Gerard HAUSSER"
+            },
+            {
+              "name": "Jacques SIMON"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Nobby STILES",
+            "minute": "44"
+          }
+        ],
+        []
+      ],
+      "referees": [
+        {
+          "name": "Arturo YAMASAKI MALDONADO",
+          "country": "MEX"
+        },
+        {
+          "name": "Karol GALBA",
+          "country": "TCH"
+        },
+        {
+          "name": "Dimitar RUMENTCHEV",
+          "country": "BUL"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1966-07-12",
+      "time": "19:30 UTC+1",
+      "team1": "West Germany",
+      "team2": "Switzerland",
+      "score": [
+        5,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Sigi HELD",
+          "minute": "15"
+        },
+        {
+          "name": "Helmut HALLER",
+          "minute": "20"
+        },
+        {
+          "name": "Franz BECKENBAUER",
+          "minute": "39"
+        },
+        {
+          "name": "Franz BECKENBAUER",
+          "minute": "52"
+        },
+        {
+          "name": "Helmut HALLER",
+          "minute": "77",
+          "penalty": true
+        }
+      ],
+      "goals2": [],
+      "ground": "Hillsborough, Sheffield",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Hans TILKOWSKI"
+            },
+            {
+              "name": "Horst-Dieter HOETTGES"
+            },
+            {
+              "name": "Karl-Heinz SCHNELLINGER"
+            },
+            {
+              "name": "Willi SCHULZ"
+            },
+            {
+              "name": "Wolfgang WEBER"
+            },
+            {
+              "name": "Franz BECKENBAUER"
+            },
+            {
+              "name": "Albert BRUELLS"
+            },
+            {
+              "name": "Helmut HALLER"
+            },
+            {
+              "name": "Wolfgang OVERATH"
+            },
+            {
+              "name": "Uwe SEELER",
+              "captain": true
+            },
+            {
+              "name": "Sigi HELD"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Charly ELSENER"
+            },
+            {
+              "name": "Hans-Ruedi FUHRER"
+            },
+            {
+              "name": "Andre GROBETY"
+            },
+            {
+              "name": "Heinz SCHNEITER",
+              "captain": true
+            },
+            {
+              "name": "Ely TACCHELLA"
+            },
+            {
+              "name": "Heinz BAENI"
+            },
+            {
+              "name": "Richard DUERR"
+            },
+            {
+              "name": "Karl ODERMATT"
+            },
+            {
+              "name": "Robert HOSP"
+            },
+            {
+              "name": "Fritz KUENZLI"
+            },
+            {
+              "name": "Jean-Claude SCHINDELHOLZ"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Hugh PHILLIPS",
+          "country": "SCO"
+        },
+        {
+          "name": "John ADAIR",
+          "country": "NIR"
+        },
+        {
+          "name": "Bertil LOEOEW",
+          "country": "SWE"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1966-07-13",
+      "time": "19:30 UTC+1",
+      "team1": "Argentina",
+      "team2": "Spain",
+      "score": [
+        2,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Luis ARTIME",
+          "minute": "65"
+        },
+        {
+          "name": "Luis ARTIME",
+          "minute": "79"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "PIRRI",
+          "minute": "71"
+        }
+      ],
+      "ground": "Villa Park, Birmingham",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Antonio ROMA"
+            },
+            {
+              "name": "Roberto PERFUMO"
+            },
+            {
+              "name": "Silvio MARZOLINI"
+            },
+            {
+              "name": "Roberto FERRERO"
+            },
+            {
+              "name": "Antonio RATTIN",
+              "captain": true
+            },
+            {
+              "name": "Rafael ALBRECHT"
+            },
+            {
+              "name": "Jorge SOLARI"
+            },
+            {
+              "name": "Alberto GONZALEZ"
+            },
+            {
+              "name": "Luis ARTIME"
+            },
+            {
+              "name": "Ermindo ONEGA"
+            },
+            {
+              "name": "Oscar MAS"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Jose IRIBAR"
+            },
+            {
+              "name": "Manuel SANCHIS"
+            },
+            {
+              "name": "ELADIO"
+            },
+            {
+              "name": "Luis DEL SOL"
+            },
+            {
+              "name": "Ignacio ZOCO"
+            },
+            {
+              "name": "Luis SUAREZ"
+            },
+            {
+              "name": "GALLEGO"
+            },
+            {
+              "name": "PIRRI"
+            },
+            {
+              "name": "Armando UFARTE"
+            },
+            {
+              "name": "Francisco GENTO",
+              "captain": true
+            },
+            {
+              "name": "Joaquin PEIRO"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Dimitar RUMENTCHEV",
+          "country": "BUL"
+        },
+        {
+          "name": "Arturo YAMASAKI MALDONADO",
+          "country": "MEX"
+        },
+        {
+          "name": "Konstantin ZECEVIC",
+          "country": "YUG"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1966-07-15",
+      "time": "19:30 UTC+1",
+      "team1": "Spain",
+      "team2": "Switzerland",
+      "score": [
+        2,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Manuel SANCHIS",
+          "minute": "57"
+        },
+        {
+          "name": "AMANCIO",
+          "minute": "75"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Rene-Pierre QUENTIN",
+          "minute": "28"
+        }
+      ],
+      "ground": "Hillsborough, Sheffield",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Jose IRIBAR"
+            },
+            {
+              "name": "Manuel SANCHIS"
+            },
+            {
+              "name": "Severino REIJA"
+            },
+            {
+              "name": "Luis DEL SOL"
+            },
+            {
+              "name": "Ignacio ZOCO"
+            },
+            {
+              "name": "Luis SUAREZ"
+            },
+            {
+              "name": "GALLEGO"
+            },
+            {
+              "name": "PIRRI"
+            },
+            {
+              "name": "AMANCIO"
+            },
+            {
+              "name": "Francisco GENTO",
+              "captain": true
+            },
+            {
+              "name": "Joaquin PEIRO"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Charly ELSENER"
+            },
+            {
+              "name": "Kurt ARMBRUSTER"
+            },
+            {
+              "name": "Rene BRODMANN",
+              "captain": true
+            },
+            {
+              "name": "Hans-Ruedi FUHRER"
+            },
+            {
+              "name": "Werner LEIMGRUBER"
+            },
+            {
+              "name": "Xavier STIERLI"
+            },
+            {
+              "name": "Heinz BAENI"
+            },
+            {
+              "name": "Koebi KUHN"
+            },
+            {
+              "name": "Vittore GOTTARDI"
+            },
+            {
+              "name": "Robert HOSP"
+            },
+            {
+              "name": "Rene-Pierre QUENTIN"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Tofik BAKHRAMOV",
+          "country": "URS"
+        },
+        {
+          "name": "Istvan ZSOLT",
+          "country": "HUN"
+        },
+        {
+          "name": "Hugh PHILLIPS",
+          "country": "SCO"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1966-07-16",
+      "time": "15:00 UTC+1",
+      "team1": "West Germany",
+      "team2": "Argentina",
+      "score": [
+        0,
+        0
+      ],
+      "ground": "Villa Park, Birmingham",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Hans TILKOWSKI"
+            },
+            {
+              "name": "Horst-Dieter HOETTGES"
+            },
+            {
+              "name": "Karl-Heinz SCHNELLINGER"
+            },
+            {
+              "name": "Willi SCHULZ"
+            },
+            {
+              "name": "Wolfgang WEBER"
+            },
+            {
+              "name": "Franz BECKENBAUER"
+            },
+            {
+              "name": "Albert BRUELLS"
+            },
+            {
+              "name": "Helmut HALLER"
+            },
+            {
+              "name": "Wolfgang OVERATH"
+            },
+            {
+              "name": "Uwe SEELER",
+              "captain": true
+            },
+            {
+              "name": "Sigi HELD"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Antonio ROMA"
+            },
+            {
+              "name": "Roberto PERFUMO"
+            },
+            {
+              "name": "Silvio MARZOLINI"
+            },
+            {
+              "name": "Roberto FERRERO"
+            },
+            {
+              "name": "Antonio RATTIN",
+              "captain": true
+            },
+            {
+              "name": "Rafael ALBRECHT"
+            },
+            {
+              "name": "Jorge SOLARI"
+            },
+            {
+              "name": "Alberto GONZALEZ"
+            },
+            {
+              "name": "Luis ARTIME"
+            },
+            {
+              "name": "Ermindo ONEGA"
+            },
+            {
+              "name": "Oscar MAS"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Franz BECKENBAUER",
+            "minute": "48"
+          }
+        ],
+        [
+          {
+            "type": "R",
+            "name": "Rafael ALBRECHT",
+            "minute": "65"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Konstantin ZECEVIC",
+          "country": "YUG"
+        },
+        {
+          "name": "Joaquim FERNANDES CAMPOS",
+          "country": "POR"
+        },
+        {
+          "name": "Bertil LOEOEW",
+          "country": "SWE"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1966-07-19",
+      "time": "19:30 UTC+1",
+      "team1": "Argentina",
+      "team2": "Switzerland",
+      "score": [
+        2,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Luis ARTIME",
+          "minute": "53"
+        },
+        {
+          "name": "Ermindo ONEGA",
+          "minute": "81"
+        }
+      ],
+      "goals2": [],
+      "ground": "Hillsborough, Sheffield",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Antonio ROMA"
+            },
+            {
+              "name": "Roberto PERFUMO"
+            },
+            {
+              "name": "Oscar CALICS"
+            },
+            {
+              "name": "Silvio MARZOLINI"
+            },
+            {
+              "name": "Roberto FERRERO"
+            },
+            {
+              "name": "Antonio RATTIN",
+              "captain": true
+            },
+            {
+              "name": "Jorge SOLARI"
+            },
+            {
+              "name": "Alberto GONZALEZ"
+            },
+            {
+              "name": "Luis ARTIME"
+            },
+            {
+              "name": "Ermindo ONEGA"
+            },
+            {
+              "name": "Oscar MAS"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Leo EICHMANN"
+            },
+            {
+              "name": "Kurt ARMBRUSTER"
+            },
+            {
+              "name": "Rene BRODMANN",
+              "captain": true
+            },
+            {
+              "name": "Hans-Ruedi FUHRER"
+            },
+            {
+              "name": "Xavier STIERLI"
+            },
+            {
+              "name": "Heinz BAENI"
+            },
+            {
+              "name": "Koebi KUHN"
+            },
+            {
+              "name": "Vittore GOTTARDI"
+            },
+            {
+              "name": "Robert HOSP"
+            },
+            {
+              "name": "Fritz KUENZLI"
+            },
+            {
+              "name": "Rene-Pierre QUENTIN"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Joaquim FERNANDES CAMPOS",
+          "country": "POR"
+        },
+        {
+          "name": "Istvan ZSOLT",
+          "country": "HUN"
+        },
+        {
+          "name": "Tofik BAKHRAMOV",
+          "country": "URS"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 2",
+      "date": "1966-07-20",
+      "time": "19:30 UTC+1",
+      "team1": "West Germany",
+      "team2": "Spain",
+      "score": [
+        2,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Lothar EMMERICH",
+          "minute": "38"
+        },
+        {
+          "name": "Uwe SEELER",
+          "minute": "84"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Jose Maria FUSTE",
+          "minute": "22"
+        }
+      ],
+      "ground": "Villa Park, Birmingham",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Hans TILKOWSKI"
+            },
+            {
+              "name": "Horst-Dieter HOETTGES"
+            },
+            {
+              "name": "Karl-Heinz SCHNELLINGER"
+            },
+            {
+              "name": "Willi SCHULZ"
+            },
+            {
+              "name": "Wolfgang WEBER"
+            },
+            {
+              "name": "Franz BECKENBAUER"
+            },
+            {
+              "name": "Wolfgang OVERATH"
+            },
+            {
+              "name": "Uwe SEELER",
+              "captain": true
+            },
+            {
+              "name": "Sigi HELD"
+            },
+            {
+              "name": "Lothar EMMERICH"
+            },
+            {
+              "name": "Werner KRAEMER"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Jose IRIBAR"
+            },
+            {
+              "name": "Manuel SANCHIS"
+            },
+            {
+              "name": "Severino REIJA"
+            },
+            {
+              "name": "ADELARDO"
+            },
+            {
+              "name": "Ignacio ZOCO",
+              "captain": true
+            },
+            {
+              "name": "Jesus GLARIA"
+            },
+            {
+              "name": "GALLEGO"
+            },
+            {
+              "name": "AMANCIO"
+            },
+            {
+              "name": "MARCELINO"
+            },
+            {
+              "name": "Jose Maria FUSTE"
+            },
+            {
+              "name": "Carlos LAPETRA"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Wolfgang OVERATH",
+            "minute": "46"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Jesus GLARIA",
+            "minute": "33"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Armando MARQUES",
+          "country": "BRA"
+        },
+        {
+          "name": "Claudio VICUNA",
+          "country": "CHI"
+        },
+        {
+          "name": "CHOI Duk Ryong",
+          "country": "PRK"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1966-07-12",
+      "time": "19:30 UTC+1",
+      "team1": "Brazil",
+      "team2": "Bulgaria",
+      "score": [
+        2,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "PELE",
+          "minute": "15"
+        },
+        {
+          "name": "GARRINCHA",
+          "minute": "63"
+        }
+      ],
+      "goals2": [],
+      "ground": "Goodison Park, Liverpool",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "GILMAR"
+            },
+            {
+              "name": "DJALMA SANTOS"
+            },
+            {
+              "name": "BELLINI",
+              "captain": true
+            },
+            {
+              "name": "ALTAIR"
+            },
+            {
+              "name": "PAULO HENRIQUE"
+            },
+            {
+              "name": "DENILSON"
+            },
+            {
+              "name": "LIMA"
+            },
+            {
+              "name": "PELE"
+            },
+            {
+              "name": "GARRINCHA"
+            },
+            {
+              "name": "JAIRZINHO"
+            },
+            {
+              "name": "ALCINDO"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Georgi NAIDENOV"
+            },
+            {
+              "name": "Aleksandar SHALAMANOV"
+            },
+            {
+              "name": "Ivan VUTSOV"
+            },
+            {
+              "name": "Boris GAGANELOV",
+              "captain": true
+            },
+            {
+              "name": "Dimitar PENEV"
+            },
+            {
+              "name": "Dinko DERMENDZHIEV"
+            },
+            {
+              "name": "Stoyan KITOV"
+            },
+            {
+              "name": "Dobromir JECHEV"
+            },
+            {
+              "name": "Georgi ASPARUKHOV"
+            },
+            {
+              "name": "Ivan KOLEV"
+            },
+            {
+              "name": "Dimitar YAKIMOV"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "DENILSON",
+            "minute": "87"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Dobromir JECHEV",
+            "minute": "36"
+          },
+          {
+            "type": "Y",
+            "name": "Ivan KOLEV",
+            "minute": "66"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Kurt TSCHENSCHER",
+          "country": "GER"
+        },
+        {
+          "name": "George McCABE",
+          "country": "ENG"
+        },
+        {
+          "name": "John TAYLOR",
+          "country": "ENG"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1966-07-13",
+      "time": "19:30 UTC+1",
+      "team1": "Portugal",
+      "team2": "Hungary",
+      "score": [
+        3,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "JOSE AUGUSTO",
+          "minute": "2"
+        },
+        {
+          "name": "JOSE AUGUSTO",
+          "minute": "67"
+        },
+        {
+          "name": "JOSE TORRES",
+          "minute": "90"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Ferenc BENE",
+          "minute": "60"
+        }
+      ],
+      "ground": "Old Trafford Stadium, Manchester",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "CARVALHO"
+            },
+            {
+              "name": "VICENTE"
+            },
+            {
+              "name": "HILARIO"
+            },
+            {
+              "name": "MORAIS"
+            },
+            {
+              "name": "ALEXANDRE BAPTISTA"
+            },
+            {
+              "name": "MARIO COLUNA",
+              "captain": true
+            },
+            {
+              "name": "JAIME GRACA"
+            },
+            {
+              "name": "ANTONIO SIMOES"
+            },
+            {
+              "name": "JOSE AUGUSTO"
+            },
+            {
+              "name": "EUSEBIO"
+            },
+            {
+              "name": "JOSE TORRES"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Antal SZENTIMIHALYI"
+            },
+            {
+              "name": "Beno KAPOSZTA"
+            },
+            {
+              "name": "Sandor MATRAI"
+            },
+            {
+              "name": "Kalman SOVARI"
+            },
+            {
+              "name": "Kalman MESZOLY"
+            },
+            {
+              "name": "Ferenc SIPOS",
+              "captain": true
+            },
+            {
+              "name": "Istvan NAGY"
+            },
+            {
+              "name": "Ferenc BENE"
+            },
+            {
+              "name": "Florian ALBERT"
+            },
+            {
+              "name": "Janos FARKAS"
+            },
+            {
+              "name": "Gyula RAKOSI"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Leo CALLAGHAN",
+          "country": "WAL"
+        },
+        {
+          "name": "Kevin HOWLEY",
+          "country": "ENG"
+        },
+        {
+          "name": "William CLEMENTS",
+          "country": "ENG"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1966-07-15",
+      "time": "19:30 UTC+1",
+      "team1": "Hungary",
+      "team2": "Brazil",
+      "score": [
+        3,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Ferenc BENE",
+          "minute": "2"
+        },
+        {
+          "name": "Janos FARKAS",
+          "minute": "64"
+        },
+        {
+          "name": "Kalman MESZOLY",
+          "minute": "73",
+          "penalty": true
+        }
+      ],
+      "goals2": [
+        {
+          "name": "TOSTAO",
+          "minute": "14"
+        }
+      ],
+      "ground": "Goodison Park, Liverpool",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Jozsef GELEI"
+            },
+            {
+              "name": "Beno KAPOSZTA"
+            },
+            {
+              "name": "Sandor MATRAI"
+            },
+            {
+              "name": "Kalman MESZOLY"
+            },
+            {
+              "name": "Gusztav SZEPESI"
+            },
+            {
+              "name": "Ferenc SIPOS",
+              "captain": true
+            },
+            {
+              "name": "Imre MATHESZ"
+            },
+            {
+              "name": "Ferenc BENE"
+            },
+            {
+              "name": "Florian ALBERT"
+            },
+            {
+              "name": "Janos FARKAS"
+            },
+            {
+              "name": "Gyula RAKOSI"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "GILMAR"
+            },
+            {
+              "name": "DJALMA SANTOS"
+            },
+            {
+              "name": "BELLINI",
+              "captain": true
+            },
+            {
+              "name": "ALTAIR"
+            },
+            {
+              "name": "PAULO HENRIQUE"
+            },
+            {
+              "name": "GERSON"
+            },
+            {
+              "name": "LIMA"
+            },
+            {
+              "name": "TOSTAO"
+            },
+            {
+              "name": "GARRINCHA"
+            },
+            {
+              "name": "JAIRZINHO"
+            },
+            {
+              "name": "ALCINDO"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Kenneth DAGNALL",
+          "country": "ENG"
+        },
+        {
+          "name": "Kevin HOWLEY",
+          "country": "ENG"
+        },
+        {
+          "name": "Arturo YAMASAKI MALDONADO",
+          "country": "MEX"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1966-07-16",
+      "time": "15:00 UTC+1",
+      "team1": "Portugal",
+      "team2": "Bulgaria",
+      "score": [
+        3,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Ivan VUTSOV",
+          "minute": "17",
+          "owngoal": true
+        },
+        {
+          "name": "EUSEBIO",
+          "minute": "38"
+        },
+        {
+          "name": "JOSE TORRES",
+          "minute": "81"
+        }
+      ],
+      "goals2": [],
+      "ground": "Old Trafford Stadium, Manchester",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "JOSE PEREIRA"
+            },
+            {
+              "name": "VICENTE"
+            },
+            {
+              "name": "GERMANO"
+            },
+            {
+              "name": "HILARIO"
+            },
+            {
+              "name": "FESTA"
+            },
+            {
+              "name": "MARIO COLUNA",
+              "captain": true
+            },
+            {
+              "name": "JAIME GRACA"
+            },
+            {
+              "name": "ANTONIO SIMOES"
+            },
+            {
+              "name": "JOSE AUGUSTO"
+            },
+            {
+              "name": "EUSEBIO"
+            },
+            {
+              "name": "JOSE TORRES"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Georgi NAIDENOV"
+            },
+            {
+              "name": "Aleksandar SHALAMANOV"
+            },
+            {
+              "name": "Ivan VUTSOV"
+            },
+            {
+              "name": "Boris GAGANELOV",
+              "captain": true
+            },
+            {
+              "name": "Dimitar PENEV"
+            },
+            {
+              "name": "Dinko DERMENDZHIEV"
+            },
+            {
+              "name": "Dobromir JECHEV"
+            },
+            {
+              "name": "Georgi ASPARUKHOV"
+            },
+            {
+              "name": "Petar ZHEKOV"
+            },
+            {
+              "name": "Dimitar YAKIMOV"
+            },
+            {
+              "name": "Aleksandar KOSTOV"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "EUSEBIO",
+            "minute": "70"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Dinko DERMENDZHIEV",
+            "minute": "70"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Jose Maria CODESAL",
+          "country": "URU"
+        },
+        {
+          "name": "Roberto GOICOECHEA",
+          "country": "ARG"
+        },
+        {
+          "name": "Kurt TSCHENSCHER",
+          "country": "GER"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1966-07-19",
+      "time": "19:30 UTC+1",
+      "team1": "Portugal",
+      "team2": "Brazil",
+      "score": [
+        3,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "ANTONIO SIMOES",
+          "minute": "15"
+        },
+        {
+          "name": "EUSEBIO",
+          "minute": "27"
+        },
+        {
+          "name": "EUSEBIO",
+          "minute": "85"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "RILDO",
+          "minute": "73"
+        }
+      ],
+      "ground": "Goodison Park, Liverpool",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "JOSE PEREIRA"
+            },
+            {
+              "name": "VICENTE"
+            },
+            {
+              "name": "HILARIO"
+            },
+            {
+              "name": "MORAIS"
+            },
+            {
+              "name": "ALEXANDRE BAPTISTA"
+            },
+            {
+              "name": "MARIO COLUNA",
+              "captain": true
+            },
+            {
+              "name": "JAIME GRACA"
+            },
+            {
+              "name": "ANTONIO SIMOES"
+            },
+            {
+              "name": "JOSE AUGUSTO"
+            },
+            {
+              "name": "EUSEBIO"
+            },
+            {
+              "name": "JOSE TORRES"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "MANGA"
+            },
+            {
+              "name": "FIDELIS"
+            },
+            {
+              "name": "BRITO"
+            },
+            {
+              "name": "ORLANDO",
+              "captain": true
+            },
+            {
+              "name": "RILDO"
+            },
+            {
+              "name": "DENILSON"
+            },
+            {
+              "name": "LIMA"
+            },
+            {
+              "name": "PELE"
+            },
+            {
+              "name": "JAIRZINHO"
+            },
+            {
+              "name": "SILVA BATUTA"
+            },
+            {
+              "name": "PARANA"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "George McCABE",
+          "country": "ENG"
+        },
+        {
+          "name": "Leo CALLAGHAN",
+          "country": "WAL"
+        },
+        {
+          "name": "Kenneth DAGNALL",
+          "country": "ENG"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 3",
+      "date": "1966-07-20",
+      "time": "19:30 UTC+1",
+      "team1": "Hungary",
+      "team2": "Bulgaria",
+      "score": [
+        3,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Ivan DAVIDOV",
+          "minute": "43",
+          "owngoal": true
+        },
+        {
+          "name": "Kalman MESZOLY",
+          "minute": "45"
+        },
+        {
+          "name": "Ferenc BENE",
+          "minute": "54"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Georgi ASPARUKHOV",
+          "minute": "15"
+        }
+      ],
+      "ground": "Old Trafford Stadium, Manchester",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Jozsef GELEI"
+            },
+            {
+              "name": "Beno KAPOSZTA"
+            },
+            {
+              "name": "Sandor MATRAI"
+            },
+            {
+              "name": "Kalman MESZOLY"
+            },
+            {
+              "name": "Gusztav SZEPESI"
+            },
+            {
+              "name": "Ferenc SIPOS",
+              "captain": true
+            },
+            {
+              "name": "Imre MATHESZ"
+            },
+            {
+              "name": "Ferenc BENE"
+            },
+            {
+              "name": "Florian ALBERT"
+            },
+            {
+              "name": "Janos FARKAS"
+            },
+            {
+              "name": "Gyula RAKOSI"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Simeon SIMEONOV"
+            },
+            {
+              "name": "Ivan VUTSOV"
+            },
+            {
+              "name": "Boris GAGANELOV",
+              "captain": true
+            },
+            {
+              "name": "Dimitar PENEV"
+            },
+            {
+              "name": "Dimitar LARGOV"
+            },
+            {
+              "name": "Ivan DAVIDOV"
+            },
+            {
+              "name": "Dobromir JECHEV"
+            },
+            {
+              "name": "Georgi ASPARUKHOV"
+            },
+            {
+              "name": "Ivan KOLEV"
+            },
+            {
+              "name": "Dimitar YAKIMOV"
+            },
+            {
+              "name": "Nikola KOTKOV"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Roberto GOICOECHEA",
+          "country": "ARG"
+        },
+        {
+          "name": "Juan GARDEAZABAL",
+          "country": "ESP"
+        },
+        {
+          "name": "Jose Maria CODESAL",
+          "country": "URU"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1966-07-12",
+      "time": "19:30 UTC+1",
+      "team1": "Soviet Union",
+      "team2": "North Korea",
+      "score": [
+        3,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Eduard MALOFEYEV",
+          "minute": "31"
+        },
+        {
+          "name": "Anatoli BANISHEVSKI",
+          "minute": "33"
+        },
+        {
+          "name": "Eduard MALOFEYEV",
+          "minute": "88"
+        }
+      ],
+      "goals2": [],
+      "ground": "Ayresome Park, Middlesbrough",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Anzor KAVAZASHVILI"
+            },
+            {
+              "name": "Leonid OSTROVSKI"
+            },
+            {
+              "name": "Vladimir PONOMARYOV"
+            },
+            {
+              "name": "Albert SHESTERNYOV",
+              "captain": true
+            },
+            {
+              "name": "Murtaz KHURTSILAVA"
+            },
+            {
+              "name": "Yozhef SABO"
+            },
+            {
+              "name": "Georgi SICHINAVA"
+            },
+            {
+              "name": "Igor CHISLENKO"
+            },
+            {
+              "name": "Galimzyan KHUSAINOV"
+            },
+            {
+              "name": "Anatoli BANISHEVSKI"
+            },
+            {
+              "name": "Eduard MALOFEYEV"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "LEE Chang Myung"
+            },
+            {
+              "name": "PAK Li Sup"
+            },
+            {
+              "name": "SHIN Yung Kyoo"
+            },
+            {
+              "name": "KANG Bong Chil"
+            },
+            {
+              "name": "LIM Zoong Sun"
+            },
+            {
+              "name": "IM Seung Hwi"
+            },
+            {
+              "name": "PAK Doo Ik"
+            },
+            {
+              "name": "KANG Ryong Woon"
+            },
+            {
+              "name": "HAN Bong Zin"
+            },
+            {
+              "name": "PAK Seung Zin",
+              "captain": true
+            },
+            {
+              "name": "KIM Seung Il"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Galimzyan KHUSAINOV",
+            "minute": "77"
+          }
+        ],
+        []
+      ],
+      "referees": [
+        {
+          "name": "Juan GARDEAZABAL",
+          "country": "ESP"
+        },
+        {
+          "name": "Aly Hussein KANDIL",
+          "country": "EGY"
+        },
+        {
+          "name": "Gottfried DIENST",
+          "country": "SUI"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1966-07-13",
+      "time": "19:30 UTC+1",
+      "team1": "Italy",
+      "team2": "Chile",
+      "score": [
+        2,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Sandro MAZZOLA",
+          "minute": "8"
+        },
+        {
+          "name": "Paolo BARISON",
+          "minute": "88"
+        }
+      ],
+      "goals2": [],
+      "ground": "Roker Park Ground, Sunderland",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Enrico ALBERTOSI"
+            },
+            {
+              "name": "Tarcisio BURGNICH"
+            },
+            {
+              "name": "Giacinto FACCHETTI"
+            },
+            {
+              "name": "Roberto ROSATO"
+            },
+            {
+              "name": "Sandro SALVADORE",
+              "captain": true
+            },
+            {
+              "name": "Giacomo BULGARELLI"
+            },
+            {
+              "name": "Giovanni LODETTI"
+            },
+            {
+              "name": "Sandro MAZZOLA"
+            },
+            {
+              "name": "Gianni RIVERA"
+            },
+            {
+              "name": "Paolo BARISON"
+            },
+            {
+              "name": "Marino PERANI"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Juan OLIVARES"
+            },
+            {
+              "name": "Luis EYZAGUIRRE"
+            },
+            {
+              "name": "Elias FIGUEROA"
+            },
+            {
+              "name": "Hugo VILLANUEVA"
+            },
+            {
+              "name": "Humberto CRUZ"
+            },
+            {
+              "name": "Alberto FOUILLOUX"
+            },
+            {
+              "name": "Ruben MARCOS"
+            },
+            {
+              "name": "Ignacio PRIETO"
+            },
+            {
+              "name": "Leonel SANCHEZ",
+              "captain": true
+            },
+            {
+              "name": "Pedro ARAYA"
+            },
+            {
+              "name": "Armando TOBAR"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Gottfried DIENST",
+          "country": "SUI"
+        },
+        {
+          "name": "Jim FINNEY",
+          "country": "ENG"
+        },
+        {
+          "name": "Rudolf KREITLEIN",
+          "country": "GER"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1966-07-15",
+      "time": "19:30 UTC+1",
+      "team1": "North Korea",
+      "team2": "Chile",
+      "score": [
+        1,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "PAK Seung Zin",
+          "minute": "88"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Ruben MARCOS",
+          "minute": "26",
+          "penalty": true
+        }
+      ],
+      "ground": "Ayresome Park, Middlesbrough",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "LEE Chang Myung"
+            },
+            {
+              "name": "PAK Li Sup"
+            },
+            {
+              "name": "SHIN Yung Kyoo"
+            },
+            {
+              "name": "LIM Zoong Sun"
+            },
+            {
+              "name": "LI Dong Woon"
+            },
+            {
+              "name": "IM Seung Hwi"
+            },
+            {
+              "name": "PAK Doo Ik"
+            },
+            {
+              "name": "HAN Bong Zin"
+            },
+            {
+              "name": "OH Yoon Kyung"
+            },
+            {
+              "name": "PAK Seung Zin",
+              "captain": true
+            },
+            {
+              "name": "KIM Seung Il"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Juan OLIVARES"
+            },
+            {
+              "name": "Elias FIGUEROA"
+            },
+            {
+              "name": "Alberto VALENTINI"
+            },
+            {
+              "name": "Hugo VILLANUEVA"
+            },
+            {
+              "name": "Humberto CRUZ"
+            },
+            {
+              "name": "Alberto FOUILLOUX"
+            },
+            {
+              "name": "Ruben MARCOS"
+            },
+            {
+              "name": "Ignacio PRIETO"
+            },
+            {
+              "name": "Leonel SANCHEZ",
+              "captain": true
+            },
+            {
+              "name": "Pedro ARAYA"
+            },
+            {
+              "name": "Honorino LANDA"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [],
+        [
+          {
+            "type": "Y",
+            "name": "Ruben MARCOS",
+            "minute": "17"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Aly Hussein KANDIL",
+          "country": "EGY"
+        },
+        {
+          "name": "William CRAWFORD",
+          "country": "SCO"
+        },
+        {
+          "name": "Jim FINNEY",
+          "country": "ENG"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1966-07-16",
+      "time": "15:00 UTC+1",
+      "team1": "Soviet Union",
+      "team2": "Italy",
+      "score": [
+        1,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Igor CHISLENKO",
+          "minute": "57"
+        }
+      ],
+      "goals2": [],
+      "ground": "Roker Park Ground, Sunderland",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Lev YASHIN"
+            },
+            {
+              "name": "Vladimir PONOMARYOV"
+            },
+            {
+              "name": "Albert SHESTERNYOV",
+              "captain": true
+            },
+            {
+              "name": "Vasily DANILOV"
+            },
+            {
+              "name": "Murtaz KHURTSILAVA"
+            },
+            {
+              "name": "Yozhef SABO"
+            },
+            {
+              "name": "Valeri VORONIN"
+            },
+            {
+              "name": "Igor CHISLENKO"
+            },
+            {
+              "name": "Galimzyan KHUSAINOV"
+            },
+            {
+              "name": "Anatoli BANISHEVSKI"
+            },
+            {
+              "name": "Eduard MALOFEYEV"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Enrico ALBERTOSI"
+            },
+            {
+              "name": "Tarcisio BURGNICH"
+            },
+            {
+              "name": "Giacinto FACCHETTI"
+            },
+            {
+              "name": "Roberto ROSATO"
+            },
+            {
+              "name": "Sandro SALVADORE",
+              "captain": true
+            },
+            {
+              "name": "Giacomo BULGARELLI"
+            },
+            {
+              "name": "Gianfranco LEONCINI"
+            },
+            {
+              "name": "Giovanni LODETTI"
+            },
+            {
+              "name": "Sandro MAZZOLA"
+            },
+            {
+              "name": "Luigi MERONI"
+            },
+            {
+              "name": "Ezio PASCUTTI"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Yozhef SABO",
+            "minute": "77"
+          }
+        ],
+        []
+      ],
+      "referees": [
+        {
+          "name": "Rudolf KREITLEIN",
+          "country": "GER"
+        },
+        {
+          "name": "William CRAWFORD",
+          "country": "SCO"
+        },
+        {
+          "name": "Aly Hussein KANDIL",
+          "country": "EGY"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1966-07-19",
+      "time": "19:30 UTC+1",
+      "team1": "North Korea",
+      "team2": "Italy",
+      "score": [
+        1,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "PAK Doo Ik",
+          "minute": "42"
+        }
+      ],
+      "goals2": [],
+      "ground": "Ayresome Park, Middlesbrough",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "LEE Chang Myung"
+            },
+            {
+              "name": "SHIN Yung Kyoo"
+            },
+            {
+              "name": "LIM Zoong Sun"
+            },
+            {
+              "name": "IM Seung Hwi"
+            },
+            {
+              "name": "PAK Doo Ik"
+            },
+            {
+              "name": "HAN Bong Zin"
+            },
+            {
+              "name": "OH Yoon Kyung"
+            },
+            {
+              "name": "HA Yung Won"
+            },
+            {
+              "name": "PAK Seung Zin",
+              "captain": true
+            },
+            {
+              "name": "YANG Seung Kook"
+            },
+            {
+              "name": "KIM Bong Hwan"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Enrico ALBERTOSI"
+            },
+            {
+              "name": "Giacinto FACCHETTI"
+            },
+            {
+              "name": "Aristide GUARNERI"
+            },
+            {
+              "name": "Francesco JANICH"
+            },
+            {
+              "name": "Spartaco LANDINI"
+            },
+            {
+              "name": "Giacomo BULGARELLI",
+              "captain": true
+            },
+            {
+              "name": "Romano FOGLI"
+            },
+            {
+              "name": "Sandro MAZZOLA"
+            },
+            {
+              "name": "Gianni RIVERA"
+            },
+            {
+              "name": "Paolo BARISON"
+            },
+            {
+              "name": "Marino PERANI"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Pierre SCHWINTE",
+          "country": "FRA"
+        },
+        {
+          "name": "John ADAIR",
+          "country": "NIR"
+        },
+        {
+          "name": "John TAYLOR",
+          "country": "ENG"
+        }
+      ]
+    },
+    {
+      "round": "Group Matches, Group 4",
+      "date": "1966-07-20",
+      "time": "19:30 UTC+1",
+      "team1": "Soviet Union",
+      "team2": "Chile",
+      "score": [
+        2,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Valeriy PORKUYAN",
+          "minute": "28"
+        },
+        {
+          "name": "Valeriy PORKUYAN",
+          "minute": "85"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Ruben MARCOS",
+          "minute": "32"
+        }
+      ],
+      "ground": "Roker Park Ground, Sunderland",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Anzor KAVAZASHVILI"
+            },
+            {
+              "name": "Leonid OSTROVSKI"
+            },
+            {
+              "name": "Valentin AFONIN"
+            },
+            {
+              "name": "Albert SHESTERNYOV",
+              "captain": true
+            },
+            {
+              "name": "Viktor GETMANOV"
+            },
+            {
+              "name": "Alexey KORNEEV"
+            },
+            {
+              "name": "Valeri VORONIN"
+            },
+            {
+              "name": "Viktor SEREBRYANIKOV"
+            },
+            {
+              "name": "Slava METREVELI"
+            },
+            {
+              "name": "Valeriy PORKUYAN"
+            },
+            {
+              "name": "Eduard MARKAROV"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Juan OLIVARES"
+            },
+            {
+              "name": "Elias FIGUEROA"
+            },
+            {
+              "name": "Alberto VALENTINI"
+            },
+            {
+              "name": "Hugo VILLANUEVA"
+            },
+            {
+              "name": "Humberto CRUZ"
+            },
+            {
+              "name": "Ruben MARCOS"
+            },
+            {
+              "name": "Ignacio PRIETO"
+            },
+            {
+              "name": "Leonel SANCHEZ",
+              "captain": true
+            },
+            {
+              "name": "Pedro ARAYA"
+            },
+            {
+              "name": "Honorino LANDA"
+            },
+            {
+              "name": "Guillermo YAVAR"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "John ADAIR",
+          "country": "NIR"
+        },
+        {
+          "name": "Pierre SCHWINTE",
+          "country": "FRA"
+        },
+        {
+          "name": "William CLEMENTS",
+          "country": "ENG"
+        }
+      ]
+    },
+    {
+      "round": "Quarter-final",
+      "date": "1966-07-23",
+      "time": "15:00 UTC+1",
+      "team1": "Soviet Union",
+      "team2": "Hungary",
+      "score": [
+        2,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Igor CHISLENKO",
+          "minute": "5"
+        },
+        {
+          "name": "Valeriy PORKUYAN",
+          "minute": "46"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Ferenc BENE",
+          "minute": "57"
+        }
+      ],
+      "ground": "Roker Park Ground, Sunderland",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Lev YASHIN"
+            },
+            {
+              "name": "Vladimir PONOMARYOV"
+            },
+            {
+              "name": "Albert SHESTERNYOV",
+              "captain": true
+            },
+            {
+              "name": "Vasily DANILOV"
+            },
+            {
+              "name": "Yozhef SABO"
+            },
+            {
+              "name": "Valeri VORONIN"
+            },
+            {
+              "name": "Igor CHISLENKO"
+            },
+            {
+              "name": "Galimzyan KHUSAINOV"
+            },
+            {
+              "name": "Valeriy PORKUYAN"
+            },
+            {
+              "name": "Anatoli BANISHEVSKI"
+            },
+            {
+              "name": "Eduard MALOFEYEV"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Jozsef GELEI"
+            },
+            {
+              "name": "Beno KAPOSZTA"
+            },
+            {
+              "name": "Sandor MATRAI"
+            },
+            {
+              "name": "Kalman MESZOLY"
+            },
+            {
+              "name": "Gusztav SZEPESI"
+            },
+            {
+              "name": "Ferenc SIPOS",
+              "captain": true
+            },
+            {
+              "name": "Istvan NAGY"
+            },
+            {
+              "name": "Ferenc BENE"
+            },
+            {
+              "name": "Florian ALBERT"
+            },
+            {
+              "name": "Janos FARKAS"
+            },
+            {
+              "name": "Gyula RAKOSI"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Juan GARDEAZABAL",
+          "country": "ESP"
+        },
+        {
+          "name": "Jose Maria CODESAL",
+          "country": "URU"
+        },
+        {
+          "name": "Joaquim FERNANDES CAMPOS",
+          "country": "POR"
+        }
+      ]
+    },
+    {
+      "round": "Quarter-final",
+      "date": "1966-07-23",
+      "time": "15:00 UTC+1",
+      "team1": "Portugal",
+      "team2": "North Korea",
+      "score": [
+        5,
+        3
+      ],
+      "goals1": [
+        {
+          "name": "EUSEBIO",
+          "minute": "27"
+        },
+        {
+          "name": "EUSEBIO",
+          "minute": "43",
+          "penalty": true
+        },
+        {
+          "name": "EUSEBIO",
+          "minute": "56"
+        },
+        {
+          "name": "EUSEBIO",
+          "minute": "59",
+          "penalty": true
+        },
+        {
+          "name": "JOSE AUGUSTO",
+          "minute": "80"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "PAK Seung Zin",
+          "minute": "1"
+        },
+        {
+          "name": "LI Dong Woon",
+          "minute": "22"
+        },
+        {
+          "name": "YANG Seung Kook",
+          "minute": "25"
+        }
+      ],
+      "ground": "Goodison Park, Liverpool",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "JOSE PEREIRA"
+            },
+            {
+              "name": "VICENTE"
+            },
+            {
+              "name": "HILARIO"
+            },
+            {
+              "name": "MORAIS"
+            },
+            {
+              "name": "ALEXANDRE BAPTISTA"
+            },
+            {
+              "name": "MARIO COLUNA",
+              "captain": true
+            },
+            {
+              "name": "JAIME GRACA"
+            },
+            {
+              "name": "ANTONIO SIMOES"
+            },
+            {
+              "name": "JOSE AUGUSTO"
+            },
+            {
+              "name": "EUSEBIO"
+            },
+            {
+              "name": "JOSE TORRES"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "LEE Chang Myung"
+            },
+            {
+              "name": "SHIN Yung Kyoo"
+            },
+            {
+              "name": "LIM Zoong Sun"
+            },
+            {
+              "name": "LI Dong Woon"
+            },
+            {
+              "name": "IM Seung Hwi"
+            },
+            {
+              "name": "PAK Doo Ik"
+            },
+            {
+              "name": "HAN Bong Zin"
+            },
+            {
+              "name": "OH Yoon Kyung"
+            },
+            {
+              "name": "HA Yung Won"
+            },
+            {
+              "name": "PAK Seung Zin",
+              "captain": true
+            },
+            {
+              "name": "YANG Seung Kook"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "MARIO COLUNA",
+            "minute": "41"
+          }
+        ],
+        []
+      ],
+      "referees": [
+        {
+          "name": "Menachem ASHKENAZI",
+          "country": "ISR"
+        },
+        {
+          "name": "Karol GALBA",
+          "country": "TCH"
+        },
+        {
+          "name": "Pierre SCHWINTE",
+          "country": "FRA"
+        }
+      ]
+    },
+    {
+      "round": "Quarter-final",
+      "date": "1966-07-23",
+      "time": "15:00 UTC+1",
+      "team1": "West Germany",
+      "team2": "Uruguay",
+      "score": [
+        4,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Helmut HALLER",
+          "minute": "11"
+        },
+        {
+          "name": "Franz BECKENBAUER",
+          "minute": "70"
+        },
+        {
+          "name": "Uwe SEELER",
+          "minute": "75"
+        },
+        {
+          "name": "Helmut HALLER",
+          "minute": "83"
+        }
+      ],
+      "goals2": [],
+      "ground": "Hillsborough, Sheffield",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Hans TILKOWSKI"
+            },
+            {
+              "name": "Horst-Dieter HOETTGES"
+            },
+            {
+              "name": "Karl-Heinz SCHNELLINGER"
+            },
+            {
+              "name": "Willi SCHULZ"
+            },
+            {
+              "name": "Wolfgang WEBER"
+            },
+            {
+              "name": "Franz BECKENBAUER"
+            },
+            {
+              "name": "Helmut HALLER"
+            },
+            {
+              "name": "Wolfgang OVERATH"
+            },
+            {
+              "name": "Uwe SEELER",
+              "captain": true
+            },
+            {
+              "name": "Sigi HELD"
+            },
+            {
+              "name": "Lothar EMMERICH"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Ladislao MAZURKIEWICZ"
+            },
+            {
+              "name": "Horacio TROCHE",
+              "captain": true
+            },
+            {
+              "name": "Jorge MANICERA"
+            },
+            {
+              "name": "Nestor GONCALVES"
+            },
+            {
+              "name": "Luis UBINA"
+            },
+            {
+              "name": "Omar CAETANO"
+            },
+            {
+              "name": "Julio CORTES"
+            },
+            {
+              "name": "Hector SILVA"
+            },
+            {
+              "name": "Pedro ROCHA"
+            },
+            {
+              "name": "Domingo PEREZ"
+            },
+            {
+              "name": "Hector SALVA"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Wolfgang WEBER",
+            "minute": "86"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Hector SILVA",
+            "minute": "20"
+          },
+          {
+            "type": "R",
+            "name": "Horacio TROCHE",
+            "minute": "49"
+          },
+          {
+            "type": "R",
+            "name": "Hector SILVA",
+            "minute": "54"
+          },
+          {
+            "type": "Y",
+            "name": "Hector SALVA",
+            "minute": "86"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Jim FINNEY",
+          "country": "ENG"
+        },
+        {
+          "name": "Aly Hussein KANDIL",
+          "country": "EGY"
+        },
+        {
+          "name": "Hugh PHILLIPS",
+          "country": "SCO"
+        }
+      ]
+    },
+    {
+      "round": "Quarter-final",
+      "date": "1966-07-23",
+      "time": "15:00 UTC+1",
+      "team1": "England",
+      "team2": "Argentina",
+      "score": [
+        1,
+        0
+      ],
+      "goals1": [
+        {
+          "name": "Geoff HURST",
+          "minute": "78"
+        }
+      ],
+      "goals2": [],
+      "ground": "Wembley Stadium, London",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Gordon BANKS"
+            },
+            {
+              "name": "George COHEN"
+            },
+            {
+              "name": "Ray WILSON"
+            },
+            {
+              "name": "Jack CHARLTON"
+            },
+            {
+              "name": "Bobby MOORE",
+              "captain": true
+            },
+            {
+              "name": "Nobby STILES"
+            },
+            {
+              "name": "Alan BALL"
+            },
+            {
+              "name": "Martin PETERS"
+            },
+            {
+              "name": "Bobby CHARLTON"
+            },
+            {
+              "name": "Geoff HURST"
+            },
+            {
+              "name": "Roger HUNT"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Antonio ROMA"
+            },
+            {
+              "name": "Roberto PERFUMO"
+            },
+            {
+              "name": "Silvio MARZOLINI"
+            },
+            {
+              "name": "Roberto FERRERO"
+            },
+            {
+              "name": "Antonio RATTIN",
+              "captain": true
+            },
+            {
+              "name": "Rafael ALBRECHT"
+            },
+            {
+              "name": "Jorge SOLARI"
+            },
+            {
+              "name": "Alberto GONZALEZ"
+            },
+            {
+              "name": "Luis ARTIME"
+            },
+            {
+              "name": "Ermindo ONEGA"
+            },
+            {
+              "name": "Oscar MAS"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [],
+        [
+          {
+            "type": "Y",
+            "name": "Jorge SOLARI",
+            "minute": "24"
+          },
+          {
+            "type": "R",
+            "name": "Antonio RATTIN",
+            "minute": "35"
+          },
+          {
+            "type": "Y",
+            "name": "Antonio RATTIN",
+            "minute": "35"
+          },
+          {
+            "type": "Y",
+            "name": "Luis ARTIME",
+            "minute": "45"
+          },
+          {
+            "type": "Y",
+            "name": "Oscar MAS",
+            "minute": "89"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Rudolf KREITLEIN",
+          "country": "GER"
+        },
+        {
+          "name": "Gottfried DIENST",
+          "country": "SUI"
+        },
+        {
+          "name": "Istvan ZSOLT",
+          "country": "HUN"
+        }
+      ]
+    },
+    {
+      "round": "Semi-final",
+      "date": "1966-07-25",
+      "time": "19:30 UTC+1",
+      "team1": "West Germany",
+      "team2": "Soviet Union",
+      "score": [
+        2,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Helmut HALLER",
+          "minute": "43"
+        },
+        {
+          "name": "Franz BECKENBAUER",
+          "minute": "67"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Valeriy PORKUYAN",
+          "minute": "88"
+        }
+      ],
+      "ground": "Goodison Park, Liverpool",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Hans TILKOWSKI"
+            },
+            {
+              "name": "Karl-Heinz SCHNELLINGER"
+            },
+            {
+              "name": "Willi SCHULZ"
+            },
+            {
+              "name": "Wolfgang WEBER"
+            },
+            {
+              "name": "Friedel LUTZ"
+            },
+            {
+              "name": "Franz BECKENBAUER"
+            },
+            {
+              "name": "Helmut HALLER"
+            },
+            {
+              "name": "Wolfgang OVERATH"
+            },
+            {
+              "name": "Uwe SEELER",
+              "captain": true
+            },
+            {
+              "name": "Sigi HELD"
+            },
+            {
+              "name": "Lothar EMMERICH"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Lev YASHIN"
+            },
+            {
+              "name": "Vladimir PONOMARYOV"
+            },
+            {
+              "name": "Albert SHESTERNYOV",
+              "captain": true
+            },
+            {
+              "name": "Vasily DANILOV"
+            },
+            {
+              "name": "Yozhef SABO"
+            },
+            {
+              "name": "Valeri VORONIN"
+            },
+            {
+              "name": "Igor CHISLENKO"
+            },
+            {
+              "name": "Galimzyan KHUSAINOV"
+            },
+            {
+              "name": "Valeriy PORKUYAN"
+            },
+            {
+              "name": "Anatoli BANISHEVSKI"
+            },
+            {
+              "name": "Eduard MALOFEYEV"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Franz BECKENBAUER",
+            "minute": "72"
+          }
+        ],
+        [
+          {
+            "type": "Y",
+            "name": "Valeri VORONIN",
+            "minute": "20"
+          },
+          {
+            "type": "R",
+            "name": "Igor CHISLENKO",
+            "minute": "44"
+          }
+        ]
+      ],
+      "referees": [
+        {
+          "name": "Concetto LO BELLO",
+          "country": "ITA"
+        },
+        {
+          "name": "Jose Maria CODESAL",
+          "country": "URU"
+        },
+        {
+          "name": "Juan GARDEAZABAL",
+          "country": "ESP"
+        }
+      ]
+    },
+    {
+      "round": "Semi-final",
+      "date": "1966-07-26",
+      "time": "19:30 UTC+1",
+      "team1": "England",
+      "team2": "Portugal",
+      "score": [
+        2,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "Bobby CHARLTON",
+          "minute": "30"
+        },
+        {
+          "name": "Bobby CHARLTON",
+          "minute": "80"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "EUSEBIO",
+          "minute": "82",
+          "penalty": true
+        }
+      ],
+      "ground": "Wembley Stadium, London",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Gordon BANKS"
+            },
+            {
+              "name": "George COHEN"
+            },
+            {
+              "name": "Ray WILSON"
+            },
+            {
+              "name": "Jack CHARLTON"
+            },
+            {
+              "name": "Bobby MOORE",
+              "captain": true
+            },
+            {
+              "name": "Nobby STILES"
+            },
+            {
+              "name": "Alan BALL"
+            },
+            {
+              "name": "Martin PETERS"
+            },
+            {
+              "name": "Bobby CHARLTON"
+            },
+            {
+              "name": "Geoff HURST"
+            },
+            {
+              "name": "Roger HUNT"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "JOSE PEREIRA"
+            },
+            {
+              "name": "HILARIO"
+            },
+            {
+              "name": "ALEXANDRE BAPTISTA"
+            },
+            {
+              "name": "JOSE CARLOS"
+            },
+            {
+              "name": "FESTA"
+            },
+            {
+              "name": "MARIO COLUNA",
+              "captain": true
+            },
+            {
+              "name": "JAIME GRACA"
+            },
+            {
+              "name": "ANTONIO SIMOES"
+            },
+            {
+              "name": "JOSE AUGUSTO"
+            },
+            {
+              "name": "EUSEBIO"
+            },
+            {
+              "name": "JOSE TORRES"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Pierre SCHWINTE",
+          "country": "FRA"
+        },
+        {
+          "name": "Arturo YAMASAKI MALDONADO",
+          "country": "MEX"
+        },
+        {
+          "name": "Konstantin ZECEVIC",
+          "country": "YUG"
+        }
+      ]
+    },
+    {
+      "round": "Match for third place",
+      "date": "1966-07-28",
+      "time": "19:30 UTC+1",
+      "team1": "Portugal",
+      "team2": "Soviet Union",
+      "score": [
+        2,
+        1
+      ],
+      "goals1": [
+        {
+          "name": "EUSEBIO",
+          "minute": "12",
+          "penalty": true
+        },
+        {
+          "name": "JOSE TORRES",
+          "minute": "89"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Eduard MALOFEYEV",
+          "minute": "43"
+        }
+      ],
+      "ground": "Wembley Stadium, London",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "JOSE PEREIRA"
+            },
+            {
+              "name": "HILARIO"
+            },
+            {
+              "name": "ALEXANDRE BAPTISTA"
+            },
+            {
+              "name": "JOSE CARLOS"
+            },
+            {
+              "name": "FESTA"
+            },
+            {
+              "name": "MARIO COLUNA",
+              "captain": true
+            },
+            {
+              "name": "JAIME GRACA"
+            },
+            {
+              "name": "ANTONIO SIMOES"
+            },
+            {
+              "name": "JOSE AUGUSTO"
+            },
+            {
+              "name": "EUSEBIO"
+            },
+            {
+              "name": "JOSE TORRES"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Lev YASHIN",
+              "captain": true
+            },
+            {
+              "name": "Vladimir PONOMARYOV"
+            },
+            {
+              "name": "Vasily DANILOV"
+            },
+            {
+              "name": "Alexey KORNEEV"
+            },
+            {
+              "name": "Murtaz KHURTSILAVA"
+            },
+            {
+              "name": "Valeri VORONIN"
+            },
+            {
+              "name": "Georgi SICHINAVA"
+            },
+            {
+              "name": "Viktor SEREBRYANIKOV"
+            },
+            {
+              "name": "Slava METREVELI"
+            },
+            {
+              "name": "Anatoli BANISHEVSKI"
+            },
+            {
+              "name": "Eduard MALOFEYEV"
+            }
+          ]
+        }
+      ],
+      "referees": [
+        {
+          "name": "Kenneth DAGNALL",
+          "country": "ENG"
+        },
+        {
+          "name": "Kevin HOWLEY",
+          "country": "ENG"
+        },
+        {
+          "name": "Aly Hussein KANDIL",
+          "country": "EGY"
+        }
+      ]
+    },
+    {
+      "round": "Final",
+      "date": "1966-07-30",
+      "time": "15:00 UTC+1",
+      "team1": "England",
+      "team2": "West Germany",
+      "score": {
+        "et": [
+          4,
+          2
+        ]
+      },
+      "goals1": [
+        {
+          "name": "Geoff HURST",
+          "minute": "18"
+        },
+        {
+          "name": "Martin PETERS",
+          "minute": "78"
+        },
+        {
+          "name": "Geoff HURST",
+          "minute": "101"
+        },
+        {
+          "name": "Geoff HURST",
+          "minute": "120"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Helmut HALLER",
+          "minute": "12"
+        },
+        {
+          "name": "Wolfgang WEBER",
+          "minute": "89"
+        }
+      ],
+      "ground": "Wembley Stadium, London",
+      "lineup": [
+        {
+          "starter": [
+            {
+              "name": "Gordon BANKS"
+            },
+            {
+              "name": "George COHEN"
+            },
+            {
+              "name": "Ray WILSON"
+            },
+            {
+              "name": "Jack CHARLTON"
+            },
+            {
+              "name": "Bobby MOORE",
+              "captain": true
+            },
+            {
+              "name": "Nobby STILES"
+            },
+            {
+              "name": "Alan BALL"
+            },
+            {
+              "name": "Martin PETERS"
+            },
+            {
+              "name": "Bobby CHARLTON"
+            },
+            {
+              "name": "Geoff HURST"
+            },
+            {
+              "name": "Roger HUNT"
+            }
+          ]
+        },
+        {
+          "starter": [
+            {
+              "name": "Hans TILKOWSKI"
+            },
+            {
+              "name": "Horst-Dieter HOETTGES"
+            },
+            {
+              "name": "Karl-Heinz SCHNELLINGER"
+            },
+            {
+              "name": "Willi SCHULZ"
+            },
+            {
+              "name": "Wolfgang WEBER"
+            },
+            {
+              "name": "Franz BECKENBAUER"
+            },
+            {
+              "name": "Helmut HALLER"
+            },
+            {
+              "name": "Wolfgang OVERATH"
+            },
+            {
+              "name": "Uwe SEELER",
+              "captain": true
+            },
+            {
+              "name": "Sigi HELD"
+            },
+            {
+              "name": "Lothar EMMERICH"
+            }
+          ]
+        }
+      ],
+      "bookings": [
+        [
+          {
+            "type": "Y",
+            "name": "Martin PETERS",
+            "minute": "22"
+          }
+        ],
+        []
+      ],
+      "referees": [
+        {
+          "name": "Gottfried DIENST",
+          "country": "SUI"
+        },
+        {
+          "name": "Tofik BAKHRAMOV",
+          "country": "URS"
+        },
+        {
+          "name": "Karol GALBA",
+          "country": "TCH"
+        }
+      ]
+    }
+  ]
+}
