@@ -31,6 +31,7 @@ def safe_id(value):
 
     value = value.lower()
     value = re.sub(r"[^a-z0-9]+", "_", value)
+
     return value.strip("_")
 
 
@@ -273,7 +274,10 @@ def build_match_text(year, match):
 
     sections = []
 
-    # Match header
+    # ----------------------------------------------------------
+    # Match
+    # ----------------------------------------------------------
+
     header = f"{year} FIFA World Cup"
 
     if round_name:
@@ -281,7 +285,6 @@ def build_match_text(year, match):
 
     sections.append(header)
 
-    # Match information
     match_info = [f"{team1} vs {team2}"]
 
     if date:
@@ -295,30 +298,53 @@ def build_match_text(year, match):
 
     sections.append("\n".join(match_info))
 
+    # ----------------------------------------------------------
     # Score
+    # ----------------------------------------------------------
+
     score_text = format_score(match.get("score"))
 
     if score_text:
-        sections.append(f"Score\n{score_text}")
+        sections.append(
+            "Score\n" + score_text
+        )
 
+    # ----------------------------------------------------------
     # Goals
+    # ----------------------------------------------------------
+
     goal_lines = []
 
     goal_lines.extend(
-        format_goals(match.get("goals1"), team1)
+        format_goals(
+            match.get("goals1"),
+            team1,
+        )
     )
 
     goal_lines.extend(
-        format_goals(match.get("goals2"), team2)
+        format_goals(
+            match.get("goals2"),
+            team2,
+        )
     )
 
     if goal_lines:
-        sections.append("Goals\n" + "\n".join(goal_lines))
+        sections.append(
+            "Goals\n" + "\n".join(goal_lines)
+        )
 
+    # ----------------------------------------------------------
     # Lineups
-    lineup_lines = format_lineup(
-        match.get("lineup"),
-        team1,
+    # ----------------------------------------------------------
+
+    lineup_lines = []
+
+    lineup_lines.extend(
+        format_lineup(
+            match.get("lineup"),
+            team1,
+        )
     )
 
     lineup_lines.extend(
@@ -333,10 +359,17 @@ def build_match_text(year, match):
             "Lineups\n" + "\n".join(lineup_lines)
         )
 
+    # ----------------------------------------------------------
     # Substitutions
-    substitution_lines = format_substitutions(
-        match.get("lineup"),
-        team1,
+    # ----------------------------------------------------------
+
+    substitution_lines = []
+
+    substitution_lines.extend(
+        format_substitutions(
+            match.get("lineup"),
+            team1,
+        )
     )
 
     substitution_lines.extend(
@@ -348,51 +381,70 @@ def build_match_text(year, match):
 
     if substitution_lines:
         sections.append(
-            "Substitutions\n" + "\n".join(substitution_lines)
+            "Substitutions\n"
+            + "\n".join(substitution_lines)
         )
 
+    # ----------------------------------------------------------
     # Bookings
+    # ----------------------------------------------------------
+
     booking_lines = format_bookings(
         match.get("bookings")
     )
 
     if booking_lines:
         sections.append(
-            "Bookings\n" + "\n".join(booking_lines)
+            "Bookings\n"
+            + "\n".join(booking_lines)
         )
 
+    # ----------------------------------------------------------
     # Penalty shootout
+    # ----------------------------------------------------------
+
     penalty_lines = format_penalties(
         match.get("penalties")
     )
 
     if penalty_lines:
         sections.append(
-            "Penalty shootout\n" + "\n".join(penalty_lines)
+            "Penalty shootout\n"
+            + "\n".join(penalty_lines)
         )
 
+    # ----------------------------------------------------------
     # Referees
+    # ----------------------------------------------------------
+
     referee_lines = format_referees(
         match.get("referees")
     )
 
     if referee_lines:
         sections.append(
-            "Referees\n" + "\n".join(referee_lines)
+            "Referees\n"
+            + "\n".join(referee_lines)
         )
 
     return "\n\n".join(sections)
 
 
-def transform_match(year, match, source_file):
+def transform_match(
+    year,
+    match,
+    source_file,
+    match_index,
+):
     """Transform one raw match into a RAG document."""
     team1 = clean_text(match.get("team1")) or "unknown"
     team2 = clean_text(match.get("team2")) or "unknown"
     round_name = clean_text(match.get("round")) or "unknown"
 
+    # Match index makes replay/playoff matches unique.
     match_id = (
         f"{year}_"
-        f"{safe_id(round_name)}_"
+        f"match_{match_index}_"
         f"{safe_id(team1)}_"
         f"{safe_id(team2)}"
     )
@@ -410,7 +462,7 @@ def transform_match(year, match, source_file):
         ).replace("\\", "/"),
     }
 
-    # Remove metadata fields whose values are missing.
+    # Remove missing metadata values.
     metadata = {
         key: value
         for key, value in metadata.items()
@@ -419,7 +471,10 @@ def transform_match(year, match, source_file):
 
     return {
         "id": match_id,
-        "text": build_match_text(year, match),
+        "text": build_match_text(
+            year,
+            match,
+        ),
         "metadata": metadata,
     }
 
@@ -431,21 +486,31 @@ def process_file(file_path, output_file):
     try:
         year = int(year)
     except ValueError:
-        print(f"Skipping invalid year folder: {file_path}")
+        print(
+            f"Skipping invalid year folder: {file_path}"
+        )
         return 0
 
-    with file_path.open("r", encoding="utf-8") as f:
+    with file_path.open(
+        "r",
+        encoding="utf-8",
+    ) as f:
         data = json.load(f)
 
     matches = data.get("matches", [])
 
     if not isinstance(matches, list):
-        print(f"Invalid matches structure: {file_path}")
+        print(
+            f"Invalid matches structure: {file_path}"
+        )
         return 0
 
     count = 0
 
-    for match in matches:
+    for match_index, match in enumerate(
+        matches,
+        start=1,
+    ):
         if not isinstance(match, dict):
             continue
 
@@ -453,6 +518,7 @@ def process_file(file_path, output_file):
             year,
             match,
             file_path,
+            match_index,
         )
 
         output_file.write(
@@ -479,7 +545,9 @@ def main():
     )
 
     if not files:
-        print("No worldcup-full.json files found.")
+        print(
+            "No worldcup-full.json files found."
+        )
         return
 
     total_matches = 0
