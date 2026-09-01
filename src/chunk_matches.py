@@ -1,16 +1,21 @@
 # src/chunk_matches.py
 """
-Semantic chunking for FIFA World Cup match documents.
+Structure-aware chunking for FIFA World Cup match documents.
 
-Reads data/processed/matches.jsonl and produces data/processed/match_chunks.jsonl.
+Reads  data/processed/matches.jsonl
+Writes data/processed/match_chunks.jsonl
 
-Chunk types:
-  - overview      : match summary + result + winner
-  - goals         : all goals in the match
-  - lineup        : one chunk per team
-  - substitutions : substitutions
-  - bookings      : yellow / red cards
-  - referees      : referee list
+Design
+------
+Parent–child structure-aware strategy:
+
+  parent  → full match document (chunk_type="parent")
+  children → one chunk per natural section:
+               overview | goals | lineup | substitutions |
+               bookings | penalties | referees
+
+This preserves the inherent structure of each match while still
+allowing precise retrieval on individual sections.
 """
 
 from __future__ import annotations
@@ -26,6 +31,7 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_INPUT = PROJECT_ROOT / "data" / "processed" / "matches.jsonl"
 DEFAULT_OUTPUT = PROJECT_ROOT / "data" / "processed" / "match_chunks.jsonl"
 
+# Sections that appear in the transformed match text
 SECTION_NAMES = {
     "Score",
     "Goals",
@@ -38,22 +44,20 @@ SECTION_NAMES = {
 
 
 # ---------------------------------------------------------------------------
-# I/O helpers
+# I/O
 # ---------------------------------------------------------------------------
 
 def load_jsonl(path: Path) -> list[dict[str, Any]]:
     records: list[dict[str, Any]] = []
     with path.open("r", encoding="utf-8") as f:
-        for line_number, line in enumerate(f, start=1):
+        for line_no, line in enumerate(f, start=1):
             line = line.strip()
             if not line:
                 continue
             try:
                 records.append(json.loads(line))
             except json.JSONDecodeError as exc:
-                raise ValueError(
-                    f"Invalid JSON on line {line_number} of {path}"
-                ) from exc
+                raise ValueError(f"Invalid JSON on line {line_no} of {path}") from exc
     return records
 
 
@@ -65,12 +69,12 @@ def write_jsonl(path: Path, records: list[dict[str, Any]]) -> None:
 
 
 # ---------------------------------------------------------------------------
-# Section parsing
+# Structure parsing
 # ---------------------------------------------------------------------------
 
 def parse_sections(text: str) -> dict[str, list[str]]:
-    """Extract named sections from the match text."""
-    lines = [line.strip() for line in text.splitlines()]
+    """Split match text into its named structural sections."""
+    lines = [ln.strip() for ln in text.splitlines()]
     sections: dict[str, list[str]] = {}
     current: str | None = None
 
@@ -99,9 +103,9 @@ def clean_player_name(name: str) -> str:
 
 def extract_players_from_lineups(lineup_lines: list[str]) -> dict[str, list[str]]:
     """
-    Parse lineup lines into {team: [players]}.
+    {team: [players]}
 
-    Expected formats after the transform fix:
+    Handles both formats produced by the fixed transform:
         France: - Alex THEPOT
         France: - Alex VILLAPLANE (captain)
         Mexico bench: Oscar BONFIGLIO
@@ -109,22 +113,20 @@ def extract_players_from_lineups(lineup_lines: list[str]) -> dict[str, list[str]
     lineups: dict[str, list[str]] = {}
 
     for line in lineup_lines:
-        # Starters: "Team: - Player" or "Team: - Player (captain)"
-        match = re.match(r"^(.+?):\s*-\s*(.+)$", line)
-        if match:
-            team = match.group(1).strip()
-            player = clean_player_name(match.group(2))
+        # Starter
+        m = re.match(r"^(.+?):\s*-\s*(.+)$", line)
+        if m:
+            team, player = m.group(1).strip(), clean_player_name(m.group(2))
             if team and player:
                 lineups.setdefault(team, [])
                 if player not in lineups[team]:
                     lineups[team].append(player)
             continue
 
-        # Bench: "Team bench: Player"
-        match = re.match(r"^(.+?)\s+bench:\s*(.+)$", line, flags=re.IGNORECASE)
-        if match:
-            team = match.group(1).strip()
-            player = clean_player_name(match.group(2))
+        # Bench
+        m = re.match(r"^(.+?)\s+bench:\s*(.+)$", line, flags=re.IGNORECASE)
+        if m:
+            team, player = m.group(1).strip(), clean_player_name(m.group(2))
             if team and player:
                 lineups.setdefault(team, [])
                 if player not in lineups[team]:
@@ -134,46 +136,35 @@ def extract_players_from_lineups(lineup_lines: list[str]) -> dict[str, list[str]
 
 
 def extract_goal_records(goal_lines: list[str]) -> list[dict[str, str]]:
-    """Parse goal lines into structured records."""
     goals: list[dict[str, str]] = []
-
     for line in goal_lines:
-        # "France: - Lucien LAURENT (19')" or with [penalty] / [own goal]
-        match = re.match(
+        m = re.match(
             r"^(.+?):\s*-\s*(.+?)\s*\(([^)]+)\)\s*(.*)$",
             line,
         )
-        if not match:
+        if not m:
             continue
-
         goals.append(
             {
-                "team": match.group(1).strip(),
-                "player": clean_player_name(match.group(2)),
-                "minute": match.group(3).strip(),
-                "note": match.group(4).strip(),
+                "team": m.group(1).strip(),
+                "player": clean_player_name(m.group(2)),
+                "minute": m.group(3).strip(),
+                "note": m.group(4).strip(),
             }
         )
-
     return goals
 
 
 def extract_goal_scorers(goal_lines: list[str]) -> list[str]:
     scorers: list[str] = []
-    for record in extract_goal_records(goal_lines):
-        player = record["player"]
-        if player and player not in scorers:
-            scorers.append(player)
+    for g in extract_goal_records(goal_lines):
+        if g["player"] and g["player"] not in scorers:
+            scorers.append(g["player"])
     return scorers
 
 
 def extract_score(text: str, sections: dict[str, list[str]]) -> dict[str, Any]:
-    """
-    Support both score formats produced by transform.py:
-
-    1. New format:  Final score: France 4–1 Mexico
-    2. Legacy:      Full time: [0, 0]; Extra time: [1, 0]
-    """
+    """Support both score formats from transform.py."""
     result: dict[str, Any] = {
         "final_score": None,
         "full_time": None,
@@ -184,31 +175,27 @@ def extract_score(text: str, sections: dict[str, list[str]]) -> dict[str, Any]:
     score_lines = sections.get("Score", [])
     score_text = " ".join(score_lines) if score_lines else text
 
-    # New clean format
-    final = re.search(
-        r"Final score:\s*(.+)",
-        score_text,
-        flags=re.IGNORECASE,
-    )
-    if final:
-        result["final_score"] = final.group(1).strip()
+    # Preferred clean format
+    m = re.search(r"Final score:\s*(.+)", score_text, flags=re.IGNORECASE)
+    if m:
+        result["final_score"] = m.group(1).strip()
 
     # Legacy formats
-    ft = re.search(r"Full time:\s*\[?([^\];]+)\]?", score_text, flags=re.IGNORECASE)
-    if ft:
-        result["full_time"] = ft.group(1).strip()
+    m = re.search(r"Full time:\s*\[?([^\];]+)\]?", score_text, flags=re.IGNORECASE)
+    if m:
+        result["full_time"] = m.group(1).strip()
 
-    et = re.search(r"Extra time:\s*\[?([^\];]+)\]?", score_text, flags=re.IGNORECASE)
-    if et:
-        result["extra_time"] = et.group(1).strip()
+    m = re.search(r"Extra time:\s*\[?([^\];]+)\]?", score_text, flags=re.IGNORECASE)
+    if m:
+        result["extra_time"] = m.group(1).strip()
 
-    pen = re.search(
+    m = re.search(
         r"Penalt(?:y|ies)(?:\s+shootout)?:\s*\[?([^\];]+)\]?",
         score_text,
         flags=re.IGNORECASE,
     )
-    if pen:
-        result["penalties"] = pen.group(1).strip()
+    if m:
+        result["penalties"] = m.group(1).strip()
 
     return result
 
@@ -223,11 +210,11 @@ def derive_result(
 
     winner = None
     if goals:
-        team1_goals = sum(1 for g in goals if g["team"] == team1)
-        team2_goals = sum(1 for g in goals if g["team"] == team2)
-        if team1_goals > team2_goals:
+        t1 = sum(1 for g in goals if g["team"] == team1)
+        t2 = sum(1 for g in goals if g["team"] == team2)
+        if t1 > t2:
             winner = team1
-        elif team2_goals > team1_goals:
+        elif t2 > t1:
             winner = team2
 
     round_name = str(metadata.get("round", "")).strip().lower()
@@ -242,11 +229,11 @@ def derive_result(
 
 
 # ---------------------------------------------------------------------------
-# Metadata & chunk builders
+# Metadata
 # ---------------------------------------------------------------------------
 
 def make_base_metadata(record: dict[str, Any]) -> dict[str, Any]:
-    metadata = dict(record.get("metadata", {}))
+    meta = dict(record.get("metadata", {}))
     text = record.get("text", "")
     sections = parse_sections(text)
 
@@ -257,26 +244,26 @@ def make_base_metadata(record: dict[str, Any]) -> dict[str, Any]:
     goal_records = extract_goal_records(goal_lines)
     goal_scorers = extract_goal_scorers(goal_lines)
     score = extract_score(text, sections)
-    result = derive_result(metadata, goal_records, score)
+    result = derive_result(meta, goal_records, score)
 
     players: list[str] = []
     for team_players in lineups.values():
-        for player in team_players:
-            if player not in players:
-                players.append(player)
+        for p in team_players:
+            if p not in players:
+                players.append(p)
 
-    teams = [t for t in (metadata.get("team1"), metadata.get("team2")) if t]
+    teams = [t for t in (meta.get("team1"), meta.get("team2")) if t]
 
     return {
         "match_id": record["id"],
-        "year": metadata.get("year"),
-        "tournament": metadata.get("tournament"),
-        "round": metadata.get("round"),
-        "date": metadata.get("date"),
-        "team1": metadata.get("team1"),
-        "team2": metadata.get("team2"),
+        "year": meta.get("year"),
+        "tournament": meta.get("tournament"),
+        "round": meta.get("round"),
+        "date": meta.get("date"),
+        "team1": meta.get("team1"),
+        "team2": meta.get("team2"),
         "teams": teams,
-        "ground": metadata.get("ground"),
+        "ground": meta.get("ground"),
         "winner": result["winner"],
         "is_draw": result["is_draw"],
         "is_final": result["is_final"],
@@ -288,6 +275,10 @@ def make_base_metadata(record: dict[str, Any]) -> dict[str, Any]:
     }
 
 
+# ---------------------------------------------------------------------------
+# Chunk builders
+# ---------------------------------------------------------------------------
+
 def make_chunk(
     *,
     match_id: str,
@@ -295,19 +286,24 @@ def make_chunk(
     chunk_index: int,
     text: str,
     metadata: dict[str, Any],
+    parent_id: str | None = None,
 ) -> dict[str, Any]:
+    meta = {
+        **metadata,
+        "chunk_type": chunk_type,
+        "chunk_index": chunk_index,
+    }
+    if parent_id is not None:
+        meta["parent_id"] = parent_id
+
     return {
         "id": f"{match_id}_{chunk_type}_{chunk_index}",
         "text": text.strip(),
-        "metadata": {
-            **metadata,
-            "chunk_type": chunk_type,
-            "chunk_index": chunk_index,
-        },
+        "metadata": meta,
     }
 
 
-def build_overview_chunk(record: dict[str, Any], metadata: dict[str, Any]) -> str:
+def build_overview_text(record: dict[str, Any], metadata: dict[str, Any]) -> str:
     original = record.get("metadata", {})
     team1 = original.get("team1", "")
     team2 = original.get("team2", "")
@@ -322,12 +318,14 @@ def build_overview_chunk(record: dict[str, Any], metadata: dict[str, Any]) -> st
 
     if metadata.get("final_score"):
         lines.extend(["", f"Score: {metadata['final_score']}"])
-    elif metadata.get("went_to_extra_time") or metadata.get("had_penalties"):
-        lines.append("")
+    else:
+        flags = []
         if metadata.get("went_to_extra_time"):
-            lines.append("Went to extra time")
+            flags.append("Went to extra time")
         if metadata.get("had_penalties"):
-            lines.append("Decided by penalty shootout")
+            flags.append("Decided by penalty shootout")
+        if flags:
+            lines.extend([""] + flags)
 
     if metadata.get("winner"):
         lines.append(f"Winner: {metadata['winner']}")
@@ -341,41 +339,66 @@ def build_overview_chunk(record: dict[str, Any], metadata: dict[str, Any]) -> st
 
 
 def build_chunks(record: dict[str, Any]) -> list[dict[str, Any]]:
+    """
+    Structure-aware parent–child chunking.
+
+    1. Parent  = full original match text
+    2. Children = one chunk per structural section
+    """
     text = record.get("text", "")
     metadata = make_base_metadata(record)
     sections = parse_sections(text)
     chunks: list[dict[str, Any]] = []
 
+    match_id = record["id"]
     team1 = metadata.get("team1") or "Team 1"
     team2 = metadata.get("team2") or "Team 2"
     match_label = f"{team1} vs {team2}"
 
-    # 1. Overview
+    # ------------------------------------------------------------------
+    # PARENT – full match document
+    # ------------------------------------------------------------------
+    parent = make_chunk(
+        match_id=match_id,
+        chunk_type="parent",
+        chunk_index=0,
+        text=text,
+        metadata=metadata,
+    )
+    chunks.append(parent)
+    parent_id = parent["id"]
+
+    # ------------------------------------------------------------------
+    # CHILDREN – structural sections
+    # ------------------------------------------------------------------
+
+    # Overview (summary)
     chunks.append(
         make_chunk(
-            match_id=record["id"],
+            match_id=match_id,
             chunk_type="overview",
             chunk_index=0,
-            text=build_overview_chunk(record, metadata),
+            text=build_overview_text(record, metadata),
             metadata=metadata,
+            parent_id=parent_id,
         )
     )
 
-    # 2. Goals
+    # Goals
     goal_lines = sections.get("Goals", [])
     if goal_lines:
-        goal_text = f"{match_label} — Goals\n\n" + "\n".join(goal_lines)
         chunks.append(
             make_chunk(
-                match_id=record["id"],
+                match_id=match_id,
                 chunk_type="goals",
                 chunk_index=0,
-                text=goal_text,
+                text=f"{match_label} — Goals\n\n" + "\n".join(goal_lines),
                 metadata=metadata,
+                parent_id=parent_id,
             )
         )
 
-    # 3. Lineups (one chunk per team)
+    # Lineups (one child per team)
     lineups = extract_players_from_lineups(sections.get("Lineups", []))
     for idx, (team, players) in enumerate(lineups.items()):
         if not players:
@@ -387,67 +410,68 @@ def build_chunks(record: dict[str, Any]) -> list[dict[str, Any]]:
         chunk_meta = {**metadata, "team": team, "players": players}
         chunks.append(
             make_chunk(
-                match_id=record["id"],
+                match_id=match_id,
                 chunk_type="lineup",
                 chunk_index=idx,
                 text=lineup_text,
                 metadata=chunk_meta,
+                parent_id=parent_id,
             )
         )
 
-    # 4. Substitutions
+    # Substitutions
     sub_lines = sections.get("Substitutions", [])
     if sub_lines:
-        sub_text = f"{match_label} — Substitutions\n\n" + "\n".join(sub_lines)
         chunks.append(
             make_chunk(
-                match_id=record["id"],
+                match_id=match_id,
                 chunk_type="substitutions",
                 chunk_index=0,
-                text=sub_text,
+                text=f"{match_label} — Substitutions\n\n" + "\n".join(sub_lines),
                 metadata=metadata,
+                parent_id=parent_id,
             )
         )
 
-    # 5. Bookings
+    # Bookings
     booking_lines = sections.get("Bookings", [])
     if booking_lines:
-        booking_text = f"{match_label} — Bookings\n\n" + "\n".join(booking_lines)
         chunks.append(
             make_chunk(
-                match_id=record["id"],
+                match_id=match_id,
                 chunk_type="bookings",
                 chunk_index=0,
-                text=booking_text,
+                text=f"{match_label} — Bookings\n\n" + "\n".join(booking_lines),
                 metadata=metadata,
+                parent_id=parent_id,
             )
         )
 
-    # 6. Penalty shootout
+    # Penalty shootout
     penalty_lines = sections.get("Penalty shootout", [])
     if penalty_lines:
-        penalty_text = f"{match_label} — Penalty shootout\n\n" + "\n".join(penalty_lines)
         chunks.append(
             make_chunk(
-                match_id=record["id"],
+                match_id=match_id,
                 chunk_type="penalties",
                 chunk_index=0,
-                text=penalty_text,
+                text=f"{match_label} — Penalty shootout\n\n" + "\n".join(penalty_lines),
                 metadata=metadata,
+                parent_id=parent_id,
             )
         )
 
-    # 7. Referees
+    # Referees
     referee_lines = sections.get("Referees", [])
     if referee_lines:
-        referee_text = f"{match_label} — Referees\n\n" + "\n".join(referee_lines)
         chunks.append(
             make_chunk(
-                match_id=record["id"],
+                match_id=match_id,
                 chunk_type="referees",
                 chunk_index=0,
-                text=referee_text,
+                text=f"{match_label} — Referees\n\n" + "\n".join(referee_lines),
                 metadata=metadata,
+                parent_id=parent_id,
             )
         )
 
@@ -460,7 +484,7 @@ def build_chunks(record: dict[str, Any]) -> list[dict[str, Any]]:
 
 def main() -> None:
     parser = argparse.ArgumentParser(
-        description="Create semantic RAG chunks from World Cup match documents."
+        description="Structure-aware parent-child chunking for World Cup matches."
     )
     parser.add_argument("--input", type=Path, default=DEFAULT_INPUT)
     parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT)
@@ -474,9 +498,15 @@ def main() -> None:
 
     write_jsonl(args.output, chunks)
 
-    print(f"Loaded  {len(matches):,} matches")
-    print(f"Created {len(chunks):,} RAG chunks")
-    print(f"Wrote   {args.output}")
+    # Simple stats
+    parent_count = sum(1 for c in chunks if c["metadata"]["chunk_type"] == "parent")
+    child_count = len(chunks) - parent_count
+
+    print(f"Loaded   {len(matches):,} matches")
+    print(f"Created  {len(chunks):,} total chunks")
+    print(f"  Parent {parent_count:,}")
+    print(f"  Child  {child_count:,}")
+    print(f"Wrote    {args.output}")
 
 
 if __name__ == "__main__":
