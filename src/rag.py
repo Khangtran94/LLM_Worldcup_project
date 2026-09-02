@@ -28,10 +28,10 @@ def answer(question: str, top_k: int = 12, debug: bool = False) -> str:
     if debug:
         print("\n=== Retrieved chunks ===")
         for i, c in enumerate(contexts, 1):
-            preview = c["text"][:120].replace("\n", " ")
+            preview = c["text"][:130].replace("\n", " ")
             print(
                 f"{i:2}. [{c['chunk_type']:12}] score={c['score']:.3f} "
-                f"year={c.get('year')} | {preview}..."
+                f"year={c.get('year')} final={c.get('is_final')} | {preview}..."
             )
         print("========================\n")
 
