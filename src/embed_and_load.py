@@ -20,10 +20,15 @@ from typing import Any
 from sentence_transformers import SentenceTransformer
 from tqdm import tqdm
 
+# Allow `python src/embed_and_load.py` from project root
+SRC_DIR = Path(__file__).resolve().parent
+if str(SRC_DIR) not in sys.path:
+    sys.path.insert(0, str(SRC_DIR))
+
 from db.connection import get_connection
 
 
-PROJECT_ROOT = Path(__file__).resolve().parent.parent
+PROJECT_ROOT = SRC_DIR.parent
 DEFAULT_INPUT = PROJECT_ROOT / "data" / "processed" / "match_chunks.jsonl"
 MODEL_NAME = "sentence-transformers/all-mpnet-base-v2"
 BATCH_SIZE = 64
