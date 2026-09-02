@@ -12,11 +12,13 @@ dependencies = [
     "minsearch>=0.2.0",
     "openai>=3.6.0",
     "pandas>=3.0.5",
+    "psycopg[binary]>=3.2.0",
     "pyarrow>=25.0.1",
     "python-dotenv>=1.2.3",
     "requests>=2.34.2",
     "sentence-transformers>=6.0.0",
     "streamlit>=1.62.0",
+    "tqdm>=4.66.0",
 ]
 
 [dependency-groups]
