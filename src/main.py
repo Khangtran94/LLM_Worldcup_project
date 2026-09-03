@@ -6,6 +6,17 @@ from __future__ import annotations
 import argparse
 
 from rag import answer
+from monitoring import log_feedback
+
+
+def ask_for_feedback(query_id: int) -> None:
+    raw = input("Was this helpful? (y/n/skip): ").strip().lower()
+    if raw in ("y", "yes"):
+        log_feedback(query_id, True)
+    elif raw in ("n", "no"):
+        comment = input("Optional comment (enter to skip): ").strip() or None
+        log_feedback(query_id, False, comment)
+    # anything else (including blank / "skip") -> no feedback logged
 
 
 def main() -> None:
@@ -20,6 +31,11 @@ def main() -> None:
         type=int,
         default=12,
         help="Number of chunks to retrieve (default: 12)",
+    )
+    parser.add_argument(
+        "--no-feedback",
+        action="store_true",
+        help="Skip the feedback prompt after each answer",
     )
     args = parser.parse_args()
 
@@ -37,8 +53,12 @@ def main() -> None:
             continue
 
         print("\nThinking...")
-        result = answer(question, top_k=args.top_k, debug=args.debug)
+        result, query_id = answer(question, top_k=args.top_k, debug=args.debug)
         print(f"\nAnswer: {result}\n")
+
+        if not args.no_feedback:
+            ask_for_feedback(query_id)
+
         print("-" * 60)
 
 

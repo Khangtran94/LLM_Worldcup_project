@@ -200,16 +200,58 @@ def extract_score(text: str, sections: dict[str, list[str]]) -> dict[str, Any]:
     return result
 
 
+def _parse_two_numbers(text: str | None) -> tuple[int, int] | None:
+    """
+    Parse the first two integers out of a free-form score string like
+    "3, 2", "3-2", or "[3, 2]". Returns None if it doesn't cleanly parse.
+    """
+    if not text:
+        return None
+    nums = re.findall(r"-?\d+", text)
+    if len(nums) < 2:
+        return None
+    try:
+        return int(nums[0]), int(nums[1])
+    except ValueError:
+        return None
+
+
 def derive_result(
     metadata: dict[str, Any],
     goals: list[dict[str, str]],
     score: dict[str, Any],
 ) -> dict[str, Any]:
+    """
+    Determine the winner.
+
+    IMPORTANT: a penalty shootout winner takes priority over the
+    in-play goal tally. Matches decided on penalties are tied (often
+    0-0 or otherwise level) during normal + extra time — e.g. the 1994
+    final (Brazil beat Italy on penalties, 0-0 in play), 2006 final
+    (Italy beat France on penalties, 1-1 in play), and 2022 final
+    (Argentina beat France on penalties, 3-3 in play). Shootout kicks
+    aren't recorded as "goals" in the Goals section at all, so summing
+    goals alone silently produces winner=None (and is_draw=True) for
+    every final ever decided by a shootout. This previously undercounted
+    team World Cup win totals and wrote "Result: Draw" into the overview
+    text of finals a team actually won.
+    """
     team1 = metadata.get("team1")
     team2 = metadata.get("team2")
 
     winner = None
-    if goals:
+
+    penalty_score = _parse_two_numbers(score.get("penalties"))
+    if penalty_score is not None:
+        p1, p2 = penalty_score
+        if p1 > p2:
+            winner = team1
+        elif p2 > p1:
+            winner = team2
+        # p1 == p2 shouldn't happen in real football; if it does, fall
+        # through to goal-based logic below rather than guessing.
+
+    if winner is None and goals:
         t1 = sum(1 for g in goals if g["team"] == team1)
         t2 = sum(1 for g in goals if g["team"] == team2)
         if t1 > t2:
@@ -221,7 +263,7 @@ def derive_result(
 
     return {
         "winner": winner,
-        "is_draw": winner is None and bool(goals),
+        "is_draw": winner is None and penalty_score is None and bool(goals),
         "is_final": round_name == "final",
         "went_to_extra_time": score.get("extra_time") is not None,
         "had_penalties": score.get("penalties") is not None,

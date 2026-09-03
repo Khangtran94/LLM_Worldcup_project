@@ -2,7 +2,7 @@
 """
 Deterministic router for question types that RAG handles poorly.
 
-Two categories of questions consistently failed in testing:
+Four categories of questions consistently failed in testing:
 
 1. Aggregate/count questions ("how many goals has Messi scored",
    "how many matches in the 2022 final") — these need an EXHAUSTIVE
@@ -12,9 +12,17 @@ Two categories of questions consistently failed in testing:
 
 2. Exact-match lookups where the question names a specific year and/or
    round ("2026 world cup final winner") — these should be a hard SQL
-   filter, not a soft embedding-score boost. Soft boosts are easy to
-   get wrong (unit mismatch, boolean stored as text, etc.) and hard to
-   debug because nothing errors, it just silently doesn't reorder.
+   filter, not a soft embedding-score boost.
+
+3. Team win counts ("how many World Cups has Brazil won", "which team
+   has won the most World Cups") — same exhaustiveness problem as (1):
+   counting every final a team won requires scanning every parent chunk
+   with is_final=true, not a top-k sample.
+
+4. Total tournament count ("how many World Cups have been held") — this
+   isn't about any single match at all, so similarity search has
+   nothing good to retrieve; it's a COUNT(DISTINCT year) over completed
+   finals.
 
 If this router recognizes the question and can answer it confidently,
 it returns a string. Otherwise it returns None and the caller should
@@ -25,6 +33,7 @@ from __future__ import annotations
 
 import re
 import sys
+from functools import lru_cache
 from pathlib import Path
 from typing import Any
 
@@ -66,6 +75,35 @@ def extract_player_name(question: str) -> str | None:
     for c in candidates:
         if c.lower() not in stopword_phrases:
             return c
+    return None
+
+
+@lru_cache(maxsize=1)
+def get_known_teams() -> tuple[str, ...]:
+    """
+    Every team name that appears in the dataset, longest-first so a
+    substring match tries "West Germany" before "Germany" and doesn't
+    stop short.
+    """
+    with get_connection() as conn:
+        with conn.cursor() as cur:
+            cur.execute(
+                """
+                SELECT team1 FROM chunks WHERE team1 IS NOT NULL
+                UNION
+                SELECT team2 FROM chunks WHERE team2 IS NOT NULL
+                """
+            )
+            teams = {row[0] for row in cur.fetchall()}
+    return tuple(sorted(teams, key=len, reverse=True))
+
+
+def extract_team_name(question: str) -> str | None:
+    """Match a known team name in the question, whole-word, longest name first."""
+    q_lower = question.lower()
+    for team in get_known_teams():
+        if re.search(rf"\b{re.escape(team.lower())}\b", q_lower):
+            return team
     return None
 
 
@@ -138,6 +176,127 @@ def count_matches(year: int | None, round_is_final: bool) -> int:
 
 
 # ---------------------------------------------------------------------------
+# Team win counts: "how many World Cups has X won" / "who's won the most"
+# ---------------------------------------------------------------------------
+
+def count_team_wins(team_name: str) -> int:
+    """Exhaustive count of finals a given team won."""
+    with get_connection() as conn:
+        with conn.cursor() as cur:
+            cur.execute(
+                """
+                SELECT COUNT(DISTINCT match_id)
+                FROM chunks
+                WHERE chunk_type = 'parent' AND is_final = true AND winner ILIKE %s
+                """,
+                (team_name,),
+            )
+            return cur.fetchone()[0]
+
+
+def team_win_years(team_name: str) -> list[int]:
+    """Every year a given team won the final, ascending."""
+    with get_connection() as conn:
+        with conn.cursor() as cur:
+            cur.execute(
+                """
+                SELECT DISTINCT year
+                FROM chunks
+                WHERE chunk_type = 'parent' AND is_final = true AND winner ILIKE %s
+                ORDER BY year
+                """,
+                (team_name,),
+            )
+            return [row[0] for row in cur.fetchall() if row[0] is not None]
+
+
+def wants_win_years(question: str) -> bool:
+    """
+    Distinguishes "which year(s) did X win" from "how many times did X
+    win" — same team+win intent, different shape of answer expected.
+    """
+    q = question.lower()
+    if "how many" in q:
+        return False
+    return "year" in q or "when" in q
+
+
+def top_winning_teams(limit: int = 5) -> list[tuple[str, int]]:
+    """Leaderboard of most World Cup titles won, most first."""
+    with get_connection() as conn:
+        with conn.cursor() as cur:
+            cur.execute(
+                """
+                SELECT winner, COUNT(DISTINCT match_id) AS wins
+                FROM chunks
+                WHERE chunk_type = 'parent' AND is_final = true AND winner IS NOT NULL
+                GROUP BY winner
+                ORDER BY wins DESC, winner ASC
+                LIMIT %s
+                """,
+                (limit,),
+            )
+            return cur.fetchall()
+
+
+def wants_team_win_query(question: str) -> tuple[str | None, bool]:
+    """
+    Returns (team_name, is_leaderboard_query).
+      - team_name set        -> "how many World Cups has <team> won"
+      - is_leaderboard=True  -> "which team has won the most World Cups"
+      - both None/False      -> not this kind of question
+    """
+    q = question.lower()
+    if "world cup" not in q:
+        return None, False
+    if not any(w in q for w in ("won", "win", "title", "champion")):
+        return None, False
+
+    team = extract_team_name(question)
+    if team:
+        return team, False
+
+    if "most" in q or "which team" in q or "who has won" in q:
+        return None, True
+
+    return None, False
+
+
+# ---------------------------------------------------------------------------
+# Total tournament count: "how many World Cups have been held"
+# ---------------------------------------------------------------------------
+
+def count_world_cups_held() -> int:
+    """
+    COUNT(DISTINCT year) over finals that have a recorded winner — i.e.
+    tournaments that actually completed in the dataset, not just ones
+    with fixtures loaded (e.g. an in-progress or future tournament with
+    no result yet wouldn't count).
+    """
+    with get_connection() as conn:
+        with conn.cursor() as cur:
+            cur.execute(
+                """
+                SELECT COUNT(DISTINCT year)
+                FROM chunks
+                WHERE chunk_type = 'parent' AND is_final = true AND winner IS NOT NULL
+                """
+            )
+            return cur.fetchone()[0]
+
+
+def wants_world_cup_total(question: str) -> bool:
+    q = question.lower()
+    if "world cup" not in q or "how many" not in q:
+        return False
+    # exclude questions about goals/teams/wins so it doesn't collide
+    # with count_player_goals / wants_team_win_query
+    if any(w in q for w in ("goal", "score", "won", "win", "team")):
+        return False
+    return any(w in q for w in ("held", "been", "played", "so far", "total"))
+
+
+# ---------------------------------------------------------------------------
 # Router entry point
 # ---------------------------------------------------------------------------
 
@@ -173,5 +332,39 @@ def try_direct_answer(question: str) -> str | None:
             plural = "es" if count != 1 else ""
             verb = "were" if count != 1 else "was"
             return f"There {verb} {count} match{plural} for the {label}."
+
+    # --- "how many World Cups has X won" / "which team has won the most" ---
+    team, is_leaderboard = wants_team_win_query(question)
+    if is_leaderboard:
+        board = top_winning_teams()
+        if board:
+            top_name, top_wins = board[0]
+            others = ", ".join(f"{name} ({wins})" for name, wins in board[1:5])
+            tail = f" Next: {others}." if others else ""
+            return (
+                f"{top_name} has won the most World Cups in the dataset, "
+                f"with {top_wins} title(s).{tail}"
+            )
+        return None
+    if team:
+        if wants_win_years(question):
+            years = team_win_years(team)
+            if not years:
+                return f"{team} has not won the World Cup in the dataset."
+            years_str = ", ".join(str(y) for y in years)
+            return f"{team} has won the World Cup in {len(years)} year(s): {years_str}."
+        wins = count_team_wins(team)
+        plural = "s" if wins != 1 else ""
+        return f"{team} has won the World Cup {wins} time{plural} in the dataset."
+
+    # --- "how many World Cups have been held" ---
+    if wants_world_cup_total(question):
+        count = count_world_cups_held()
+        plural = "s" if count != 1 else ""
+        return (
+            f"There {'have' if count != 1 else 'has'} been {count} completed "
+            f"FIFA World Cup{plural} in the dataset (tournaments with a recorded "
+            f"final result)."
+        )
 
     return None

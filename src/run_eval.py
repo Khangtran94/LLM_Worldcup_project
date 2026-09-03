@@ -26,6 +26,11 @@ Usage:
     python src/run_eval.py --run-label baseline_2026_09_03
     python src/run_eval.py --run-label baseline --skip-llm     # retrieval only, no OpenAI calls/cost
     python src/run_eval.py --run-label baseline --category aggregate
+    python src/run_eval.py --run-label no_router_test --no-router --category aggregate
+        # ^ only meaningful scoped to --category aggregate: the router only
+        #   intercepts aggregate/count questions, and retrieval metrics never
+        #   change with this flag, so running other categories through it
+        #   just burns LLM calls for identical results.
 """
 
 from __future__ import annotations
@@ -164,6 +169,17 @@ def main() -> None:
         action="store_true",
         help="Only compute retrieval metrics; don't call the LLM (faster, no API cost).",
     )
+    parser.add_argument(
+        "--no-router",
+        action="store_true",
+        help=(
+            "Bypass query_router.try_direct_answer() and force every question "
+            "through normal retrieve+LLM RAG, even ones the router would "
+            "normally intercept (aggregate/count questions). Only changes "
+            "llm_answer, not retrieval metrics, since retrieve() always runs "
+            "the same way regardless of this flag."
+        ),
+    )
     parser.add_argument("--top-k", type=int, default=12)
     args = parser.parse_args()
 
@@ -188,7 +204,7 @@ def main() -> None:
 
         llm_answer = None
         if not args.skip_llm:
-            direct = try_direct_answer(q["question"])
+            direct = None if args.no_router else try_direct_answer(q["question"])
             if direct is not None:
                 llm_answer = direct
             else:
