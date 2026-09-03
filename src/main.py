@@ -53,7 +53,7 @@ def main() -> None:
             continue
 
         print("\nThinking...")
-        result, query_id = answer(question, top_k=args.top_k, debug=args.debug)
+        result, query_id, _meta = answer(question, top_k=args.top_k, debug=args.debug)
         print(f"\nAnswer: {result}\n")
 
         if not args.no_feedback:

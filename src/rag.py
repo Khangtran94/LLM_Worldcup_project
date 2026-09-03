@@ -38,16 +38,21 @@ client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 MODEL = "gpt-4o-mini"
 
 
-def answer(question: str, top_k: int = 12, debug: bool = False) -> tuple[str, int]:
+def answer(question: str, top_k: int = 12, debug: bool = False) -> tuple[str, int, dict]:
     """
     Full RAG flow.
 
     Step 0: try the deterministic router (SQL aggregates / exact lookups).
     If it can answer confidently, skip retrieval + LLM entirely.
 
-    Returns (answer_text, query_id). query_id is the row just inserted
-    into `queries` — pass it to monitoring.log_feedback() to record a
-    thumbs up/down against this specific answer.
+    Returns (answer_text, query_id, meta).
+      query_id: the row just inserted into `queries` — pass to
+                monitoring.log_feedback() to record a thumbs up/down.
+      meta:     {"route": "router" | "rag", "contexts": list[dict] | None}
+                contexts is None for router answers (no retrieval ran);
+                for rag answers it's the retrieved chunks (text,
+                chunk_type, match_id, year, is_final, score), useful for
+                a "show sources" UI panel.
     Set debug=True to print retrieved chunks / router decisions.
     """
     start = time.perf_counter()
@@ -67,7 +72,7 @@ def answer(question: str, top_k: int = 12, debug: bool = False) -> tuple[str, in
             latency_ms=latency_ms,
             retrieved_ids=None,
         )
-        return direct, query_id
+        return direct, query_id, {"route": "router", "contexts": None}
 
     contexts = retrieve(question, top_k=top_k)
 
@@ -100,4 +105,4 @@ def answer(question: str, top_k: int = 12, debug: bool = False) -> tuple[str, in
         retrieved_ids=[c["match_id"] for c in contexts],
     )
 
-    return text, query_id
+    return text, query_id, {"route": "rag", "contexts": contexts}
