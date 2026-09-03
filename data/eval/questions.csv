@@ -1,0 +1,31 @@
+question,category,expected_answer,expected_match_ids,expected_chunk_types
+What was the final score of the 1930 FIFA World Cup final between Uruguay and Argentina?,exact_fact,Uruguay 4-2 Argentina,1930_match_18_uruguay_argentina,overview;parent
+What was the final score of the 1954 FIFA World Cup final between West Germany and Hungary?,exact_fact,West Germany 3-2 Hungary,1954_match_26_west_germany_hungary,overview;parent
+What was the final score of the 1966 FIFA World Cup final between England and West Germany?,exact_fact,England 4-2 West Germany (after extra time),1966_match_32_england_west_germany,overview;parent
+What was the final score of the 1970 FIFA World Cup final between Brazil and Italy?,exact_fact,Brazil 4-1 Italy,1970_match_32_brazil_italy,overview;parent
+What was the final score of the 1986 FIFA World Cup final between Argentina and West Germany?,exact_fact,Argentina 3-2 West Germany,1986_match_52_argentina_west_germany,overview;parent
+What was the final score of the 1998 FIFA World Cup final between Brazil and France?,exact_fact,France 3-0 Brazil,1998_match_64_brazil_france,overview;parent
+What was the final score of the 2010 FIFA World Cup final between Netherlands and Spain?,exact_fact,Spain 1-0 Netherlands (after extra time),2010_match_64_netherlands_spain,overview;parent
+What was the final score of the 2018 FIFA World Cup final between France and Croatia?,exact_fact,France 4-2 Croatia,2018_match_64_france_croatia,overview;parent
+Who won the 1978 FIFA World Cup final?,year_final,"Argentina, beating the Netherlands 3-1 (aet)",1978_match_38_argentina_netherlands,overview;parent
+Who won the 1990 FIFA World Cup final?,year_final,"West Germany, beating Argentina 1-0",1990_match_52_west_germany_argentina,overview;parent
+Who won the 1994 FIFA World Cup final?,year_final,"Brazil, beating Italy on penalties after 0-0",1994_match_52_brazil_italy,overview;parent
+Who won the 2006 FIFA World Cup final?,year_final,"Italy, beating France on penalties after 1-1",2006_match_64_italy_france,overview;parent
+Who won the 2014 FIFA World Cup final?,year_final,"Germany, beating Argentina 1-0 (aet)",2014_match_64_germany_argentina,overview;parent
+Who won the 2022 FIFA World Cup final?,year_final,"Argentina, beating France on penalties after 3-3 (aet)",2022_match_64_argentina_france,overview;parent
+How many goals did Ronaldo (Brazil) score at the 2002 FIFA World Cup?,aggregate,8 goals (Golden Boot),2002_match_13_brazil_turkey;2002_match_15_brazil_china;2002_match_17_costa_rica_brazil;2002_match_54_brazil_belgium;2002_match_62_brazil_turkey;2002_match_64_germany_brazil,goals
+How many goals did Miroslav Klose score at the 2006 FIFA World Cup?,aggregate,5 goals (Golden Boot),2006_match_1_germany_costa_rica;2006_match_5_ecuador_germany;2006_match_57_germany_argentina,goals
+How many goals did Just Fontaine score at the 1958 FIFA World Cup?,aggregate,13 goals (single-tournament record),1958_match_8_france_paraguay;1958_match_10_yugoslavia_france;1958_match_13_france_scotland;1958_match_31_france_northern_ireland;1958_match_32_brazil_france;1958_match_34_france_west_germany,goals
+How many goals did Gerd Muller score at the 1970 FIFA World Cup?,aggregate,10 goals (Golden Boot),1970_match_20_west_germany_morocco;1970_match_22_west_germany_bulgaria;1970_match_23_west_germany_peru;1970_match_27_west_germany_england;1970_match_30_italy_west_germany,goals
+How many matches were played in the 1994 FIFA World Cup final (the final itself)?,aggregate,1,1994_match_52_brazil_italy,parent
+Who captained Argentina in the 2022 FIFA World Cup final against France?,lineup,Lionel Messi,2022_match_64_argentina_france,lineup
+Who started in goal for Italy in the 1982 FIFA World Cup final against West Germany?,lineup,Dino Zoff,1982_match_52_italy_west_germany,lineup
+Who captained West Germany in the 1990 FIFA World Cup final against Argentina?,lineup,Lothar Matthaus,1990_match_52_west_germany_argentina,lineup
+Which England player scored a hat-trick in the 1966 FIFA World Cup final against West Germany?,lineup,Geoff Hurst,1966_match_32_england_west_germany,goals
+"Did Brazil, the 1994 FIFA World Cup champion, also reach the final in 1998?",multihop,"Yes, they reached the 1998 final but lost to France 3-0",1994_match_52_brazil_italy;1998_match_64_brazil_france,overview;parent
+Which team lost the FIFA World Cup final in both 1974 and 1978?,multihop,Netherlands,1974_match_38_netherlands_west_germany;1978_match_38_argentina_netherlands,overview;parent
+Did West Germany face the same opponent in the 1982 and 1990 FIFA World Cup finals?,multihop,"No - Italy in 1982, Argentina in 1990",1982_match_52_italy_west_germany;1990_match_52_west_germany_argentina,overview;parent
+Who won the 2030 FIFA World Cup final?,negative,Not yet played / not in the dataset,NONE,
+Which club won the 2025 FIFA Club World Cup final?,negative,Different competition; not processed into this dataset,NONE,
+What was the transfer fee when Neymar moved to Paris Saint-Germain?,negative,Unrelated to World Cup match data,NONE,
+Which team won the FIFA Confederations Cup in 2017?,negative,"Different competition, not in this dataset",NONE,

@@ -79,3 +79,29 @@ CREATE TABLE IF NOT EXISTS feedback (
 
 CREATE INDEX IF NOT EXISTS feedback_query_id_idx ON feedback (query_id);
 CREATE INDEX IF NOT EXISTS queries_created_at_idx ON queries (created_at);
+
+
+CREATE TABLE IF NOT EXISTS eval_questions (
+    id                    BIGSERIAL PRIMARY KEY,
+    question              TEXT NOT NULL,
+    category              TEXT NOT NULL,       -- exact_fact | year_final | aggregate | lineup | multihop | negative
+    expected_answer       TEXT,
+    expected_match_ids    TEXT[],
+    expected_chunk_types  TEXT[],
+    created_at            TIMESTAMPTZ DEFAULT NOW()
+);
+
+CREATE TABLE IF NOT EXISTS eval_results (
+    id                BIGSERIAL PRIMARY KEY,
+    question_id       BIGINT REFERENCES eval_questions(id) ON DELETE CASCADE,
+    run_label         TEXT NOT NULL,      -- e.g. "baseline_2026_09_03"
+    retrieved_ids     TEXT[],
+    hit_at_12         BOOLEAN,
+    mrr               FLOAT,
+    parent_hit_at_12  BOOLEAN,
+    child_type_hit_at_12 BOOLEAN,
+    manual_score      TEXT,               -- correct | partial | wrong
+    llm_answer        TEXT,
+    latency_ms        INTEGER,
+    created_at        TIMESTAMPTZ DEFAULT NOW()
+);
