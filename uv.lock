@@ -1483,6 +1483,7 @@ dependencies = [
     { name = "requests" },
     { name = "sentence-transformers" },
     { name = "streamlit" },
+    { name = "torch" },
     { name = "torchvision" },
     { name = "tqdm" },
 ]
@@ -1507,6 +1508,7 @@ requires-dist = [
     { name = "requests", specifier = ">=2.34.2" },
     { name = "sentence-transformers", specifier = ">=6.0.0" },
     { name = "streamlit", specifier = ">=1.62.0" },
+    { name = "torch", specifier = ">=2.14.0" },
     { name = "torchvision", specifier = ">=0.29.0" },
     { name = "tqdm", specifier = ">=4.66.0" },
 ]
