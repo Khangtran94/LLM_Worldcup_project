@@ -12,7 +12,7 @@ services:
       - postgres_data:/var/lib/postgresql/data
       - ./src/db/schema.sql:/docker-entrypoint-initdb.d/01_schema.sql:ro
     healthcheck:
-      test: ["CMD-SHELL", "pg_isready -U worldcup -d worldcup"]
+      test: [ "CMD-SHELL", "pg_isready -U worldcup -d worldcup" ]
       interval: 5s
       timeout: 5s
       retries: 10
@@ -33,7 +33,25 @@ services:
       postgres:
         condition: service_healthy
     restart: unless-stopped
+  grafana:
+    image: grafana/grafana:latest
+    container_name: worldcup-grafana
+    ports:
+      - "3000:3000"
+    environment:
+      GF_SECURITY_ADMIN_USER: admin
+      GF_SECURITY_ADMIN_PASSWORD: admin
+      GF_AUTH_ANONYMOUS_ENABLED: "false"
+    volumes:
+      - grafana_data:/var/lib/grafana
+      - ./grafana/provisioning:/etc/grafana/provisioning
+      - ./grafana/dashboards:/etc/grafana/dashboards
+    depends_on:
+      postgres:
+        condition: service_healthy
+    restart: unless-stopped
 
 volumes:
   postgres_data:
   pgadmin_data:
+  grafana_data:

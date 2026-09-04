@@ -30,7 +30,7 @@ with st.sidebar:
     st.header("⚽ World Cup RAG")
     st.caption(
         "Ask about any FIFA World Cup match, player, lineup, or final "
-        "in the dataset (1930–2022)."
+        "in the dataset (1930–2026)."
     )
     st.markdown("**Examples**")
     st.markdown(
