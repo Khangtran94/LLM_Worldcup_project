@@ -244,7 +244,17 @@ def wants_team_win_query(question: str) -> tuple[str | None, bool]:
     Returns (team_name, is_leaderboard_query).
       - team_name set        -> "how many World Cups has <team> won"
       - is_leaderboard=True  -> "which team has won the most World Cups"
-      - both None/False      -> not this kind of question
+      - both None/False      -> not this kind of question (e.g. "which
+                                 team won the 2022 World Cup final" —
+                                 falls through to the year/final-filtered
+                                 RAG path instead, which is what should
+                                 answer a single-year question)
+
+    Only "most" (an actual superlative) triggers the leaderboard.
+    Earlier this also matched bare "which team" / "who has won", which
+    wrongly swallowed year-specific questions like "which team won 2022
+    World Cup final" — those have no named team and no superlative, so
+    they should fall through, not be treated as an all-time query.
     """
     q = question.lower()
     if "world cup" not in q:
@@ -256,7 +266,7 @@ def wants_team_win_query(question: str) -> tuple[str | None, bool]:
     if team:
         return team, False
 
-    if "most" in q or "which team" in q or "who has won" in q:
+    if "most" in q:
         return None, True
 
     return None, False
