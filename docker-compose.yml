@@ -51,6 +51,43 @@ services:
         condition: service_healthy
     restart: unless-stopped
 
+  ingest:
+    build:
+      context: .
+      dockerfile: Dockerfile.ingest
+    container_name: worldcup-ingest
+    environment:
+      POSTGRES_USER: worldcup
+      POSTGRES_PASSWORD: worldcup
+      POSTGRES_HOST: postgres
+      POSTGRES_PORT: "5432"
+      POSTGRES_DB: worldcup
+    volumes:
+      - ./data:/app/data
+    depends_on:
+      postgres:
+        condition: service_healthy
+    profiles: [ "ingest" ] # only runs when explicitly requested
+
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile.app
+    container_name: worldcup-app
+    environment:
+      POSTGRES_USER: worldcup
+      POSTGRES_PASSWORD: worldcup
+      POSTGRES_HOST: postgres
+      POSTGRES_PORT: "5432"
+      POSTGRES_DB: worldcup
+      OPENAI_API_KEY: ${OPENAI_API_KEY}
+    ports:
+      - "8501:8501"
+    depends_on:
+      postgres:
+        condition: service_healthy
+    restart: unless-stopped
+
 volumes:
   postgres_data:
   pgadmin_data:

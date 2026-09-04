@@ -17,6 +17,8 @@ from datetime import date
 from pathlib import Path
 from typing import Any
 
+import pandas as pd
+import duckdb
 from sentence_transformers import SentenceTransformer
 from tqdm import tqdm
 
@@ -30,9 +32,84 @@ from db.connection import get_connection
 
 PROJECT_ROOT = SRC_DIR.parent
 DEFAULT_INPUT = PROJECT_ROOT / "data" / "processed" / "match_chunks.jsonl"
+DEFAULT_DUCKDB_PATH = PROJECT_ROOT / "data" / "processed" / "worldcup_ingest.duckdb"
+DEFAULT_DATASET = "worldcup_staging"
+DEFAULT_TABLE = "match_chunks"
 MODEL_NAME = "sentence-transformers/all-mpnet-base-v2"
 BATCH_SIZE = 64
 
+def load_chunks_from_duckdb(
+    db_path: Path,
+    dataset_name: str = DEFAULT_DATASET,
+    table_name: str = DEFAULT_TABLE,
+) -> list[dict[str, Any]]:
+    """
+    Read chunks landed by the dlt ingestion pipeline (src/ingestion/pipeline.py).
+
+    dlt flattens the nested "metadata" dict into metadata__<field> columns
+    on the main table, and normalizes list fields (teams, players,
+    goal_scorers) into separate child tables linked by _dlt_id ->
+    _dlt_parent_id. This reassembles both back into the original
+    {"id", "text", "metadata": {...}} shape row_from_chunk() expects.
+    """
+    con = duckdb.connect(str(db_path), read_only=True)
+    try:
+        # Child tables use dlt's default child-table column names:
+        # _dlt_parent_id (FK back to match_chunks._dlt_id) and "value"
+        # (the actual list element). list_aggregate + GROUP BY rebuilds
+        # each row's array.
+        list_fields = {
+            "teams": f"{table_name}__metadata__teams",
+            "players": f"{table_name}__metadata__players",
+            "goal_scorers": f"{table_name}__metadata__goal_scorers",
+        }
+
+        list_aggs = ",\n            ".join(
+            f"""(
+                SELECT list(value ORDER BY _dlt_list_idx)
+                FROM {dataset_name}.{child_table} AS c
+                WHERE c._dlt_parent_id = m._dlt_id
+            ) AS {field}"""
+            for field, child_table in list_fields.items()
+        )
+
+        query = f"""
+            SELECT m.*,
+            {list_aggs}
+            FROM {dataset_name}.{table_name} AS m
+        """
+        df = con.sql(query).fetchdf()
+    finally:
+        con.close()
+
+    non_metadata_cols = {"id", "text", "_dlt_load_id", "_dlt_id"}
+    list_field_names = set(list_fields.keys())
+
+    chunks: list[dict[str, Any]] = []
+    for row in df.to_dict(orient="records"):
+        metadata: dict[str, Any] = {}
+
+        for col, value in row.items():
+            if col in non_metadata_cols or col in list_field_names:
+                continue
+            if col.startswith("metadata__"):
+                key = col[len("metadata__"):]
+                if value is not None and not (isinstance(value, float) and pd.isna(value)):
+                    metadata[key] = value
+
+        for field in list_field_names:
+            value = row.get(field)
+            if value is not None and len(value) > 0:
+                metadata[field] = list(value)
+
+        chunks.append(
+            {
+                "id": row["id"],
+                "text": row.get("text") or "",
+                "metadata": metadata,
+            }
+        )
+    return chunks
 
 def load_jsonl(path: Path) -> list[dict[str, Any]]:
     records: list[dict[str, Any]] = []
@@ -165,11 +242,63 @@ def load_into_postgres(rows: list[dict[str, Any]]) -> None:
         conn.commit()
 
 
+# def main() -> None:
+#     parser = argparse.ArgumentParser(
+#         description="Embed match chunks and load them into Postgres."
+#     )
+#     parser.add_argument("--input", type=Path, default=DEFAULT_INPUT)
+#     parser.add_argument("--batch-size", type=int, default=BATCH_SIZE)
+#     parser.add_argument(
+#         "--limit",
+#         type=int,
+#         default=None,
+#         help="Optional: only process the first N chunks (for testing).",
+#     )
+#     args = parser.parse_args()
+
+#     if not args.input.exists():
+#         print(f"Input file not found: {args.input}", file=sys.stderr)
+#         sys.exit(1)
+
+#     print(f"Loading chunks from {args.input}")
+#     chunks = load_jsonl(args.input)
+#     if args.limit is not None:
+#         chunks = chunks[: args.limit]
+#     print(f"Chunks to process: {len(chunks):,}")
+
+#     print(f"Loading model: {MODEL_NAME}")
+#     model = SentenceTransformer(MODEL_NAME)
+
+#     texts = [c.get("text") or "" for c in chunks]
+#     embeddings = embed_batches(model, texts, args.batch_size)
+
+#     rows = [
+#         row_from_chunk(chunk, emb)
+#         for chunk, emb in zip(chunks, embeddings, strict=True)
+#     ]
+
+#     print("Writing to Postgres...")
+#     load_into_postgres(rows)
+
+#     with get_connection() as conn:
+#         with conn.cursor() as cur:
+#             cur.execute("SELECT COUNT(*) FROM chunks")
+#             total = cur.fetchone()[0]
+#             cur.execute(
+#                 "SELECT chunk_type, COUNT(*) FROM chunks GROUP BY chunk_type ORDER BY COUNT(*) DESC"
+#             )
+#             by_type = cur.fetchall()
+
+#     print(f"\nDone. Total rows in chunks: {total:,}")
+#     print("By chunk_type:")
+#     for chunk_type, count in by_type:
+#         print(f"  {chunk_type:15} {count:,}")
+
 def main() -> None:
     parser = argparse.ArgumentParser(
         description="Embed match chunks and load them into Postgres."
     )
-    parser.add_argument("--input", type=Path, default=DEFAULT_INPUT)
+    parser.add_argument("--duckdb-path", type=Path, default=DEFAULT_DUCKDB_PATH)
     parser.add_argument("--batch-size", type=int, default=BATCH_SIZE)
     parser.add_argument(
         "--limit",
@@ -179,12 +308,13 @@ def main() -> None:
     )
     args = parser.parse_args()
 
-    if not args.input.exists():
-        print(f"Input file not found: {args.input}", file=sys.stderr)
+    if not args.duckdb_path.exists():
+        print(f"DuckDB file not found: {args.duckdb_path}", file=sys.stderr)
+        print("Run src/ingestion/pipeline.py first.", file=sys.stderr)
         sys.exit(1)
 
-    print(f"Loading chunks from {args.input}")
-    chunks = load_jsonl(args.input)
+    print(f"Loading chunks from {args.duckdb_path} ({DEFAULT_DATASET}.{DEFAULT_TABLE})")
+    chunks = load_chunks_from_duckdb(args.duckdb_path)
     if args.limit is not None:
         chunks = chunks[: args.limit]
     print(f"Chunks to process: {len(chunks):,}")
@@ -216,7 +346,6 @@ def main() -> None:
     print("By chunk_type:")
     for chunk_type, count in by_type:
         print(f"  {chunk_type:15} {count:,}")
-
 
 if __name__ == "__main__":
     main()

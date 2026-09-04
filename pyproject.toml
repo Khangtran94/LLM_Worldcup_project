@@ -5,22 +5,32 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "dlt[duckdb,hub]>=1.30.0",
-    "duckdb>=1.5.5",
-    "ibis-framework>=12.0.0",
-    "marimo>=0.24.0",
-    "minsearch>=0.2.0",
-    "openai>=3.6.0",
-    "pandas>=3.0.5",
+    # Core: needed by both the ingest job and the app service
     "psycopg[binary]>=3.2.0",
-    "pyarrow>=25.0.1",
     "python-dotenv>=1.2.3",
     "requests>=2.34.2",
+    "openai>=3.6.0",
+]
+
+[project.optional-dependencies]
+ingest = [
+    "dlt[duckdb,hub]>=1.30.0",
+    "duckdb>=1.5.5",
     "sentence-transformers>=6.0.0",
-    "streamlit>=1.62.0",
     "torch>=2.14.0",
     "torchvision>=0.29.0",
     "tqdm>=4.66.0",
+    "pyarrow>=25.0.1",
+]
+app = [
+    "streamlit>=1.62.0",
+]
+dev = [
+    "ibis-framework>=12.0.0",
+    "marimo>=0.24.0",
+    "minsearch>=0.2.0",
+    "pandas>=3.0.5",
+    "jupyter>=1.1.1",
 ]
 
 [dependency-groups]
