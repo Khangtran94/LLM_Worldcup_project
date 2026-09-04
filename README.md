@@ -78,7 +78,7 @@ Years covered in this project: **1930–2026**.
 | Embeddings | `sentence-transformers` (`all-mpnet-base-v2`) |
 | LLM | OpenAI (e.g. `gpt-4o-mini`) |
 | UI | Streamlit |
-| Monitoring | Grafana + Postgres |
+| Monitoring | Grafana + Postgres (`queries` / `feedback` tables) |
 | Orchestration | Docker Compose (app, ingest profile, db, Grafana, pgAdmin) |
 
 Optional dependency groups in `pyproject.toml`: `ingest`, `app`, `dev`.
@@ -140,21 +140,25 @@ Open **http://localhost:8501** and query the World Cup knowledge base.
 
 ## Evaluation
 
+### Offline retrieval evaluation
+
 A fixed **30-question** test set lives in `data/eval/questions.csv`, with ideal `match_ids` and expected `chunk_types` for relevance judgments.
 
-**Metrics (locked):**
+We evaluate **four offline metrics**:
 
-- Hit@12  
-- MRR  
-- Parent Hit@12  
-- Child Type Hit@12  
+| Metric | What it measures |
+|--------|------------------|
+| **Hit@12** | At least one relevant chunk appears in the top-12 retrieved results |
+| **MRR** | Mean Reciprocal Rank of the first relevant result |
+| **Parent Hit@12** | Relevant *parent* (match-level) document is present in the top-12 |
+| **Child Type Hit@12** | A chunk of the expected *type* (overview, goals, lineup, …) is present in the top-12 |
 
 **Retrieval comparison**
 
 - **Approach A** — hard filter / metadata-aware (year, final, chunk-type preferences)  
 - **Approach B** — pure semantic search  
 
-Results are stored in a `retrieval_eval` table so runs are comparable. The stronger approach is used in the main application path.
+Results are stored so runs are comparable (e.g. `eval_results` / retrieval eval tables). The stronger approach is used in the main application path.
 
 Scripts:
 
@@ -162,6 +166,34 @@ Scripts:
 - `src/run_eval.py` — run retrieval evaluation and write metrics  
 
 LLM-side multi-prompt / multi-model comparison is deferred; the current path uses a single grounded prompt tuned for factual World Cup questions.
+
+---
+
+## Monitoring (production)
+
+Production traffic is logged separately from the offline eval harness so real usage never pollutes eval history.
+
+### What we track
+
+| Table | Fields | Purpose |
+|-------|--------|---------|
+| **`queries`** | `question`, `rewritten_question`, `retrieved_ids`, `response`, `model`, `latency_ms`, `created_at` | Every answered question from the app / CLI |
+| **`feedback`** | `query_id`, `is_positive`, `comment`, `created_at` | Thumbs up/down (and optional comment) attached to a logged query |
+
+Helpers: `src/monitoring.py` (`log_query`, `log_feedback`) and `src/monitoring_report.py` (CLI summary over production tables).
+
+### Grafana dashboard
+
+Dashboard **Worldcup Postgres** (http://localhost:3000, provisioned under `grafana/`) currently includes **six panels**:
+
+1. **Query volume over time** — traffic trend  
+2. **Feedback positive rate** — thumbs-up share  
+3. **Route breakdown: router vs RAG** — how often the router answers directly vs full retrieval  
+4. **Average latency by model** — latency per model / route  
+5. **Latency distribution** — spread / percentiles  
+6. **Recent negative feedback** — latest thumbs-down rows for debugging  
+
+Datasource is the same Postgres instance used by the app.
 
 ---
 
@@ -209,12 +241,6 @@ uv run python src/main.py "Who won the 1998 World Cup?"
 # Streamlit
 uv run streamlit run src/streamlit_app.py
 ```
-
----
-
-## Monitoring
-
-Grafana is provisioned under `grafana/` and connects to the same Postgres instance used by the app. Use it to inspect query / retrieval activity and pipeline health. Extend dashboards and add explicit user-feedback collection as needed.
 
 ---
 
