@@ -2,7 +2,11 @@
 
 A retrieval-augmented generation (RAG) system that answers questions about historical FIFA World Cups using structured match data, semantic search over pgvector, and a grounded LLM response.
 
-**Live stack:** Streamlit UI · Postgres + pgvector · dlt ingestion · Grafana monitoring · full Docker Compose.
+![UI](https://img.shields.io/badge/UI-Streamlit-%23FF4B4B?logo=streamlit&logoColor=white)
+![Vector Store](https://img.shields.io/badge/Vector%20Store-Postgres%20%2B%20pgvector-%234169E1?logo=postgresql&logoColor=white)
+![Data Ingestion](https://img.shields.io/badge/Data%20Ingestion-dlt-%23000000?logo=python&logoColor=white)
+![Monitoring](https://img.shields.io/badge/Monitoring-Grafana-%23F46800?logo=grafana&logoColor=white)
+![Containerization](https://img.shields.io/badge/Containerization-Docker%20Compose-%232496ED?logo=docker&logoColor=white)
 
 ---
 
