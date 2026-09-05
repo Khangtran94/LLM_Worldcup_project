@@ -211,6 +211,10 @@ Images live under [`screenshots/`](screenshots/). Add the files below after you 
 
 *Processed-data validation — document counts, required fields, text-length stats, documents by year*
 
+![Chunk statistics](screenshots/03-chunk-statistics.png)
+
+*Chunk statistics — chunk counts, parent–child integrity, required metadata, and chunks per match*
+
 ![Embed and load](screenshots/03-embed-and-load.png)
 
 *Embed + load into Postgres — progress and final chunk count*
@@ -240,10 +244,6 @@ Images live under [`screenshots/`](screenshots/). Add the files below after you 
 ![Grafana dashboard](screenshots/08-grafana-dashboard.png)
 
 *Grafana **Worldcup Postgres** — query volume, feedback rate, route breakdown, latency, and recent negatives*
-
-![Grafana feedback close-up](screenshots/09-grafana-feedback.png)
-
-*Grafana — feedback positive rate and recent negative feedback table*
 
 ---
 
