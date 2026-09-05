@@ -197,6 +197,56 @@ Datasource is the same Postgres instance used by the app.
 
 ---
 
+## Screenshots
+
+Images live under [`screenshots/`](screenshots/). Add the files below after you capture them; captions are ready.
+
+### Ingestion & data quality
+
+![dlt pipeline load info](screenshots/01-dlt-pipeline-run.png)
+
+*dlt year-level ingest — pipeline load info and `match_chunks` row count*
+
+![Data quality validation](screenshots/02-data-quality-validation.png)
+
+*Processed-data validation — document counts, required fields, text-length stats, documents by year*
+
+![Embed and load](screenshots/03-embed-and-load.png)
+
+*Embed + load into Postgres — progress and final chunk count*
+
+### Knowledge base & evaluation (pgAdmin)
+
+![chunks table in pgAdmin](screenshots/04-pgadmin-chunks.png)
+
+*Knowledge base — `chunks` table with metadata (year, chunk_type, match_id, text)*
+
+![Evaluation metrics in pgAdmin](screenshots/05-pgadmin-eval-metrics.png)
+
+*Offline evaluation — `eval_results` (Hit@12, MRR, Parent Hit@12, Child Type Hit@12) for retrieval approaches*
+
+### Streamlit UI
+
+![Streamlit Q&A](screenshots/06-streamlit-qa.png)
+
+*Streamlit — question, grounded answer, and retrieved sources*
+
+![Streamlit feedback](screenshots/07-streamlit-feedback.png)
+
+*Streamlit — user feedback (thumbs up/down) on an answer*
+
+### Grafana monitoring
+
+![Grafana dashboard](screenshots/08-grafana-dashboard.png)
+
+*Grafana **Worldcup Postgres** — query volume, feedback rate, route breakdown, latency, and recent negatives*
+
+![Grafana feedback close-up](screenshots/09-grafana-feedback.png)
+
+*Grafana — feedback positive rate and recent negative feedback table*
+
+---
+
 ## Project structure
 
 ```text
@@ -205,6 +255,7 @@ Datasource is the same Postgres instance used by the app.
 ├── Dockerfile.app              # Streamlit service
 ├── Dockerfile.ingest           # one-shot dlt + embed/load
 ├── pyproject.toml / uv.lock
+├── screenshots/                # UI, pipeline, DB, and monitoring captures
 ├── data/
 │   ├── raw/                    # openfootball JSON by year
 │   ├── processed/              # chunks, staging DuckDB
