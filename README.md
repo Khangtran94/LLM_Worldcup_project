@@ -1,4 +1,5 @@
 # LLM World Cup — RAG over FIFA World Cup History (1930–2026)
+![Architecture](screenshots/Architecture.png)
 
 A retrieval-augmented generation (RAG) system that answers questions about historical FIFA World Cups using structured match data, semantic search over pgvector, and a grounded LLM response.
 
