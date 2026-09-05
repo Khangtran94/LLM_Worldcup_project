@@ -69,17 +69,16 @@ Years covered in this project: **1930–2026**.
 
 ## Tech stack
 
-| Layer | Choice |
-|-------|--------|
-| Language | Python ≥ 3.12 |
-| Package / lock | [uv](https://github.com/astral-sh/uv) + `uv.lock` |
-| Ingestion | [dlt](https://dlthub.com/) (DuckDB destination) |
-| Vector store | Postgres 16 + [pgvector](https://github.com/pgvector/pgvector) |
-| Embeddings | `sentence-transformers` (`all-mpnet-base-v2`) |
-| LLM | OpenAI (e.g. `gpt-4o-mini`) |
-| UI | Streamlit |
-| Monitoring | Grafana + Postgres (`queries` / `feedback` tables) |
-| Orchestration | Docker Compose (app, ingest profile, db, Grafana, pgAdmin) |
+![Python](https://img.shields.io/badge/Language-Python%203.12-%233776AB?logo=python&logoColor=white)
+![uv](https://img.shields.io/badge/Package-uv-%23DE5FE9?logo=uv&logoColor=white)
+![Data Ingestion](https://img.shields.io/badge/Data%20Ingestion-dlt-%23000000?logo=python&logoColor=white)
+![DuckDB](https://img.shields.io/badge/Staging-DuckDB-%23FFF000?logo=duckdb&logoColor=black)
+![Postgres](https://img.shields.io/badge/Vector%20Store-Postgres%20%2B%20pgvector-%234169E1?logo=postgresql&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embeddings-sentence--transformers-%23FF6F00?logo=huggingface&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-OpenAI-%23412991?logo=openai&logoColor=white)
+![UI](https://img.shields.io/badge/UI-Streamlit-%23FF4B4B?logo=streamlit&logoColor=white)
+![Monitoring](https://img.shields.io/badge/Monitoring-Grafana-%23F46800?logo=grafana&logoColor=white)
+![Containerization](https://img.shields.io/badge/Containerization-Docker%20Compose-%232496ED?logo=docker&logoColor=white)
 
 Optional dependency groups in `pyproject.toml`: `ingest`, `app`, `dev`.
 
